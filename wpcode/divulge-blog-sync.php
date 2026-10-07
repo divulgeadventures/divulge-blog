@@ -13,7 +13,7 @@
  */
 
 // ---- Settings -------------------------------------------------------------
-if ( ! defined( 'DVG_GH_OWNER' ) )  define( 'DVG_GH_OWNER', 'Mtnhub-1' );
+if ( ! defined( 'DVG_GH_OWNER' ) )  define( 'DVG_GH_OWNER', 'divulgeadventures' );
 if ( ! defined( 'DVG_GH_REPO' ) )   define( 'DVG_GH_REPO', 'divulge-blog' );
 if ( ! defined( 'DVG_GH_BRANCH' ) ) define( 'DVG_GH_BRANCH', 'main' );
 if ( ! defined( 'DVG_GH_TOKEN' ) )  define( 'DVG_GH_TOKEN', '' );  // leave empty for a public repo
