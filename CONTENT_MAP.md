@@ -8,7 +8,7 @@ Every new post fills a gap below. Never write a topic that duplicates or compete
 2. Otherwise rotate clusters: take the cluster AFTER the one used by the most recent post in topics-log.md (1 → 2 → ... → 8 → 1). Skip a cluster with no `todo` rows left.
 3. Within a cluster, write the pillar first, then the supporting rows top to bottom.
 4. Seasonal boost: when a row's "Season" column names the next 2 months (e.g. a calving-season post in November for a Jan-Feb event), it may jump the rotation once.
-5. When every row is done, add 8 new rows (2 per cluster for the four clusters with the most search demand) from real "People also ask" questions, then continue.
+5. Three posts are published per day (slots 1-3), each from a different cluster. When fewer than 9 `todo` rows remain, add 12 new rows (spread over the clusters with the most search demand) from real "People also ask" and related-search questions, checked against existing posts, then continue.
 
 Status values: `todo`, or `done YYYY-MM-DD https://divulgeadventures.com/<slug>/`.
 
