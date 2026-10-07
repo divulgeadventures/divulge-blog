@@ -43,7 +43,7 @@ Individual trip pages: open the matching destination or activity page with WebFe
 
 | Focus keyword | Type | Season | Status |
 |---|---|---|---|
-| kenya safari cost | pillar | | todo |
+| kenya safari cost | pillar | | done 2026-10-07 https://divulgeadventures.com/kenya-safari-cost/ |
 | best time to visit kenya for safari | support | | todo |
 | 7 day kenya safari itinerary | support | | todo |
 | first time kenya safari tips | support | | todo |
@@ -234,3 +234,4 @@ Individual trip pages: open the matching destination or activity page with WebFe
 
 ### Published by the daily task
 (append new posts here: - URL (focus keyword))
+- https://divulgeadventures.com/kenya-safari-cost/ (kenya safari cost)
