@@ -17,7 +17,7 @@ if ( ! defined( 'DVG_GH_OWNER' ) )  define( 'DVG_GH_OWNER', 'divulgeadventures' 
 if ( ! defined( 'DVG_GH_REPO' ) )   define( 'DVG_GH_REPO', 'divulge-blog' );
 if ( ! defined( 'DVG_GH_BRANCH' ) ) define( 'DVG_GH_BRANCH', 'main' );
 if ( ! defined( 'DVG_GH_TOKEN' ) )  define( 'DVG_GH_TOKEN', '' );  // leave empty for a public repo
-if ( ! defined( 'DVG_AUTHOR_ID' ) ) define( 'DVG_AUTHOR_ID', 1 );  // WordPress user ID shown as author (Users > hover the name > user_id in the link)
+if ( ! defined( 'DVG_AUTHOR_ID' ) ) define( 'DVG_AUTHOR_ID', 6 );  // WordPress user ID shown as author (McSembo Adventurer). Posts > All Posts > click the author name > author=N in the address.
 // ---------------------------------------------------------------------------
 
 add_action( 'init', function () {
@@ -26,6 +26,17 @@ add_action( 'init', function () {
 	}
 } );
 add_action( 'dvg_blog_sync', 'dvg_blog_sync_run' );
+
+if ( ! function_exists( 'dvg_author_id' ) ) {
+	// The configured author, or the first administrator if that user does not exist (never a blank author).
+	function dvg_author_id() {
+		if ( get_userdata( (int) DVG_AUTHOR_ID ) ) {
+			return (int) DVG_AUTHOR_ID;
+		}
+		$admins = get_users( array( 'role' => 'administrator', 'number' => 1, 'fields' => 'ID' ) );
+		return $admins ? (int) $admins[0] : (int) DVG_AUTHOR_ID;
+	}
+}
 
 if ( ! function_exists( 'dvg_gh_get' ) ) {
 	function dvg_gh_get( $url, $raw = false ) {
@@ -202,7 +213,7 @@ if ( ! function_exists( 'dvg_blog_sync_run' ) ) {
 				'post_content'  => wp_kses_post( $p['content'] ),
 				'post_excerpt'  => sanitize_text_field( $p['excerpt'] ?? '' ),
 				'post_status'   => $status,
-				'post_author'   => (int) DVG_AUTHOR_ID,
+				'post_author'   => dvg_author_id(),
 				'post_category' => $cat_ids,
 				'tags_input'    => array_map( 'sanitize_text_field', (array) ( $p['tags'] ?? array() ) ),
 			);
