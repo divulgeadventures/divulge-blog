@@ -69,7 +69,7 @@ Individual trip pages: open the matching destination or activity page with WebFe
 
 | Focus keyword | Type | Season | Status |
 |---|---|---|---|
-| best masai mara camps by budget | pillar | | todo |
+| best masai mara camps by budget | pillar | | done 2026-10-08 https://divulgeadventures.com/best-masai-mara-camps-by-budget/ |
 | tented camp vs lodge on safari | support | | todo |
 | best amboseli lodges | support | | todo |
 | best serengeti camps | support | | todo |
@@ -236,3 +236,4 @@ Individual trip pages: open the matching destination or activity page with WebFe
 (append new posts here: - URL (focus keyword))
 - https://divulgeadventures.com/kenya-safari-cost/ (kenya safari cost)
 - https://divulgeadventures.com/great-migration-month-by-month/ (great migration month by month)
+- https://divulgeadventures.com/best-masai-mara-camps-by-budget/ (masai mara camps)
