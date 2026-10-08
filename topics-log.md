@@ -7,3 +7,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-08 | cluster 3 | Accommodation Guide | masai mara camps | best-masai-mara-camps-by-budget
 2026-10-08 | cluster 4 | Destination Tips | gorilla trekking in rwanda | gorilla-trekking-in-rwanda
 --- topic bank start ---
+2026-10-08 | REFRESH | Destination Tips | laikipia wilderness | discovering-laikipia-wilderness
