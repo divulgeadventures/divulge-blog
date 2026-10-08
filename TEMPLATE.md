@@ -69,8 +69,8 @@ Image alt text:
 
 ## THE BOXES (exact HTML; change only the bracketed text)
 
-Table style:
-<table style="width:100%; border-collapse:collapse; margin:20px 0;"><thead><tr style="background-color:#043D0E; color:#ffffff;"><th style="padding:10px; text-align:left;">[Header]</th><th style="padding:10px; text-align:left;">[Header]</th></tr></thead><tbody><tr style="border-bottom:1px solid #dddddd;"><td style="padding:10px;">[Cell]</td><td style="padding:10px;">[Cell]</td></tr></tbody></table>
+Table style (copy exactly; every <th> carries its own light background and dark text so the theme cannot make header text unreadable; never put a dark background on a table header or row):
+<table style="width:100%; border-collapse:collapse; margin:20px 0;"><thead><tr><th style="padding:12px 10px; text-align:left; background-color:#f6efe7; color:#043D0E; font-weight:bold; border-bottom:3px solid #C97A3D;">[Header]</th><th style="padding:12px 10px; text-align:left; background-color:#f6efe7; color:#043D0E; font-weight:bold; border-bottom:3px solid #C97A3D;">[Header]</th></tr></thead><tbody><tr style="border-bottom:1px solid #e5ddd3;"><td style="padding:10px; color:#1b1b1b;">[Cell]</td><td style="padding:10px; color:#1b1b1b;">[Cell]</td></tr></tbody></table>
 
 ### Info Box (used twice; change the heading: Quick Facts / Insider Tips / Packing Checklist / Key Takeaways)
 

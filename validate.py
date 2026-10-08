@@ -194,6 +194,14 @@ def check(path):
         errs.append("bold text inside a paragraph")
     if ps.tables < 1:
         errs.append("needs at least one <table>")
+    # Readable table headers: light brand background + dark green text on every <th>
+    for th in re.findall(r"<th\b[^>]*>", html):
+        s = th.lower().replace(" ", "")
+        if "background-color:#f6efe7" not in s or "color:#043d0e" not in s:
+            errs.append("table header cell must use the TEMPLATE.md style (background #f6efe7, text #043D0E)")
+            break
+    if re.search(r"<(thead|tr)[^>]*background-color:#(043d0e|0b789d)", html, re.I):
+        errs.append("dark background on a table header row (hard to read); use the TEMPLATE.md table style")
 
     # Boxes in order
     order = [("Quick Facts box", "border-left:5px solid #C97A3D"),

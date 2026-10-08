@@ -22,4 +22,4 @@
 - `status: "draft"` lands the post as a draft for review. A future `publish_at` schedules it.
 - `faq` is printed as FAQPage schema on the post by the sync snippet.
 - Refresh an existing post: add `"update_slug": "<existing-slug>"` and set `slug` to the same value. URL, date and author stay; title, content, excerpt, category, tags, Rank Math fields, FAQ and (optionally) featured image are replaced. WordPress keeps the old version under Revisions.
-- Filenames: `posts/YYYY-MM-DD-1-<slug>.json` (refreshes: `posts/YYYY-MM-DD-R-refresh-<slug>.json`).
+- Filenames: new posts `posts/YYYY-MM-DD-<slot 1-3>-<slug>.json`; refreshes `posts/refresh-YYYY-MM-DD-<slug>.json` (refresh files must not start with the date, so they never count as one of the day's 3 posts).
