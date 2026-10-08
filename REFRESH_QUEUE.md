@@ -6,20 +6,18 @@ Columns: slug | focus keyword | category | notes | status
 
 - Read the live post first (WebFetch https://divulgeadventures.com/<slug>/). Keep accurate, useful facts (verify them), drop anything vague, wrong, padded or dated.
 - Remove any year from the title (e.g. "2026 Migration Forecast" becomes a timeless title). Mention a year only next to a dated fact such as a fee "(checked <Month YYYY>)".
-- "Also read" means: if that other post still exists, read it too and use its best facts (it covers the same topic). The owner is deleting these duplicates and redirecting them, so a "not found" or a redirect back to this post is expected; just carry on.
-- "Redirect after" means: WebFetch that old URL. If it still shows its own separate post (not a redirect to this post), remind the owner in your final summary to trash it and add a 301 redirect in Rank Math → Redirections to this post. If it already redirects, just say the redirect is in place.
 - "Differentiate" notes say how this post must differ from a similar post so the two do not compete in Google.
 - Status values: `todo`, `done YYYY-MM-DD`.
 
-## Part 1: duplicate topics (fix first)
+## Part 1: duplicate topics (owner decision: leave as they are)
 
-| slug | focus keyword | category | notes | status |
-|---|---|---|---|---|
-| amboseli-national-park | amboseli national park | Destination Tips | Full park guide (location, getting there, wildlife, Kilimanjaro views, best time, where to stay, fees). Also read /amboseli-national-park-2/. Redirect after: /amboseli-national-park-2/. Differentiate from /8-best-of-amboseli-national-park-attractions/ (that one is "things to do"). | todo |
-| serengeti-national-park | serengeti national park | Destination Tips | Full park guide. Also read /serengeti-national-park-2/. Redirect after: /serengeti-national-park-2/. Link the migration pillar for migration detail rather than repeating it. | todo |
-| ol-pejeta-conservancy | ol pejeta conservancy | Destination Tips | Full guide (rhinos incl. the northern white rhinos, chimp sanctuary, fees, getting there from Nairobi/Nanyuki, where to stay). Also read /ol-pejeta-conservancy-2/. Redirect after: /ol-pejeta-conservancy-2/. Link /ol-pejeta-safari-cottages/. | todo |
-| mara-triangle | mara triangle | Destination Tips | Full guide. Also read /mara-triangle-2/. Redirect after: /mara-triangle-2/. | todo |
-| samburu-national-game-reserve | samburu national reserve | Destination Tips | Full guide (Samburu Special Five, Ewaso Ng'iro river, getting there, best time). Also read /samburu-game-reserve-kenya/. Redirect after: /samburu-game-reserve-kenya/. | todo |
+The owner has decided to keep these ten posts unchanged. Do NOT refresh, redirect or delete any of them, never add them back to this queue (including under "After the queue is done"), and do not ask the owner to redirect them. Linking to them from other posts is fine.
+
+- /amboseli-national-park/ and /amboseli-national-park-2/
+- /serengeti-national-park/ and /serengeti-national-park-2/
+- /ol-pejeta-conservancy/ and /ol-pejeta-conservancy-2/
+- /mara-triangle/ and /mara-triangle-2/
+- /samburu-national-game-reserve/ and /samburu-game-reserve-kenya/
 
 ## Part 2: high-value posts
 
@@ -96,4 +94,4 @@ Columns: slug | focus keyword | category | notes | status
 
 ## After the queue is done
 
-Start again from the top with posts last refreshed more than 6 months ago, updating fees, seasons and links to newer posts.
+Start again from the top with posts last refreshed more than 6 months ago, updating fees, seasons and links to newer posts. Never include the ten Part 1 posts.
