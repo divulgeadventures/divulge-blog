@@ -9,6 +9,18 @@ Columns: slug | focus keyword | category | notes | status
 - "Differentiate" notes say how this post must differ from a similar post so the two do not compete in Google.
 - Status values: `todo`, `done YYYY-MM-DD`.
 
+## Part 0: Search Console quick wins (do these first)
+
+These posts already rank on Google (Rank Math Analytics, 8 October 2026). Keep each post aimed at the search it already ranks for: use that exact phrase as the focus keyword and work it into the title, first sentence and an H2. Write a title and meta description that make searchers want to click (a clear benefit, a number, the current season), because ranking without clicks is wasted.
+
+| slug | focus keyword | category | notes | status |
+|---|---|---|---|---|
+| discovering-laikipia-wilderness | laikipia wilderness | Destination Tips | Already position 8 for "laikipia wilderness" (86 impressions, 0 clicks): the priority is a much more clickable title and meta description. Keep the topic broad (Laikipia region, conservancies, wildlife, black leopards, getting there, when to go). Do not change the URL. | todo |
+| masai-mara-safari-cost | masai mara safari cost | Safari Planning Tips | Ranks 30-40 for "masai mara cost", "masai mara prices" and "masai mara price": use those exact phrasings in headings and the FAQ (e.g. an H2 "Masai Mara Safari Prices Per Person"). Mara-specific costs (fees, camps by tier, road vs fly-in). Differentiate from /kenya-safari-cost/ (whole-country) and link it. | todo |
+| best-attractions-in-uganda | attractions in uganda | Destination Tips | Ranks 23-27 for "attractions in uganda" and "uganda attractions" and climbing: use both phrasings. Non-park attractions too (Jinja/Source of the Nile, Lake Bunyonyi, Kampala, Sipi Falls). Link the Uganda parks post. | todo |
+| masai-mara-sustainable-tourism | eco lodge masai mara | Accommodation Guide | Ranks 15 for "eco lodge masai mara": use that phrase. No year in title. | todo |
+| hot-air-balloon-safari | hot air balloon safari | Safari Themes | Ranks 29 for "safari hot air balloon": keep this post GENERAL (balloon safaris across East Africa: Masai Mara, Serengeti, and others, what is included, cost ranges, how to choose) and link the Mara-specific balloon post. Use the phrase "safari hot air balloon" too. | todo |
+
 ## Part 1: duplicate topics (owner decision: leave as they are)
 
 The owner has decided to keep these ten posts unchanged. Do NOT refresh, redirect or delete any of them, never add them back to this queue (including under "After the queue is done"), and do not ask the owner to redirect them. Linking to them from other posts is fine.
@@ -24,7 +36,6 @@ The owner has decided to keep these ten posts unchanged. Do NOT refresh, redirec
 | slug | focus keyword | category | notes | status |
 |---|---|---|---|---|
 | masai-mara-entrance-fee | masai mara entrance fee | Safari Planning Tips | Fees change: verify current Narok County / Mara Triangle fees on official sources, show per season and per visitor type in a table, say when checked. | todo |
-| masai-mara-safari-cost | masai mara safari cost | Safari Planning Tips | Mara-specific costs (fees, camps by tier, road vs fly-in). Differentiate from /kenya-safari-cost/ (whole-country) and link it. | todo |
 | best-time-to-visit-masai-mara | best time to visit masai mara | Destination Tips | Month-by-month Mara conditions beyond the migration (green season, prices, crowds, rain). Link /great-migration-month-by-month/ for herd movements. | todo |
 | great-wildebeest-migration | mara river crossing | Great Migration & River Crossing | Refocus on Mara River crossings: when (months, time of day), where (crossing points), how to see one, patience and luck, reserve rules at crossings. Current title has a year: replace. Link /great-migration-month-by-month/. Also mark the Cluster 2 row "mara river crossing best time" in CONTENT_MAP.md as done with this URL. | todo |
 | serengeti-migration-ultimate-guide | serengeti migration | Great Migration & River Crossing | Tanzania side only: calving in Ndutu, Grumeti, northern Serengeti/Kogatende. Link the pillar and /serengeti-national-park/. | todo |
@@ -33,7 +44,6 @@ The owner has decided to keep these ten posts unchanged. Do NOT refresh, redirec
 | best-time-of-year-to-visit-tanzania-safari | best time to visit tanzania | Destination Tips | Month-by-month table by park (Serengeti, Ngorongoro, Tarangire, southern parks, Zanzibar). | todo |
 | best-national-parks-in-tanzania-divulge | best national parks in tanzania | Destination Tips | Comparison table (park, best for, best months, how to reach). Link each park post. | todo |
 | best-national-parks-to-visit-in-uganda | best national parks in uganda | Destination Tips | Was filed under Safari Themes: move to Destination Tips. Title is all caps: fix. Parks only; differentiate from /best-attractions-in-uganda/. | todo |
-| best-attractions-in-uganda | uganda tourist attractions | Destination Tips | Non-park attractions too (Jinja/Source of the Nile, Lake Bunyonyi, Kampala, Sipi Falls). Link the Uganda parks post. | todo |
 | luxury-safari-lodges | luxury safari lodges in kenya | Accommodation Guide | Kenya luxury lodges and camps by area, from official sites only; no unverified rates. | todo |
 | masai-mara-national-reserve-experience | masai mara reserve vs conservancy | Destination Tips | Comparison table (crowds, night drives, walking, off-road, cost). Link each conservancy post. | todo |
 | tanzania-safari-guide | tanzania safari on a budget | Safari Planning Tips | Budget tactics (camping, shoulder season, group joining, shorter circuits); verified fees. | todo |
@@ -72,16 +82,13 @@ The owner has decided to keep these ten posts unchanged. Do NOT refresh, redirec
 | siana-conservancy-maasai-mara | siana conservancy | Destination Tips | | todo |
 | ol-kinyei-conservancy-kenya | ol kinyei conservancy | Destination Tips | | todo |
 | nashulai-masai-conservancy | nashulai conservancy | Destination Tips | | todo |
-| discovering-laikipia-wilderness | laikipia safari | Destination Tips | | todo |
 | solio-game-reserve | solio game reserve | Destination Tips | | todo |
 | divulgeadventures-com-kakamega-forest | kakamega forest | Destination Tips | Was filed under Safari Themes: move to Destination Tips. | todo |
 | lake-bogoria-geysers-flamingos-rift-valley | lake bogoria | Destination Tips | Was filed under Safari Themes: move to Destination Tips. | todo |
-| masai-mara-balloon-safari | masai mara hot air balloon safari | Safari Themes | Mara balloon: launch sites, times, what's included, cost range (verify). | todo |
-| hot-air-balloon-safari | serengeti hot air balloon safari | Safari Themes | Differentiate: Serengeti/Tanzania balloons only. Link the Mara balloon post. | todo |
+| masai-mara-balloon-safari | masai mara hot air balloon safari | Safari Themes | Mara balloon only: launch sites, times, what's included, cost range (verify). Differentiate from the general /hot-air-balloon-safari/ post and link it. | todo |
 | night-game-drives-in-kenya | night game drives in kenya | Safari Themes | Where allowed (conservancies, specific parks), what you see. | todo |
 | kenya-safari-by-train | madaraka express safari | Safari Themes | SGR to Tsavo: stations, classes, booking (verify on official site). | todo |
 | ol-pejeta-safari-cottages | ol pejeta safari cottages | Accommodation Guide | From the property's official site only. | todo |
-| masai-mara-sustainable-tourism | eco lodges masai mara | Accommodation Guide | No year in title. | todo |
 | safe-family-safari-planning | family safari in kenya | Safari Themes | Age limits at camps, child-friendly parks, malaria advice (cite CDC/NHS). | todo |
 | tanzania-honeymoon | tanzania honeymoon | Safari Themes | Differentiate from the Kenya honeymoon pillar. | todo |
 | solo-female-safari | solo female safari | Safari Themes | | todo |
