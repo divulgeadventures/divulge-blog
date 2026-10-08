@@ -58,7 +58,7 @@ Individual trip pages: open the matching destination or activity page with WebFe
 | Focus keyword | Type | Season | Status |
 |---|---|---|---|
 | great migration month by month | pillar | | done 2026-10-08 https://divulgeadventures.com/great-migration-month-by-month/ |
-| mara river crossing best time | support | Jun-Jul | todo |
+| mara river crossing best time | support | Jun-Jul | covered by refresh of great-wildebeest-migration (see REFRESH_QUEUE.md) |
 | serengeti calving season | support | Nov-Dec | todo |
 | masai mara vs serengeti for the migration | support | | todo |
 | great migration in july | support | May-Jun | todo |
@@ -95,7 +95,7 @@ Individual trip pages: open the matching destination or activity page with WebFe
 | Focus keyword | Type | Season | Status |
 |---|---|---|---|
 | northern circuit tanzania safari itinerary | pillar | | todo |
-| serengeti vs masai mara | support | | todo |
+| serengeti safari cost | support | | todo |
 | kenya vs tanzania safari | support | | todo |
 | kilimanjaro routes compared | support | | todo |
 | best time to climb kilimanjaro | support | | todo |
@@ -139,6 +139,8 @@ Individual trip pages: open the matching destination or activity page with WebFe
 | corporate retreat venues in naivasha | support (Team Building) | | todo |
 
 ## Rules
+
+- Older posts are rewritten in place from REFRESH_QUEUE.md (one a day). Never write a new post on a topic that a REFRESH_QUEUE.md row targets; those rows' focus keywords are taken.
 
 - Divulge Adventures content only. Never mention Hiking Outdoor Gear Hub or any other business, and do not write single-trail day-hike guides (those belong to a separate site). Mountain climbing posts are fine (Kilimanjaro, Mount Kenya).
 - Before writing, check the existing-post list below and the live site search (https://divulgeadventures.com/?s=<keyword>) to avoid overlap. If a row turns out to overlap an existing post, mark it `skip (covered by <url>)` and take the next row.

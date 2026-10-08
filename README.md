@@ -6,5 +6,6 @@ Automated Divulge Diaries posts for [divulgeadventures.com](https://divulgeadven
 - `TEMPLATE.md` — structure, SEO and AEO rules every post follows.
 - `CONTENT_MAP.md` — topic clusters, what is done and todo, and the list of existing posts.
 - `TOPIC_IDEAS.md` — add your own topic ideas here; they are written first.
+- `REFRESH_QUEUE.md` — older posts rewritten in place, one a day.
 - `topics-log.md` — every topic already written.
 - `POST_FORMAT.md` — the JSON fields the site understands.
