@@ -81,7 +81,7 @@ Individual trip pages: open the matching destination or activity page with WebFe
 
 | Focus keyword | Type | Season | Status |
 |---|---|---|---|
-| gorilla trekking in rwanda | pillar | | todo |
+| gorilla trekking in rwanda | pillar | | done 2026-10-08 https://divulgeadventures.com/gorilla-trekking-in-rwanda/ |
 | rwanda gorilla permit cost | support | | todo |
 | bwindi gorilla trekking uganda | support | | todo |
 | rwanda vs uganda gorilla trekking | support | | todo |
@@ -239,3 +239,4 @@ Individual trip pages: open the matching destination or activity page with WebFe
 - https://divulgeadventures.com/kenya-safari-cost/ (kenya safari cost)
 - https://divulgeadventures.com/great-migration-month-by-month/ (great migration month by month)
 - https://divulgeadventures.com/best-masai-mara-camps-by-budget/ (masai mara camps)
+- https://divulgeadventures.com/gorilla-trekking-in-rwanda/ (gorilla trekking in rwanda)
