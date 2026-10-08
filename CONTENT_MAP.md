@@ -57,7 +57,7 @@ Individual trip pages: open the matching destination or activity page with WebFe
 
 | Focus keyword | Type | Season | Status |
 |---|---|---|---|
-| great migration month by month | pillar | | todo |
+| great migration month by month | pillar | | done 2026-10-08 https://divulgeadventures.com/great-migration-month-by-month/ |
 | mara river crossing best time | support | Jun-Jul | todo |
 | serengeti calving season | support | Nov-Dec | todo |
 | masai mara vs serengeti for the migration | support | | todo |
@@ -235,3 +235,4 @@ Individual trip pages: open the matching destination or activity page with WebFe
 ### Published by the daily task
 (append new posts here: - URL (focus keyword))
 - https://divulgeadventures.com/kenya-safari-cost/ (kenya safari cost)
+- https://divulgeadventures.com/great-migration-month-by-month/ (great migration month by month)
