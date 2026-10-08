@@ -6,8 +6,8 @@ Columns: slug | focus keyword | category | notes | status
 
 - Read the live post first (WebFetch https://divulgeadventures.com/<slug>/). Keep accurate, useful facts (verify them), drop anything vague, wrong, padded or dated.
 - Remove any year from the title (e.g. "2026 Migration Forecast" becomes a timeless title). Mention a year only next to a dated fact such as a fee "(checked <Month YYYY>)".
-- "Also read" means: read that other post too and use its best facts, because it covers the same topic and will be redirected to this one.
-- "Redirect after" means: in your final summary, tell the owner to add a 301 redirect in Rank Math → Redirections from that URL to this refreshed post, now that this one is complete.
+- "Also read" means: if that other post still exists, read it too and use its best facts (it covers the same topic). The owner is deleting these duplicates and redirecting them, so a "not found" or a redirect back to this post is expected; just carry on.
+- "Redirect after" means: WebFetch that old URL. If it still shows its own separate post (not a redirect to this post), remind the owner in your final summary to trash it and add a 301 redirect in Rank Math → Redirections to this post. If it already redirects, just say the redirect is in place.
 - "Differentiate" notes say how this post must differ from a similar post so the two do not compete in Google.
 - Status values: `todo`, `done YYYY-MM-DD`.
 
