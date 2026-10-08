@@ -2,15 +2,22 @@
 
 Every new post fills a gap below. Never write a topic that duplicates or competes with an existing post (list at the bottom) or a money page.
 
-## How to pick today's post
+## How to pick today's post (TOPIC_BANK.csv)
 
-1. Owner ideas in TOPIC_IDEAS.md come first (oldest unchecked line).
-2. Otherwise rotate clusters: take the cluster AFTER the one used by the most recent post in topics-log.md (1 → 2 → ... → 8 → 1). Skip a cluster with no `todo` rows left.
-3. Within a cluster, write the pillar first, then the supporting rows top to bottom.
-4. Seasonal boost: when a row's "Season" column names the next 2 months (e.g. a calving-season post in November for a Jan-Feb event), it may jump the rotation once.
-5. Three posts are published per day (slots 1-3), each from a different cluster. When fewer than 9 `todo` rows remain, add 12 new rows (spread over the clusters with the most search demand) from real "People also ask" and related-search questions, checked against existing posts, then continue.
+All new-post topics live in TOPIC_BANK.csv (about 1,900 topics, 300+ per destination). Columns: id, destination, priority (P1 > P2 > P3), score (higher first), focus_keyword, working_title, category, intent, topic_type, target_month, link_to (main money page), status, notes.
 
-Status values: `todo`, or `done YYYY-MM-DD https://divulgeadventures.com/<slug>/`.
+1. Owner ideas in TOPIC_IDEAS.md come first (oldest unchecked line). Add the idea to TOPIC_BANK.csv as a new row (next free id for its destination, priority P1) and mark it done when written.
+2. Otherwise pick the destination from this 9-step cycle: Kenya, Tanzania, Uganda, Kenya, Botswana, Tanzania, Namibia, Kenya, Rwanda. Your step = (number of new-post lines in topics-log.md below the line "--- topic bank start ---") modulo 9, counting from 0 = Kenya. If that destination has no `todo` rows left, take the next destination in the cycle. The 3 posts of one day must be for 3 different destinations: if the cycle gives a destination already written today, take the next one.
+3. Within the destination, choose the `todo` row in this order:
+   a. Seasonal first, but at most ONE seasonal post per day: if no post written today (check today's posts in posts/) used a seasonal row, prefer a row whose target_month is 2 or 3 months after the current month (posts need time to rank before the season). Otherwise skip this step.
+   b. Then rows whose notes say "Core topic from the original plan" (topic_type pillar before core).
+   c. Then by priority (P1, P2, P3), then highest score, then lowest id.
+4. The keyword and working title are a starting point: you may refine the focus keyword to the exact phrase people search (from your research) and you write your own title per TEMPLATE.md, but keep the row's topic and intent. Use the row's category and link to its link_to page (or a more specific trip on it).
+5. Lodge rows: describe the property only from its official website. If you cannot confirm it is currently operating, set the row's status to `skip (could not verify)` and take the next row.
+6. After writing, set the row's status to `done YYYY-MM-DD https://divulgeadventures.com/<slug>/`. If a row overlaps an existing post or a money page, set `skip (covered by <url>)` and take the next row. Edit the CSV with Python's csv module so every other row is preserved exactly.
+7. When a destination has fewer than 30 `todo` rows, add 50 new rows for it from real "People also ask" and related-search questions, checked against existing posts and the bank.
+
+Status values: `todo`, `done YYYY-MM-DD <url>`, `skip (<reason>)`.
 
 ## Money pages (link targets for the Trip CTA and in-body links)
 
@@ -39,108 +46,14 @@ Status values: `todo`, or `done YYYY-MM-DD https://divulgeadventures.com/<slug>/
 
 Individual trip pages: open the matching destination or activity page with WebFetch and link the best-matching trip.
 
-## Cluster 1: Kenya Safari Planning (category: Safari Planning Tips)
+## Original topic clusters
 
-| Focus keyword | Type | Season | Status |
-|---|---|---|---|
-| kenya safari cost | pillar | | done 2026-10-07 https://divulgeadventures.com/kenya-safari-cost/ |
-| best time to visit kenya for safari | support | | todo |
-| 7 day kenya safari itinerary | support | | todo |
-| first time kenya safari tips | support | | todo |
-| kenya eta for tourists | support | | todo |
-| is kenya safe for safari | support | | todo |
-| kenya safari vaccinations and malaria | support | | todo |
-| tipping on safari in kenya | support | | todo |
-| nairobi to masai mara by road or flight | support | | todo |
-
-## Cluster 2: Great Migration (category: Great Migration & River Crossing)
-
-| Focus keyword | Type | Season | Status |
-|---|---|---|---|
-| great migration month by month | pillar | | done 2026-10-08 https://divulgeadventures.com/great-migration-month-by-month/ |
-| mara river crossing best time | support | Jun-Jul | covered by refresh of great-wildebeest-migration (see REFRESH_QUEUE.md) |
-| serengeti calving season | support | Nov-Dec | todo |
-| masai mara vs serengeti for the migration | support | | todo |
-| great migration in july | support | May-Jun | todo |
-| great migration in august | support | Jun-Jul | todo |
-| great migration in october | support | Aug-Sep | todo |
-
-## Cluster 3: Where to Stay (category: Accommodation Guide)
-
-| Focus keyword | Type | Season | Status |
-|---|---|---|---|
-| best masai mara camps by budget | pillar | | done 2026-10-08 https://divulgeadventures.com/best-masai-mara-camps-by-budget/ |
-| tented camp vs lodge on safari | support | | todo |
-| best amboseli lodges | support | | todo |
-| best serengeti camps | support | | todo |
-| best lodges in lake naivasha | support | | todo |
-| best ngorongoro crater lodges | support | | todo |
-| best samburu lodges | support | | todo |
-
-## Cluster 4: Gorillas & Primates (category: Destination Tips)
-
-| Focus keyword | Type | Season | Status |
-|---|---|---|---|
-| gorilla trekking in rwanda | pillar | | done 2026-10-08 https://divulgeadventures.com/gorilla-trekking-in-rwanda/ |
-| rwanda gorilla permit cost | support | | todo |
-| bwindi gorilla trekking uganda | support | | todo |
-| rwanda vs uganda gorilla trekking | support | | todo |
-| what to pack for gorilla trekking | support | | todo |
-| how hard is gorilla trekking | support | | todo |
-| chimpanzee trekking in kibale | support | | todo |
-| golden monkey trekking rwanda | support | | todo |
-
-## Cluster 5: Tanzania & Kilimanjaro (category: Destination Tips)
-
-| Focus keyword | Type | Season | Status |
-|---|---|---|---|
-| northern circuit tanzania safari itinerary | pillar | | todo |
-| serengeti safari cost | support | | todo |
-| kenya vs tanzania safari | support | | todo |
-| kilimanjaro routes compared | support | | todo |
-| best time to climb kilimanjaro | support | | todo |
-| tanzania visa for safari | support | | todo |
-| kenya and tanzania combined safari | support | | todo |
-
-## Cluster 6: Botswana & Namibia (category: Destination Tips)
-
-| Focus keyword | Type | Season | Status |
-|---|---|---|---|
-| botswana safari guide | pillar | | todo |
-| okavango delta safari | support | | todo |
-| best time to visit botswana | support | | todo |
-| chobe national park safari | support | | todo |
-| best time to visit namibia | support | | todo |
-| etosha national park safari | support | | todo |
-| sossusvlei namib desert guide | support | | todo |
-
-## Cluster 7: Safari Experiences (category: Safari Themes)
-
-| Focus keyword | Type | Season | Status |
-|---|---|---|---|
-| kenya honeymoon safari | pillar | | todo |
-| kenya beach and safari holiday | support | | todo |
-| wildlife photography safari tips | support | | todo |
-| birding safari in kenya | support | | todo |
-| walking safari in kenya | support | | todo |
-| luxury kenya safari on a budget | support | | todo |
-| private vs group safari | support | | todo |
-
-## Cluster 8: Nairobi Day Trips, Climbs & Team Building (category: Safari Themes, or Team Building for team-building rows)
-
-| Focus keyword | Type | Season | Status |
-|---|---|---|---|
-| day trips from nairobi | pillar | | todo |
-| hells gate national park day trip | support | | todo |
-| lake naivasha boat ride and crescent island | support | | todo |
-| giraffe centre and sheldrick elephant orphanage | support | | todo |
-| mount kenya climbing routes | support | | todo |
-| team building activities in nairobi | support (Team Building) | | todo |
-| corporate retreat venues in naivasha | support (Team Building) | | todo |
+The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwritten rows are the "Core topic from the original plan" rows). Already written from them: kenya-safari-cost, great-migration-month-by-month, best-masai-mara-camps-by-budget, gorilla-trekking-in-rwanda. "mara river crossing best time" is covered by the refresh of great-wildebeest-migration.
 
 ## Rules
 
 - Older posts are rewritten in place from REFRESH_QUEUE.md (one a day). Never write a new post on a topic that a REFRESH_QUEUE.md row targets; those rows' focus keywords are taken.
+- Rwanda: the Rwanda destination page currently lists no Rwanda trips, so Rwanda posts send readers to the quote form (https://divulgeadventures.com/safari-proposal-request/) and WhatsApp in the Trip CTA instead of a trip page, until Rwanda trips appear on that page.
 
 - Divulge Adventures content only. Never mention Hiking Outdoor Gear Hub or any other business, and do not write single-trail day-hike guides (those belong to a separate site). Mountain climbing posts are fine (Kilimanjaro, Mount Kenya).
 - Before writing, check the existing-post list below and the live site search (https://divulgeadventures.com/?s=<keyword>) to avoid overlap. If a row turns out to overlap an existing post, mark it `skip (covered by <url>)` and take the next row.
