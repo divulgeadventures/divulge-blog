@@ -13,3 +13,5 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-08 | https://images.unsplash.com/photo-1605087787800-2058b163a326?w=1200&q=80&auto=format&fit=crop | discovering-laikipia-wilderness
 2026-10-09 | https://images.unsplash.com/photo-1592670130915-d3dcd94675a9?w=1200&q=80&auto=format&fit=crop | kenya-safari-in-december
 2026-10-09 | https://images.unsplash.com/photo-1631646109206-4b5616964f84?w=1200&q=80&auto=format&fit=crop | kenya-safari-in-december
+2026-10-09 | https://images.unsplash.com/photo-1723366033449-3d2aa155b838?w=1200&q=80&auto=format&fit=crop | tanzania-northern-circuit-itinerary
+2026-10-09 | https://images.unsplash.com/photo-1615209635653-52e675012cdd?w=1200&q=80&auto=format&fit=crop | tanzania-northern-circuit-itinerary
