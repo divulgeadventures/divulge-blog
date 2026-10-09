@@ -1,0 +1,75 @@
+/* Divulge Diaries: readable tables on phones
+   WordPress: Appearance > Customize > Additional CSS > paste everything below > Publish.
+   - Tables with class "dvg-table" (all automated posts) turn into stacked cards on phones,
+     each value shown under its column name.
+   - Any other table (older posts, pages) scrolls sideways instead of squeezing words into a narrow column. */
+
+@media (max-width: 767px) {
+
+  /* Other tables: swipe sideways, keep columns readable */
+  body.single-post table:not(.dvg-table),
+  body.page table:not(.dvg-table) {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  body.single-post table:not(.dvg-table) th,
+  body.single-post table:not(.dvg-table) td,
+  body.page table:not(.dvg-table) th,
+  body.page table:not(.dvg-table) td {
+    min-width: 150px;
+  }
+
+  /* Divulge tables: one card per row */
+  table.dvg-table,
+  table.dvg-table tbody,
+  table.dvg-table tr,
+  table.dvg-table td {
+    display: block;
+    width: 100% !important;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+  table.dvg-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+  table.dvg-table tr {
+    margin: 0 0 14px;
+    padding: 8px 14px;
+    background: #fbf8f4;
+    border: 1px solid #e5ddd3 !important;
+    border-left: 4px solid #C97A3D !important;
+    border-radius: 8px;
+  }
+  table.dvg-table td {
+    padding: 6px 0 !important;
+    border: 0 !important;
+    color: #1b1b1b;
+  }
+  table.dvg-table td::before {
+    content: attr(data-label);
+    display: block;
+    margin-bottom: 2px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: .03em;
+    text-transform: uppercase;
+    color: #C97A3D;
+  }
+  /* First cell is the card title */
+  table.dvg-table td:first-child {
+    font-size: 17px;
+    font-weight: 700;
+    color: #043D0E;
+    padding-top: 4px !important;
+  }
+  table.dvg-table td:first-child::before {
+    content: none;
+  }
+}

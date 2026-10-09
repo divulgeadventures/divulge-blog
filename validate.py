@@ -200,6 +200,14 @@ def check(path):
         if "background-color:#f6efe7" not in s or "color:#043d0e" not in s:
             errs.append("table header cell must use the TEMPLATE.md style (background #f6efe7, text #043D0E)")
             break
+    for tbl in re.findall(r"<table\b.*?</table>", html, re.S):
+        if 'class="dvg-table"' not in tbl:
+            errs.append('every <table> needs class="dvg-table" (mobile card layout)')
+            break
+        tds = re.findall(r"<td\b[^>]*>", tbl)
+        if any("data-label=" not in td for td in tds):
+            errs.append("every <td> needs data-label=\"<column header>\" (mobile card layout)")
+            break
     if re.search(r"<(thead|tr)[^>]*background-color:#(043d0e|0b789d)", html, re.I):
         errs.append("dark background on a table header row (hard to read); use the TEMPLATE.md table style")
 
