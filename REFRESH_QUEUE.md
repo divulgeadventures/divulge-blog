@@ -10,18 +10,23 @@ Columns: slug | focus keyword | category | notes | status
 - "Differentiate" notes say how this post must differ from a similar post so the two do not compete in Google.
 - Status values: `todo`, `done YYYY-MM-DD`.
 
-## Part 0: Search Console quick wins (do these first)
+## Part 0: broken links and Search Console quick wins (do these first, top to bottom)
 
 These posts already rank on Google (Rank Math Analytics, 8 October 2026). Keep each post aimed at the search it already ranks for: use that exact phrase as the focus keyword and work it into the title, first sentence and an H2. Write a title and meta description that make searchers want to click (a clear benefit, a number, the current season), because ranking without clicks is wasted.
 
 | slug | focus keyword | category | notes | status |
 |---|---|---|---|---|
 | divulgeadventures-com-kakamega-forest | kakamega forest | Destination Tips | FIX FIRST: the live post shows raw markdown-style links as text (e.g. "[https://...](https://...)" and a Kenya Forest Service URL in brackets) and links to /kakamega-forest-kenya-safari-guide/, which does not exist. Rewrite with proper <a href> links (descriptive anchor text, Kenya Forest Service as the external authority link). Was filed under Safari Themes: move to Destination Tips. | todo |
+| lake-bogoria-geysers-flamingos-rift-valley | lake bogoria | Destination Tips | FIX FIRST: the live post shows 8 raw markdown-style links as text, several ending in "?utm_source=gemini", and links to itself; replace with proper <a href> links with descriptive anchor text and remove the self-links and tracking parameters. Was filed under Safari Themes: move to Destination Tips. | todo |
+| lake-nakuru-safari-guide | lake nakuru day trip from nairobi | Safari Themes | FIX FIRST: the live post has 10 link problems: link code inside the "Recommended Itineraries" heading and its table-of-contents entry, raw markdown links, bare "www.lakenakurukenya.com" text with "+ 1"/"+ 2" citation leftovers, and links to /safari-national-parks/kenya-national-parks/lake-nakuru-national-park/ (check it exists; if not, link /lake-nakuru-national-park/). Day trip / overnight from Nairobi: timings, route, combine with Naivasha. Link the park guide. | todo |
 | discovering-laikipia-wilderness | laikipia wilderness | Destination Tips | Already position 8 for "laikipia wilderness" (86 impressions, 0 clicks): the priority is a much more clickable title and meta description. Keep the topic broad (Laikipia region, conservancies, wildlife, black leopards, getting there, when to go). Do not change the URL. | done 2026-10-08 |
 | masai-mara-safari-cost | masai mara safari cost | Safari Planning Tips | Ranks 30-40 for "masai mara cost", "masai mara prices" and "masai mara price": use those exact phrasings in headings and the FAQ (e.g. an H2 "Masai Mara Safari Prices Per Person"). Mara-specific costs (fees, camps by tier, road vs fly-in). Differentiate from /kenya-safari-cost/ (whole-country) and link it. | todo |
 | best-attractions-in-uganda | attractions in uganda | Destination Tips | Ranks 23-27 for "attractions in uganda" and "uganda attractions" and climbing: use both phrasings. Non-park attractions too (Jinja/Source of the Nile, Lake Bunyonyi, Kampala, Sipi Falls). Link the Uganda parks post. | todo |
 | masai-mara-sustainable-tourism | eco lodge masai mara | Accommodation Guide | Ranks 15 for "eco lodge masai mara": use that phrase. No year in title. | todo |
 | hot-air-balloon-safari | hot air balloon safari | Safari Themes | Ranks 29 for "safari hot air balloon": keep this post GENERAL (balloon safaris across East Africa: Masai Mara, Serengeti, and others, what is included, cost ranges, how to choose) and link the Mara-specific balloon post. Use the phrase "safari hot air balloon" too. | todo |
+| masai-mara-balloon-safari | masai mara hot air balloon safari | Safari Themes | LINK FIX: two bare URLs written in sentences (governorsballoonsafari.com, maasaimara.com) and a broken word "aasai" next to the second; replace with proper links and fix the text. Mara balloon only: launch sites, times, what's included, cost range (verify). Differentiate from the general /hot-air-balloon-safari/ post and link it. | todo |
+| kenya-safari-by-train | madaraka express safari | Safari Themes | LINK FIX: three bare URLs written in sentences (savetheelephants.org, kws.go.ke, metickets.krc.co.ke); replace with proper links with descriptive anchor text. SGR to Tsavo: stations, classes, booking (verify on official site). | todo |
+| night-game-drives-in-kenya | night game drives in kenya | Safari Themes | LINK FIX: two bare URLs written in sentences (kws.go.ke, an Ol Pejeta tariff PDF); replace with proper links with descriptive anchor text. Where allowed (conservancies, specific parks), what you see. | todo |
 
 ## Part 1: duplicate topics (owner decision: leave as they are)
 
@@ -60,7 +65,6 @@ The owner has decided to keep these ten posts unchanged. Do NOT refresh, redirec
 | 8-best-of-amboseli-national-park-attractions | things to do in amboseli | Destination Tips | Differentiate: activities list (Observation Hill, swamps, Maasai visit, photography spots). Link /amboseli-national-park/. | todo |
 | lake-nakuru-national-park | lake nakuru national park | Destination Tips | Full park guide. Differentiate from the two other Lake Nakuru posts. | todo |
 | lake-nakuru-national-park-attractions | things to do in lake nakuru | Destination Tips | Activities list (Baboon Cliff, Makalia Falls, rhino sanctuary). Link the park guide. | todo |
-| lake-nakuru-safari-guide | lake nakuru day trip from nairobi | Safari Themes | Day trip / overnight from Nairobi: timings, route, combine with Naivasha. Link the park guide. | todo |
 | tsavo-west-national-park | tsavo west national park | Destination Tips | Full guide (Mzima Springs, Shetani lava, rhino sanctuary, SGR access). | todo |
 | tsavo-east-national-park-attractions | tsavo east national park | Destination Tips | Full guide incl. attractions (Lugard Falls, Aruba Dam, Yatta Plateau). | todo |
 | ngorongoro-national-park | ngorongoro crater safari | Destination Tips | Crater guide (descent rules and time limits, fees, where to stay on the rim). Differentiate from the photography post. | todo |
@@ -85,10 +89,6 @@ The owner has decided to keep these ten posts unchanged. Do NOT refresh, redirec
 | ol-kinyei-conservancy-kenya | ol kinyei conservancy | Destination Tips | | todo |
 | nashulai-masai-conservancy | nashulai conservancy | Destination Tips | | todo |
 | solio-game-reserve | solio game reserve | Destination Tips | | todo |
-| lake-bogoria-geysers-flamingos-rift-valley | lake bogoria | Destination Tips | Was filed under Safari Themes: move to Destination Tips. | todo |
-| masai-mara-balloon-safari | masai mara hot air balloon safari | Safari Themes | Mara balloon only: launch sites, times, what's included, cost range (verify). Differentiate from the general /hot-air-balloon-safari/ post and link it. | todo |
-| night-game-drives-in-kenya | night game drives in kenya | Safari Themes | Where allowed (conservancies, specific parks), what you see. | todo |
-| kenya-safari-by-train | madaraka express safari | Safari Themes | SGR to Tsavo: stations, classes, booking (verify on official site). | todo |
 | ol-pejeta-safari-cottages | ol pejeta safari cottages | Accommodation Guide | From the property's official site only. | todo |
 | safe-family-safari-planning | family safari in kenya | Safari Themes | Age limits at camps, child-friendly parks, malaria advice (cite CDC/NHS). | todo |
 | tanzania-honeymoon | tanzania honeymoon | Safari Themes | Differentiate from the Kenya honeymoon pillar. | todo |
