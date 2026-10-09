@@ -6,6 +6,7 @@ Columns: slug | focus keyword | category | notes | status
 
 - Read the live post first (WebFetch https://divulgeadventures.com/<slug>/). Keep accurate, useful facts (verify them), drop anything vague, wrong, padded or dated.
 - Remove any year from the title (e.g. "2026 Migration Forecast" becomes a timeless title). Mention a year only next to a dated fact such as a fee "(checked <Month YYYY>)".
+- Remove any link written as plain text or in markdown style (for example "[https://...](https://...)" or a bare URL in a sentence) and replace it with a proper HTML link with descriptive anchor text. Remove links to pages that do not exist (check with WebFetch).
 - "Differentiate" notes say how this post must differ from a similar post so the two do not compete in Google.
 - Status values: `todo`, `done YYYY-MM-DD`.
 
@@ -15,6 +16,7 @@ These posts already rank on Google (Rank Math Analytics, 8 October 2026). Keep e
 
 | slug | focus keyword | category | notes | status |
 |---|---|---|---|---|
+| divulgeadventures-com-kakamega-forest | kakamega forest | Destination Tips | FIX FIRST: the live post shows raw markdown-style links as text (e.g. "[https://...](https://...)" and a Kenya Forest Service URL in brackets) and links to /kakamega-forest-kenya-safari-guide/, which does not exist. Rewrite with proper <a href> links (descriptive anchor text, Kenya Forest Service as the external authority link). Was filed under Safari Themes: move to Destination Tips. | todo |
 | discovering-laikipia-wilderness | laikipia wilderness | Destination Tips | Already position 8 for "laikipia wilderness" (86 impressions, 0 clicks): the priority is a much more clickable title and meta description. Keep the topic broad (Laikipia region, conservancies, wildlife, black leopards, getting there, when to go). Do not change the URL. | done 2026-10-08 |
 | masai-mara-safari-cost | masai mara safari cost | Safari Planning Tips | Ranks 30-40 for "masai mara cost", "masai mara prices" and "masai mara price": use those exact phrasings in headings and the FAQ (e.g. an H2 "Masai Mara Safari Prices Per Person"). Mara-specific costs (fees, camps by tier, road vs fly-in). Differentiate from /kenya-safari-cost/ (whole-country) and link it. | todo |
 | best-attractions-in-uganda | attractions in uganda | Destination Tips | Ranks 23-27 for "attractions in uganda" and "uganda attractions" and climbing: use both phrasings. Non-park attractions too (Jinja/Source of the Nile, Lake Bunyonyi, Kampala, Sipi Falls). Link the Uganda parks post. | todo |
@@ -83,7 +85,6 @@ The owner has decided to keep these ten posts unchanged. Do NOT refresh, redirec
 | ol-kinyei-conservancy-kenya | ol kinyei conservancy | Destination Tips | | todo |
 | nashulai-masai-conservancy | nashulai conservancy | Destination Tips | | todo |
 | solio-game-reserve | solio game reserve | Destination Tips | | todo |
-| divulgeadventures-com-kakamega-forest | kakamega forest | Destination Tips | Was filed under Safari Themes: move to Destination Tips. | todo |
 | lake-bogoria-geysers-flamingos-rift-valley | lake bogoria | Destination Tips | Was filed under Safari Themes: move to Destination Tips. | todo |
 | masai-mara-balloon-safari | masai mara hot air balloon safari | Safari Themes | Mara balloon only: launch sites, times, what's included, cost range (verify). Differentiate from the general /hot-air-balloon-safari/ post and link it. | todo |
 | night-game-drives-in-kenya | night game drives in kenya | Safari Themes | Where allowed (conservancies, specific parks), what you see. | todo |

@@ -253,6 +253,12 @@ def check(path):
     if not any(kw in (i.get("alt") or "").lower() for i in ps.imgs):
         errs.append("needs an <img> in the body with the keyword in its alt text")
 
+    # Links must be real HTML links, never markdown like [text](url) or bare [https://...] text
+    plain = re.sub(r"<[^>]+>", " ", html)
+    if re.search(r"\]\(\s*https?://", plain) or re.search(r"\[\s*https?://", plain):
+        errs.append("markdown-style link text found (e.g. [https://...](https://...)); use <a href> links")
+    if re.search(r"(?<![\"'=>])https?://[^\s<]+", plain.replace("&nbsp;", " ")):
+        errs.append("bare URL shown as text; wrap it in an <a href> link with descriptive anchor text")
     # Content rules
     low = body_text.lower()
     if "hiking outdoor" in low or "gear hub" in low:
