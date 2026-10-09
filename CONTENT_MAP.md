@@ -153,3 +153,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/great-migration-month-by-month/ (great migration month by month)
 - https://divulgeadventures.com/best-masai-mara-camps-by-budget/ (masai mara camps)
 - https://divulgeadventures.com/gorilla-trekking-in-rwanda/ (gorilla trekking in rwanda)
+- https://divulgeadventures.com/kenya-safari-in-december/ (kenya safari in december)
