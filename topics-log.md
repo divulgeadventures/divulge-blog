@@ -10,3 +10,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-08 | REFRESH | Destination Tips | laikipia wilderness | discovering-laikipia-wilderness
 2026-10-09 | Kenya KE-094 | Destination Tips | kenya safari in december | kenya-safari-in-december
 2026-10-09 | Tanzania TZ-001 | Safari Planning Tips | tanzania northern circuit itinerary | tanzania-northern-circuit-itinerary
+2026-10-10 | Uganda UG-040 | Destination Tips | uganda safari in december | uganda-safari-in-december

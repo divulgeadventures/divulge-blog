@@ -15,3 +15,5 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-09 | https://images.unsplash.com/photo-1631646109206-4b5616964f84?w=1200&q=80&auto=format&fit=crop | kenya-safari-in-december
 2026-10-09 | https://images.unsplash.com/photo-1723366033449-3d2aa155b838?w=1200&q=80&auto=format&fit=crop | tanzania-northern-circuit-itinerary
 2026-10-09 | https://images.unsplash.com/photo-1615209635653-52e675012cdd?w=1200&q=80&auto=format&fit=crop | tanzania-northern-circuit-itinerary
+2026-10-10 | https://images.unsplash.com/photo-1663115991136-8008fb119be9?w=1200&q=80&auto=format&fit=crop | uganda-safari-in-december
+2026-10-10 | https://images.unsplash.com/photo-1669830512962-6624050ffd6a?w=1200&q=80&auto=format&fit=crop | uganda-safari-in-december
