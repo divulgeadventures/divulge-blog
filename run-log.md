@@ -4,5 +4,11 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-11 15:20 | New post 3
+Namibia Hiking Safari: The Best Hikes, Seasons and Costs — https://divulgeadventures.com/namibia-hiking-safari/
+Namibia (bank row NA-313), Safari Themes. Scheduled to publish 2026-10-11 18:00 Nairobi time.
+Skipped topics: none.
+Could not open: https://divulgeadventures.com/trip-types/hiking-and-safari-combo/ (permission request timed out; linked as a listed money page), https://www.nwr.com.na/wp-content/uploads/2021/06/Hiking-Precautions.pdf (blocked by robots), images.unsplash.com image files (could not test-load from the sandbox; photo pages confirmed).
+
 ## 2026-10-11 14:10 | Setup
 Run log started. Posts so far from the topic bank: Kenya Safari in December, Northern Circuit Tanzania Itinerary, Uganda Safari in December, Day Trips from Nairobi, Botswana in December, Ngorongoro Crater Lodges.
