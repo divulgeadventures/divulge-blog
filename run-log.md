@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-11 18:58 | Refresh
+Kakamega Forest: A Practical Guide to Kenya's Last Rainforest — https://divulgeadventures.com/divulgeadventures-com-kakamega-forest/
+Kenya, moved from Safari Themes to Destination Tips. Rewritten fully to the template: the raw markdown links and the links to non-existent pages (/kakamega-forest-kenya-safari-guide/ and similar) are removed, there are proper links to KWS and Kenya Forest Service, KWS fees were checked October 2026, and the existing kakamega-forest-6.jpg image is reused.
+Skipped topics: none.
+Could not open: https://kws.go.ke/park/kakamega-forest-national-reserve/ (permission request timed out; used the same KWS page on sandbox.kws.go.ke instead), https://www.kenyaforestservice.org/ (permission request timed out; linked as the official KFS site), BirdLife DataZone Kakamega factsheet (page loaded empty), The Standard article on Kakamega forests (body not available).
+
 ## 2026-10-11 15:03 | New post 3
 Namibia Hiking Safari: The Best Hikes, Seasons and Costs — https://divulgeadventures.com/namibia-hiking-safari/
 Namibia (bank row NA-313), Safari Themes. Scheduled to publish 2026-10-11 18:00 Nairobi time.
