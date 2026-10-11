@@ -13,3 +13,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-10 | Uganda UG-040 | Destination Tips | uganda safari in december | uganda-safari-in-december
 2026-10-10 | Kenya KE-001 | Safari Themes | day trips from nairobi | day-trips-from-nairobi
 2026-10-11 | Botswana BW-185 | Destination Tips | botswana in december | botswana-in-december
+2026-10-11 | Tanzania TZ-002 | Accommodation Guide | ngorongoro crater lodges | ngorongoro-crater-lodges
