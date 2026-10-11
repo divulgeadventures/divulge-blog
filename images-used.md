@@ -19,3 +19,5 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-10 | https://images.unsplash.com/photo-1669830512962-6624050ffd6a?w=1200&q=80&auto=format&fit=crop | uganda-safari-in-december
 2026-10-10 | https://images.unsplash.com/photo-1725822217336-81a89a6774c9?w=1200&q=80&auto=format&fit=crop | day-trips-from-nairobi
 2026-10-10 | https://images.unsplash.com/photo-1613457231357-a5db3bc5bd81?w=1200&q=80&auto=format&fit=crop | day-trips-from-nairobi
+2026-10-11 | https://images.unsplash.com/photo-1590214780567-b48c7c927b7c?w=1200&q=80&auto=format&fit=crop | botswana-in-december
+2026-10-11 | https://images.unsplash.com/photo-1627759501315-28407b7cac86?w=1200&q=80&auto=format&fit=crop | botswana-in-december

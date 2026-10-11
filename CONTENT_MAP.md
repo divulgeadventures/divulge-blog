@@ -157,3 +157,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/tanzania-northern-circuit-itinerary/ (tanzania northern circuit itinerary)
 - https://divulgeadventures.com/uganda-safari-in-december/ (uganda safari in december)
 - https://divulgeadventures.com/day-trips-from-nairobi/ (day trips from nairobi)
+- https://divulgeadventures.com/botswana-in-december/ (botswana in december)
