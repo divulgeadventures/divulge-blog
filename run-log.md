@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-12 11:20 | New post 2
+Golden Monkey Trekking in Rwanda: Permits, Costs and What to Expect — https://divulgeadventures.com/golden-monkey-trekking-rwanda/
+Rwanda (bank row RW-001, core topic), Destination Tips. Scheduled to publish 2026-10-12 14:00 Nairobi time. Focus keyword refined to "golden monkey trekking" (the exact phrase is too awkward to repeat at the required density). Permit rates (US$100 foreign adult, min age 12, 07:00 Kinigi, max 16 per group) checked October 2026 on the RDB booking portal. Links to the two Divulge golden monkey trip pages; Trip CTA goes to the quote form per the Rwanda rule.
+Images: no golden monkey photo found on Unsplash/Pexels, so both images are mountain gorillas in Volcanoes National Park, Rwanda (alt text says so). Owner may want to swap in a golden monkey photo.
+Skipped topics: none.
+Could not open: https://divulgeadventures.com/destinations/rwanda-gorilla-trek/, the media library search and https://visitrwandabookings.rdb.rw/rdbportal/golden-monkey-tracking (permission requests timed out), https://visitrwanda.com/interests/golden-monkey-trekking/ (fetch error), Pexels search (blocked by robots), two Unsplash pages (fetch error / permission timeout; not used).
+
 ## 2026-10-12 07:13 | New post 1
 Kenya Safari in January: Weather, Wildlife, Costs and Where to Go — https://divulgeadventures.com/kenya-safari-in-january/
 Kenya (bank row KE-096, seasonal pick for January), Destination Tips. Scheduled to publish 2026-10-12 10:00 Nairobi time. Fees checked October 2026: Masai Mara US$100 Jan-Jun (Kenya Times, Aug 2026), KWS parks from the official KWS conservation fee sheet, eTA US$30.
