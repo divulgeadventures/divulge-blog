@@ -85,7 +85,6 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/burudani-adventure-park-team-building/
 
 ### Safari Themes
-- https://divulgeadventures.com/lake-bogoria-geysers-flamingos-rift-valley/
 - https://divulgeadventures.com/lake-nakuru-safari-guide/
 - https://divulgeadventures.com/best-national-parks-to-visit-in-uganda/
 - https://divulgeadventures.com/night-game-drives-in-kenya/
@@ -101,6 +100,7 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/divulge-adventures-the-big-five-guide/
 
 ### Destination Tips
+- https://divulgeadventures.com/lake-bogoria-geysers-flamingos-rift-valley/ (lake bogoria)
 - https://divulgeadventures.com/divulgeadventures-com-kakamega-forest/
 - https://divulgeadventures.com/best-national-parks-in-tanzania-divulge/
 - https://divulgeadventures.com/nairobi-national-park-kenyas/

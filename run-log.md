@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-12 19:15 | Refresh
+Lake Bogoria: Hot Springs, Geysers and Flamingos in Kenya's Rift Valley — https://divulgeadventures.com/lake-bogoria-geysers-flamingos-rift-valley/
+Kenya, moved from Safari Themes to Destination Tips, country tag: Kenya. Fully rewritten to the template: the old raw markdown links, "utm_source=gemini" links and self-links are gone; external link is the Ramsar site record. The post now tells readers honestly that rising water has submerged most geysers (warden quoted by Nation, 2025; NASA 2020) and that the old main gate and Emsos road are underwater (July 2026). Entry fee not stated (could not verify on an official source; readers told we confirm it when quoting). New in-content image: flamingos at Lake Nakuru (Unsplash); featured image unchanged.
+Skipped topics: none.
+Could not open: https://divulgeadventures.com/lake-bogoria-geysers-flamingos-rift-valley/ and its wp-json version, https://divulgeadventures.com/destinations/kenya-safari/, the media library search (permission requests timed out; old post could not be read, so it was rewritten from fresh research and existing trip links in the repo), https://lakebogoria.org/entrance-fees/, /visitor-info/ and /plan-your-perfect-trip-to-lake-bogoria-national-reserve/ (fetch errors), https://whc.unesco.org/en/list/1060 and Unsplash/Pexels search pages (permission timeouts), Baringo County Finance Act 2023 PDF (unreadable binary).
+
 ## 2026-10-12 15:20 | New post 3
 Best Serengeti Camps: Where to Stay by Area, Season and Budget — https://divulgeadventures.com/best-serengeti-camps/
 Tanzania (bank row TZ-003, core topic), Accommodation Guide, country tag: Tanzania. Scheduled to publish 2026-10-12 18:00 Nairobi time. Focus keyword refined to "serengeti camps". Camps described only from official sources (Four Seasons press fact sheet, Serena Hotels pages, Asilia's own camp comparison, Ndutu Safari Lodge site); no room rates quoted, cost tiers labelled as estimates. Fees (Serengeti US$82.60, NCAA US$70.80 + US$59 concession) checked October 2026.
