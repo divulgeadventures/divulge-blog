@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-12 15:20 | New post 3
+Best Serengeti Camps: Where to Stay by Area, Season and Budget — https://divulgeadventures.com/best-serengeti-camps/
+Tanzania (bank row TZ-003, core topic), Accommodation Guide, country tag: Tanzania. Scheduled to publish 2026-10-12 18:00 Nairobi time. Focus keyword refined to "serengeti camps". Camps described only from official sources (Four Seasons press fact sheet, Serena Hotels pages, Asilia's own camp comparison, Ndutu Safari Lodge site); no room rates quoted, cost tiers labelled as estimates. Fees (Serengeti US$82.60, NCAA US$70.80 + US$59 concession) checked October 2026.
+Skipped topics: none.
+Could not open: https://divulgeadventures.com/?s=serengeti+camps and https://divulgeadventures.com/destinations/tanzania-safari/ (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts), https://www.fourseasons.com/serengeti/, https://www.serenahotels.com/serengeti (first attempt), https://www.asiliaafrica.com/east-africa/camps-lodges/sayari/, https://www.ndutu.com/ (first attempt) (permission timeouts; official info then read via other official pages), one Unsplash safari-tent photo page (fetch error; not used).
+
 ## 2026-10-12 11:20 | New post 2
 Golden Monkey Trekking in Rwanda: Permits, Costs and What to Expect — https://divulgeadventures.com/golden-monkey-trekking-rwanda/
 Rwanda (bank row RW-001, core topic), Destination Tips. Scheduled to publish 2026-10-12 14:00 Nairobi time. Focus keyword refined to "golden monkey trekking" (the exact phrase is too awkward to repeat at the required density). Permit rates (US$100 foreign adult, min age 12, 07:00 Kinigi, max 16 per group) checked October 2026 on the RDB booking portal. Links to the two Divulge golden monkey trip pages; Trip CTA goes to the quote form per the Rwanda rule.

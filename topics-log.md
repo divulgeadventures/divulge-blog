@@ -18,3 +18,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-11 | REFRESH | Destination Tips | kakamega forest | divulgeadventures-com-kakamega-forest
 2026-10-12 | Kenya KE-096 | Destination Tips | kenya safari in january | kenya-safari-in-january
 2026-10-12 | Rwanda RW-001 | Destination Tips | golden monkey trekking | golden-monkey-trekking-rwanda
+2026-10-12 | Tanzania TZ-003 | Accommodation Guide | serengeti camps | best-serengeti-camps
