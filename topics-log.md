@@ -16,3 +16,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-11 | Tanzania TZ-002 | Accommodation Guide | ngorongoro crater lodges | ngorongoro-crater-lodges
 2026-10-11 | Namibia NA-313 | Safari Themes | namibia hiking safari | namibia-hiking-safari
 2026-10-11 | REFRESH | Destination Tips | kakamega forest | divulgeadventures-com-kakamega-forest
+2026-10-12 | Kenya KE-096 | Destination Tips | kenya safari in january | kenya-safari-in-january

@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-12 07:13 | New post 1
+Kenya Safari in January: Weather, Wildlife, Costs and Where to Go — https://divulgeadventures.com/kenya-safari-in-january/
+Kenya (bank row KE-096, seasonal pick for January), Destination Tips. Scheduled to publish 2026-10-12 10:00 Nairobi time. Fees checked October 2026: Masai Mara US$100 Jan-Jun (Kenya Times, Aug 2026), KWS parks from the official KWS conservation fee sheet, eTA US$30.
+Skipped topics: none.
+Could not open: https://divulgeadventures.com/?s=kenya+safari+in+january, https://divulgeadventures.com/destinations/kenya-safari/, https://divulgeadventures.com/kenya-safari-in-december/ and the media library (permission requests timed out; used the repo's post files and CONTENT_MAP.md for overlap checks and links, and an already-linked Kenya birding trip page), https://fitfortravel.nhs.uk/destinations/africa/kenya (permission timed out; URL confirmed in search results), one Unsplash photo page (elephant herd; not used).
+
 ## 2026-10-11 18:58 | Refresh
 Kakamega Forest: A Practical Guide to Kenya's Last Rainforest — https://divulgeadventures.com/divulgeadventures-com-kakamega-forest/
 Kenya, moved from Safari Themes to Destination Tips. Rewritten fully to the template: the raw markdown links and the links to non-existent pages (/kakamega-forest-kenya-safari-guide/ and similar) are removed, there are proper links to KWS and Kenya Forest Service, KWS fees were checked October 2026, and the existing kakamega-forest-6.jpg image is reused.
