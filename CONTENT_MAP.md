@@ -25,7 +25,11 @@ Status values: `todo`, `done YYYY-MM-DD <url>`, `skip (<reason>)`.
 - An item is usable when its title or alt text names the post's place, animal, lodge or a Divulge trip in the same destination (e.g. "Moremi Khwai and Savuti" for a Botswana post). Write alt text from what the title says; for a trip-named photo say e.g. "on safari in Botswana" rather than guessing details.
 - Never use items titled "image" or similar, screenshots, logos, icons, maps, or anything whose title suggests people are the subject (guests, clients, team, staff, group, family, couple, wedding, names).
 - Owner photos may appear in different posts, but not in two posts on the same day and preferably not within 14 days (images-used.md).
-- Fill any remaining slots with Unsplash (or Pexels) photos of the right place or species, checked as in the daily task instructions.
+- Fill any remaining slots with the Unsplash connector (search_photos, short query such as "Amboseli elephants" or "Okavango delta", orientation landscape, plus "none"). Only use results with "premium": false. Read each result's description and alt_description: name a specific place in the alt text only if the description names it, and never use a photo whose description names a different place for a place-specific spot (e.g. a Serengeti photo in an Amboseli section). Use urls.regular as the src (keep its parameters).
+- Credit every Unsplash photo directly under the image (Unsplash requires this):
+  <p style="font-size:12px; color:#777777; margin:-12px 0 20px 0;">Photo by <a href="[user.links.html]?utm_source=divulge_adventures&utm_medium=referral" target="_blank" rel="noopener">[user.name]</a> on <a href="https://unsplash.com/?utm_source=divulge_adventures&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></p>
+- Place each image after the first paragraph of its section (never straight after a heading), so the answer under each heading stays first.
+- If the Unsplash connector is unavailable, fall back to WebSearch "unsplash <subject>" as before.
 
 ## Money pages (link targets for the Trip CTA and in-body links)
 
