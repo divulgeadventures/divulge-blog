@@ -1,7 +1,7 @@
 [
  {
   "id": 11536,
-  "slug": "2-days-akagera-safari-boat-cruise",
+  "slug": "2-days-akagera-safari",
   "focus_keyword": "2 days Akagera safari",
   "rank_math_title": "2 Days Akagera Safari: Big Five Drives & Amazing Boat Cruise",
   "rank_math_desc": "2 days Akagera safari from Kigali: a sunset boat cruise on Lake Ihema and a full-day Big Five game drive. Private 4x4, lodge, meals and park fees included.",
@@ -62,6 +62,7 @@
     "alt": "Zebras grazing in Akagera National Park on a Rwanda safari"
    }
   ],
-  "status": "publish"
+  "status": "publish",
+  "force_slug": true
  }
 ]

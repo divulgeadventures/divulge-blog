@@ -1,7 +1,7 @@
 [
  {
   "id": 11560,
-  "slug": "8-days-rwanda-primates-and-lake-kivu-safari",
+  "slug": "rwanda-primates-and-lake-kivu-safari",
   "focus_keyword": "Rwanda primates and Lake Kivu safari",
   "rank_math_title": "Rwanda Primates and Lake Kivu Safari: 8 Amazing Days",
   "rank_math_desc": "Rwanda primates and Lake Kivu safari: a full Kigali day, chimps in Nyungwe, a Lake Kivu cruise, then gorillas and golden monkeys. 8 days at a relaxed pace.",
@@ -62,6 +62,7 @@
     "alt": "Kigali city at sunset, Rwanda"
    }
   ],
-  "status": "publish"
+  "status": "publish",
+  "force_slug": true
  }
 ]

@@ -298,9 +298,11 @@ function divulge_to_import( $json ) {
 			wp_update_post( array( 'ID' => $id, 'post_content' => wp_kses_post( $item['post_content'] ) ) );
 			$done[] = 'intro line';
 		}
-		// New URL slug: only for trips that are not yet published (never breaks live links).
-		if ( ! empty( $item['slug'] ) && get_post_status( $id ) !== 'publish' ) {
-			wp_update_post( array( 'ID' => $id, 'post_name' => sanitize_title( $item['slug'] ) ) );
+		// New URL slug: only for trips that are not yet published, unless the file sets "force_slug": true.
+		// WordPress keeps the old address and redirects it to the new one.
+		$new_slug = ! empty( $item['slug'] ) ? sanitize_title( $item['slug'] ) : '';
+		if ( $new_slug && $new_slug !== get_post_field( 'post_name', $id ) && ( get_post_status( $id ) !== 'publish' || ! empty( $item['force_slug'] ) ) ) {
+			wp_update_post( array( 'ID' => $id, 'post_name' => $new_slug ) );
 			$done[] = 'URL slug';
 		}
 		// Always split long paragraphs in this trip's itinerary.

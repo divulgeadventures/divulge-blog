@@ -1,7 +1,7 @@
 [
  {
   "id": 11533,
-  "slug": "1-day-mount-bisoke-hike-crater-lake",
+  "slug": "mount-bisoke-hike",
   "focus_keyword": "Mount Bisoke hike",
   "rank_math_title": "Mount Bisoke Hike: 1 Day Trip to a Stunning Crater Lake",
   "rank_math_desc": "Mount Bisoke hike from Kigali: climb to a stunning crater lake at 3,711 m in Volcanoes National Park. Permit, ranger guides, lunch and transport included.",
@@ -58,6 +58,7 @@
     "alt": "Mountain gorilla in Volcanoes National Park near the Mount Bisoke trail"
    }
   ],
-  "status": "publish"
+  "status": "publish",
+  "force_slug": true
  }
 ]
