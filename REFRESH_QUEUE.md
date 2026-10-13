@@ -2,6 +2,8 @@
 
 One older post is rewritten in place each day (same URL and publish date) and brought fully up to TEMPLATE.md. Work top to bottom: take the first row whose status is `todo`.
 
+> **REFRESHES LIMITED (owner decision, 13 October 2026, to save usage):** only rows whose notes start with "FIX FIRST", "LINK FIX" or "TEXT FIX" are refreshed, in the order listed. Skip every other `todo` row (leave it as `todo` for later). When no FIX FIRST / LINK FIX / TEXT FIX row is left as `todo`, the daily refresh is PAUSED: there is no refresh to do until the owner turns it back on.
+
 Columns: slug | focus keyword | category | notes | status
 
 - Read the live post first (WebFetch https://divulgeadventures.com/<slug>/). Keep accurate, useful facts (verify them), drop anything vague, wrong, padded or dated.
