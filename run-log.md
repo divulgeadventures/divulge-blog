@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-13 19:10 | Refresh
+Lake Nakuru Day Trip from Nairobi: Timings, Fees and What You'll See — https://divulgeadventures.com/lake-nakuru-safari-guide/
+Kenya, Safari Themes. Rewritten fully to the template (FIX FIRST row): all raw markdown links, the link code in the itinerary heading, the bare "www.lakenakurukenya.com" text and "+ 1"/"+ 2" leftovers are gone; the park-guide link now points to /lake-nakuru-national-park/. Focus keyword set to "lake nakuru day trip" (the full "...from Nairobi" phrase cannot reach the required keyword density without stuffing; "from Nairobi" stays in the title, meta title and first sentence). KWS fees (US$90 non-resident adult, US$45 child) checked October 2026. Featured image unchanged.
+Images: 0 from the owner's Media Library (not searched, see below), 4 from Unsplash (Lake Nakuru shore, zebras in Lake Nakuru NP, Lake Nakuru water, pelican on Lake Naivasha).
+Skipped topics: none. Next FIX row: masai-mara-balloon-safari (LINK FIX).
+Could not open: https://divulgeadventures.com/lake-nakuru-safari-guide/ (old post; permission request timed out, so it was rewritten from fresh research), https://en.wikipedia.org/wiki/Lake_Nakuru_National_Park and https://www.kws.go.ke/lake-nakuru-national-park (permission timeouts); the media library search and short-excursions page were not tried because they have timed out on every run today.
+
 ## 2026-10-13 15:08 | New post 3
 Kenya Honeymoon Safari: Where to Go, Best Time, Costs and Itineraries — https://divulgeadventures.com/kenya-honeymoon-safari/
 Kenya (bank row KE-002, core pillar, about 2,700 words), Safari Themes. Scheduled to publish 2026-10-13 18:00 Nairobi time. Fees checked October 2026: Masai Mara US$100/US$200 per adult per day (Jan-Jun/Jul-Dec), KWS Amboseli and Lake Nakuru US$90, Nairobi NP and Tsavo US$80, Kisite-Mpunguti US$25, Kenya eTA US$30; cost tiers labelled as estimates. No Kenya trip page could be opened, so the post links the Kenya destination, bush & beach and fly-in pages.

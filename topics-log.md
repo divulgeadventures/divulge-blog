@@ -23,3 +23,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-13 | Tanzania TZ-047 | Great Migration & River Crossing | serengeti in december | serengeti-in-december
 2026-10-13 | Uganda UG-001 | Destination Tips | bwindi gorilla trekking | bwindi-gorilla-trekking
 2026-10-13 | Kenya KE-002 | Safari Themes | kenya honeymoon safari | kenya-honeymoon-safari
+2026-10-13 | REFRESH | Safari Themes | lake nakuru day trip | lake-nakuru-safari-guide
