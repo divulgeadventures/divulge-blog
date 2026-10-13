@@ -258,6 +258,8 @@ def check(path):
             errs.append(f"banned link: {h}")
 
     # Images
+    LOGO_MARK = "PNG-LOGO"
+    ps.imgs = [i for i in ps.imgs if LOGO_MARK not in (i.get("src") or "")]  # credit logos are not photos
     srcs = [i.get("src", "") for i in ps.imgs]
     if len(ps.imgs) < 2:
         errs.append(f"only {len(ps.imgs)} image(s) in the body; need at least 4 (absolute minimum 2)")
