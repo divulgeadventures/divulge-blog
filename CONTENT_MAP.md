@@ -19,6 +19,14 @@ All new-post topics live in TOPIC_BANK.csv (about 1,900 topics, 300+ per destina
 
 Status values: `todo`, `done YYYY-MM-DD <url>`, `skip (<reason>)`.
 
+## Images (4+ per post)
+
+- The owner's WordPress Media Library has a few hundred real Divulge photos. Use them first. Search it with WebFetch https://divulgeadventures.com/wp-json/wp/v2/media?search=<word>&media_type=image&per_page=20&_fields=title,alt_text,source_url using short words: the park or place (e.g. "Amboseli", "Okavango", "Nyungwe"), the animal ("lion", "elephant", "gorilla"), and the country or trip name ("Botswana safari", "Moremi").
+- An item is usable when its title or alt text names the post's place, animal, lodge or a Divulge trip in the same destination (e.g. "Moremi Khwai and Savuti" for a Botswana post). Write alt text from what the title says; for a trip-named photo say e.g. "on safari in Botswana" rather than guessing details.
+- Never use items titled "image" or similar, screenshots, logos, icons, maps, or anything whose title suggests people are the subject (guests, clients, team, staff, group, family, couple, wedding, names).
+- Owner photos may appear in different posts, but not in two posts on the same day and preferably not within 14 days (images-used.md).
+- Fill any remaining slots with Unsplash (or Pexels) photos of the right place or species, checked as in the daily task instructions.
+
 ## Money pages (link targets for the Trip CTA and in-body links)
 
 - Kenya safaris: https://divulgeadventures.com/destinations/kenya-safari/

@@ -258,6 +258,15 @@ def check(path):
             errs.append(f"banned link: {h}")
 
     # Images
+    srcs = [i.get("src", "") for i in ps.imgs]
+    if len(ps.imgs) < 2:
+        errs.append(f"only {len(ps.imgs)} image(s) in the body; need at least 4 (absolute minimum 2)")
+    elif len(ps.imgs) < 4:
+        print(f"  WARNING: {len(ps.imgs)} body images (target is 4+); explain why in the run log")
+    if len(set(srcs)) != len(srcs):
+        errs.append("the same image is used twice in the body")
+    if any(not (i.get("alt") or "").strip() for i in ps.imgs):
+        errs.append("every body image needs alt text")
     if not any(kw in (i.get("alt") or "").lower() for i in ps.imgs):
         errs.append("needs an <img> in the body with the keyword in its alt text")
 

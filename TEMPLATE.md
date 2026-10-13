@@ -24,13 +24,13 @@ FAQ: the same 4-5 questions and answers used in the FAQ section, as plain text (
 
 Image alt text:
 1. Featured image: [Keyword] – [scene description]
-2. In-content image: [scene description] (include the keyword)
+2. In-content images (at least 4): [scene description]; the first one includes the keyword
 
 
 ## POST BODY STRUCTURE (HTML, in this order)
 
 1. Intro: 2 short paragraphs. Paragraph 1 answers the question behind the keyword in 40-60 words, keyword in the first sentence. Paragraph 2 names the reader's problem and what the post gives them.
-2. In-content image with keyword alt text.
+2. In-content image 1 with keyword alt text. Then place in-content images 2, 3 and 4 (or more) later in the body, each directly under a different H2 section that it illustrates (e.g. wildlife, the lodge or activity, the landscape, the route), never two images in a row.
 3. Info Box 1: Quick Facts (5-7 labelled bullets).
 4. H2 sections: 5-7 main sections, H3s for sub-points. Keyword in at least one H2 and one H3. Include at least one table.
 5. Trip CTA (green): right after the section where the reader is most ready to book (itinerary, cost or "how to plan" section).
@@ -49,7 +49,7 @@ Image alt text:
 - External link: at least 1 dofollow link to an authority source (official park, tourism board, government, WHO/CDC/NHS travel health, IATA, UNESCO) with target="_blank" rel="noopener". Never nofollow. Never link to other tour operators or booking sites (no Safaribookings, TripAdvisor tour listings, Viator, GetYourGuide, competitor agencies).
 - Paragraphs under 120 words, ideally 2-4 sentences.
 - No bold inside paragraphs. Bold labels in lists and boxes are fine.
-- At least one image inside the body with the keyword in its alt text.
+- At least 4 images inside the body (the featured image does not count), spread across different sections, no image used twice in a post. The first has the keyword in its alt text; the others describe what they show.
 - Every word earns its place: reach length through useful coverage (comparisons, month-by-month detail, costs broken down, follow-up questions), never padding.
 
 
