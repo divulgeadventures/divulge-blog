@@ -179,3 +179,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/best-serengeti-camps/ (serengeti camps)
 - https://divulgeadventures.com/serengeti-in-december/ (serengeti in december)
 - https://divulgeadventures.com/bwindi-gorilla-trekking/ (bwindi gorilla trekking)
+- https://divulgeadventures.com/kenya-honeymoon-safari/ (kenya honeymoon safari)
