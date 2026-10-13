@@ -1,7 +1,7 @@
 [
  {
   "id": 11562,
-  "slug": "10-days-budget-rwanda-safari-gorillas-chimps",
+  "slug": "budget-rwanda-safari",
   "focus_keyword": "budget Rwanda safari",
   "rank_math_title": "Budget Rwanda Safari: 10 Amazing Days of Gorillas & Chimps",
   "rank_math_desc": "Budget Rwanda safari for 10 days: Akagera, Nyungwe chimps, Lake Kivu, a gorilla trek, Mount Bisoke and golden monkeys, staying in clean, friendly guest houses.",
@@ -62,6 +62,7 @@
     "alt": "Lake Kivu shoreline in Rwanda"
    }
   ],
-  "status": "publish"
+  "status": "publish",
+  "force_slug": true
  }
 ]
