@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-13 07:18 | New post 1
+Serengeti in December: Where the Herds Are, Weather and Costs — https://divulgeadventures.com/serengeti-in-december/
+Tanzania (bank row TZ-047, seasonal pick for December), Great Migration & River Crossing, country tag: Tanzania. Scheduled to publish 2026-10-13 10:00 Nairobi time. Fees checked October 2026: Serengeti US$82.60 adult / US$23.60 child (high season July to mid-March), NCAA US$70.80 + US$59 concession. No Tanzania trip page could be opened, so the post links the Tanzania destination page and fly-in packages page.
+Skipped topics: none.
+Could not open: https://divulgeadventures.com/?s=serengeti+in+december, https://divulgeadventures.com/destinations/tanzania-safari/ and the media library search (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts), https://www.tanzaniaparks.go.tz/ (permission timed out; fees taken from a March 2026 published fee table matching earlier checks), three Unsplash photo pages (permission timeouts; not used).
+
 ## 2026-10-12 19:15 | Refresh
 Lake Bogoria: Hot Springs, Geysers and Flamingos in Kenya's Rift Valley — https://divulgeadventures.com/lake-bogoria-geysers-flamingos-rift-valley/
 Kenya, moved from Safari Themes to Destination Tips, country tag: Kenya. Fully rewritten to the template: the old raw markdown links, "utm_source=gemini" links and self-links are gone; external link is the Ramsar site record. The post now tells readers honestly that rising water has submerged most geysers (warden quoted by Nation, 2025; NASA 2020) and that the old main gate and Emsos road are underwater (July 2026). Entry fee not stated (could not verify on an official source; readers told we confirm it when quoting). New in-content image: flamingos at Lake Nakuru (Unsplash); featured image unchanged.

@@ -32,3 +32,5 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-12 | https://images.unsplash.com/photo-1580145575237-75fec2a0320b?w=1200&q=80&auto=format&fit=crop | best-serengeti-camps
 2026-10-12 | https://images.unsplash.com/photo-1516628368662-4220aaf9339d?w=1200&q=80&auto=format&fit=crop | best-serengeti-camps
 2026-10-12 | https://images.unsplash.com/photo-1710136678658-a12caee832a7?w=1200&q=80&auto=format&fit=crop | lake-bogoria-geysers-flamingos-rift-valley
+2026-10-13 | https://images.unsplash.com/photo-1528275646751-ff237d1cd935?w=1200&q=80&auto=format&fit=crop | serengeti-in-december
+2026-10-13 | https://images.unsplash.com/photo-1622073492812-ed21d3443390?w=1200&q=80&auto=format&fit=crop | serengeti-in-december

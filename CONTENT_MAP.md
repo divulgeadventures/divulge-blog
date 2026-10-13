@@ -163,3 +163,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/kenya-safari-in-january/ (kenya safari in january)
 - https://divulgeadventures.com/golden-monkey-trekking-rwanda/ (golden monkey trekking)
 - https://divulgeadventures.com/best-serengeti-camps/ (serengeti camps)
+- https://divulgeadventures.com/serengeti-in-december/ (serengeti in december)
