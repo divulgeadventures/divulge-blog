@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-13 11:20 | New post 2
+Bwindi Gorilla Trekking: Permits, Sectors, Costs and Tips — https://divulgeadventures.com/bwindi-gorilla-trekking/
+Uganda (bank row UG-001, core topic), Destination Tips. Scheduled to publish 2026-10-13 14:00 Nairobi time. Focus keyword refined to "bwindi gorilla trekking". Permit US$800, habituation US$1,500 (US$1,800 from 1 Jan 2027) and the reduced US$600 April/May/November permit taken from recent published summaries of the UWA 2026-2028 tariff (checked October 2026; readers told to confirm). Links the Bwindi, 9-day and 10-day Uganda trip pages.
+Images: 0 from the owner's Media Library (search could not be opened), 6 stock (Unsplash: 5 mountain gorillas in Bwindi, 1 Lake Bunyonyi), featured image included.
+Skipped topics: none.
+Could not open: https://divulgeadventures.com/?s=bwindi+gorilla+trekking, https://divulgeadventures.com/destinations/uganda-safari/, the media library search and https://ugandawildlife.org/conservation-tariffs/ (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts, trip links taken from earlier posts).
+
 ## 2026-10-13 07:18 | New post 1
 Serengeti in December: Where the Herds Are, Weather and Costs — https://divulgeadventures.com/serengeti-in-december/
 Tanzania (bank row TZ-047, seasonal pick for December), Great Migration & River Crossing, country tag: Tanzania. Scheduled to publish 2026-10-13 10:00 Nairobi time. Fees checked October 2026: Serengeti US$82.60 adult / US$23.60 child (high season July to mid-March), NCAA US$70.80 + US$59 concession. No Tanzania trip page could be opened, so the post links the Tanzania destination page and fly-in packages page.

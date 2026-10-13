@@ -21,3 +21,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-12 | Tanzania TZ-003 | Accommodation Guide | serengeti camps | best-serengeti-camps
 2026-10-12 | REFRESH | Destination Tips | lake bogoria | lake-bogoria-geysers-flamingos-rift-valley
 2026-10-13 | Tanzania TZ-047 | Great Migration & River Crossing | serengeti in december | serengeti-in-december
+2026-10-13 | Uganda UG-001 | Destination Tips | bwindi gorilla trekking | bwindi-gorilla-trekking

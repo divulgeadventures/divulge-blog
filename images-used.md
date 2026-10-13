@@ -34,3 +34,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-12 | https://images.unsplash.com/photo-1710136678658-a12caee832a7?w=1200&q=80&auto=format&fit=crop | lake-bogoria-geysers-flamingos-rift-valley
 2026-10-13 | https://images.unsplash.com/photo-1528275646751-ff237d1cd935?w=1200&q=80&auto=format&fit=crop | serengeti-in-december
 2026-10-13 | https://images.unsplash.com/photo-1622073492812-ed21d3443390?w=1200&q=80&auto=format&fit=crop | serengeti-in-december
+2026-10-13 | https://images.unsplash.com/photo-1782464636553-55371a66ad0b?w=1200&q=80&auto=format&fit=crop | bwindi-gorilla-trekking
+2026-10-13 | https://images.unsplash.com/photo-1742327520539-564816c2fe6f?w=1200&q=80&auto=format&fit=crop | bwindi-gorilla-trekking
+2026-10-13 | https://images.unsplash.com/photo-1782464615393-696cc6e59eea?w=1200&q=80&auto=format&fit=crop | bwindi-gorilla-trekking
+2026-10-13 | https://images.unsplash.com/photo-1711198609915-9d492fed9a00?w=1200&q=80&auto=format&fit=crop | bwindi-gorilla-trekking
+2026-10-13 | https://images.unsplash.com/photo-1551357141-f73a8402ceb3?w=1200&q=80&auto=format&fit=crop | bwindi-gorilla-trekking
+2026-10-13 | https://images.unsplash.com/photo-1711198617874-e86cedbf3707?w=1200&q=80&auto=format&fit=crop | bwindi-gorilla-trekking
