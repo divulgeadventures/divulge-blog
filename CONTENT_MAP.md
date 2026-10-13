@@ -26,6 +26,8 @@ Status values: `todo`, `done YYYY-MM-DD <url>`, `skip (<reason>)`.
 - Never use items titled "image" or similar, screenshots, logos, icons, maps, or anything whose title suggests people are the subject (guests, clients, team, staff, group, family, couple, wedding, names).
 - Owner photos may appear in different posts, but not in two posts on the same day and preferably not within 14 days (images-used.md).
 - Fill any remaining slots with the Unsplash connector (search_photos, short query such as "Amboseli elephants" or "Okavango delta", orientation landscape, plus "none"). Only use results with "premium": false. Read each result's description and alt_description: name a specific place in the alt text only if the description names it, and never use a photo whose description names a different place for a place-specific spot (e.g. a Serengeti photo in an Amboseli section). Use urls.regular as the src (keep its parameters).
+- Credit every owner photo (from the Media Library) directly under the image:
+  <p style="font-size:12px; color:#777777; margin:-12px 0 20px 0;">Photo: Divulge Adventures</p>
 - Credit every Unsplash photo directly under the image (Unsplash requires this):
   <p style="font-size:12px; color:#777777; margin:-12px 0 20px 0;">Photo by <a href="[user.links.html]?utm_source=divulge_adventures&utm_medium=referral" target="_blank" rel="noopener">[user.name]</a> on <a href="https://unsplash.com/?utm_source=divulge_adventures&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></p>
 - Place each image after the first paragraph of its section (never straight after a heading), so the answer under each heading stays first.
