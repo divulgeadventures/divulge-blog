@@ -506,6 +506,84 @@ function divulge_to_restore() {
 	return $report ? $report : array( 'No backups found, nothing to restore.' );
 }
 
+/* ---------- structured data on trip pages (FAQPage + TouristTrip) ---------- */
+// Google and AI answer engines read this JSON-LD. Built only from what is saved on the trip
+// (FAQ tab, itinerary day titles, SEO description, featured image), so it always matches the page.
+
+add_action( 'wp_head', function () {
+	if ( ! is_singular( 'trip' ) ) {
+		return;
+	}
+	$id = get_queried_object_id();
+	$s  = get_post_meta( $id, 'wp_travel_engine_setting', true );
+	$s  = is_array( $s ) ? $s : array();
+	$url    = get_permalink( $id );
+	$graph  = array();
+	$clean  = function ( $text ) {
+		return trim( preg_replace( '/\s+/', ' ', wp_strip_all_tags( (string) $text ) ) );
+	};
+
+	// FAQPage from the trip's FAQ tab.
+	$questions = array();
+	if ( ! empty( $s['faq']['faq_title'] ) && is_array( $s['faq']['faq_title'] ) ) {
+		foreach ( $s['faq']['faq_title'] as $k => $q ) {
+			$a = isset( $s['faq']['faq_content'][ $k ] ) ? $clean( $s['faq']['faq_content'][ $k ] ) : '';
+			$q = $clean( $q );
+			if ( $q !== '' && $a !== '' ) {
+				$questions[] = array(
+					'@type'          => 'Question',
+					'name'           => $q,
+					'acceptedAnswer' => array( '@type' => 'Answer', 'text' => $a ),
+				);
+			}
+		}
+	}
+	if ( $questions ) {
+		$graph[] = array( '@type' => 'FAQPage', '@id' => $url . '#faq', 'mainEntity' => $questions );
+	}
+
+	// TouristTrip: name, description, photo, provider and the day-by-day titles.
+	$desc = get_post_meta( $id, 'rank_math_description', true );
+	if ( ! $desc ) {
+		$desc = wp_trim_words( $clean( isset( $s['tab_content']['1_wpeditor'] ) ? $s['tab_content']['1_wpeditor'] : get_post_field( 'post_content', $id ) ), 40, '' );
+	}
+	$trip = array(
+		'@type'       => 'TouristTrip',
+		'@id'         => $url . '#trip',
+		'name'        => get_the_title( $id ),
+		'url'         => $url,
+		'description' => $clean( $desc ),
+		'provider'    => array(
+			'@type' => 'TravelAgency',
+			'name'  => 'Divulge Adventures',
+			'url'   => home_url( '/' ),
+			'telephone' => '+254706223888',
+			'email' => 'bookings@divulgeadventures.com',
+			'address' => array( '@type' => 'PostalAddress', 'addressLocality' => 'Nairobi', 'addressCountry' => 'KE' ),
+		),
+	);
+	$img = get_the_post_thumbnail_url( $id, 'full' );
+	if ( $img ) {
+		$trip['image'] = $img;
+	}
+	if ( ! empty( $s['itinerary']['itinerary_title'] ) && is_array( $s['itinerary']['itinerary_title'] ) ) {
+		$days = array();
+		$pos  = 1;
+		foreach ( $s['itinerary']['itinerary_title'] as $title ) {
+			$title = $clean( $title );
+			if ( $title !== '' ) {
+				$days[] = array( '@type' => 'ListItem', 'position' => $pos++, 'item' => array( '@type' => 'TouristAttraction', 'name' => $title ) );
+			}
+		}
+		if ( $days ) {
+			$trip['itinerary'] = array( '@type' => 'ItemList', 'numberOfItems' => count( $days ), 'itemListElement' => $days );
+		}
+	}
+	$graph[] = $trip;
+
+	echo "\n<script type=\"application/ld+json\">" . wp_json_encode( array( '@context' => 'https://schema.org', '@graph' => $graph ), JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE ) . "</script>\n";
+}, 20 );
+
 /* ---------- page ---------- */
 
 function divulge_to_page() {
