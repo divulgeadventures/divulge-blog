@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-14 15:09 | New post 3
+Tanzania Visa for Safari: Cost, eVisa Steps and Entry Rules — https://divulgeadventures.com/tanzania-visa/
+Tanzania (owner idea "Tanzania visa for safari", bank row TZ-009), Safari Planning Tips. Scheduled to publish 2026-10-14 18:00 Nairobi time. Focus keyword refined to "tanzania visa"; TZ-314 (tanzania e visa) and TZ-319 (tanzania visa for tourists) set to skip as covered by this post. Checked October 2026: US$50 single entry for most nationalities, US$100 multiple entry for US citizens (Irish US$100), visa on arrival single-entry only (GOV.UK), new mandatory US$44 mainland inbound insurance from 1 October 2026 (GN 256 of 2026). Trip link /trip/12-days-magical-kenya-tanzania-safari/ taken from TRIP_QUEUE.md (destination page could not be opened to confirm it).
+Images: 0 from the owner's Media Library (search could not be opened), 6 from Unsplash (featured giraffes in the Serengeti, plus Serengeti sunset, safari vehicle with buffalo, rhinos in Ngorongoro Crater, giraffes under a balloon, Zanzibar beach).
+Skipped topics: none.
+Could not open: https://divulgeadventures.com/?s=tanzania+visa, https://divulgeadventures.com/destinations/tanzania-safari/ and the media library search (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts).
+
 ## 2026-10-14 11:45 | Trip Optimiser (first run, done in chat)
 - Done: 7-Day Luxury Mara River Crossing Safari (ID 8080, "7 day masai mara river crossing safari", kenya-8080-7-day-masai-mara-river-crossing-safari.json); 6-Day Best of Amboseli & Masai Mara Safari (ID 7364, "6 day amboseli and masai mara safari", kenya-7364-6-day-amboseli-and-masai-mara-safari.json).
 - Photos: 7 owner + 0 Unsplash per trip (featured + 6 gallery), wrong alt texts replaced.

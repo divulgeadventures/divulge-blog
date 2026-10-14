@@ -183,3 +183,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/kenya-honeymoon-safari/ (kenya honeymoon safari)
 - https://divulgeadventures.com/okavango-delta-vs-chobe/ (okavango delta vs chobe)
 - https://divulgeadventures.com/kenya-eta/ (kenya eta)
+- https://divulgeadventures.com/tanzania-visa/ (tanzania visa)
