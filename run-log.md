@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-14 19:04 | Refresh
+Masai Mara Hot Air Balloon Safari: Times, Costs and Honest Tips — https://divulgeadventures.com/masai-mara-balloon-safari/
+Kenya, Safari Themes (REFRESH_QUEUE LINK FIX row). Rewritten in full on "masai mara hot air balloon safari": no bare URLs or broken words remain; Governors Balloon Safaris is now a proper link with anchor text; links the general /hot-air-balloon-safari/ post to differentiate. Facts checked October 2026 (Governors' FAQ and Where We Fly pages, a Mara lodge's published balloon rates); prices given as an estimated US$450-600 per adult range. Divulge's own balloon add-on prices (USD 480 vs USD 500 on two trip pages) were not quoted because they conflict.
+Images: 0 from the owner's Media Library (search could not be opened), 4 from Unsplash (balloons at dawn at Little Governors' Camp, hippos on the Mara River, elephants with balloons at sunrise, zebras in the Mara). Featured image unchanged.
+Skipped topics: none. Next eligible refresh row: kenya-safari-by-train (LINK FIX).
+Could not open: https://divulgeadventures.com/masai-mara-balloon-safari/ (live post; permission request timed out, so the rewrite could not compare against the old text) and the media library search (permission request timed out).
+
 ## 2026-10-14 15:09 | New post 3
 Tanzania Visa for Safari: Cost, eVisa Steps and Entry Rules — https://divulgeadventures.com/tanzania-visa/
 Tanzania (owner idea "Tanzania visa for safari", bank row TZ-009), Safari Planning Tips. Scheduled to publish 2026-10-14 18:00 Nairobi time. Focus keyword refined to "tanzania visa"; TZ-314 (tanzania e visa) and TZ-319 (tanzania visa for tourists) set to skip as covered by this post. Checked October 2026: US$50 single entry for most nationalities, US$100 multiple entry for US citizens (Irish US$100), visa on arrival single-entry only (GOV.UK), new mandatory US$44 mainland inbound insurance from 1 October 2026 (GN 256 of 2026). Trip link /trip/12-days-magical-kenya-tanzania-safari/ taken from TRIP_QUEUE.md (destination page could not be opened to confirm it).
