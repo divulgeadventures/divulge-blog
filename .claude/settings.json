@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:divulgeadventures.com)",
+      "WebFetch(domain:www.divulgeadventures.com)",
+      "WebFetch(domain:unsplash.com)",
+      "WebFetch(domain:api.unsplash.com)",
+      "WebFetch(domain:images.unsplash.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:kws.go.ke)",
+      "WebFetch(domain:www.kws.go.ke)",
+      "WebFetch(domain:magicalkenya.com)",
+      "WebFetch(domain:tanzaniaparks.go.tz)",
+      "WebFetch(domain:www.tanzaniaparks.go.tz)",
+      "WebFetch(domain:visitrwanda.com)",
+      "WebFetch(domain:www.visitrwanda.com)",
+      "WebFetch(domain:ugandawildlife.org)",
+      "WebFetch(domain:www.ugandawildlife.org)",
+      "WebFetch(domain:whc.unesco.org)",
+      "WebFetch(domain:www.who.int)",
+      "WebFetch(domain:wwwnc.cdc.gov)",
+      "WebFetch(domain:www.cdc.gov)",
+      "WebFetch(domain:www.gov.uk)",
+      "WebFetch(domain:etakenya.go.ke)",
+      "WebFetch(domain:www.etakenya.go.ke)",
+      "WebSearch"
+    ]
+  }
+}
