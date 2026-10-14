@@ -100,6 +100,23 @@ function divulge_to_split_field( $text ) {
 	return implode( "\n\n", $out );
 }
 
+/** Attachment ID for a photo already in this site's Media Library (any size of it), or 0. */
+function divulge_to_local_id( $url ) {
+	$site = wp_parse_url( home_url(), PHP_URL_HOST );
+	$host = wp_parse_url( $url, PHP_URL_HOST );
+	if ( ! $host || ! $site || strtolower( preg_replace( '/^www\./', '', $host ) ) !== strtolower( preg_replace( '/^www\./', '', $site ) ) ) {
+		return 0;
+	}
+	$base = preg_replace( '/-\d+x\d+(?=\.[a-z0-9]+$)/i', '', strtok( $url, '?' ) );
+	foreach ( array( $url, $base, preg_replace( '/(\.[a-z0-9]+)$/i', '-scaled$1', $base ), preg_replace( '/-scaled(?=\.[a-z0-9]+$)/i', '', $base ) ) as $try ) {
+		$id = attachment_url_to_postid( $try );
+		if ( $id ) {
+			return (int) $id;
+		}
+	}
+	return 0;
+}
+
 /** Sideload an image URL into the Media Library once; returns attachment ID or 0. */
 function divulge_to_image( $url, $alt, $post_id ) {
 	$url = esc_url_raw( $url );
@@ -114,8 +131,11 @@ function divulge_to_image( $url, $alt, $post_id ) {
 		'fields'      => 'ids',
 		'numberposts' => 1,
 	) );
+	$local = $existing ? 0 : divulge_to_local_id( $url );
 	if ( $existing ) {
 		$att_id = (int) $existing[0];
+	} elseif ( $local ) {
+		$att_id = $local; // photo already in the Media Library: reuse it, never copy it
 	} else {
 		require_once ABSPATH . 'wp-admin/includes/media.php';
 		require_once ABSPATH . 'wp-admin/includes/file.php';

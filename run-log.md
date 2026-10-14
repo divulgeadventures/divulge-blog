@@ -4,6 +4,16 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-14 11:45 | Trip Optimiser (first run, done in chat)
+- Done: 7-Day Luxury Mara River Crossing Safari (ID 8080, "7 day masai mara river crossing safari", kenya-8080-7-day-masai-mara-river-crossing-safari.json); 6-Day Best of Amboseli & Masai Mara Safari (ID 7364, "6 day amboseli and masai mara safari", kenya-7364-6-day-amboseli-and-masai-mara-safari.json).
+- Photos: 7 owner + 0 Unsplash per trip (featured + 6 gallery), wrong alt texts replaced.
+- Owner to fix by hand (the importer cannot change these):
+  - Mara River Crossing: lodge names conflict across days (Day 1-2 Praro Amboseli Safari Camp vs a Sopa link on Day 2; Days 5-6 Zebra River Luxury Camp vs PrideInn Mara Camp), so pick one per night. Typos: "Engligh", "Germany" (should be German), "Accomodation", "Fullboard" (Full board). Title says "Luxury" but lodges are 4-star (Sopa, PrideInn): rename to "7-Day Mara River Crossing Safari" or switch to luxury camps. Highlights/trip facts list Lake Naivasha as a park, but it is only a boat ride stop. A photo in the gallery is named "serengeti-wildebeest-migration-river-crossing" (fine for a Mara River crossing, but check it is not a Tanzania-only shot).
+  - Best of Amboseli & Mara: no price shown on the page (shows "Price on request" now; add a price if you have one). Typos: "Full Day at Amboseli national Park", "4 hours. drive.", "Germany", "Accomodation", "Prideinn" (PrideInn). Day 4 morning drive text says "an adventurous evening". Balloon price is USD 500 here but USD 480 on the Mara River Crossing page.
+  - Site-wide: Mt Kenya trip slug is "mout-kemya" (typo; fix with a 301 redirect).
+- Could not open: none.
+- Next: sopa-lodges-circuit-amboseli-to-mara, 9-day-hells-gate-to-masai-mara-safari.
+
 ## 2026-10-14 11:20 | New post 2
 Kenya eTA for Tourists: Cost, Documents and How to Apply — https://divulgeadventures.com/kenya-eta/
 Kenya (owner idea "Kenya eTA for tourists", bank row KE-018), Safari Planning Tips. Scheduled to publish 2026-10-14 14:00 Nairobi time. Focus keyword refined to "kenya eta". Checked October 2026: eTA from US$30 (+US$100 expedited), ~3 working days; new mandatory Kenyan inbound travel health insurance (US$44 premium, from early October 2026, foreign policies not accepted per GOV.UK). eTA validity/single-entry terms not stated (could not confirm on an official source). Links the Kenya destination, travel insurance, Flying Doctors and yellow fever pages (no Kenya trip page could be opened).
