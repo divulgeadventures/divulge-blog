@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-14 11:20 | New post 2
+Kenya eTA for Tourists: Cost, Documents and How to Apply — https://divulgeadventures.com/kenya-eta/
+Kenya (owner idea "Kenya eTA for tourists", bank row KE-018), Safari Planning Tips. Scheduled to publish 2026-10-14 14:00 Nairobi time. Focus keyword refined to "kenya eta". Checked October 2026: eTA from US$30 (+US$100 expedited), ~3 working days; new mandatory Kenyan inbound travel health insurance (US$44 premium, from early October 2026, foreign policies not accepted per GOV.UK). eTA validity/single-entry terms not stated (could not confirm on an official source). Links the Kenya destination, travel insurance, Flying Doctors and yellow fever pages (no Kenya trip page could be opened).
+Images: 0 from the owner's Media Library (search could not be opened), 6 from Unsplash (featured passport with stamps, plus passports with boarding passes, stamped passport, Masai Mara zebras, safari vehicle in the Mara, elephants at a Mara waterhole).
+Skipped topics: none.
+Could not open: https://divulgeadventures.com/?s=kenya+eta, https://divulgeadventures.com/destinations/kenya-safari/ and the media library search (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts), https://www.fragomen.com/insights/kenya-travel-health-insurance-requirement-implemented.html (fetch error).
+
 ## 2026-10-14 07:13 | New post 1
 Okavango Delta vs Chobe: Which Botswana Safari Is Right for You? — https://divulgeadventures.com/okavango-delta-vs-chobe/
 Botswana (bank row BW-056, BOOST comparison), Destination Tips. Scheduled to publish 2026-10-14 10:00 Nairobi time. Park fees: Botswana postponed its planned 1 April 2026 increase and kept existing rates (checked October 2026); no fee figures stated because published figures conflict. Links the Chobe-Khwai-Okavango and 8-day Moremi trip pages (trip links taken from earlier posts; destination page could not be opened).
