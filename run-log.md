@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-14 07:13 | New post 1
+Okavango Delta vs Chobe: Which Botswana Safari Is Right for You? — https://divulgeadventures.com/okavango-delta-vs-chobe/
+Botswana (bank row BW-056, BOOST comparison), Destination Tips. Scheduled to publish 2026-10-14 10:00 Nairobi time. Park fees: Botswana postponed its planned 1 April 2026 increase and kept existing rates (checked October 2026); no fee figures stated because published figures conflict. Links the Chobe-Khwai-Okavango and 8-day Moremi trip pages (trip links taken from earlier posts; destination page could not be opened).
+Images: 0 from the owner's Media Library (search could not be opened), 6 from Unsplash (featured elephant in the Okavango, plus Okavango River aerial, Chobe River elephants, elephants crossing water in the Okavango, big cat in the Okavango, elephants in Chobe NP).
+Skipped topics: none.
+Could not open: https://divulgeadventures.com/?s=okavango+chobe, https://divulgeadventures.com/destinations/botswana-safari/, the media library search and https://whc.unesco.org/en/list/1432 (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts).
+
 ## 2026-10-13 19:10 | Refresh
 Lake Nakuru Day Trip from Nairobi: Timings, Fees and What You'll See — https://divulgeadventures.com/lake-nakuru-safari-guide/
 Kenya, Safari Themes. Rewritten fully to the template (FIX FIRST row): all raw markdown links, the link code in the itinerary heading, the bare "www.lakenakurukenya.com" text and "+ 1"/"+ 2" leftovers are gone; the park-guide link now points to /lake-nakuru-national-park/. Focus keyword set to "lake nakuru day trip" (the full "...from Nairobi" phrase cannot reach the required keyword density without stuffing; "from Nairobi" stays in the title, meta title and first sentence). KWS fees (US$90 non-resident adult, US$45 child) checked October 2026. Featured image unchanged.
