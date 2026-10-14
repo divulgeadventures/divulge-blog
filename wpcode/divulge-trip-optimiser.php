@@ -506,9 +506,9 @@ function divulge_to_restore() {
 	return $report ? $report : array( 'No backups found, nothing to restore.' );
 }
 
-/* ---------- structured data on trip pages (FAQPage + TouristTrip) ---------- */
+/* ---------- structured data on trip pages (TouristTrip) ---------- */
 // Google and AI answer engines read this JSON-LD. Built only from what is saved on the trip
-// (FAQ tab, itinerary day titles, SEO description, featured image), so it always matches the page.
+// (itinerary day titles, SEO description, featured image), so it always matches the page.
 
 add_action( 'wp_head', function () {
 	if ( ! is_singular( 'trip' ) ) {
@@ -523,24 +523,7 @@ add_action( 'wp_head', function () {
 		return trim( preg_replace( '/\s+/', ' ', wp_strip_all_tags( (string) $text ) ) );
 	};
 
-	// FAQPage from the trip's FAQ tab.
-	$questions = array();
-	if ( ! empty( $s['faq']['faq_title'] ) && is_array( $s['faq']['faq_title'] ) ) {
-		foreach ( $s['faq']['faq_title'] as $k => $q ) {
-			$a = isset( $s['faq']['faq_content'][ $k ] ) ? $clean( $s['faq']['faq_content'][ $k ] ) : '';
-			$q = $clean( $q );
-			if ( $q !== '' && $a !== '' ) {
-				$questions[] = array(
-					'@type'          => 'Question',
-					'name'           => $q,
-					'acceptedAnswer' => array( '@type' => 'Answer', 'text' => $a ),
-				);
-			}
-		}
-	}
-	if ( $questions ) {
-		$graph[] = array( '@type' => 'FAQPage', '@id' => $url . '#faq', 'mainEntity' => $questions );
-	}
+	// FAQPage is not added here: WP Travel Engine already outputs it from the FAQ tab.
 
 	// TouristTrip: name, description, photo, provider and the day-by-day titles.
 	$desc = get_post_meta( $id, 'rank_math_description', true );
