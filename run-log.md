@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-15 11:09 | New post 2
+Kenya Safari Vaccinations and Malaria: What You Really Need — https://divulgeadventures.com/kenya-safari-vaccinations/
+Kenya (owner idea "Kenya safari vaccinations and malaria advice", bank row KE-019), Safari Planning Tips. Scheduled to publish 2026-10-15 14:00 Nairobi time. Focus keyword refined to "kenya safari vaccinations". Checked October 2026: NHS Fit for Travel Kenya page (note: that site paused updates in July 2025), CDC malaria table for Kenya (all areas below 2,500 m incl. game parks and Nairobi), US State Dept Kenya page (updated July 2026), Air Tanzania yellow fever guidance (Kenya on Tanzania's list). The post states CDC and NHS disagree on Nairobi and tells readers to confirm with a travel clinic. Trip link /trip/best-of-amboseli-masai-mara-safari/ taken from the repo's trips/ file (not opened live).
+Images: 0 from the owner's Media Library (search could not be opened), 5 from Unsplash (featured Masai Mara plains, plus mosquito-net bed, waterbuck in the Masai Mara, Nairobi skyline, Diani Beach).
+Skipped topics: none.
+Could not open: https://divulgeadventures.com/?s=malaria and the media library search (permission requests timed out; overlap checked against CONTENT_MAP.md), https://travelhealthpro.org.uk/country/115/kenya (permission request timed out), CDC Yellow Book country selector (Kenya entry not in page text).
+
 ## 2026-10-15 08:47 Trip Optimiser
 - Done: none. No trip page could be opened, so no trip files were written (the guide forbids writing trips from memory).
 - Photos: none (no trips written).
