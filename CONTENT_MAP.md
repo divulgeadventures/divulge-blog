@@ -2,6 +2,15 @@
 
 Every new post fills a gap below. Never write a topic that duplicates or competes with an existing post (list at the bottom) or a money page.
 
+## Site data copy (read this instead of opening divulgeadventures.com)
+
+A GitHub Action copies the site into `site-data/` twice a day (05:45 and 13:45 Nairobi time), so runs never need permission to open the site:
+- `site-data/media.json`: every Media Library image (id, url, alt, title, date). Search it with Python, e.g. find entries whose url/alt/title contain "amboseli".
+- `site-data/posts.json` and `site-data/pages.json`: every published post and page (title, url) for overlap checks and internal links.
+- `site-data/trips.json`: every trip (id, slug, url, title, featured image); `site-data/trips/<slug>.txt`: the full text of each trip page (itinerary, lodges, price, includes, trip facts) and its images.
+- `site-data/snapshot.json`: when the copy was made and any errors.
+Only open divulgeadventures.com with WebFetch if the copy is missing what you need or is more than 2 days old, and never wait on a permission request for it.
+
 ## How to pick today's post (TOPIC_BANK.csv)
 
 All new-post topics live in TOPIC_BANK.csv (about 1,900 topics, 300+ per destination). Columns: id, destination, priority (P1 > P2 > P3), score (higher first), focus_keyword, working_title, category, intent, topic_type, target_month, link_to (main money page), status, notes.
@@ -22,7 +31,7 @@ Status values: `todo`, `done YYYY-MM-DD <url>`, `skip (<reason>)`.
 
 ## Images (4+ per post)
 
-- The owner's WordPress Media Library has a few hundred real Divulge photos. Use them first. Search it with WebFetch https://divulgeadventures.com/wp-json/wp/v2/media?search=<word>&media_type=image&per_page=20&_fields=title,alt_text,source_url using short words: the park or place (e.g. "Amboseli", "Okavango", "Nyungwe"), the animal ("lion", "elephant", "gorilla"), and the country or trip name ("Botswana safari", "Moremi").
+- The owner's WordPress Media Library has a few hundred real Divulge photos. Use them first. Search `site-data/media.json` (see "Site data copy" above) using short words: the park or place (e.g. "Amboseli", "Okavango", "Nyungwe"), the animal ("lion", "elephant", "gorilla"), and the country or trip name ("Botswana safari", "Moremi").
 - An item is usable when its title or alt text names the post's place, animal, lodge or a Divulge trip in the same destination (e.g. "Moremi Khwai and Savuti" for a Botswana post). Write alt text from what the title says; for a trip-named photo say e.g. "on safari in Botswana" rather than guessing details.
 - Never use items titled "image" or similar, screenshots, logos, icons, maps, or anything whose title suggests people are the subject (guests, clients, team, staff, group, family, couple, wedding, names).
 - Owner photos may appear in different posts, but not in two posts on the same day and preferably not within 14 days (images-used.md).
@@ -59,7 +68,7 @@ Status values: `todo`, `done YYYY-MM-DD <url>`, `skip (<reason>)`.
 - Yellow fever requirements: https://divulgeadventures.com/yellow-fever-requirements-ke-tz/
 - Proposal form: https://divulgeadventures.com/safari-proposal-request/
 
-Individual trip pages: open the matching destination or activity page with WebFetch and link the best-matching trip.
+Individual trip pages: pick the best-matching trip from `site-data/trips.json` (title and url) and link it.
 
 ## Original topic clusters
 
@@ -71,7 +80,7 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - Rwanda: the Rwanda destination page currently lists no Rwanda trips, so Rwanda posts send readers to the quote form (https://divulgeadventures.com/safari-proposal-request/) and WhatsApp in the Trip CTA instead of a trip page, until Rwanda trips appear on that page.
 
 - Divulge Adventures content only. Never mention Hiking Outdoor Gear Hub or any other business, and do not write single-trail day-hike guides (those belong to a separate site). Mountain climbing posts are fine (Kilimanjaro, Mount Kenya).
-- Before writing, check the existing-post list below and the live site search (https://divulgeadventures.com/?s=<keyword>) to avoid overlap. If a row turns out to overlap an existing post, mark it `skip (covered by <url>)` and take the next row.
+- Before writing, check the existing-post list below and `site-data/posts.json` (every published post title) to avoid overlap. If a row turns out to overlap an existing post, mark it `skip (covered by <url>)` and take the next row.
 - Pillars link to every done post in their cluster; supporting posts link to their pillar once it is done.
 - Add every new post you publish to the "Existing posts" list below under the right category.
 
