@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-15 18:58 | Refresh
+Madaraka Express Safari: How to Reach Tsavo by Train — https://divulgeadventures.com/kenya-safari-by-train/
+Refresh (LINK FIX row), Safari Themes, focus keyword now "madaraka express safari". The three bare URLs are gone: Kenya Railways (fares/timetable page and the metickets booking portal) and Kenya Wildlife Service are now proper links. Fares (checked October 2026, from a September 2026 summary matching March 2026 press reports), Tsavo fees from 1 Oct 2025 (The Star), timetable from the Kenya Railways page. Removed unverified claims (41 underpasses, USSD code, 30% cancellation fee) and the Save the Elephants link, which could not be checked.
+Images: 0 from the owner's Media Library (search could not be opened), 5 from Unsplash (train on tracks, Tsavo tusker, Tsavo East elephant, vehicles in Tsavo East, lions in Tsavo). Featured image kept.
+Skipped topics: none. Next eligible refresh: night-game-drives-in-kenya (LINK FIX).
+Could not open: the media library search, https://kws.go.ke/park/tsavo-east-national-park/, https://savetheelephants.org/our-work/science/monitoring/sgr-underpass-monitoring/ and https://metickets.krc.co.ke/ (permission requests timed out; not retried).
+
 ## 2026-10-15 15:09 | New post 3
 Tanzania Park Fees: Serengeti, Ngorongoro, Tarangire and Manyara Costs Explained — https://divulgeadventures.com/tanzania-park-fees/
 Tanzania (owner idea "Tanzania park fees", bank row TZ-231), Safari Planning Tips. Scheduled to publish 2026-10-15 18:00 Nairobi time. Fees (checked October 2026) taken from recently updated fee summaries (March and July 2026) that match TANAPA's July 2021 schedule: Serengeti US$82.60 high / US$70.80 low, Ngorongoro US$70.80 + US$295 crater fee per vehicle, Tarangire/Manyara US$59 / US$53.10, all incl. 18% VAT; the post tells readers to confirm with TANAPA/NCAA. The official TANAPA site could not be opened, so please spot-check the figures. Worked 7-day example labelled as an estimate (about US$730-810 per adult). Trip link /trip/tarangire-ngorongoro-serengeti-safari/ is not used; the Trip CTA points to the Tanzania safaris page.
