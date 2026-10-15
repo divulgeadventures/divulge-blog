@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-15 07:25 | New post 1
+East Africa Tourist Visa: Cost, Rules and How to Apply — https://divulgeadventures.com/east-africa-tourist-visa/
+Uganda (owner idea "East Africa Tourist Visa", bank row UG-305), Safari Planning Tips. Scheduled to publish 2026-10-15 10:00 Nairobi time. Checked October 2026 on official pages: US$100, 90 days, multiple entry, first-entry rule, no extensions (Uganda immigration), Rwanda IremboGov "V11 East Africa Visa", Rwanda US$50 cap with fee waiver for AU/Commonwealth/Francophonie, Uganda single-entry US$50. Post tells Kenya-first travellers to confirm with Kenya Immigration because Kenya's online system now issues eTAs. Trip link /trip/gorilla-and-chimpanzee-trekking-safari/ taken from TRIP_QUEUE.md (not opened).
+Images: 0 from the owner's Media Library (search could not be opened), 5 from Unsplash (featured Rwenzori hills, plus Kigali at sunset, Nyamirambo in Kigali, silverback gorilla, elephant herd).
+Skipped topics: none.
+Could not open: https://divulgeadventures.com/?s=east+africa+tourist+visa, the media library search (permission requests timed out; overlap checked against CONTENT_MAP.md), https://www.gov.uk/foreign-travel-advice/kenya/entry-requirements and https://www.gov.uk/foreign-travel-advice/uganda/entry-requirements (permission requests timed out).
+
 ## 2026-10-14 19:04 | Refresh
 Masai Mara Hot Air Balloon Safari: Times, Costs and Honest Tips — https://divulgeadventures.com/masai-mara-balloon-safari/
 Kenya, Safari Themes (REFRESH_QUEUE LINK FIX row). Rewritten in full on "masai mara hot air balloon safari": no bare URLs or broken words remain; Governors Balloon Safaris is now a proper link with anchor text; links the general /hot-air-balloon-safari/ post to differentiate. Facts checked October 2026 (Governors' FAQ and Where We Fly pages, a Mara lodge's published balloon rates); prices given as an estimated US$450-600 per adult range. Divulge's own balloon add-on prices (USD 480 vs USD 500 on two trip pages) were not quoted because they conflict.
