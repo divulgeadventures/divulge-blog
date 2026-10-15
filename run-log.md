@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-15 08:47 Trip Optimiser
+- Done: none. No trip page could be opened, so no trip files were written (the guide forbids writing trips from memory).
+- Photos: none (no trips written).
+- Owner to fix by hand (the importer cannot change these): nothing new this run; the items in the 2026-10-14 Trip Optimiser entry are still open (including the "mout-kemya" slug typo).
+- Could not open: https://divulgeadventures.com/wp-json/wp/v2/trip?slug=sopa-lodges-circuit-amboseli-to-mara, https://divulgeadventures.com/wp-json/wp/v2/trip?slug=9-day-hells-gate-to-masai-mara-safari, https://divulgeadventures.com/trip/sopa-lodges-circuit-amboseli-to-mara/, https://divulgeadventures.com/trip/9-day-hells-gate-to-masai-mara-safari/, https://divulgeadventures.com/trip/amboseli-nakuru-masai-mara-safari/, https://divulgeadventures.com/trip/4-day-naivasha-nakuru-masai-mara-safari/ (all permission requests timed out; not retried). All four rows stay todo. Fix: approve divulgeadventures.com for web fetches in the scheduled task, or the task will keep stopping here.
+- Next: sopa-lodges-circuit-amboseli-to-mara, 9-day-hells-gate-to-masai-mara-safari.
+
 ## 2026-10-15 07:25 | New post 1
 East Africa Tourist Visa: Cost, Rules and How to Apply — https://divulgeadventures.com/east-africa-tourist-visa/
 Uganda (owner idea "East Africa Tourist Visa", bank row UG-305), Safari Planning Tips. Scheduled to publish 2026-10-15 10:00 Nairobi time. Checked October 2026 on official pages: US$100, 90 days, multiple entry, first-entry rule, no extensions (Uganda immigration), Rwanda IremboGov "V11 East Africa Visa", Rwanda US$50 cap with fee waiver for AU/Commonwealth/Francophonie, Uganda single-entry US$50. Post tells Kenya-first travellers to confirm with Kenya Immigration because Kenya's online system now issues eTAs. Trip link /trip/gorilla-and-chimpanzee-trekking-safari/ taken from TRIP_QUEUE.md (not opened).
