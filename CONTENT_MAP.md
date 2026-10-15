@@ -186,3 +186,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/tanzania-visa/ (tanzania visa)
 - https://divulgeadventures.com/east-africa-tourist-visa/ (east africa tourist visa)
 - https://divulgeadventures.com/kenya-safari-vaccinations/ (kenya safari vaccinations)
+- https://divulgeadventures.com/tanzania-park-fees/ (tanzania park fees)

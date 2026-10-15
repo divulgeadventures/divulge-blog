@@ -30,3 +30,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-14 | REFRESH | Safari Themes | masai mara hot air balloon safari | masai-mara-balloon-safari
 2026-10-15 | Uganda UG-305 | Safari Planning Tips | east africa tourist visa | east-africa-tourist-visa
 2026-10-15 | Kenya KE-019 | Safari Planning Tips | kenya safari vaccinations | kenya-safari-vaccinations
+2026-10-15 | Tanzania TZ-231 | Safari Planning Tips | tanzania park fees | tanzania-park-fees

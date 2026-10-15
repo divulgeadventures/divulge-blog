@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-15 15:09 | New post 3
+Tanzania Park Fees: Serengeti, Ngorongoro, Tarangire and Manyara Costs Explained — https://divulgeadventures.com/tanzania-park-fees/
+Tanzania (owner idea "Tanzania park fees", bank row TZ-231), Safari Planning Tips. Scheduled to publish 2026-10-15 18:00 Nairobi time. Fees (checked October 2026) taken from recently updated fee summaries (March and July 2026) that match TANAPA's July 2021 schedule: Serengeti US$82.60 high / US$70.80 low, Ngorongoro US$70.80 + US$295 crater fee per vehicle, Tarangire/Manyara US$59 / US$53.10, all incl. 18% VAT; the post tells readers to confirm with TANAPA/NCAA. The official TANAPA site could not be opened, so please spot-check the figures. Worked 7-day example labelled as an estimate (about US$730-810 per adult). Trip link /trip/tarangire-ngorongoro-serengeti-safari/ is not used; the Trip CTA points to the Tanzania safaris page.
+Images: 0 from the owner's Media Library (search could not be opened), 6 from Unsplash (featured Serengeti cheetah, plus wildebeest herd, Serengeti elephants, Ngorongoro Crater view, Tarangire elephants, Lake Manyara wildebeest).
+Skipped topics: none.
+Could not open: https://divulgeadventures.com/?s=tanzania+park+fees, the media library search, https://divulgeadventures.com/destinations/tanzania-safari/ and https://www.tanzaniaparks.go.tz/ (permission requests timed out; overlap checked against CONTENT_MAP.md); The Citizen fee articles loaded headline/summary only.
+
 ## 2026-10-15 11:09 | New post 2
 Kenya Safari Vaccinations and Malaria: What You Really Need — https://divulgeadventures.com/kenya-safari-vaccinations/
 Kenya (owner idea "Kenya safari vaccinations and malaria advice", bank row KE-019), Safari Planning Tips. Scheduled to publish 2026-10-15 14:00 Nairobi time. Focus keyword refined to "kenya safari vaccinations". Checked October 2026: NHS Fit for Travel Kenya page (note: that site paused updates in July 2025), CDC malaria table for Kenya (all areas below 2,500 m incl. game parks and Nairobi), US State Dept Kenya page (updated July 2026), Air Tanzania yellow fever guidance (Kenya on Tanzania's list). The post states CDC and NHS disagree on Nairobi and tells readers to confirm with a travel clinic. Trip link /trip/best-of-amboseli-masai-mara-safari/ taken from the repo's trips/ file (not opened live).
