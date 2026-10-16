@@ -33,3 +33,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-15 | Tanzania TZ-231 | Safari Planning Tips | tanzania park fees | tanzania-park-fees
 2026-10-15 | REFRESH | Safari Themes | madaraka express safari | kenya-safari-by-train
 2026-10-16 | Rwanda RW-003 | Safari Planning Tips | rwanda gorilla permit | rwanda-gorilla-permit
+2026-10-16 | Kenya KE-279 | Safari Planning Tips | kenya park fees | kenya-park-fees

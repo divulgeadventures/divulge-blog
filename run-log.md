@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-16 11:20 | New post 2
+Kenya Park Fees: KWS, Masai Mara and Conservancy Rates Explained — https://divulgeadventures.com/kenya-park-fees/
+Kenya (owner idea "Kenya park fees (KWS parks and Masai Mara)", matched to existing bank row KE-279), Safari Planning Tips. Scheduled to publish 2026-10-16 14:00 Nairobi time. KWS rates taken from the official KWS conservation fee schedule (in force since 1 Oct 2025), Masai Mara rates from The Kenya Times (Aug 2026, matching our existing posts), Ol Pejeta from its official 2026 tariff, KWSPay payment details from The Kenya Times (Nov 2025); all marked "checked October 2026". Samburu/Buffalo Springs fees could not be found on an official source, so no figure is given. Post is about 2,600 words because of the fee tables.
+Images: 7 from the owner's Media Library (featured plus 6 in the body, via site-data/media.json, chosen by title only), 0 from Unsplash.
+Skipped topics: KE-254 (magical kenya etickets park fees) marked skip (covered by this post).
+Could not open: none.
+
 ## 2026-10-16 08:45 Trip Optimiser
 - Done: 7 Days Sopa Lodges Circuit: Amboseli to Mara (ID 7460, "7 day kenya sopa lodges safari", kenya-7460-7-day-kenya-sopa-lodges-safari.json); 9 Day Hells Gate to Masai Mara Safari (ID 7371, "9 day hells gate to masai mara safari", kenya-7371-9-day-hells-gate-to-masai-mara-safari.json). Both read from the site-data copy (snapshot 2026-10-16 03:12 UTC); the live site was not opened.
 - Photos: Sopa circuit 7 owner + 0 Unsplash (featured + 4 existing gallery photos kept, Amboseli elephant and Lake Nakuru giraffes added); Hells Gate 7 owner + 0 Unsplash (featured + 4 existing gallery photos kept, Hell's Gate gorges and Lake Naivasha added). Generic "divulge adventures ... wildebeest migration safari" alts replaced, including on the Hell's Gate and Crescent Island photos. Alts are written from file names/titles only (photos could not be viewed), so a quick visual check is worthwhile.

@@ -99,3 +99,10 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/elephants-in-akagera-national-park-on-a-2-days-akagera-safari.jpg | rwanda-gorilla-permit
 2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-Trekking-Rwanda-Volcanoes-National-Park.jpeg | rwanda-gorilla-permit
 2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/virunga-volcano-above-volcanoes-national-park-in-rwanda.jpg | rwanda-gorilla-permit
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2025/11/5501-x-3667divulge_adventures-scaled.jpg | kenya-park-fees
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2025/11/IMG_5895-scaled.jpg | kenya-park-fees
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2025/12/IMG_7362-scaled.jpg | kenya-park-fees
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/02/Tsavo-West-National-Park-8.jpg | kenya-park-fees
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2025/12/6-day-amboseli-and-masai-mara-safari-wildebeest-migration-herds-in-kenya.jpg | kenya-park-fees
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2025/11/6000-x-4000divulge_adventures-36-scaled.jpg | kenya-park-fees
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_8_days_safari_edited-19-scaled.jpg | kenya-park-fees
