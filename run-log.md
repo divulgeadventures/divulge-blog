@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-16 06:53 | New post 1
+Rwanda Gorilla Permit: Prices, Discounts and How to Book — https://divulgeadventures.com/rwanda-gorilla-permit/
+Rwanda (owner idea "Rwanda gorilla permit cost and how to book", matched to existing bank row RW-003), Safari Planning Tips. Scheduled to publish 2026-10-16 10:00 Nairobi time. Checked October 2026: US$1,500 foreign rate; US$200 Rwandan/EAC and US$500 African citizens/residents promotional rates to 31 Dec 2026, not valid June-October (RDB notice of 5 Jan 2026 via KT Press/AllAfrica); 30% Nov-May low-season discount with 2 nights in Akagera/Nyungwe, 20% rescheduling fee, 7-day auto-approval and transfer service (all from the RDB booking portal). Uganda US$800 taken from our Bwindi post. Written to differ from /gorilla-trekking-in-rwanda/ (trek experience) by focusing on prices, discounts, booking and changes. Trip CTA points to /trip/6-day-rwanda-safari-gorillas-akagera/ because Rwanda trips now exist on the site.
+Images: 6 from the owner's Media Library (featured plus 5 in the body, via site-data/media.json), 0 from Unsplash.
+Skipped topics: RW-036, RW-040, RW-065 and RW-109 marked skip (covered by this post).
+Could not open: direct image downloads from divulgeadventures.com (blocked from this session, so photos were chosen by title only); RDB conference-discount page loaded but gives no percentage or eligibility.
+
 ## 2026-10-15 18:58 | Refresh
 Madaraka Express Safari: How to Reach Tsavo by Train — https://divulgeadventures.com/kenya-safari-by-train/
 Refresh (LINK FIX row), Safari Themes, focus keyword now "madaraka express safari". The three bare URLs are gone: Kenya Railways (fares/timetable page and the metickets booking portal) and Kenya Wildlife Service are now proper links. Fares (checked October 2026, from a September 2026 summary matching March 2026 press reports), Tsavo fees from 1 Oct 2025 (The Star), timetable from the Kenya Railways page. Removed unverified claims (41 underpasses, USSD code, 30% cancellation fee) and the Save the Elephants link, which could not be checked.

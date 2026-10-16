@@ -93,3 +93,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-15 | https://images.unsplash.com/photo-1521128371335-c9d171809d8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MTB8fFRzYXZvfGVufDB8MHx8fDE3OTIwNzk5MzZ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | kenya-safari-by-train
 2026-10-15 | https://images.unsplash.com/photo-1658926342182-512ff6dcc08e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8VHNhdm98ZW58MHwwfHx8MTc5MjA3OTkzNnwy&ixlib=rb-4.1.0&q=80&w=1080 | kenya-safari-by-train
 2026-10-15 | https://images.unsplash.com/photo-1537976856963-b1166f2bb739?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8VHNhdm98ZW58MHwwfHx8MTc5MjA3OTkzNnwy&ixlib=rb-4.1.0&q=80&w=1080 | kenya-safari-by-train
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-Trekking-Rwanda-volcanoes-park.jpeg | rwanda-gorilla-permit
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park.jpg | rwanda-gorilla-permit
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-Trekking-Rwanda-volcanoes-national-park-safari.jpeg | rwanda-gorilla-permit
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/elephants-in-akagera-national-park-on-a-2-days-akagera-safari.jpg | rwanda-gorilla-permit
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-Trekking-Rwanda-Volcanoes-National-Park.jpeg | rwanda-gorilla-permit
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/virunga-volcano-above-volcanoes-national-park-in-rwanda.jpg | rwanda-gorilla-permit

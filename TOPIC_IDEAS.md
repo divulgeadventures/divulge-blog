@@ -8,7 +8,7 @@ Add one idea per line as `- [ ] your idea`. The daily task writes the oldest unc
 - [x] East Africa Tourist Visa (Kenya, Uganda, Rwanda in one visa) — written 2026-10-15: https://divulgeadventures.com/east-africa-tourist-visa/
 - [x] Kenya safari vaccinations and malaria advice — written 2026-10-15: https://divulgeadventures.com/kenya-safari-vaccinations/
 - [x] Tanzania park fees (Serengeti, Ngorongoro, Tarangire, Manyara) — written 2026-10-15: https://divulgeadventures.com/tanzania-park-fees/
-- [ ] Rwanda gorilla permit cost and how to book
+- [x] Rwanda gorilla permit cost and how to book — written 2026-10-16: https://divulgeadventures.com/rwanda-gorilla-permit/
 - [ ] Kenya park fees (KWS parks and Masai Mara)
 - [ ] Is Kenya safe for safari
 - [ ] Tipping on safari in Kenya
