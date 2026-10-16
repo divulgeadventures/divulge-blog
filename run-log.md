@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-16 14:55 | New post 3
+Botswana vs Namibia: Which Safari Is Right for You? — https://divulgeadventures.com/botswana-vs-namibia/
+Botswana (bank row BW-200, BOOST comparison; focus keyword refined to "botswana vs namibia"), Destination Tips. Scheduled to publish 2026-10-16 18:00 Nairobi time. The two remaining owner ideas (Kenya safety, Kenya tipping) are both Kenya and today already has a Kenya post, so they wait for the next run. Namibia park fees (N$280 per non-SADC adult for Etosha and Namib-Naukluft) come from the official Government Gazette No. 8877 (from 1 April 2026); Namibia visa fee N$1,600 from the Namibian embassy fact sheet; Botswana Chobe/Moremi BWP 270 from trade press (2022 increase) confirmed by a 2026 fee summary, as the DWNP site was not found. Botswana visa rules and the Botswana tourism levy are not stated because no current official source was found. Post is about 2,770 words (comparison with three tables).
+Images: 6 from the owner's Media Library (featured plus 5 in the body, chosen by title/filename only), 0 from Unsplash.
+Skipped topics: none.
+Could not open: NHS Fit for Travel Namibia malaria map and CDC Yellow Book Namibia page (robots blocked), TravelHealthPro Botswana (needs JavaScript), CDC Yellow Book via Relief Central (subscriber only).
+
 ## 2026-10-16 11:20 | New post 2
 Kenya Park Fees: KWS, Masai Mara and Conservancy Rates Explained — https://divulgeadventures.com/kenya-park-fees/
 Kenya (owner idea "Kenya park fees (KWS parks and Masai Mara)", matched to existing bank row KE-279), Safari Planning Tips. Scheduled to publish 2026-10-16 14:00 Nairobi time. KWS rates taken from the official KWS conservation fee schedule (in force since 1 Oct 2025), Masai Mara rates from The Kenya Times (Aug 2026, matching our existing posts), Ol Pejeta from its official 2026 tariff, KWSPay payment details from The Kenya Times (Nov 2025); all marked "checked October 2026". Samburu/Buffalo Springs fees could not be found on an official source, so no figure is given. Post is about 2,600 words because of the fee tables.

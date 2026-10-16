@@ -198,3 +198,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/tanzania-park-fees/ (tanzania park fees)
 - https://divulgeadventures.com/rwanda-gorilla-permit/ (rwanda gorilla permit)
 - https://divulgeadventures.com/kenya-park-fees/ (kenya park fees)
+- https://divulgeadventures.com/botswana-vs-namibia/ (botswana vs namibia)

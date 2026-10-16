@@ -106,3 +106,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2025/12/6-day-amboseli-and-masai-mara-safari-wildebeest-migration-herds-in-kenya.jpg | kenya-park-fees
 2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2025/11/6000-x-4000divulge_adventures-36-scaled.jpg | kenya-park-fees
 2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_8_days_safari_edited-19-scaled.jpg | kenya-park-fees
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/06/botswanasafarichobe.webp | botswana-vs-namibia
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/06/Okavango-Delta.jpg | botswana-vs-namibia
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-Khwai-and-Savuti.jpg | botswana-vs-namibia
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/01/Namibia-Safari-Deadvlei.jpg | botswana-vs-namibia
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/06/Etosha-national-park.webp | botswana-vs-namibia
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/06/Namibian-Southern-Skeleton-Coast.jpg | botswana-vs-namibia
