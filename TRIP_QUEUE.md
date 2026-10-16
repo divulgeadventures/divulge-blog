@@ -9,8 +9,8 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 |---|---|---|---|---|---|---|
 | 1 | Kenya | 7-day-luxury-mara-river-crossing-safari | 8080 | done 2026-10-14 | 7 day masai mara river crossing safari | kenya-8080-7-day-masai-mara-river-crossing-safari.json |
 | 2 | Kenya | best-of-amboseli-masai-mara-safari | 7364 | done 2026-10-14 | 6 day amboseli and masai mara safari | kenya-7364-6-day-amboseli-and-masai-mara-safari.json |
-| 3 | Kenya | sopa-lodges-circuit-amboseli-to-mara |  | todo |  |  |
-| 4 | Kenya | 9-day-hells-gate-to-masai-mara-safari |  | todo |  |  |
+| 3 | Kenya | sopa-lodges-circuit-amboseli-to-mara | 7460 | done 2026-10-16 | 7 day kenya sopa lodges safari | kenya-7460-7-day-kenya-sopa-lodges-safari.json |
+| 4 | Kenya | 9-day-hells-gate-to-masai-mara-safari | 7371 | done 2026-10-16 | 9 day hells gate to masai mara safari | kenya-7371-9-day-hells-gate-to-masai-mara-safari.json |
 | 5 | Kenya | amboseli-nakuru-masai-mara-safari |  | todo |  |  |
 | 6 | Kenya | 4-day-naivasha-nakuru-masai-mara-safari |  | todo |  |  |
 | 7 | Kenya | 7-day-best-of-solio-game-reserve-naivasha-and-masai-mara-triangle |  | todo |  |  |
