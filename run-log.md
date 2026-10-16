@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-16 18:58 | Refresh
+Night Game Drives in Kenya: Where They Are Allowed, What You See and Cost — https://divulgeadventures.com/night-game-drives-in-kenya/
+Kenya, Safari Themes (REFRESH_QUEUE LINK FIX row). The two bare URLs are gone: KWS and the Ol Pejeta 2026 tariff are now proper links with descriptive anchor text. The live post could not be read (permission request timed out), so the post was rewritten from fresh research: Ol Pejeta night drive USD 70 adult / USD 35 child, 7-9pm and 9-11pm slots, book a day ahead, min. 4 people (official 2026 tariff, checked October 2026); no night drives in the Mara reserve, allowed in the conservancies; KWS asks day visitors to leave by about 6pm. Note: the 11 Day Special Five and Big Five trip page lists a night game drive in Tsavo West National Park; the post says night drives are not a routine activity in KWS parks and only by special arrangement, so please confirm that day of the trip is still right. Post is about 2,280 words, 4 body images, all from the owner's Media Library (0 Unsplash).
+Skipped topics: none. Three LINK FIX/TEXT FIX rows remain (mara-naboisho-conservancy, kenya-safari-packing-list, luxury-safari-lodges), so the refresh continues tomorrow.
+Could not open: https://divulgeadventures.com/night-game-drives-in-kenya/ (permission request timed out, not retried).
+
 ## 2026-10-16 14:55 | New post 3
 Botswana vs Namibia: Which Safari Is Right for You? — https://divulgeadventures.com/botswana-vs-namibia/
 Botswana (bank row BW-200, BOOST comparison; focus keyword refined to "botswana vs namibia"), Destination Tips. Scheduled to publish 2026-10-16 18:00 Nairobi time. The two remaining owner ideas (Kenya safety, Kenya tipping) are both Kenya and today already has a Kenya post, so they wait for the next run. Namibia park fees (N$280 per non-SADC adult for Etosha and Namib-Naukluft) come from the official Government Gazette No. 8877 (from 1 April 2026); Namibia visa fee N$1,600 from the Namibian embassy fact sheet; Botswana Chobe/Moremi BWP 270 from trade press (2022 increase) confirmed by a 2026 fee summary, as the DWNP site was not found. Botswana visa rules and the Botswana tourism levy are not stated because no current official source was found. Post is about 2,770 words (comparison with three tables).

@@ -112,3 +112,7 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/01/Namibia-Safari-Deadvlei.jpg | botswana-vs-namibia
 2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/06/Etosha-national-park.webp | botswana-vs-namibia
 2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/06/Namibian-Southern-Skeleton-Coast.jpg | botswana-vs-namibia
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/02/leopard-night-game-drive-solio-game-reserve.jpg | night-game-drives-in-kenya
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/05/Mara-Naboisho-Conservancy.jpg | night-game-drives-in-kenya
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2025/11/6000-x-4000divulge_adventures-64-scaled.jpg | night-game-drives-in-kenya
+2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/02/laikipia-black-leopard.jpg | night-game-drives-in-kenya
