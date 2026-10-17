@@ -134,3 +134,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-17 | https://images.unsplash.com/photo-1696894134220-cfc38c3bf7a1 | best-time-to-visit-namibia
 2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2026/06/Namibian-Southern-Skeleton-Coast-Tour.jpg | best-time-to-visit-namibia
 2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2026/01/Namibia-safari-walvis-bay-flamingos.jpg | best-time-to-visit-namibia
+2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2026/05/Mara-Naboisho-Conservancy.2.jpg | mara-naboisho-conservancy
+2026-10-17 | https://images.unsplash.com/photo-1791718932174-baf92191c602?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8c2FmYXJpJTIwdGVudCUyMEtlbnlhfGVufDB8MHx8fDE3OTIyNTI1NjF8Mg&ixlib=rb-4.1.0&q=80&w=1080 | mara-naboisho-conservancy
+2026-10-17 | https://images.unsplash.com/photo-1527073655851-770661160114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8bGlvbiUyMHByaWRlJTIwTWFzYWklMjBNYXJhfGVufDB8MHx8fDE3OTIyNTI1NjF8Mg&ixlib=rb-4.1.0&q=80&w=1080 | mara-naboisho-conservancy
+2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2026/04/6000-x-4000divulge_adventures-3-scaled.jpg | mara-naboisho-conservancy
+2026-10-17 | https://images.unsplash.com/photo-1709420838688-ccd0517d6a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8c2FmYXJpJTIwdGVudCUyMEtlbnlhfGVufDB8MHx8fDE3OTIyNTI1NjF8Mg&ixlib=rb-4.1.0&q=80&w=1080 | mara-naboisho-conservancy

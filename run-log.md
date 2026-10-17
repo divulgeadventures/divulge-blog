@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-17 19:15 | Refresh
+Mara Naboisho Conservancy: Lions, Night Drives and Where to Stay — https://divulgeadventures.com/mara-naboisho-conservancy/
+Kenya, Destination Tips (REFRESH_QUEUE LINK FIX row). The raw "[https://...](...)" link text is gone; the post now links the Reserve vs Conservancy guide properly, plus Olare Motorogi, Ol Kinyei, camps by budget, night drives, migration, park fees and Mara cost posts, the Kenya safaris page, fly-in safaris and the 7-Day Luxury Mara River Crossing Safari. The live post could not be read, so it was rewritten from fresh research (checked October 2026): about 200 km², founded 2010, 609 landowners, 46 rangers, 8 camps / about 130 beds (Conservation International, used as the external link); Encounter Mara and Ol Seki Hemingways Mara described from their official sites. No conservancy fee figure stated (could not verify). About 2,450 words.
+Images: 2 from the owner's Media Library and 3 from Unsplash in the body (featured image kept). Mara-Naboisho-Conservancy.jpg was left out because yesterday's post used it.
+Skipped topics: none. Two eligible rows remain (kenya-safari-packing-list TEXT FIX, luxury-safari-lodges LINK FIX), so the refresh continues tomorrow.
+Could not open: https://divulgeadventures.com/mara-naboisho-conservancy/ (permission request timed out, not retried).
+
 ## 2026-10-17 15:20 | New post 3
 Best Time to Visit Namibia: A Month-by-Month Safari Guide — https://divulgeadventures.com/best-time-to-visit-namibia/
 Namibia (bank row NA-001, core topic), Destination Tips. Scheduled to publish 2026-10-17 18:00 Nairobi time. About 2,550 words. Weather figures from Rough Guides (Etosha) and Responsible Travel (regional climate tables); Etosha park and pan size from Wikipedia; Fish River Canyon hike season (1 May-15 September, about 86 km) from Namibia Wildlife Resorts (a 2022 notice, so readers are told to confirm dates). No fees or lodge rates stated. Trip links: 5-day Sossusvlei and Etosha, 7-day Classic Etosha, 5-day Southern Skeleton Coast.
