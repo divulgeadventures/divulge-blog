@@ -37,3 +37,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-16 | Botswana BW-200 | Destination Tips | botswana vs namibia | botswana-vs-namibia
 2026-10-16 | REFRESH | Safari Themes | night game drives in kenya | night-game-drives-in-kenya
 2026-10-17 | Kenya KE-016 | Safari Planning Tips | is kenya safe for safari | is-kenya-safe-for-safari
+2026-10-17 | Tanzania TZ-049 | Great Migration & River Crossing | serengeti in january | serengeti-in-january

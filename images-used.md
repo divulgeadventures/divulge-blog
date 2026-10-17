@@ -122,3 +122,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2026/01/4160-x-1971divulge_adventures-scaled.jpg | is-kenya-safe-for-safari
 2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge_adventures_safari-407-scaled.jpg | is-kenya-safe-for-safari
 2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2025/11/nairobi-national-park-divulge-adventures-2-scaled.jpg | is-kenya-safe-for-safari
+2026-10-17 | https://images.unsplash.com/photo-1772290776813-09b52267c552 | serengeti-in-january
+2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-27.jpg | serengeti-in-january
+2026-10-17 | https://images.unsplash.com/photo-1615926379874-3fedcef1c293 | serengeti-in-january
+2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2026/02/neptune-serengeti-national-park.jpg | serengeti-in-january
+2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2025/12/4772-x-3324divulge_adventures-scaled.jpg | serengeti-in-january
+2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2025/11/6000-x-4000divulge_adventures-2-1-scaled.jpg | serengeti-in-january

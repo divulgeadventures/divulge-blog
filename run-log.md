@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-17 11:20 | New post 2
+Serengeti in January: Calving Season, Weather, Where to Stay and Costs — https://divulgeadventures.com/serengeti-in-january/
+Tanzania (bank row TZ-049, seasonal), Great Migration & River Crossing. Scheduled to publish 2026-10-17 14:00 Nairobi time. About 2,600 words. Fees stated: Serengeti US$82.60 high season (16 May-14 March) and Ngorongoro Conservation Area US$70.80 per adult per 24 hours, checked October 2026 against a July 2026 fee summary (the TANAPA site shows no tariff page). No lodges are named, because their official sites were not checked. Trip links: 8-day Tarangire, Ngorongoro & Serengeti and 10-day Tanzania Safari & Zanzibar Beach (the two "migration" trip pages focus on the northern Serengeti river crossings, so they were not used for a January post).
+Images: 4 from the owner's Media Library and 1 from Unsplash in the body, plus an Unsplash featured image.
+Skipped topics: the owner idea "Tipping on safari in Kenya" was left for another day, because today's post 1 is already Kenya and the 3 daily posts must be for different destinations.
+Could not open: none (The Citizen fee article loaded without its body text).
+
 ## 2026-10-17 08:50 Trip Optimiser
 - Done: 10-Day Amboseli, Nakuru & Masai Mara Safari (ID 7356, "10 day amboseli nakuru and masai mara safari", kenya-7356-10-day-amboseli-nakuru-and-masai-mara-safari.json); 4-Day Hell's Gate, Naivasha, Nakuru & Masai Mara Safari (ID 6824, "4 day naivasha nakuru and masai mara safari", kenya-6824-4-day-naivasha-nakuru-and-masai-mara-safari.json). Both read from the site-data copy (snapshot 2026-10-17 03:11 UTC); the live site was not opened.
 - Photos: 10-day 7 owner + 0 Unsplash (featured + 4 existing gallery photos kept, Amboseli elephants and Lake Nakuru giraffes added); 4-day 7 owner + 0 Unsplash (4 existing Mara gallery photos kept, Crescent Island as featured, Hell's Gate gorges and Lake Nakuru flamingos added). Generic alts ("divulge adventures kenya wildebeest migration safari", "masai mara safari divulge adventures") replaced; they are written from file names/titles only (photos could not be viewed), so a quick visual check is worthwhile. The 4-day trip's old featured image "Siana Conservancy Maasai Mara" was dropped because the trip stays in the reserve, not in Siana Conservancy.

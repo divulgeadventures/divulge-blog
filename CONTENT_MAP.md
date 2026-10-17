@@ -200,3 +200,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/kenya-park-fees/ (kenya park fees)
 - https://divulgeadventures.com/botswana-vs-namibia/ (botswana vs namibia)
 - https://divulgeadventures.com/is-kenya-safe-for-safari/ (is kenya safe for safari)
+- https://divulgeadventures.com/serengeti-in-january/ (serengeti in january)
