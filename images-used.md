@@ -128,3 +128,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2026/02/neptune-serengeti-national-park.jpg | serengeti-in-january
 2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2025/12/4772-x-3324divulge_adventures-scaled.jpg | serengeti-in-january
 2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2025/11/6000-x-4000divulge_adventures-2-1-scaled.jpg | serengeti-in-january
+2026-10-17 | https://images.unsplash.com/photo-1505598872760-6090aa9ed603 | best-time-to-visit-namibia
+2026-10-17 | https://images.unsplash.com/photo-1644219527937-28564ba100b0 | best-time-to-visit-namibia
+2026-10-17 | https://images.unsplash.com/photo-1711613592503-7bdbc5e90e17 | best-time-to-visit-namibia
+2026-10-17 | https://images.unsplash.com/photo-1696894134220-cfc38c3bf7a1 | best-time-to-visit-namibia
+2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2026/06/Namibian-Southern-Skeleton-Coast-Tour.jpg | best-time-to-visit-namibia
+2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2026/01/Namibia-safari-walvis-bay-flamingos.jpg | best-time-to-visit-namibia

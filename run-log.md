@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-17 15:20 | New post 3
+Best Time to Visit Namibia: A Month-by-Month Safari Guide — https://divulgeadventures.com/best-time-to-visit-namibia/
+Namibia (bank row NA-001, core topic), Destination Tips. Scheduled to publish 2026-10-17 18:00 Nairobi time. About 2,550 words. Weather figures from Rough Guides (Etosha) and Responsible Travel (regional climate tables); Etosha park and pan size from Wikipedia; Fish River Canyon hike season (1 May-15 September, about 86 km) from Namibia Wildlife Resorts (a 2022 notice, so readers are told to confirm dates). No fees or lodge rates stated. Trip links: 5-day Sossusvlei and Etosha, 7-day Classic Etosha, 5-day Southern Skeleton Coast.
+Images: 2 from the owner's Media Library and 3 from Unsplash in the body, plus an Unsplash featured image (Namib dunes).
+Skipped topics: the owner idea "Tipping on safari in Kenya" was left again (today already has a Kenya post); it should be tomorrow's first post. Today's refresh (mara-naboisho-conservancy, LINK FIX) is still to do.
+Could not open: https://divulgeadventures.com/?s=best+time+to+visit+namibia (permission request timed out, not retried; overlap checked against site-data/posts.json instead).
+
 ## 2026-10-17 10:54 | New post 2
 Serengeti in January: Calving Season, Weather, Where to Stay and Costs — https://divulgeadventures.com/serengeti-in-january/
 Tanzania (bank row TZ-049, seasonal), Great Migration & River Crossing. Scheduled to publish 2026-10-17 14:00 Nairobi time. About 2,600 words. Fees stated: Serengeti US$82.60 high season (16 May-14 March) and Ngorongoro Conservation Area US$70.80 per adult per 24 hours, checked October 2026 against a July 2026 fee summary (the TANAPA site shows no tariff page). No lodges are named, because their official sites were not checked. Trip links: 8-day Tarangire, Ngorongoro & Serengeti and 10-day Tanzania Safari & Zanzibar Beach (the two "migration" trip pages focus on the northern Serengeti river crossings, so they were not used for a January post).
