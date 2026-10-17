@@ -4,7 +4,7 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
-## 2026-10-17 11:20 | New post 2
+## 2026-10-17 10:54 | New post 2
 Serengeti in January: Calving Season, Weather, Where to Stay and Costs — https://divulgeadventures.com/serengeti-in-january/
 Tanzania (bank row TZ-049, seasonal), Great Migration & River Crossing. Scheduled to publish 2026-10-17 14:00 Nairobi time. About 2,600 words. Fees stated: Serengeti US$82.60 high season (16 May-14 March) and Ngorongoro Conservation Area US$70.80 per adult per 24 hours, checked October 2026 against a July 2026 fee summary (the TANAPA site shows no tariff page). No lodges are named, because their official sites were not checked. Trip links: 8-day Tarangire, Ngorongoro & Serengeti and 10-day Tanzania Safari & Zanzibar Beach (the two "migration" trip pages focus on the northern Serengeti river crossings, so they were not used for a January post).
 Images: 4 from the owner's Media Library and 1 from Unsplash in the body, plus an Unsplash featured image.
