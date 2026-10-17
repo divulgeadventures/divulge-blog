@@ -10,5 +10,5 @@ Add one idea per line as `- [ ] your idea`. The daily task writes the oldest unc
 - [x] Tanzania park fees (Serengeti, Ngorongoro, Tarangire, Manyara) — written 2026-10-15: https://divulgeadventures.com/tanzania-park-fees/
 - [x] Rwanda gorilla permit cost and how to book — written 2026-10-16: https://divulgeadventures.com/rwanda-gorilla-permit/
 - [x] Kenya park fees (KWS parks and Masai Mara) — written 2026-10-16: https://divulgeadventures.com/kenya-park-fees/
-- [ ] Is Kenya safe for safari
+- [x] Is Kenya safe for safari — written 2026-10-17: https://divulgeadventures.com/is-kenya-safe-for-safari/
 - [ ] Tipping on safari in Kenya

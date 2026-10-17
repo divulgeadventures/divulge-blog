@@ -116,3 +116,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/05/Mara-Naboisho-Conservancy.jpg | night-game-drives-in-kenya
 2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2025/11/6000-x-4000divulge_adventures-64-scaled.jpg | night-game-drives-in-kenya
 2026-10-16 | https://divulgeadventures.com/wp-content/uploads/2026/02/laikipia-black-leopard.jpg | night-game-drives-in-kenya
+2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2026/02/6000-x-4000divulge_adventures-147-scaled.jpg | is-kenya-safe-for-safari
+2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2026/01/6000-x-4000divulge_adventures-174-scaled.jpg | is-kenya-safe-for-safari
+2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2025/12/6000-x-4000divulge_adventures-25-scaled.jpg | is-kenya-safe-for-safari
+2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2026/01/4160-x-1971divulge_adventures-scaled.jpg | is-kenya-safe-for-safari
+2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge_adventures_safari-407-scaled.jpg | is-kenya-safe-for-safari
+2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2025/11/nairobi-national-park-divulge-adventures-2-scaled.jpg | is-kenya-safe-for-safari
