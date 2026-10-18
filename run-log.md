@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-18 19:10 | Refresh
+Kenya Safari Packing List: What to Bring, Wear and Leave at Home — https://divulgeadventures.com/kenya-safari-packing-list/
+Kenya, Safari Planning Tips (REFRESH_QUEUE TEXT FIX row). The raw formula code is gone ("300mm" and "15 kg" are now plain text). The live post could not be read, so it was rewritten from fresh research: Airkenya baggage policy (15 kg incl. hand luggage, soft bags, 60 x 45 x 33 cm, US$5/kg excess; checked October 2026), CDC tsetse clothing advice and UNEP on Kenya's 2017 plastic bag ban and June 2020 single-use plastics ban in parks (both external links). Includes a 16-item checklist table and a season/region table; links the Tanzania packing checklist, vaccinations, eTA, tipping and best-time-to-visit-Masai-Mara posts, Kenya safaris, fly-in, photography and two Mara trips. About 2,600 words.
+Images: 5 from the owner's Media Library and 1 from Unsplash in the body (featured image kept).
+One fix row remains: luxury-safari-lodges (LINK FIX) is tomorrow's refresh; after that the daily refresh pauses.
+Could not open: https://divulgeadventures.com/kenya-safari-packing-list/ (permission request timed out, not retried). Safarilink's allowance was not stated because only a third-party copy of its terms was found.
+
 ## 2026-10-18 14:58 | New post 3
 Tanzania Safari in December: Weather, Migration, Costs and Where to Go — https://divulgeadventures.com/tanzania-safari-in-december/
 Tanzania (bank row TZ-059, seasonal: December), Destination Tips. Scheduled to publish 2026-10-18 18:00 Nairobi time. Written country-wide (weather by region, northern and southern parks, Zanzibar, Kilimanjaro, festive dates, new US$44 inbound insurance) so it does not compete with the Serengeti in December post, which it links. Park fees from the Tanzania park fees post cross-checked with a July 2026 fee summary; cost tiers are labelled estimates, not Divulge prices. About 2,400 words.

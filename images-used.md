@@ -158,3 +158,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/07/zanzibar-beach-holidays.jpg | tanzania-safari-in-december
 2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/07/mount-kilimanjaro.jpg | tanzania-safari-in-december
 2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/07/serengeti-migration.jpg | tanzania-safari-in-december
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/05/Mara-Triangle.webp | kenya-safari-packing-list
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2025/11/4527-x-2741divulge_adventures_1-19-scaled.jpg | kenya-safari-packing-list
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/04/Divulge-Adventures-56-scaled.jpg | kenya-safari-packing-list
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/01/6000-x-4000divulge_adventures-40-1-scaled.jpg | kenya-safari-packing-list
+2026-10-18 | https://images.unsplash.com/photo-1453563391321-df71955e9289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8Ymlub2N1bGFycyUyMHNhZmFyaXxlbnwwfDB8fHwxNzkyMzM4OTQ5fDI&ixlib=rb-4.1.0&q=80&w=1080 | kenya-safari-packing-list
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2025/12/gerenuk-antelope-in-amboseli-national-park-kenya.jpg | kenya-safari-packing-list

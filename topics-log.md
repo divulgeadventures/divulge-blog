@@ -43,3 +43,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-18 | Kenya KE-029 | Safari Planning Tips | tipping in kenya | tipping-in-kenya
 2026-10-18 | Rwanda RW-085 | Destination Tips | rwanda vs tanzania safari | rwanda-vs-tanzania-safari
 2026-10-18 | Tanzania TZ-059 | Destination Tips | tanzania safari in december | tanzania-safari-in-december
+2026-10-18 | REFRESH | Safari Planning Tips | kenya safari packing list | kenya-safari-packing-list
