@@ -40,3 +40,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-17 | Tanzania TZ-049 | Great Migration & River Crossing | serengeti in january | serengeti-in-january
 2026-10-17 | Namibia NA-001 | Destination Tips | best time to visit namibia | best-time-to-visit-namibia
 2026-10-17 | REFRESH | Destination Tips | mara naboisho conservancy | mara-naboisho-conservancy
+2026-10-18 | Kenya KE-029 | Safari Planning Tips | tipping in kenya | tipping-in-kenya

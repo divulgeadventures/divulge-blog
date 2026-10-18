@@ -139,3 +139,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-17 | https://images.unsplash.com/photo-1527073655851-770661160114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8bGlvbiUyMHByaWRlJTIwTWFzYWklMjBNYXJhfGVufDB8MHx8fDE3OTIyNTI1NjF8Mg&ixlib=rb-4.1.0&q=80&w=1080 | mara-naboisho-conservancy
 2026-10-17 | https://divulgeadventures.com/wp-content/uploads/2026/04/6000-x-4000divulge_adventures-3-scaled.jpg | mara-naboisho-conservancy
 2026-10-17 | https://images.unsplash.com/photo-1709420838688-ccd0517d6a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8c2FmYXJpJTIwdGVudCUyMEtlbnlhfGVufDB8MHx8fDE3OTIyNTI1NjF8Mg&ixlib=rb-4.1.0&q=80&w=1080 | mara-naboisho-conservancy
+2026-10-18 | https://images.unsplash.com/photo-1709402606682-400133d92ab2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8c2FmYXJpJTIwdmVoaWNsZSUyMEtlbnlhfGVufDB8MHx8fDE3OTIyOTU3ODJ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | tipping-in-kenya
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge_adventures_safari-31-8-scaled.jpg | tipping-in-kenya
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-8.jpg | tipping-in-kenya
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/05/masai-mara-accommodations-angama-mara-premium-lodge-3-scaled.jpg | tipping-in-kenya
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2025/11/DSC_1572-scaled.jpg | tipping-in-kenya
+2026-10-18 | https://images.unsplash.com/photo-1667935837291-1dc178866251?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8RGlhbmklMjBiZWFjaCUyMEtlbnlhfGVufDB8MHx8fDE3OTIyOTU3ODN8Mg&ixlib=rb-4.1.0&q=80&w=1080 | tipping-in-kenya

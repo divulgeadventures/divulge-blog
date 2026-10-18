@@ -11,4 +11,4 @@ Add one idea per line as `- [ ] your idea`. The daily task writes the oldest unc
 - [x] Rwanda gorilla permit cost and how to book — written 2026-10-16: https://divulgeadventures.com/rwanda-gorilla-permit/
 - [x] Kenya park fees (KWS parks and Masai Mara) — written 2026-10-16: https://divulgeadventures.com/kenya-park-fees/
 - [x] Is Kenya safe for safari — written 2026-10-17: https://divulgeadventures.com/is-kenya-safe-for-safari/
-- [ ] Tipping on safari in Kenya
+- [x] Tipping on safari in Kenya — written 2026-10-18: https://divulgeadventures.com/tipping-in-kenya/

@@ -202,3 +202,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/is-kenya-safe-for-safari/ (is kenya safe for safari)
 - https://divulgeadventures.com/serengeti-in-january/ (serengeti in january)
 - https://divulgeadventures.com/best-time-to-visit-namibia/ (best time to visit namibia)
+- https://divulgeadventures.com/tipping-in-kenya/ (tipping in kenya)

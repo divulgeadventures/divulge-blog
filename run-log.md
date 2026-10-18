@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-18 07:20 | New post 1
+Tipping in Kenya: How Much to Tip on Safari, at Lodges and on Mount Kenya — https://divulgeadventures.com/tipping-in-kenya/
+Kenya (owner idea "Tipping on safari in Kenya", matched to existing bank row KE-029; focus keyword refined to "tipping in kenya"), Safari Planning Tips. Scheduled to publish 2026-10-18 10:00 Nairobi time. Tip ranges are typical published guidance (labelled as guidelines, not fees); the US$10 pp/day guideline comes from Divulge's own trip pages; exchange rate KSh 129.94 = US$1 (Central Bank of Kenya bulletin, 8 October 2026, used as the external link); M-Pesa registration with a passport from a September 2026 explainer. Worked 7-day budget for a couple: about US$220-510 (estimate).
+Images: 4 from the owner's Media Library and 1 from Unsplash in the body, plus an Unsplash featured image (safari vehicle with a lion).
+Skipped topics: none. TOPIC_IDEAS.md has no unchecked owner ideas left. Today's refresh (kenya-safari-packing-list, TEXT FIX) is still to do.
+Could not open: https://divulgeadventures.com/?s=tipping (permission request timed out, not retried; overlap checked against site-data/posts.json instead).
+
 ## 2026-10-17 19:15 | Refresh
 Mara Naboisho Conservancy: Lions, Night Drives and Where to Stay — https://divulgeadventures.com/mara-naboisho-conservancy/
 Kenya, Destination Tips (REFRESH_QUEUE LINK FIX row). The raw "[https://...](...)" link text is gone; the post now links the Reserve vs Conservancy guide properly, plus Olare Motorogi, Ol Kinyei, camps by budget, night drives, migration, park fees and Mara cost posts, the Kenya safaris page, fly-in safaris and the 7-Day Luxury Mara River Crossing Safari. The live post could not be read, so it was rewritten from fresh research (checked October 2026): about 200 km², founded 2010, 609 landowners, 46 rangers, 8 camps / about 130 beds (Conservation International, used as the external link); Encounter Mara and Ol Seki Hemingways Mara described from their official sites. No conservancy fee figure stated (could not verify). About 2,450 words.
