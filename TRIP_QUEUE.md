@@ -13,8 +13,8 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 4 | Kenya | 9-day-hells-gate-to-masai-mara-safari | 7371 | done 2026-10-16 | 9 day hells gate to masai mara safari | kenya-7371-9-day-hells-gate-to-masai-mara-safari.json |
 | 5 | Kenya | amboseli-nakuru-masai-mara-safari | 7356 | done 2026-10-17 | 10 day amboseli nakuru and masai mara safari | kenya-7356-10-day-amboseli-nakuru-and-masai-mara-safari.json |
 | 6 | Kenya | 4-day-naivasha-nakuru-masai-mara-safari | 6824 | done 2026-10-17 | 4 day naivasha nakuru and masai mara safari | kenya-6824-4-day-naivasha-nakuru-and-masai-mara-safari.json |
-| 7 | Kenya | 7-day-best-of-solio-game-reserve-naivasha-and-masai-mara-triangle |  | todo |  |  |
-| 8 | Kenya | 12-days-magical-kenya-tanzania-safari |  | todo |  |  |
+| 7 | Kenya | 7-day-best-of-solio-game-reserve-naivasha-and-masai-mara-triangle | 7467 | done 2026-10-18 | 7 day solio naivasha and masai mara safari | kenya-7467-7-day-solio-naivasha-and-masai-mara-safari.json |
+| 8 | Kenya | 12-days-magical-kenya-tanzania-safari | 7380 | done 2026-10-18 | 12 day kenya and tanzania safari | kenya-7380-12-day-kenya-and-tanzania-safari.json |
 | 9 | Kenya | nairobi-national-park-half-day-safari |  | todo |  |  |
 | 10 | Kenya | 7-day-ol-pejeta-meru-and-samburu-safari |  | todo |  |  |
 | 11 | Kenya | 7-days-masai-mara-kenya-safari |  | todo |  |  |
