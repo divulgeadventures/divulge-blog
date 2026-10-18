@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-18 11:15 | New post 2
+Rwanda vs Tanzania Safari: Which Is Better for Your Trip? — https://divulgeadventures.com/rwanda-vs-tanzania-safari/
+Rwanda (bank row RW-085, BOOST comparison), Destination Tips. Scheduled to publish 2026-10-18 14:00 Nairobi time. Fees checked October 2026: Rwanda gorilla permit US$1,500; Akagera entry US$100 (1 day/night) / US$150 (2 nights) from African Parks' published price list (labelled 2025, the latest official sheet found); Tanzania park fees from the existing Tanzania park fees post; Rwanda visa from GOV.UK (free 30 days for Commonwealth) and the US State Department (US$50). Cost tiers are labelled estimates, not Divulge prices. About 2,600 words.
+Images: 5 from the owner's Media Library in the body (Rwanda gorilla, Serengeti wildebeest, Akagera zebras, Ngorongoro Crater, Lake Kivu) plus an owner featured image (gorilla-in-rwanda); 0 from Unsplash.
+Skipped topics: none. Today's refresh (kenya-safari-packing-list, TEXT FIX) is still to do.
+Could not open: none (Kigali–Kilimanjaro flight time of about 1h45 taken from a flight-schedule site, as RwandAir's own page was not checked; the post tells readers to confirm flight days).
+
 ## 2026-10-18 08:36 Trip Optimiser
 - Done: 7 Day Best of Solio Game Reserve, Naivasha and Masai Mara Triangle (ID 7467, "7 day solio naivasha and masai mara safari", kenya-7467-7-day-solio-naivasha-and-masai-mara-safari.json); 12 Days Magical Kenya & Tanzania Safari (ID 7380, "12 day kenya and tanzania safari", kenya-7380-12-day-kenya-and-tanzania-safari.json). Both read from the site-data copy (snapshot 2026-10-18 03:11 UTC); the live site was not opened. Neither page shows its own price (every "From $" line on both pages belongs to related trips), so both use the "Price on request" box.
 - Photos: Solio 7 owner + 0 Unsplash (white rhino DSC_1727edited as featured; existing solio.jpg, safari-at-solio and 4020-x-3125 "short excursions" kept; Lake Naivasha, Hell's Gate gorges and Mara wildebeest added). 12-day 7 owner + 0 Unsplash (Mara wildebeest safari-66 as featured; existing Copy2-118, safari-27 and safari-7 kept; Ngorongoro, Northern Tanzania and Amboseli elephants added). Alts are written from file names/titles only (photos could not be viewed), so a quick visual check is worthwhile, especially that safari-at-solio and Copy2-118 do not show people as the main subject.

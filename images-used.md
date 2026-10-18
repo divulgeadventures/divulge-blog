@@ -145,3 +145,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/05/masai-mara-accommodations-angama-mara-premium-lodge-3-scaled.jpg | tipping-in-kenya
 2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2025/11/DSC_1572-scaled.jpg | tipping-in-kenya
 2026-10-18 | https://images.unsplash.com/photo-1667935837291-1dc178866251?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8RGlhbmklMjBiZWFjaCUyMEtlbnlhfGVufDB8MHx8fDE3OTIyOTU3ODN8Mg&ixlib=rb-4.1.0&q=80&w=1080 | tipping-in-kenya
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-in-rwanda.jpg | rwanda-vs-tanzania-safari
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-eating-leaves-in-volcanoes-national-park-rwanda.jpg | rwanda-vs-tanzania-safari
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/07/wildebeest-serengeti_11zon-scaled.jpg | rwanda-vs-tanzania-safari
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/zebras-grazing-in-akagera-national-park-on-a-rwanda-safari.jpg | rwanda-vs-tanzania-safari
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/07/ngorongoro-crater.jpg | rwanda-vs-tanzania-safari
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/green-hill-on-the-shore-of-lake-kivu-rwanda.jpg | rwanda-vs-tanzania-safari
