@@ -151,3 +151,10 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/zebras-grazing-in-akagera-national-park-on-a-rwanda-safari.jpg | rwanda-vs-tanzania-safari
 2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/07/ngorongoro-crater.jpg | rwanda-vs-tanzania-safari
 2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/green-hill-on-the-shore-of-lake-kivu-rwanda.jpg | rwanda-vs-tanzania-safari
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/09/Tanzania-Serengeti-safari-best-national-parks-in-Tanzania.jpg | tanzania-safari-in-december
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/tanzania-northern-circuit-itinerary.jpg | tanzania-safari-in-december
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/09/Tarangire-National-park-best-national-parks-in-Tanzania-Divulge-Adventures.jpeg | tanzania-safari-in-december
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/01/divulge_adventures_safari-98-scaled.jpg | tanzania-safari-in-december
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/07/zanzibar-beach-holidays.jpg | tanzania-safari-in-december
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/07/mount-kilimanjaro.jpg | tanzania-safari-in-december
+2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/07/serengeti-migration.jpg | tanzania-safari-in-december
