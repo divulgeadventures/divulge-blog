@@ -164,3 +164,10 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2026/01/6000-x-4000divulge_adventures-40-1-scaled.jpg | kenya-safari-packing-list
 2026-10-18 | https://images.unsplash.com/photo-1453563391321-df71955e9289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8Ymlub2N1bGFycyUyMHNhZmFyaXxlbnwwfDB8fHwxNzkyMzM4OTQ5fDI&ixlib=rb-4.1.0&q=80&w=1080 | kenya-safari-packing-list
 2026-10-18 | https://divulgeadventures.com/wp-content/uploads/2025/12/gerenuk-antelope-in-amboseli-national-park-kenya.jpg | kenya-safari-packing-list
+2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2025/12/Tanzania-Serengeti-safari.jpg | tanzania-safari-in-january
+2026-10-19 | https://images.unsplash.com/photo-1763675848759-9cdf601bfbc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8d2lsZGViZWVzdCUyMGhlcmQlMjBTZXJlbmdldGl8ZW58MHwwfHx8MTc5MjM4MTkwNXwy&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-safari-in-january
+2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2026/05/zanzibar_island_boat.jpg | tanzania-safari-in-january
+2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2025/11/wgf_0489.jpg | tanzania-safari-in-january
+2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-19-scaled.jpg | tanzania-safari-in-january
+2026-10-19 | https://images.unsplash.com/photo-1635865897833-38bc0f8aee44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8TW91bnQlMjBLaWxpbWFuamFyb3xlbnwwfDB8fHwxNzkyMzgxOTA1fDI&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-safari-in-january
+2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2026/07/images-2.jpg | tanzania-safari-in-january

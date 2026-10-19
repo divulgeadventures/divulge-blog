@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-19 07:20 | New post 1
+Tanzania Safari in January: Weather, Calving Season, Costs and Where to Go — https://divulgeadventures.com/tanzania-safari-in-january/
+Tanzania (bank row TZ-061, seasonal: January), Destination Tips. Scheduled to publish 2026-10-19 10:00 Nairobi time. Written country-wide (weather by region, northern and southern parks, Kilimanjaro, Zanzibar, costs, trip length) so it does not compete with the Serengeti in January post, which it links. Park fees match the Tanzania park fees post (checked October 2026); the US$44 inbound insurance is from the Norwegian embassy notice; cost tiers are labelled estimates, not Divulge prices. About 2,550 words.
+Images: 5 from the owner's Media Library (featured Serengeti photo plus Zanzibar boat, Ngorongoro Crater, Ruaha and Tarangire in the body) and 2 from Unsplash (wildebeest, Kilimanjaro Rongai route).
+Skipped topics: none. Today's refresh (luxury-safari-lodges, LINK FIX) is still to do.
+Could not open: https://www.tanzaniaparks.go.tz/ was not opened (it timed out on earlier runs); fees taken from the existing fees post, readers told to confirm on TANAPA.
+
 ## 2026-10-18 19:10 | Refresh
 Kenya Safari Packing List: What to Bring, Wear and Leave at Home — https://divulgeadventures.com/kenya-safari-packing-list/
 Kenya, Safari Planning Tips (REFRESH_QUEUE TEXT FIX row). The raw formula code is gone ("300mm" and "15 kg" are now plain text). The live post could not be read, so it was rewritten from fresh research: Airkenya baggage policy (15 kg incl. hand luggage, soft bags, 60 x 45 x 33 cm, US$5/kg excess; checked October 2026), CDC tsetse clothing advice and UNEP on Kenya's 2017 plastic bag ban and June 2020 single-use plastics ban in parks (both external links). Includes a 16-item checklist table and a season/region table; links the Tanzania packing checklist, vaccinations, eTA, tipping and best-time-to-visit-Masai-Mara posts, Kenya safaris, fly-in, photography and two Mara trips. About 2,600 words.
