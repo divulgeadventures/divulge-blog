@@ -171,3 +171,10 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-19-scaled.jpg | tanzania-safari-in-january
 2026-10-19 | https://images.unsplash.com/photo-1635865897833-38bc0f8aee44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8TW91bnQlMjBLaWxpbWFuamFyb3xlbnwwfDB8fHwxNzkyMzgxOTA1fDI&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-safari-in-january
 2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2026/07/images-2.jpg | tanzania-safari-in-january
+2026-10-19 | https://images.unsplash.com/photo-1782664467973-7d3c93f8c47e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8Y2hpbXBhbnplZSUyMEtpYmFsZXxlbnwwfDB8fHwxNzkyMzk2MzcyfDI&ixlib=rb-4.1.0&q=80&w=1080 | chimpanzee-trekking-in-kibale
+2026-10-19 | https://images.unsplash.com/photo-1782664485979-d1489233df93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8Y2hpbXBhbnplZSUyMEtpYmFsZXxlbnwwfDB8fHwxNzkyMzk2MzcyfDI&ixlib=rb-4.1.0&q=80&w=1080 | chimpanzee-trekking-in-kibale
+2026-10-19 | https://images.unsplash.com/photo-1782664682933-063ba7376541?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MTB8fGNoaW1wYW56ZWUlMjBLaWJhbGV8ZW58MHwwfHx8MTc5MjM5NjM3Mnwy&ixlib=rb-4.1.0&q=80&w=1080 | chimpanzee-trekking-in-kibale
+2026-10-19 | https://images.unsplash.com/photo-1782664388248-779da82f420c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OXx8Y2hpbXBhbnplZSUyMEtpYmFsZXxlbnwwfDB8fHwxNzkyMzk2MzcyfDI&ixlib=rb-4.1.0&q=80&w=1080 | chimpanzee-trekking-in-kibale
+2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2026/10/east-africa-tourist-visa.jpg | chimpanzee-trekking-in-kibale
+2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2026/10/black-and-white-colobus-monkey-in-the-forest.jpg | chimpanzee-trekking-in-kibale
+2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2026/04/game-drive-queen.jpg | chimpanzee-trekking-in-kibale

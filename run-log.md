@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-19 11:20 | New post 2
+Chimpanzee Trekking in Kibale: Permits, Costs and Best Time — https://divulgeadventures.com/chimpanzee-trekking-in-kibale/
+Uganda (bank row UG-002, core topic), Destination Tips. Scheduled to publish 2026-10-19 14:00 Nairobi time. Trek times, group size (6), minimum age (16), 2-5 hour duration, >90% success, distances and rainfall from Uganda Wildlife Authority's Kibale page and park guide. Permit prices (US$250 tracking / US$300 habituation now; US$300 / US$400 announced from January 2027; US$200 low season Apr/May/Nov) from recent 2026 Uganda reports, as UWA's current tariff PDF was not found; labelled "checked October 2026" with readers told to confirm. Links the 6-day Kibale + Murchison and 7-day primate trips and the Mahale chimp post (differentiated). About 2,400 words.
+Images: 3 from the owner's Media Library in the body (Rwenzori foothills, colobus monkey, Queen Elizabeth game drive) and 3 from Unsplash in the body (Kibale chimps), plus an Unsplash Kibale chimp featured image. Skipped the owner photo "Chimpanzee at Kibale ... Photo by Giles Laurent" (330px and credited to another photographer).
+Skipped topics: none. Today's refresh (luxury-safari-lodges, LINK FIX) is still to do.
+Could not open: UWA's 2024-2026 tariff PDF was not located (only the 2022-2024 and 2020-2022 PDFs appear in search); no fetch errors.
+
 ## 2026-10-19 05:40 Trip Optimiser
 - Done: Nairobi National Park Half Day Safari (5-6 Hrs) (ID 10970, "nairobi national park half day safari", kenya-10970-nairobi-national-park-half-day-safari.json); 7 Day Special Five Ol Pejeta, Meru and Samburu Safari (ID 7473, "7 day ol pejeta meru and samburu safari", kenya-7473-7-day-ol-pejeta-meru-and-samburu-safari.json). Both read from the site-data copy (snapshot 2026-10-19 03:15 UTC); the live site was not opened. Prices from the pages: Nairobi from USD 75 (regular USD 90), Ol Pejeta/Meru/Samburu from USD 2,915 (regular USD 3,670).
 - Photos: Nairobi 6 owner + 0 Unsplash (all 5 existing gallery photos kept with new alts, nairobi-national-park-divulge-adventures-2 added). Ol Pejeta 7 owner + 0 Unsplash (featured Olpejeta Conservancy + 4 existing gallery photos kept with new alts; Meru game drive and Samburu reticulated giraffe added). Alts are written from file names/titles only (photos could not be viewed), so a quick visual check is worthwhile. Skipped: nairobi-national-park-photography (may show a photographer as the main subject; add it back if it shows wildlife) and day-trips-from-nairobi.jpg (named after a blog post, so probably Unsplash).
