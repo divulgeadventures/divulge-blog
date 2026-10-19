@@ -1,28 +1,313 @@
 [
  {
+  "id": 11889,
+  "slug": "19-day-kenya-highlands-birding-safari",
+  "url": "https://divulgeadventures.com/trip/19-day-kenya-highlands-birding-safari/",
+  "title": "19 Day Kenya Highlands Birding Safari",
+  "destination": [
+   19
+  ],
+  "modified": "2026-10-19T13:41:10",
+  "featured_image": {
+   "id": 11863,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/green-and-blue-turaco-perched-in-a-tree.jpg",
+   "alt": "Green and blue turaco perched in a tree"
+  }
+ },
+ {
+  "id": 11887,
+  "slug": "17-day-samburu-birding-safari",
+  "url": "https://divulgeadventures.com/trip/17-day-samburu-birding-safari/",
+  "title": "17 Day Samburu and Masai Mara Birding Safari",
+  "destination": [
+   19
+  ],
+  "modified": "2026-10-19T13:41:08",
+  "featured_image": {
+   "id": 11829,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/young-giraffe-in-a-misty-clearing-at-sunrise-in-samburu.jpg",
+   "alt": "Giraffe at sunrise in Samburu"
+  }
+ },
+ {
+  "id": 11885,
+  "slug": "17-day-kenya-birding-expedition",
+  "url": "https://divulgeadventures.com/trip/17-day-kenya-birding-expedition/",
+  "title": "17 Day Kenya Birding Expedition",
+  "destination": [
+   19
+  ],
+  "modified": "2026-10-19T13:41:07",
+  "featured_image": {
+   "id": 11864,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/grey-crowned-crane-close-up.jpg",
+   "alt": "Grey crowned crane close-up"
+  }
+ },
+ {
+  "id": 11883,
+  "slug": "16-day-kenya-migrant-birding-safari",
+  "url": "https://divulgeadventures.com/trip/16-day-kenya-migrant-birding-safari/",
+  "title": "16 Day Kenya Migrant Birding Safari",
+  "destination": [
+   19
+  ],
+  "modified": "2026-10-19T13:41:06",
+  "featured_image": {
+   "id": 11869,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/saddle-billed-storks-in-a-wetland.jpg",
+   "alt": "Saddle-billed storks in a wetland"
+  }
+ },
+ {
+  "id": 11881,
+  "slug": "14-day-southern-kenya-birding-safari",
+  "url": "https://divulgeadventures.com/trip/14-day-southern-kenya-birding-safari/",
+  "title": "14 Day Southern Kenya Birding Safari",
+  "destination": [
+   19
+  ],
+  "modified": "2026-10-19T13:41:05",
+  "featured_image": {
+   "id": 11816,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/elephant-herd-walking-in-front-of-kilimanjaro.jpg",
+   "alt": "Elephant herd walking in front of Kilimanjaro"
+  }
+ },
+ {
+  "id": 11878,
+  "slug": "14-day-kenya-birding-tour",
+  "url": "https://divulgeadventures.com/trip/14-day-kenya-birding-tour/",
+  "title": "14 Day Kenya Birding Tour",
+  "destination": [
+   19
+  ],
+  "modified": "2026-10-19T13:41:03",
+  "featured_image": {
+   "id": 11863,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/green-and-blue-turaco-perched-in-a-tree.jpg",
+   "alt": "Green and blue turaco perched in a tree"
+  }
+ },
+ {
+  "id": 11874,
+  "slug": "uganda-birding-and-primate-safari",
+  "url": "https://divulgeadventures.com/trip/uganda-birding-and-primate-safari/",
+  "title": "12 Day Uganda Birding and Primate Safari",
+  "destination": [
+   27
+  ],
+  "modified": "2026-10-19T12:56:39",
+  "featured_image": {
+   "id": 11876,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/shoebill-stork-in-uganda.jpg",
+   "alt": "Shoebill stork in Uganda"
+  }
+ },
+ {
+  "id": 11870,
+  "slug": "17-day-uganda-shoebill-birding-safari",
+  "url": "https://divulgeadventures.com/trip/17-day-uganda-shoebill-birding-safari/",
+  "title": "17 Day Uganda Shoebill Birding Safari",
+  "destination": [
+   27
+  ],
+  "modified": "2026-10-19T12:51:22",
+  "featured_image": {
+   "id": 11872,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/shoebill-with-its-huge-bill-against-green-foliage.jpg",
+   "alt": "Shoebill with its huge bill against green foliage"
+  }
+ },
+ {
+  "id": 11865,
+  "slug": "17-day-albertine-rift-birding-safari",
+  "url": "https://divulgeadventures.com/trip/17-day-albertine-rift-birding-safari/",
+  "title": "17 Day Albertine Rift Birding Safari",
+  "destination": [
+   27
+  ],
+  "modified": "2026-10-19T12:45:52",
+  "featured_image": {
+   "id": 11867,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/white-cheeked-turaco-on-a-branch.jpg",
+   "alt": "White-cheeked turaco on a branch"
+  }
+ },
+ {
+  "id": 11861,
+  "slug": "kenya-birding-and-wildlife-safari",
+  "url": "https://divulgeadventures.com/trip/kenya-birding-and-wildlife-safari/",
+  "title": "15 Day Kenya Birding and Wildlife Safari",
+  "destination": [
+   19
+  ],
+  "modified": "2026-10-19T12:40:46",
+  "featured_image": {
+   "id": 11863,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/green-and-blue-turaco-perched-in-a-tree.jpg",
+   "alt": "Green and blue turaco perched in a tree"
+  }
+ },
+ {
+  "id": 11859,
+  "slug": "9-day-rift-valley-birding-safari",
+  "url": "https://divulgeadventures.com/trip/9-day-rift-valley-birding-safari/",
+  "title": "9 Day Rift Valley Birding Safari",
+  "destination": [
+   19
+  ],
+  "modified": "2026-10-19T12:40:31",
+  "featured_image": {
+   "id": 11857,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/sunbird-feeding-on-nectar-from-blossoms.jpg",
+   "alt": "Sunbird feeding on nectar from blossoms"
+  }
+ },
+ {
+  "id": 11854,
+  "slug": "9-day-kenya-coast-birding-safari",
+  "url": "https://divulgeadventures.com/trip/9-day-kenya-coast-birding-safari/",
+  "title": "9 Day Kenya Coast Birding Safari",
+  "destination": [
+   19
+  ],
+  "modified": "2026-10-19T12:36:32",
+  "featured_image": {
+   "id": 11856,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/fischers-turaco-a-coastal-forest-speciality.jpg",
+   "alt": "Fischer's turaco, a coastal forest speciality"
+  }
+ },
+ {
+  "id": 11846,
+  "slug": "8-day-calving-season-photo-safari",
+  "url": "https://divulgeadventures.com/trip/8-day-calving-season-photo-safari/",
+  "title": "8 Day Tanzania Calving Season Photo Safari",
+  "destination": [
+   31
+  ],
+  "modified": "2026-10-19T12:10:33",
+  "featured_image": {
+   "id": 11848,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/wildebeest-herd-heading-across-the-serengeti-during-the-migration.jpg",
+   "alt": "Wildebeest herd heading across the Serengeti during the migration"
+  }
+ },
+ {
+  "id": 11843,
+  "slug": "4-day-rwanda-gorilla-photography-safari",
+  "url": "https://divulgeadventures.com/trip/4-day-rwanda-gorilla-photography-safari/",
+  "title": "4 Day Rwanda Gorilla Photography Safari",
+  "destination": [
+   33
+  ],
+  "modified": "2026-10-19T12:05:38",
+  "featured_image": {
+   "id": 11672,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p-1.jpg",
+   "alt": "Mountain gorilla in the forest"
+  }
+ },
+ {
+  "id": 11835,
+  "slug": "great-migration-photography-safari",
+  "url": "https://divulgeadventures.com/trip/great-migration-photography-safari/",
+  "title": "5 Day Great Migration Photography Safari",
+  "destination": [
+   19
+  ],
+  "modified": "2026-10-19T12:00:29",
+  "featured_image": {
+   "id": 11837,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/wildebeest-crossing-the-mara-river-during-the-great-migration.jpg",
+   "alt": "Wildebeest crossing the Mara River during the Great Migration"
+  }
+ },
+ {
+  "id": 11827,
+  "slug": "7-day-kenya-wildlife-photography-safari",
+  "url": "https://divulgeadventures.com/trip/7-day-kenya-wildlife-photography-safari/",
+  "title": "7 Day Kenya Wildlife Photography Safari",
+  "destination": [
+   19
+  ],
+  "modified": "2026-10-19T11:50:43",
+  "featured_image": {
+   "id": 11829,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/young-giraffe-in-a-misty-clearing-at-sunrise-in-samburu.jpg",
+   "alt": "Giraffe at sunrise in Samburu"
+  }
+ },
+ {
+  "id": 11820,
+  "slug": "5-day-kenya-bird-photography-safari",
+  "url": "https://divulgeadventures.com/trip/5-day-kenya-bird-photography-safari/",
+  "title": "5 Day Kenya Bird Photography Safari",
+  "destination": [
+   19
+  ],
+  "modified": "2026-10-19T11:43:56",
+  "featured_image": {
+   "id": 11822,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/flamingos-taking-flight-over-lake-nakuru-kenya.jpg",
+   "alt": "Flamingos taking flight over Lake Nakuru"
+  }
+ },
+ {
+  "id": 11813,
+  "slug": "4-day-amboseli-photography-safari",
+  "url": "https://divulgeadventures.com/trip/4-day-amboseli-photography-safari/",
+  "title": "4 Day Amboseli Photography Safari",
+  "destination": [
+   19
+  ],
+  "modified": "2026-10-19T11:43:22",
+  "featured_image": {
+   "id": 11815,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/elephants-grazing-below-mount-kilimanjaro-in-amboseli.jpg",
+   "alt": "Elephants grazing below Mount Kilimanjaro in Amboseli"
+  }
+ },
+ {
+  "id": 11806,
+  "slug": "3-day-masai-mara-photography-safari",
+  "url": "https://divulgeadventures.com/trip/3-day-masai-mara-photography-safari/",
+  "title": "3 Day Masai Mara Photography Safari",
+  "destination": [
+   19
+  ],
+  "modified": "2026-10-19T11:40:28",
+  "featured_image": {
+   "id": 11808,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/leopard-standing-on-a-tree-branch-in-the-masai-mara.jpg",
+   "alt": "Leopard on a tree branch in the Masai Mara"
+  }
+ },
+ {
   "id": 11564,
-  "slug": "11-days-ultra-luxury-rwanda-safari",
-  "url": "https://divulgeadventures.com/trip/11-days-ultra-luxury-rwanda-safari/",
+  "slug": "ultra-luxury-rwanda-safari",
+  "url": "https://divulgeadventures.com/trip/ultra-luxury-rwanda-safari/",
   "title": "11 Days Ultra Luxury Rwanda Wildlife, Gorillas, Chimpanzees and Golden Monkeys",
   "destination": [
    33
   ],
-  "modified": "2026-10-13T17:48:08",
+  "modified": "2026-10-19T12:20:59",
   "featured_image": {
-   "id": 11668,
-   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p.jpg",
-   "alt": "Mountain gorilla on a 1 day gorilla trekking Rwanda tour in Volcanoes National Park"
+   "id": 11672,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p-1.jpg",
+   "alt": "Mountain gorilla in the forest"
   }
  },
  {
   "id": 11562,
-  "slug": "10-days-budget-rwanda-safari-gorillas-chimps",
-  "url": "https://divulgeadventures.com/trip/10-days-budget-rwanda-safari-gorillas-chimps/",
+  "slug": "budget-rwanda-safari",
+  "url": "https://divulgeadventures.com/trip/budget-rwanda-safari/",
   "title": "10 Days Rwanda Budget Gorilla and Chimpanzee Safari",
   "destination": [
    33
   ],
-  "modified": "2026-10-13T17:49:25",
+  "modified": "2026-10-19T12:20:57",
   "featured_image": {
    "id": 11674,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-eating-leaves-in-volcanoes-national-park-rwanda-1.jpg",
@@ -31,43 +316,43 @@
  },
  {
   "id": 11561,
-  "slug": "9-days-rwanda-safari-akagera-nyungwe-gorillas",
-  "url": "https://divulgeadventures.com/trip/9-days-rwanda-safari-akagera-nyungwe-gorillas/",
+  "slug": "9-days-rwanda-safari",
+  "url": "https://divulgeadventures.com/trip/9-days-rwanda-safari/",
   "title": "9 Days Rwanda Wildlife, Gorillas, Chimpanzees and Lake Kivu Safari",
   "destination": [
    33
   ],
-  "modified": "2026-10-13T17:48:51",
+  "modified": "2026-10-19T12:20:56",
   "featured_image": {
    "id": 11673,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorillas-feeding-during-1-day-gorilla-trekking-in-rwanda-1.jpg",
-   "alt": "Mountain gorillas on a 9 days Rwanda safari"
+   "alt": "Mountain gorillas feeding on leaves"
   }
  },
  {
   "id": 11560,
-  "slug": "8-days-rwanda-primates-and-lake-kivu-safari",
-  "url": "https://divulgeadventures.com/trip/8-days-rwanda-primates-and-lake-kivu-safari/",
+  "slug": "rwanda-primates-and-lake-kivu-safari",
+  "url": "https://divulgeadventures.com/trip/rwanda-primates-and-lake-kivu-safari/",
   "title": "8 Days Rwanda Primates and Lake Kivu Experience",
   "destination": [
    33
   ],
-  "modified": "2026-10-13T17:50:24",
+  "modified": "2026-10-19T12:20:55",
   "featured_image": {
    "id": 11688,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-resting-in-the-rainforest-canopy.jpg",
-   "alt": "2 Days Nyungwe Chimpanzee Trekking and Canopy Walk"
+   "alt": "Chimpanzee resting in Kibale National Park, Uganda"
   }
  },
  {
   "id": 11559,
-  "slug": "8-days-rwanda-safari-gorillas-chimps-bisoke-kivu",
-  "url": "https://divulgeadventures.com/trip/8-days-rwanda-safari-gorillas-chimps-bisoke-kivu/",
+  "slug": "8-days-rwanda-safari",
+  "url": "https://divulgeadventures.com/trip/8-days-rwanda-safari/",
   "title": "8 Days Rwanda Gorilla, Chimpanzee, Bisoke Hike and Lake Kivu Safari",
   "destination": [
    33
   ],
-  "modified": "2026-10-13T17:49:56",
+  "modified": "2026-10-19T12:20:54",
   "featured_image": {
    "id": 11675,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park-1.jpg",
@@ -76,43 +361,43 @@
  },
  {
   "id": 11557,
-  "slug": "6-days-luxury-rwanda-safari-magashi-bisate",
-  "url": "https://divulgeadventures.com/trip/6-days-luxury-rwanda-safari-magashi-bisate/",
+  "slug": "luxury-rwanda-safari",
+  "url": "https://divulgeadventures.com/trip/luxury-rwanda-safari/",
   "title": "6 Days Exclusive Luxury Rwanda Safari with Mountain Gorilla Trekking",
   "destination": [
    33
   ],
-  "modified": "2026-10-13T17:51:22",
+  "modified": "2026-10-19T12:20:53",
   "featured_image": {
    "id": 11673,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorillas-feeding-during-1-day-gorilla-trekking-in-rwanda-1.jpg",
-   "alt": "Mountain gorillas on a 9 days Rwanda safari"
+   "alt": "Mountain gorillas feeding on leaves"
   }
  },
  {
   "id": 11556,
-  "slug": "6-day-rwanda-safari-gorillas-akagera",
-  "url": "https://divulgeadventures.com/trip/6-day-rwanda-safari-gorillas-akagera/",
+  "slug": "6-day-rwanda-safari",
+  "url": "https://divulgeadventures.com/trip/6-day-rwanda-safari/",
   "title": "6 Days Rwanda Gorilla Trekking and Wildlife Safari",
   "destination": [
    33
   ],
-  "modified": "2026-10-13T17:50:53",
+  "modified": "2026-10-19T12:16:07",
   "featured_image": {
    "id": 11672,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p-1.jpg",
-   "alt": "Mountain gorilla on an ultra luxury Rwanda safari"
+   "alt": "Mountain gorilla in the forest"
   }
  },
  {
   "id": 11555,
-  "slug": "6-days-rwanda-gorilla-and-wildlife-safari-akagera",
-  "url": "https://divulgeadventures.com/trip/6-days-rwanda-gorilla-and-wildlife-safari-akagera/",
+  "slug": "rwanda-gorilla-and-wildlife-safari",
+  "url": "https://divulgeadventures.com/trip/rwanda-gorilla-and-wildlife-safari/",
   "title": "6 Days Rwanda Gorilla Trekking and Akagera Wildlife Safari",
   "destination": [
    33
   ],
-  "modified": "2026-10-13T17:51:50",
+  "modified": "2026-10-19T12:16:05",
   "featured_image": {
    "id": 11674,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-eating-leaves-in-volcanoes-national-park-rwanda-1.jpg",
@@ -121,13 +406,13 @@
  },
  {
   "id": 11553,
-  "slug": "6-days-rwanda-holiday-package-akagera-lake-kivu",
-  "url": "https://divulgeadventures.com/trip/6-days-rwanda-holiday-package-akagera-lake-kivu/",
+  "slug": "rwanda-holiday-package",
+  "url": "https://divulgeadventures.com/trip/rwanda-holiday-package/",
   "title": "6 Days Rwanda Wildlife, Culture and Lake Kivu Holiday",
   "destination": [
    33
   ],
-  "modified": "2026-10-13T17:52:20",
+  "modified": "2026-10-19T12:16:04",
   "featured_image": {
    "id": 11698,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/island-on-lake-kivu-a-highlight-of-this-rwanda-holiday-package.jpg",
@@ -136,13 +421,13 @@
  },
  {
   "id": 11552,
-  "slug": "5-days-luxury-rwanda-safari-gorillas-golden-monkeys",
-  "url": "https://divulgeadventures.com/trip/5-days-luxury-rwanda-safari-gorillas-golden-monkeys/",
+  "slug": "5-days-luxury-rwanda-safari",
+  "url": "https://divulgeadventures.com/trip/5-days-luxury-rwanda-safari/",
   "title": "5 Days Luxury Rwanda Gorillas and Golden Monkey Trekking Tour",
   "destination": [
    33
   ],
-  "modified": "2026-10-13T17:52:49",
+  "modified": "2026-10-19T12:16:03",
   "featured_image": {
    "id": 11675,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park-1.jpg",
@@ -151,43 +436,43 @@
  },
  {
   "id": 11551,
-  "slug": "5-days-rwanda-golf-and-gorilla-safari",
-  "url": "https://divulgeadventures.com/trip/5-days-rwanda-golf-and-gorilla-safari/",
+  "slug": "rwanda-golf-and-gorilla-safari",
+  "url": "https://divulgeadventures.com/trip/rwanda-golf-and-gorilla-safari/",
   "title": "5 Days Luxury Rwanda Golf and Mountain Gorilla Trekking Tour",
   "destination": [
    33
   ],
-  "modified": "2026-10-13T17:54:19",
+  "modified": "2026-10-19T12:16:01",
   "featured_image": {
-   "id": 11643,
-   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/bwindi-gorilla-trekking.jpg",
-   "alt": "Bwindi gorilla trekking – a female mountain gorilla in Bwindi Impenetrable Forest National Park, Uganda"
+   "id": 11672,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p-1.jpg",
+   "alt": "Mountain gorilla in the forest"
   }
  },
  {
   "id": 11550,
-  "slug": "4-days-double-gorilla-trekking-rwanda",
-  "url": "https://divulgeadventures.com/trip/4-days-double-gorilla-trekking-rwanda/",
+  "slug": "double-gorilla-trekking-rwanda",
+  "url": "https://divulgeadventures.com/trip/double-gorilla-trekking-rwanda/",
   "title": "4 Days Rwanda Double Gorilla Trekking Safari",
   "destination": [
    33
   ],
-  "modified": "2026-10-13T17:55:59",
+  "modified": "2026-10-19T12:16:00",
   "featured_image": {
-   "id": 11613,
-   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/golden-monkey-trekking-rwanda.jpg",
-   "alt": "Golden monkey trekking in Rwanda – a mountain gorilla feeding in the forest of Volcanoes National Park, where the treks begin"
+   "id": 11673,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorillas-feeding-during-1-day-gorilla-trekking-in-rwanda-1.jpg",
+   "alt": "Mountain gorillas feeding on leaves"
   }
  },
  {
   "id": 11538,
-  "slug": "akagera-night-game-drive-bush-camp-safari",
-  "url": "https://divulgeadventures.com/trip/akagera-night-game-drive-bush-camp-safari/",
+  "slug": "akagera-night-game-drive",
+  "url": "https://divulgeadventures.com/trip/akagera-night-game-drive/",
   "title": "2 Days Akagera Safari, Boat Cruise and Night Game Drive at Karenge Bush Camp",
   "destination": [
    33
   ],
-  "modified": "2026-10-13T17:25:55",
+  "modified": "2026-10-19T12:15:59",
   "featured_image": {
    "id": 11683,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/lake-and-savannah-landscape-in-akagera-national-park.jpg",
@@ -196,28 +481,28 @@
  },
  {
   "id": 11537,
-  "slug": "2-days-nyungwe-chimpanzee-trekking-canopy-walk",
-  "url": "https://divulgeadventures.com/trip/2-days-nyungwe-chimpanzee-trekking-canopy-walk/",
+  "slug": "nyungwe-chimpanzee-trekking",
+  "url": "https://divulgeadventures.com/trip/nyungwe-chimpanzee-trekking/",
   "title": "2 Days Nyungwe Chimpanzee Trekking and Canopy Walk",
   "destination": [
    33
   ],
-  "modified": "2026-10-13T18:01:25",
+  "modified": "2026-10-19T12:15:57",
   "featured_image": {
-   "id": 11688,
-   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-resting-in-the-rainforest-canopy.jpg",
-   "alt": "2 Days Nyungwe Chimpanzee Trekking and Canopy Walk"
+   "id": 11686,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-in-the-forest-the-highlight-of-nyungwe-chimpanzee-trekking.jpg",
+   "alt": "Chimpanzee sitting among the greenery"
   }
  },
  {
   "id": 11536,
-  "slug": "2-days-akagera-safari-boat-cruise",
-  "url": "https://divulgeadventures.com/trip/2-days-akagera-safari-boat-cruise/",
+  "slug": "2-days-akagera-safari",
+  "url": "https://divulgeadventures.com/trip/2-days-akagera-safari/",
   "title": "2 Days Akagera National Park Safari and Boat Cruise",
   "destination": [
    33
   ],
-  "modified": "2026-10-13T17:22:42",
+  "modified": "2026-10-19T12:15:56",
   "featured_image": {
    "id": 11681,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/elephants-in-akagera-national-park-on-a-2-days-akagera-safari.jpg",
@@ -226,13 +511,13 @@
  },
  {
   "id": 11533,
-  "slug": "1-day-mount-bisoke-hike-crater-lake",
-  "url": "https://divulgeadventures.com/trip/1-day-mount-bisoke-hike-crater-lake/",
+  "slug": "mount-bisoke-hike",
+  "url": "https://divulgeadventures.com/trip/mount-bisoke-hike/",
   "title": "1 Day Mount Bisoke Hike to the Crater Lake",
   "destination": [
    33
   ],
-  "modified": "2026-10-13T17:21:33",
+  "modified": "2026-10-19T12:15:55",
   "featured_image": {
    "id": 11676,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/virunga-volcano-above-volcanoes-national-park-in-rwanda.jpg",
@@ -247,11 +532,11 @@
   "destination": [
    33
   ],
-  "modified": "2026-10-13T16:39:31",
+  "modified": "2026-10-19T11:49:34",
   "featured_image": {
    "id": 11672,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p-1.jpg",
-   "alt": "Mountain gorilla on an ultra luxury Rwanda safari"
+   "alt": "Mountain gorilla in the forest"
   }
  },
  {
@@ -382,11 +667,11 @@
   "destination": [
    19
   ],
-  "modified": "2026-10-13T15:23:52",
+  "modified": "2026-10-19T08:39:24",
   "featured_image": {
    "id": 10968,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/07/nairobi-national-park-safari-scaled.jpg",
-   "alt": "nairobi-national-park-safari"
+   "alt": "Nairobi National Park half day safari: wildlife in Nairobi National Park, Kenya"
   }
  },
  {
@@ -976,11 +1261,11 @@
   "destination": [
    19
   ],
-  "modified": "2026-10-13T15:54:31",
+  "modified": "2026-10-19T08:39:26",
   "featured_image": {
    "id": 6352,
    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/Divulge-Adventures-Olpejeta-Conservancy.jpeg",
-   "alt": "Divulge Adventures Olpejeta Conservancy"
+   "alt": "7 day Ol Pejeta Meru and Samburu safari: Ol Pejeta Conservancy, Kenya"
   }
  },
  {
@@ -1110,10 +1395,9 @@
   "url": "https://divulgeadventures.com/trip/4-day-naivasha-nakuru-masai-mara-safari/",
   "title": "4-Day Hell’s Gate, Naivasha, Nakuru & Masai Mara Safari",
   "destination": [
-   19,
-   33
+   19
   ],
-  "modified": "2026-10-17T08:49:36",
+  "modified": "2026-10-19T11:56:46",
   "featured_image": {
    "id": 7375,
    "url": "https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-340-scaled.jpg",
@@ -1125,8 +1409,10 @@
   "slug": "5-days-mt-kenya-sirimon-to-chogoria-traverse",
   "url": "https://divulgeadventures.com/trip/5-days-mt-kenya-sirimon-to-chogoria-traverse/",
   "title": "5-Day Mt Kenya Sirimon to Chogoria Traverse: The Ultimate Trek",
-  "destination": [],
-  "modified": "2026-10-13T16:01:56",
+  "destination": [
+   19
+  ],
+  "modified": "2026-10-19T11:57:06",
   "featured_image": {
    "id": 6578,
    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/DSC0002-scaled.jpg",
