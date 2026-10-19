@@ -9,6 +9,7 @@ on:
     - cron: "45 10 * * *"
   workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - scripts/snapshot_site.py
       - .github/workflows/site-snapshot.yml
