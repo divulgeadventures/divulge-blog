@@ -46,3 +46,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-18 | REFRESH | Safari Planning Tips | kenya safari packing list | kenya-safari-packing-list
 2026-10-19 | Tanzania TZ-061 | Destination Tips | tanzania safari in january | tanzania-safari-in-january
 2026-10-19 | Uganda UG-002 | Destination Tips | chimpanzee trekking in kibale | chimpanzee-trekking-in-kibale
+2026-10-19 | REFRESH | Accommodation Guide | luxury safari lodges in kenya | luxury-safari-lodges

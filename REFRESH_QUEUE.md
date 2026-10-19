@@ -32,7 +32,7 @@ These posts already rank on Google (Rank Math Analytics, 8 October 2026). Keep e
 | night-game-drives-in-kenya | night game drives in kenya | Safari Themes | LINK FIX: two bare URLs written in sentences (kws.go.ke, an Ol Pejeta tariff PDF); replace with proper links with descriptive anchor text. Where allowed (conservancies, specific parks), what you see. | done 2026-10-16 |
 | mara-naboisho-conservancy | mara naboisho conservancy | Destination Tips | LINK FIX: raw link text "[https://divulgeadventures.com/masai-mara-national-reserve/](...)" visible in the sentence "Located adjacent to the famous"; replace with a proper link to the Reserve vs Conservancy post. | done 2026-10-17 |
 | kenya-safari-packing-list | kenya safari packing list | Safari Planning Tips | TEXT FIX: raw formula code is visible to readers ("300\mathrm{mm}+" and "15{kg}"); write plain "300mm+" and "15kg". Include a downloadable-style checklist table, luggage limits on light aircraft (verify), clothing colours. | done 2026-10-18 |
-| luxury-safari-lodges | luxury safari lodges in kenya | Accommodation Guide | LINK FIX: the Four Seasons link carries "utm_source=google" tracking parameters (remove them) and "luxury safari" link runs into "lodges" with no space. Kenya luxury lodges and camps by area, from official sites only; no unverified rates. | todo |
+| luxury-safari-lodges | luxury safari lodges in kenya | Accommodation Guide | LINK FIX: the Four Seasons link carries "utm_source=google" tracking parameters (remove them) and "luxury safari" link runs into "lodges" with no space. Kenya luxury lodges and camps by area, from official sites only; no unverified rates. | done 2026-10-19 |
 
 ## Part 1: duplicate topics (owner decision: leave as they are)
 

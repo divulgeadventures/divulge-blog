@@ -178,3 +178,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2026/10/east-africa-tourist-visa.jpg | chimpanzee-trekking-in-kibale
 2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2026/10/black-and-white-colobus-monkey-in-the-forest.jpg | chimpanzee-trekking-in-kibale
 2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2026/04/game-drive-queen.jpg | chimpanzee-trekking-in-kibale
+2026-10-19 | https://images.unsplash.com/photo-1709420838688-ccd0517d6a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OXx8bHV4dXJ5JTIwc2FmYXJpJTIwdGVudHxlbnwwfDB8fHwxNzkyNDI1Mjc5fDI&ixlib=rb-4.1.0&q=80&w=1080 | luxury-safari-lodges
+2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2026/10/leopard-standing-on-a-tree-branch-in-the-masai-mara.jpg | luxury-safari-lodges
+2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2026/10/young-giraffe-in-a-misty-clearing-at-sunrise-in-samburu.jpg | luxury-safari-lodges
+2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2026/10/elephants-grazing-below-mount-kilimanjaro-in-amboseli.jpg | luxury-safari-lodges
+2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2026/10/male-lion-walking-across-the-plains-of-the-masai-mara.jpg | luxury-safari-lodges
