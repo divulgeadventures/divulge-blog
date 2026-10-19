@@ -273,6 +273,36 @@ function divulge_to_import( $json ) {
 	$photos_left = false;
 	foreach ( $items as $item ) {
 		$id = isset( $item['id'] ) ? absint( $item['id'] ) : 0;
+		// New trip: no "id", but a unique "key" and a "title". The trip is created once as a draft
+		// and found again by its key on later imports, so it is never duplicated.
+		if ( ! $id && ! empty( $item['key'] ) && ! empty( $item['title'] ) ) {
+			$key   = sanitize_key( $item['key'] );
+			$found = get_posts( array(
+				'post_type'   => 'trip',
+				'post_status' => 'any',
+				'meta_key'    => '_divulge_trip_key',
+				'meta_value'  => $key,
+				'fields'      => 'ids',
+				'numberposts' => 1,
+			) );
+			if ( $found ) {
+				$id = (int) $found[0];
+			} else {
+				$new = wp_insert_post( array(
+					'post_type'   => 'trip',
+					'post_status' => 'draft',
+					'post_title'  => sanitize_text_field( $item['title'] ),
+					'post_name'   => ! empty( $item['slug'] ) ? sanitize_title( $item['slug'] ) : '',
+				), true );
+				if ( is_wp_error( $new ) || ! $new ) {
+					$report[] = 'Could not create the new trip "' . sanitize_text_field( $item['title'] ) . '".';
+					continue;
+				}
+				$id = (int) $new;
+				update_post_meta( $id, '_divulge_trip_key', $key );
+				$report[] = 'Created new trip "' . get_the_title( $id ) . '" (ID ' . $id . ').';
+			}
+		}
 		if ( ! $id || get_post_type( $id ) !== 'trip' ) {
 			$report[] = 'Skipped an item with unknown trip ID.';
 			continue;
@@ -340,7 +370,76 @@ function divulge_to_import( $json ) {
 			}
 			$done[] = 'highlights';
 		}
+		// Trip length, e.g. "duration": 5 (days). Nights = days - 1 unless "nights" is given.
+		if ( ! empty( $item['duration'] ) ) {
+			$days                         = absint( $item['duration'] );
+			$s['trip_duration']           = $days;
+			$s['trip_duration_unit']      = 'days';
+			$s['trip_duration_nights']    = isset( $item['nights'] ) ? absint( $item['nights'] ) : max( 0, $days - 1 );
+			update_post_meta( $id, 'wp_travel_engine_setting_trip_duration', $days );
+			$done[] = $days . ' days';
+		}
+		// Day-by-day itinerary: [ { "label": "Day 1", "title": "...", "content": "<p>...</p>" }, ... ]
+		if ( ! empty( $item['itinerary'] ) && is_array( $item['itinerary'] ) ) {
+			$it = array( 'itinerary_title' => array(), 'itinerary_days_label' => array(), 'itinerary_content' => array(), 'itinerary_content_inner' => array() );
+			$n  = 1;
+			foreach ( $item['itinerary'] as $day ) {
+				if ( empty( $day['title'] ) ) {
+					continue;
+				}
+				$it['itinerary_title'][ $n ]         = sanitize_text_field( $day['title'] );
+				$it['itinerary_days_label'][ $n ]    = sanitize_text_field( isset( $day['label'] ) ? $day['label'] : 'Day ' . $n );
+				$it['itinerary_content'][ $n ]       = wp_kses_post( isset( $day['content'] ) ? $day['content'] : '' );
+				$it['itinerary_content_inner'][ $n ] = $it['itinerary_content'][ $n ];
+				$n++;
+			}
+			if ( $n > 1 ) {
+				$s['itinerary'] = $it;
+				$done[] = ( $n - 1 ) . '-day itinerary';
+			}
+		}
+		// What the price includes / excludes: "includes": [ "..." ], "excludes": [ "..." ]
+		foreach ( array( 'includes' => 'Cost Includes', 'excludes' => 'Cost Excludes' ) as $part => $label ) {
+			if ( ! empty( $item[ $part ] ) && is_array( $item[ $part ] ) ) {
+				$s['cost'][ $part . '_title' ] = $label;
+				$s['cost'][ 'cost_' . $part ]  = implode( "\n", array_map( 'sanitize_text_field', $item[ $part ] ) );
+				$done[] = $part;
+			}
+		}
 		update_post_meta( $id, 'wp_travel_engine_setting', $s );
+
+		// Categories: "terms": { "activities": [ "birding-safaris" ], "destination": [ "Kenya" ], "trip_tag": [ "Photography safari" ] }
+		// Activities, destinations and trip types must already exist (matched by slug or name). Tags are created if new.
+		if ( ! empty( $item['terms'] ) && is_array( $item['terms'] ) ) {
+			foreach ( $item['terms'] as $tax => $names ) {
+				$tax = sanitize_key( $tax );
+				if ( ! taxonomy_exists( $tax ) || ! is_array( $names ) ) {
+					$done[] = 'unknown category type ' . $tax;
+					continue;
+				}
+				$ids = array();
+				foreach ( $names as $name ) {
+					$term = get_term_by( 'slug', sanitize_title( $name ), $tax );
+					if ( ! $term ) {
+						$term = get_term_by( 'name', $name, $tax );
+					}
+					if ( $term ) {
+						$ids[] = (int) $term->term_id;
+					} elseif ( $tax === 'trip_tag' ) {
+						$made = wp_insert_term( sanitize_text_field( $name ), $tax );
+						if ( ! is_wp_error( $made ) ) {
+							$ids[] = (int) $made['term_id'];
+						}
+					} else {
+						$done[] = 'no ' . $tax . ' called "' . sanitize_text_field( $name ) . '"';
+					}
+				}
+				if ( $ids ) {
+					wp_set_object_terms( $id, $ids, $tax, true );
+					$done[] = $tax . ' (' . count( $ids ) . ')';
+				}
+			}
+		}
 
 		if ( ! empty( $item['featured_image']['url'] ) ) {
 			if ( $time_ok() ) {
@@ -456,7 +555,8 @@ function divulge_to_github_run() {
 			continue;
 		}
 		$name = $f['name'];
-		if ( isset( $state[ $name ] ) && $state[ $name ]['sha'] === $f['sha'] && $state[ $name ]['status'] === 'done' ) {
+		if ( isset( $state[ $name ] ) && $state[ $name ]['sha'] === $f['sha'] && $state[ $name ]['status'] === 'done'
+			&& strpos( (string) $state[ $name ]['report'], 'unknown trip ID' ) === false ) {
 			continue;
 		}
 		if ( microtime( true ) - $GLOBALS['divulge_to_start'] > 14 ) {
