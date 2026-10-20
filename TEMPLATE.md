@@ -6,8 +6,21 @@ Divulge Adventures Ltd is a Nairobi-based safari tour agency running tailor-made
 
 Focus Keyword: [the main search phrase, e.g. "kenya safari cost"]
 
-SEO Title (under 60 characters, keyword at the start, a number, a power word, positive sentiment):
-[Keyword]: [Number] [Power Word] Tips/Things for [Outcome]
+Post title (H1) and SEO Title (meta_title): these must read like a person wrote them, not a template. Readers and Google notice when every post is "[Keyword]: 7 Expert Tips for ...".
+- SEO Title: under 60 characters, the keyword within the first few words (start is best, but "How to...", "Is...", "When to..." openings are fine), positive and specific. A number is optional: use one only when the post really has that many items (e.g. 6 lodges compared), and not in more than half of recent posts.
+- The H1 can be longer and more natural than the SEO title, and they should not be word-for-word copies.
+- Before writing, read the titles and meta_titles of the last 9 posts in posts/ and choose a style NOT used by any of the last 3, and a different opening after the keyword than all of the last 9. validate.py fails titles that repeat a recent pattern.
+- Rotate between styles like these (examples only, never copy them word for word):
+  1. Question: "Is Kenya Safe for Safari? What Travellers Should Know" / "When Is the Best Time to See the Serengeti Calving?"
+  2. How-to: "How to Plan a Serengeti Safari in January" / "How to Get a Tanzania eVisa Without the Stress"
+  3. Answer-first statement: "Serengeti in January Is Calving Season, and Here's Why It's Worth It"
+  4. Specific promise: "Serengeti in January: Where the Calving Herds Are Each Week"
+  5. Comparison verdict: "Masai Mara or Amboseli? Pick by the Animals You Want to See"
+  6. Reader-situation: "First Safari in Botswana? Start With the Green Season"
+  7. Plain guide: "A Practical Guide to Kenya Park Fees" / "Kenya Park Fees, Explained"
+  8. Real number (only when true): "Kenya Park Fees for 15 Parks, From Nairobi NP to the Mara"
+  9. Benefit or outcome: "Tipping on a Kenya Safari Without Overthinking It"
+- Avoid stock filler words: expert tips, smart tips, key differences, essential tips, simple rules/steps, ultimate/complete guide, everything you need to know, "Where to Go" endings. If a word adds nothing, drop it.
 
 Permalink: [keyword-in-lowercase-hyphens], short, no year
 

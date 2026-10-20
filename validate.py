@@ -73,6 +73,54 @@ def words(s):
     return re.findall(r"[A-Za-z0-9']+", s)
 
 
+OVERUSED = ["expert tips", "smart tips", "key differences", "essential tips", "simple rules",
+            "simple steps", "essential steps", "honest differences", "complete guide", "ultimate guide",
+            "everything you need", "where to go", "costs and where"]
+
+
+def _shape(text, kw):
+    """The part of a title after the keyword, reduced to its pattern: digits -> #, first 3 words."""
+    t = text.lower().strip()
+    if t.startswith(kw):
+        t = t[len(kw):]
+    t = re.sub(r"\d+", "#", t)
+    return " ".join(re.findall(r"[a-z#']+", t)[:3])
+
+
+def title_variety(path, p, kw):
+    """New posts must not copy the title pattern of recent posts (owner asked: titles must not look automated)."""
+    import glob, os
+    errs = []
+    me = os.path.basename(path)
+    recent = [f for f in sorted(glob.glob(os.path.join(os.path.dirname(path) or ".", "20*.json")))
+              if os.path.basename(f) != me and os.path.basename(f) < me][-12:]
+    prev = []
+    for f in recent:
+        try:
+            d = json.load(open(f, encoding="utf-8"))
+            prev.append((d.get("focus_keyword", "").lower().strip(), d.get("title", ""), d.get("meta_title", "")))
+        except Exception:
+            pass
+    mt, h1 = p["meta_title"], p["title"]
+    for field, val, idx, n in (("meta_title", mt, 2, 9), ("title", h1, 1, 6)):
+        shape = _shape(val, kw)
+        for pkw, *vals in prev[-n:]:
+            if shape and shape == _shape(vals[idx - 1], pkw):
+                errs.append(f'{field} repeats the pattern "{shape}" of a recent post ("{vals[idx - 1]}"); use a different title style')
+                break
+    both = (mt + " " + h1).lower()
+    for phrase in OVERUSED:
+        if phrase in both and any(phrase in (t + " " + m).lower() for _, t, m in prev[-12:]):
+            errs.append(f'"{phrase}" was used in a recent title; pick fresh wording')
+    numbered = sum(1 for _, _, m in prev[-6:] if re.search(r"\d", m))
+    if re.search(r"\d", mt) and numbered >= 4:
+        errs.append(f"{numbered} of the last 6 SEO titles already have a number; write this one without a number")
+    colon = sum(1 for _, t, _ in prev[-6:] if ":" in t)
+    if ":" in h1 and colon >= 5:
+        errs.append("5 of the last 6 post titles use 'Keyword: ...'; write this H1 without a colon (question, how-to or plain sentence)")
+    return errs
+
+
 def check(path):
     errs = []
     try:
@@ -99,10 +147,11 @@ def check(path):
         errs.append("tags must be 3-5")
     if len(p["meta_title"]) >= 60:
         errs.append(f"meta_title {len(p['meta_title'])} chars (must be < 60)")
-    if not p["meta_title"].lower().startswith(kw):
-        errs.append("meta_title must start with the focus keyword")
-    if not re.search(r"\d", p["meta_title"]):
-        errs.append("meta_title needs a number")
+    pos = p["meta_title"].lower().find(kw)
+    if pos < 0 or pos > 25:
+        errs.append("meta_title must contain the focus keyword near the start (within the first 25 characters)")
+    if not refresh:
+        errs += title_variety(path, p, kw)
     if len(p["meta_description"]) >= 160:
         errs.append(f"meta_description {len(p['meta_description'])} chars (must be < 160)")
     if kw not in p["meta_description"].lower():
