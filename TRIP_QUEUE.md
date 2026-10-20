@@ -17,8 +17,8 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 8 | Kenya | 12-days-magical-kenya-tanzania-safari | 7380 | done 2026-10-18 | 12 day kenya and tanzania safari | kenya-7380-12-day-kenya-and-tanzania-safari.json |
 | 9 | Kenya | nairobi-national-park-half-day-safari | 10970 | done 2026-10-19 | nairobi national park half day safari | kenya-10970-nairobi-national-park-half-day-safari.json |
 | 10 | Kenya | 7-day-ol-pejeta-meru-and-samburu-safari | 7473 | done 2026-10-19 | 7 day ol pejeta meru and samburu safari | kenya-7473-7-day-ol-pejeta-meru-and-samburu-safari.json |
-| 11 | Kenya | 7-days-masai-mara-kenya-safari |  | todo |  |  |
-| 12 | Kenya | 11-day-kenya-special-five-and-big-five |  | todo |  |  |
+| 11 | Kenya | 7-days-masai-mara-kenya-safari | 2762 | done 2026-10-20 | 7 day amboseli nakuru and masai mara safari | kenya-2762-7-day-amboseli-nakuru-and-masai-mara-safari.json |
+| 12 | Kenya | 11-day-kenya-special-five-and-big-five | 8130 | done 2026-10-20 | 11 day kenya special five and big five safari | kenya-8130-11-day-kenya-special-five-and-big-five-safari.json |
 | 13 | Kenya | 5-day-black-leopard-rhino-photo-safari |  | todo |  |  |
 | 14 | Kenya | 5-day-best-of-kenya-birding-safari |  | todo |  |  |
 | 15 | Kenya | 2-days-tsavo-west-national-park-from-diani |  | todo |  |  |
