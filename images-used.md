@@ -183,3 +183,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2026/10/young-giraffe-in-a-misty-clearing-at-sunrise-in-samburu.jpg | luxury-safari-lodges
 2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2026/10/elephants-grazing-below-mount-kilimanjaro-in-amboseli.jpg | luxury-safari-lodges
 2026-10-19 | https://divulgeadventures.com/wp-content/uploads/2026/10/male-lion-walking-across-the-plains-of-the-masai-mara.jpg | luxury-safari-lodges
+2026-10-20 | https://divulgeadventures.com/wp-content/uploads/2026/10/elephant-herd-walking-in-front-of-kilimanjaro.jpg | masai-mara-vs-amboseli
+2026-10-20 | https://divulgeadventures.com/wp-content/uploads/2026/10/herd-of-elephants-crossing-the-plains-below-kilimanjaro.jpg | masai-mara-vs-amboseli
+2026-10-20 | https://divulgeadventures.com/wp-content/uploads/2026/10/leopard-in-the-long-grass-of-the-masai-mara-national-reserve.jpg | masai-mara-vs-amboseli
+2026-10-20 | https://divulgeadventures.com/wp-content/uploads/2026/10/wildebeest-crossing-the-mara-river-during-the-great-migration.jpg | masai-mara-vs-amboseli
+2026-10-20 | https://divulgeadventures.com/wp-content/uploads/2026/10/flamingos-in-amboseli-national-park-kenya.jpg | masai-mara-vs-amboseli
+2026-10-20 | https://divulgeadventures.com/wp-content/uploads/2025/11/IMG_5622-scaled.jpg | masai-mara-vs-amboseli

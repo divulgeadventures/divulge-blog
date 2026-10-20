@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-20 07:20 | New post 1
+Masai Mara vs Amboseli: 7 Honest Differences to Help You Choose — https://divulgeadventures.com/masai-mara-vs-amboseli/
+Kenya, Destination Tips (bank row KE-114, BOOST comparison). Scheduled for 20 October 2026 at 10:00 Nairobi time. Compares wildlife, seasons, park fees (checked October 2026), travel time, crowds and who each park suits; links the Kenya safaris page, the 6-day Amboseli and Masai Mara trip, both photography safaris, fly-in safaris and 7 Divulge Diaries posts.
+Images: 5 in the body plus the featured image, all from the owner's Media Library; none from Unsplash. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+Could not open: https://www.kws.go.ke/amboseli-national-park and https://en.wikipedia.org/wiki/Maasai_Mara (permission requests timed out, not retried; fees confirmed from Tourism Update and Nation instead).
+
 ## 2026-10-19 19:03 | Refresh
 Luxury Safari Lodges in Kenya: 6 Exceptional Camps and How to Choose — https://divulgeadventures.com/luxury-safari-lodges/
 Kenya, Accommodation Guide (REFRESH_QUEUE LINK FIX row). The Four Seasons link with "utm_source=google" is gone (the rewrite covers Kenya camps described from their official sites only, with no tracking parameters on any link) and the "luxury safari"/"lodges" run-together text no longer exists. The live post could not be read, so it was rewritten from fresh research: Angama Mara, Mara Plains Camp, Mahali Mzuri, Cottar's 1920s Camp, Loisaba Tented Camp and Lewa Safari Camp, each described only from its official website (tent counts checked October 2026, no room rates quoted). Links the Kenya safaris page, fly-in safaris, the 7-day luxury Mara river crossing trip and 10 Divulge Diaries posts. About 2,270 words.
