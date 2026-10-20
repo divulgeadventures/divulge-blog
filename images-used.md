@@ -189,3 +189,10 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-20 | https://divulgeadventures.com/wp-content/uploads/2026/10/wildebeest-crossing-the-mara-river-during-the-great-migration.jpg | masai-mara-vs-amboseli
 2026-10-20 | https://divulgeadventures.com/wp-content/uploads/2026/10/flamingos-in-amboseli-national-park-kenya.jpg | masai-mara-vs-amboseli
 2026-10-20 | https://divulgeadventures.com/wp-content/uploads/2025/11/IMG_5622-scaled.jpg | masai-mara-vs-amboseli
+2026-10-20 | https://images.unsplash.com/photo-1594842104147-24bc1953a7b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8emVicmElMjBCb3Rzd2FuYXxlbnwwfDB8fHwxNzkyNDgyNzA1fDI&ixlib=rb-4.1.0&q=80&w=1080 | botswana-in-january
+2026-10-20 | https://divulgeadventures.com/wp-content/uploads/2026/06/BOTSWANA-SAFARI.jpg | botswana-in-january
+2026-10-20 | https://divulgeadventures.com/wp-content/uploads/2026/06/okavango-delta-1.jpg | botswana-in-january
+2026-10-20 | https://images.unsplash.com/photo-1590214780567-b48c7c927b7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8T2thdmFuZ28lMjBkZWx0YXxlbnwwfDB8fHwxNzkyNDgyNzA1fDI&ixlib=rb-4.1.0&q=80&w=1080 | botswana-in-january
+2026-10-20 | https://images.unsplash.com/photo-1589659647268-7803091f717b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8N3x8emVicmElMjBCb3Rzd2FuYXxlbnwwfDB8fHwxNzkyNDgyNzA1fDI&ixlib=rb-4.1.0&q=80&w=1080 | botswana-in-january
+2026-10-20 | https://divulgeadventures.com/wp-content/uploads/2025/11/wgf_9235.jpg | botswana-in-january
+2026-10-20 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-Khwai.jpg | botswana-in-january

@@ -48,3 +48,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-19 | Uganda UG-002 | Destination Tips | chimpanzee trekking in kibale | chimpanzee-trekking-in-kibale
 2026-10-19 | REFRESH | Accommodation Guide | luxury safari lodges in kenya | luxury-safari-lodges
 2026-10-20 | Kenya KE-114 | Destination Tips | masai mara vs amboseli | masai-mara-vs-amboseli
+2026-10-20 | Botswana BW-187 | Destination Tips | botswana in january | botswana-in-january

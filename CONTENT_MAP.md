@@ -208,3 +208,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/tanzania-safari-in-january/ (tanzania safari in january)
 - https://divulgeadventures.com/chimpanzee-trekking-in-kibale/ (chimpanzee trekking in kibale)
 - https://divulgeadventures.com/masai-mara-vs-amboseli/ (masai mara vs amboseli)
+- https://divulgeadventures.com/botswana-in-january/ (botswana in january)
