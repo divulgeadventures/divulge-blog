@@ -9,6 +9,8 @@ import re
 import sys
 from html.parser import HTMLParser
 
+import quality_checks
+
 CATEGORIES = {
     "Destination Tips", "Safari Themes", "Great Migration & River Crossing",
     "Accommodation Guide", "Safari Planning Tips", "Team Building",
@@ -329,6 +331,8 @@ def check(path):
     low = body_text.lower()
     if "hiking outdoor" in low or "gear hub" in low:
         errs.append("mentions another business")
+    # Spelling, title promises and keyword stuffing (see quality_checks.py)
+    errs += quality_checks.run(p, path, ps, html)
     return errs
 
 

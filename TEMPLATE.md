@@ -9,6 +9,8 @@ Focus Keyword: [the main search phrase, e.g. "kenya safari cost"]
 Post title (H1) and SEO Title (meta_title): these must read like a person wrote them, not a template. Readers and Google notice when every post is "[Keyword]: 7 Expert Tips for ...".
 - SEO Title: under 60 characters, the keyword within the first few words (start is best, but "How to...", "Is...", "When to..." openings are fine), positive and specific. A number is optional: use one only when the post really has that many items (e.g. 6 lodges compared), and not in more than half of recent posts.
 - The H1 can be longer and more natural than the SEO title, and they should not be word-for-word copies.
+- The title must match what the post delivers. If the H1 or SEO title promises a number ("7 rules", "10 reasons", "15 parks"), the post must contain exactly that many numbered headings, H2/H3 sections, list items or table rows. validate.py fails titles that promise more than the post gives.
+- Proofread before saving: titles, SEO title, meta description and headings are spell-checked word by word by validate.py. If it flags a correct name or local word, add it to spelling-allowlist.txt (lowercase, one per line); otherwise fix the typo.
 - Before writing, read the titles and meta_titles of the last 9 posts in posts/ and choose a style NOT used by any of the last 3, and a different opening after the keyword than all of the last 9. validate.py fails titles that repeat a recent pattern.
 - Rotate between styles like these (examples only, never copy them word for word):
   1. Question: "Is Kenya Safe for Safari? What Travellers Should Know" / "When Is the Best Time to See the Serengeti Calving?"
@@ -45,7 +47,7 @@ Image alt text:
 1. Intro: 2 short paragraphs. Paragraph 1 answers the question behind the keyword in 40-60 words, keyword in the first sentence. Paragraph 2 names the reader's problem and what the post gives them.
 2. In-content image 1 with keyword alt text. Then place in-content images 2, 3 and 4 (or more) later in the body, each directly under a different H2 section that it illustrates (e.g. wildlife, the lodge or activity, the landscape, the route), never two images in a row.
 3. Info Box 1: Quick Facts (5-7 labelled bullets).
-4. H2 sections: 5-7 main sections, H3s for sub-points. Keyword in at least one H2 and one H3. Include at least one table.
+4. H2 sections: 5-7 main sections, H3s for sub-points. Keyword in at least one H2 and one H3, but in no more than a third of the H2s (use natural variations in the rest, or it reads as keyword stuffing). Include at least one table.
 5. Trip CTA (green): right after the section where the reader is most ready to book (itinerary, cost or "how to plan" section).
 6. Info Box 2: Insider Tips / Checklist.
 7. Plan My Safari CTA (orange): after the experience or planning content.
