@@ -19,8 +19,8 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 10 | Kenya | 7-day-ol-pejeta-meru-and-samburu-safari | 7473 | done 2026-10-19 | 7 day ol pejeta meru and samburu safari | kenya-7473-7-day-ol-pejeta-meru-and-samburu-safari.json |
 | 11 | Kenya | 7-days-masai-mara-kenya-safari | 2762 | done 2026-10-20 | 7 day amboseli nakuru and masai mara safari | kenya-2762-7-day-amboseli-nakuru-and-masai-mara-safari.json |
 | 12 | Kenya | 11-day-kenya-special-five-and-big-five | 8130 | done 2026-10-20 | 11 day kenya special five and big five safari | kenya-8130-11-day-kenya-special-five-and-big-five-safari.json |
-| 13 | Kenya | 5-day-black-leopard-rhino-photo-safari |  | todo |  |  |
-| 14 | Kenya | 5-day-best-of-kenya-birding-safari |  | todo |  |  |
+| 13 | Kenya | 5-day-black-leopard-rhino-photo-safari | 8112 | done 2026-10-21 | 5 day black leopard and rhino photography safari | kenya-8112-5-day-black-leopard-and-rhino-photography-safari.json |
+| 14 | Kenya | 5-day-best-of-kenya-birding-safari | 7883 | done 2026-10-21 | 5 day kenya birding safari | kenya-7883-5-day-kenya-birding-safari.json |
 | 15 | Kenya | 2-days-tsavo-west-national-park-from-diani |  | todo |  |  |
 | 16 | Kenya | 4-day-wildebeest-migration-safari |  | todo |  |  |
 | 17 | Kenya | mout-kemya |  | todo |  |  |
