@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-21 11:20 | New post 2
+How to Plan a Kenya Safari Itinerary for One Week, With Four Routes Compared — https://divulgeadventures.com/7-day-kenya-safari-itinerary/
+Kenya, Safari Planning Tips (bank row KE-003, core topic; focus keyword refined to "kenya safari itinerary" because the bank phrase starts with a digit and 5 of the last 6 SEO titles already have a number). Scheduled for 21 October 2026 at 14:00 Nairobi time. Compares four week-long routes (classic Amboseli-lakes-Mara, northern Ol Pejeta-Meru-Samburu, Solio-Naivasha-Mara Triangle, Mara plus Diani) with day-by-day timings from the trip pages, KWS and Mara fees (checked October 2026) and trip prices from the site copy; links 4 trip pages, the Kenya safaris, bush & beach and fly-in pages and 8 Divulge Diaries posts.
+Images: 6 from the owner's Media Library (featured Mara wildebeest plus 5 in the body; alts from their titles) and 1 from Unsplash (Diani Beach). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+Could not open: none
+
 ## 2026-10-21 05:36 Trip Optimiser
 - Done: 5 Day Black Leopard and Rhino Photography Safari (ID 8112, "5 day black leopard and rhino photography safari", kenya-8112-5-day-black-leopard-and-rhino-photography-safari.json); 5 Day Best of Kenya Birding Safari (ID 7883, "5 day kenya birding safari", kenya-7883-5-day-kenya-birding-safari.json). Both read from the site-data copy (snapshot 2026-10-21 03:17 UTC); the live site was not opened. Prices from the pages: 8112 from USD 2,415 (regular USD 2,805); 7883 from USD 2,435 (regular USD 2,815).
 - Photos: 8112 7 owner + 0 Unsplash (featured The-Jump black leopard and all 4 existing gallery photos kept with new alts; Black-Leopard and Solio white rhino DSC_1727 added). 7883 7 owner + 0 Unsplash (featured safari-184 and all 4 existing gallery photos kept; Lake Naivasha and Crescent Island added). Alts are written from file names/titles only. The 5 birding photos are titled only "divulge adventures Kenya birding safari", so their alts are generic; please add the species to each alt, and check none shows a guest as the main subject. Also check divulge-adventures-safari-at-solio-game-reserve.jpeg (8112) is a vehicle/landscape shot, not a guest portrait.

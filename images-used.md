@@ -209,3 +209,10 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-21 | https://images.unsplash.com/photo-1579885487896-abc1a9ebb77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8U29zc3VzdmxlaSUyMGR1bmVzfGVufDB8MHx8fDE3OTI1NTUwMTV8Mg&ixlib=rb-4.1.0&q=80&w=1080 | namibia-in-december
 2026-10-21 | https://divulgeadventures.com/wp-content/uploads/2026/01/Sandwich-Habour-Tours.jpg | namibia-in-december
 2026-10-21 | https://divulgeadventures.com/wp-content/uploads/2026/01/Walvis-Bay-Pink-lake.jpg | namibia-in-december
+2026-10-21 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-66.jpg | 7-day-kenya-safari-itinerary
+2026-10-21 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge_adventures_safari-409-scaled.jpg | 7-day-kenya-safari-itinerary
+2026-10-21 | https://divulgeadventures.com/wp-content/uploads/2025/12/lake-naivasha-in-kenyas-great-rift-valley.jpg | 7-day-kenya-safari-itinerary
+2026-10-21 | https://divulgeadventures.com/wp-content/uploads/2026/01/6000-x-4000divulge_adventures-70-scaled.jpg | 7-day-kenya-safari-itinerary
+2026-10-21 | https://divulgeadventures.com/wp-content/uploads/2025/11/DSC_1727edited-scaled.jpg | 7-day-kenya-safari-itinerary
+2026-10-21 | https://images.unsplash.com/photo-1651860282131-e3257674ccd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8RGlhbmklMjBiZWFjaCUyMEtlbnlhfGVufDB8MHx8fDE3OTI1NjkwNTN8Mg&ixlib=rb-4.1.0&q=80&w=1080 | 7-day-kenya-safari-itinerary
+2026-10-21 | https://divulgeadventures.com/wp-content/uploads/2026/10/leopard-on-a-tree-branch-in-the-masai-mara.jpg | 7-day-kenya-safari-itinerary
