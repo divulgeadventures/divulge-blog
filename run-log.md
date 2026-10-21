@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-21 15:20 | New post 3
+How Hard Is Gorilla Trekking, Really? Fitness, Altitude and Trek Times Explained — https://divulgeadventures.com/how-hard-is-gorilla-trekking/
+Rwanda, Safari Planning Tips (bank row RW-002, core topic). Scheduled for 21 October 2026 at 18:00 Nairobi time. Covers trek times by type of day, the rainy season, Rwanda vs Uganda terrain and altitude, CDC altitude guidance, asking for an easier family, porters (lodge guidance: at least US$25), a six-week training table, and who should think twice. Permit prices (US$1,500 Rwanda, US$800 Uganda) checked October 2026. Trip CTA goes to the quote form (Rwanda rule); links the 1-day and double gorilla trekking trips, the Rwanda gorilla trek and gorilla trekking safari pages and 5 Divulge Diaries posts. Not stated: Uganda's 2027 permit price (only a non-official source reports US$1,000 from January 2027; worth confirming with UWA).
+Images: 4 from the owner's Media Library (featured young gorilla plus 3 Volcanoes National Park gorilla photos in the body; alts from their titles) and 1 from Unsplash (muddy hiking boots). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+Could not open: none
+
 ## 2026-10-21 11:20 | New post 2
 How to Plan a Kenya Safari Itinerary for One Week, With Four Routes Compared — https://divulgeadventures.com/7-day-kenya-safari-itinerary/
 Kenya, Safari Planning Tips (bank row KE-003, core topic; focus keyword refined to "kenya safari itinerary" because the bank phrase starts with a digit and 5 of the last 6 SEO titles already have a number). Scheduled for 21 October 2026 at 14:00 Nairobi time. Compares four week-long routes (classic Amboseli-lakes-Mara, northern Ol Pejeta-Meru-Samburu, Solio-Naivasha-Mara Triangle, Mara plus Diani) with day-by-day timings from the trip pages, KWS and Mara fees (checked October 2026) and trip prices from the site copy; links 4 trip pages, the Kenya safaris, bush & beach and fly-in pages and 8 Divulge Diaries posts.

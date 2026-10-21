@@ -216,3 +216,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-21 | https://divulgeadventures.com/wp-content/uploads/2025/11/DSC_1727edited-scaled.jpg | 7-day-kenya-safari-itinerary
 2026-10-21 | https://images.unsplash.com/photo-1651860282131-e3257674ccd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8RGlhbmklMjBiZWFjaCUyMEtlbnlhfGVufDB8MHx8fDE3OTI1NjkwNTN8Mg&ixlib=rb-4.1.0&q=80&w=1080 | 7-day-kenya-safari-itinerary
 2026-10-21 | https://divulgeadventures.com/wp-content/uploads/2026/10/leopard-on-a-tree-branch-in-the-masai-mara.jpg | 7-day-kenya-safari-itinerary
+2026-10-21 | https://divulgeadventures.com/wp-content/uploads/2026/10/young-gorilla-in-the-grass-of-the-forest.jpg | how-hard-is-gorilla-trekking
+2026-10-21 | https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p.jpg | how-hard-is-gorilla-trekking
+2026-10-21 | https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-Trekking-Rwanda-safari-at-volcanioes-national-park.jpeg | how-hard-is-gorilla-trekking
+2026-10-21 | https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorillas-feeding-during-1-day-gorilla-trekking-in-rwanda.jpg | how-hard-is-gorilla-trekking
+2026-10-21 | https://images.unsplash.com/photo-1775663061746-c86fcc8611c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8bXVkZHklMjBoaWtpbmclMjBib290c3xlbnwwfDB8fHwxNzkyNTgzNTMyfDI&ixlib=rb-4.1.0&q=80&w=1080 | how-hard-is-gorilla-trekking
