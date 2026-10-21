@@ -50,3 +50,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-20 | Kenya KE-114 | Destination Tips | masai mara vs amboseli | masai-mara-vs-amboseli
 2026-10-20 | Botswana BW-187 | Destination Tips | botswana in january | botswana-in-january
 2026-10-20 | Tanzania TZ-004 | Destination Tips | best time to climb kilimanjaro | best-time-to-climb-kilimanjaro
+2026-10-21 | Namibia NA-051 | Destination Tips | namibia in december | namibia-in-december

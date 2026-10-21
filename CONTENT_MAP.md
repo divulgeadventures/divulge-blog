@@ -210,3 +210,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/masai-mara-vs-amboseli/ (masai mara vs amboseli)
 - https://divulgeadventures.com/botswana-in-january/ (botswana in january)
 - https://divulgeadventures.com/best-time-to-climb-kilimanjaro/ (best time to climb kilimanjaro)
+- https://divulgeadventures.com/namibia-in-december/ (namibia in december)

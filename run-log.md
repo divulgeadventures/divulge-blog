@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-21 06:58 | New post 1
+Is Namibia Worth Visiting in December? Heat, First Rains and Quiet Waterholes — https://divulgeadventures.com/namibia-in-december/
+Namibia, Destination Tips (bank row NA-051, seasonal). Scheduled for 21 October 2026 at 10:00 Nairobi time. Covers December weather by region, Etosha early vs late December, Sossusvlei gate times and shuttle, the festive coast, new park fees (N$280/day) and visa (N$1,600), malaria (CDC) and a 10-day December route. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+Images: 2 from the owner's Media Library (Sandwich Harbour, Walvis Bay pink lake; alts based on their file names, as the titles only say "Magical Namibia Safari") and 4 from Unsplash in the body, plus an Unsplash featured image.
+Could not open: https://www.weather2travel.com/namibia/sossusvlei/december/ (permission request timed out; used the site's Sossuvlei page instead).
+
 ## 2026-10-20 18:49 | Nothing to do
 Today's work is complete: 3 new posts already exist for 20 October 2026, and the refresh is paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). No post changes.
 Could not open: none
