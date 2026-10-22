@@ -221,3 +221,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-21 | https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-Trekking-Rwanda-safari-at-volcanioes-national-park.jpeg | how-hard-is-gorilla-trekking
 2026-10-21 | https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorillas-feeding-during-1-day-gorilla-trekking-in-rwanda.jpg | how-hard-is-gorilla-trekking
 2026-10-21 | https://images.unsplash.com/photo-1775663061746-c86fcc8611c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8bXVkZHklMjBoaWtpbmclMjBib290c3xlbnwwfDB8fHwxNzkyNTgzNTMyfDI&ixlib=rb-4.1.0&q=80&w=1080 | how-hard-is-gorilla-trekking
+2026-10-22 | https://divulgeadventures.com/wp-content/uploads/2026/01/Gravy-Zebra-samburu.jpg | samburu-vs-masai-mara
+2026-10-22 | https://divulgeadventures.com/wp-content/uploads/2026/01/samburu-game-reserve-gerenuk.jpeg | samburu-vs-masai-mara
+2026-10-22 | https://divulgeadventures.com/wp-content/uploads/2026/10/reticulated-giraffe-in-the-shade-of-an-acacia-tree-in-northern-kenya.jpg | samburu-vs-masai-mara
+2026-10-22 | https://divulgeadventures.com/wp-content/uploads/2025/12/5057-x-3023divulge_adventures-scaled.jpg | samburu-vs-masai-mara
+2026-10-22 | https://images.unsplash.com/photo-1535342604578-a175d3fc4f22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OXx8U2FtYnVydSUyMEtlbnlhfGVufDB8MHx8fDE3OTI2ODQzMjl8Mg&ixlib=rb-4.1.0&q=80&w=1080 | samburu-vs-masai-mara
+2026-10-22 | https://divulgeadventures.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-29-at-17.45.15.jpeg | samburu-vs-masai-mara

@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-22 18:55 | New post 1
+Samburu or the Masai Mara? Pick by the Animals, the Season and the Crowds — https://divulgeadventures.com/samburu-vs-masai-mara/
+Kenya, Destination Tips (bank row KE-118, BOOST comparison). Scheduled for 22 October 2026 at 19:00 Nairobi time (10:00 had already passed when this run started). Compares wildlife (Special Five vs big cats and migration), month-by-month seasons, park fees (Mara US$200 Jul-Dec / US$100 Jan-Jun, checked October 2026), lodge cost estimates by tier, road and air travel, crowds, who each suits and how to combine them. Samburu's county fee is not stated as a figure (only non-official sources found; post says we confirm it in the quote). Links the 6 day Samburu and Mara fly-in, 3 day Samburu fly-in and 7 day Ol Pejeta, Meru and Samburu trips, Kenya safaris and fly-in pages, and 8 Divulge Diaries posts.
+Images: 5 from the owner's Media Library (featured Grevy's zebra plus gerenuk, reticulated giraffe, Mara wildebeest and Somali ostrich in the body; alts from their titles) and 1 from Unsplash (Samburu hills from Lewa). Please check the Somali ostrich photo (a WhatsApp image) shows the bird, not guests. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+Could not open: none
+
 ## 2026-10-21 15:20 | New post 3
 How Hard Is Gorilla Trekking, Really? Fitness, Altitude and Trek Times Explained — https://divulgeadventures.com/how-hard-is-gorilla-trekking/
 Rwanda, Safari Planning Tips (bank row RW-002, core topic). Scheduled for 21 October 2026 at 18:00 Nairobi time. Covers trek times by type of day, the rainy season, Rwanda vs Uganda terrain and altitude, CDC altitude guidance, asking for an easier family, porters (lodge guidance: at least US$25), a six-week training table, and who should think twice. Permit prices (US$1,500 Rwanda, US$800 Uganda) checked October 2026. Trip CTA goes to the quote form (Rwanda rule); links the 1-day and double gorilla trekking trips, the Rwanda gorilla trek and gorilla trekking safari pages and 5 Divulge Diaries posts. Not stated: Uganda's 2027 permit price (only a non-official source reports US$1,000 from January 2027; worth confirming with UWA).

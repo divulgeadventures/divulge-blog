@@ -53,3 +53,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-21 | Namibia NA-051 | Destination Tips | namibia in december | namibia-in-december
 2026-10-21 | Kenya KE-003 | Safari Planning Tips | kenya safari itinerary | 7-day-kenya-safari-itinerary
 2026-10-21 | Rwanda RW-002 | Safari Planning Tips | how hard is gorilla trekking | how-hard-is-gorilla-trekking
+2026-10-22 | Kenya KE-118 | Destination Tips | samburu vs masai mara | samburu-vs-masai-mara

@@ -213,3 +213,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/namibia-in-december/ (namibia in december)
 - https://divulgeadventures.com/7-day-kenya-safari-itinerary/ (kenya safari itinerary)
 - https://divulgeadventures.com/how-hard-is-gorilla-trekking/ (how hard is gorilla trekking)
+- https://divulgeadventures.com/samburu-vs-masai-mara/ (samburu vs masai mara)
