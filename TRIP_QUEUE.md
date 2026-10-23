@@ -3,7 +3,7 @@
 Work top to bottom: the scheduled task takes the first 2 rows with status `todo` each run (see TRIP_GUIDE.md).
 Status values: `todo`, `done YYYY-MM-DD`, `skip (<reason>)`. When you finish a trip, fill in its ID, status, keyword and file.
 The first 10 Kenya rows are in the owner's priority order. Rwanda trips were optimised earlier and are not in this list.
-`4-day-wildebeest-migration-safari`: confirm its destination (destination term 19 = Kenya) before writing; if it is a Tanzania trip, move it to the Tanzania block.
+`4-day-wildebeest-migration-safari`: confirmed as a Tanzania trip on 2026-10-23 (destination term 31, breadcrumb "Trips > Tanzania", Serengeti itinerary) and moved to the top of the Tanzania block.
 
 | # | Destination | Trip slug (https://divulgeadventures.com/trip/<slug>/) | ID | Status | Focus keyword | File |
 |---|---|---|---|---|---|---|
@@ -21,12 +21,12 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 12 | Kenya | 11-day-kenya-special-five-and-big-five | 8130 | done 2026-10-20 | 11 day kenya special five and big five safari | kenya-8130-11-day-kenya-special-five-and-big-five-safari.json |
 | 13 | Kenya | 5-day-black-leopard-rhino-photo-safari | 8112 | done 2026-10-21 | 5 day black leopard and rhino photography safari | kenya-8112-5-day-black-leopard-and-rhino-photography-safari.json |
 | 14 | Kenya | 5-day-best-of-kenya-birding-safari | 7883 | done 2026-10-21 | 5 day kenya birding safari | kenya-7883-5-day-kenya-birding-safari.json |
-| 15 | Kenya | 2-days-tsavo-west-national-park-from-diani |  | todo |  |  |
-| 16 | Kenya | 4-day-wildebeest-migration-safari |  | todo |  |  |
-| 17 | Kenya | mout-kemya |  | todo |  |  |
+| 15 | Kenya | 2-days-tsavo-west-national-park-from-diani | 7739 | done 2026-10-23 | 2 day tsavo west safari from diani | kenya-7739-2-day-tsavo-west-safari-from-diani.json |
+| 17 | Kenya | mout-kemya | 2957 | done 2026-10-23 | 5 day mount kenya lakes trek | kenya-2957-5-day-mount-kenya-lakes-trek.json |
 | 18 | Kenya | 4-days-mt-kenya-sirimon-chogoria-route |  | todo |  |  |
 | 19 | Kenya | 5-days-mt-kenya-sirimon-to-chogoria-traverse |  | todo |  |  |
 | 20 | Kenya | full-day-corporate-team-building-at-burudani-adventure-park |  | todo |  |  |
+| 16 | Tanzania | 4-day-wildebeest-migration-safari | 9518 | todo |  |  |
 | 21 | Tanzania | 8-day-great-migration-northern-tanzania |  | todo |  |  |
 | 22 | Tanzania | tarangire-ngorongoro-serengeti-safari |  | todo |  |  |
 | 23 | Tanzania | northern-tanzania-safari |  | todo |  |  |
