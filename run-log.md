@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-23 07:20 | New post 1
+A Kenya and Tanzania Safari Works Best When You Plan the Border First — https://divulgeadventures.com/kenya-and-tanzania-safari/
+Tanzania, Safari Planning Tips (bank row TZ-005, core topic; focus keyword refined from "kenya and tanzania combined safari" to the searched phrase "kenya and tanzania safari"). Scheduled for 23 October 2026 at 10:00 Nairobi time. Covers the Namanga and Isebania crossings (no tourist crossing straight from the Mara into the Serengeti; vehicle and guide change at the border), the 1-hour Nairobi-Kilimanjaro flight, a month-by-month table, three routes, park fees (checked October 2026), cost estimates, eTA re-entry from Tanzania, insurance and yellow fever. Links the 12-day Kenya and Tanzania and 15-day birding trips, Tanzania/Kenya safari and fly-in pages, and 8 Divulge Diaries posts.
+Images: 4 from the owner's Media Library (featured Serengeti lion plus 3 Serengeti/migration photos in the body) and 2 from Unsplash (light aircraft at a Tanzanian airstrip, rhinos in Ngorongoro Crater). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+Could not open: lca.logcluster.org Namanga border page (permission request timed out).
+
 ## 2026-10-22 18:55 | New post 1
 Samburu or the Masai Mara? Pick by the Animals, the Season and the Crowds — https://divulgeadventures.com/samburu-vs-masai-mara/
 Kenya, Destination Tips (bank row KE-118, BOOST comparison). Scheduled for 22 October 2026 at 19:00 Nairobi time (10:00 had already passed when this run started). Compares wildlife (Special Five vs big cats and migration), month-by-month seasons, park fees (Mara US$200 Jul-Dec / US$100 Jan-Jun, checked October 2026), lodge cost estimates by tier, road and air travel, crowds, who each suits and how to combine them. Samburu's county fee is not stated as a figure (only non-official sources found; post says we confirm it in the quote). Links the 6 day Samburu and Mara fly-in, 3 day Samburu fly-in and 7 day Ol Pejeta, Meru and Samburu trips, Kenya safaris and fly-in pages, and 8 Divulge Diaries posts.

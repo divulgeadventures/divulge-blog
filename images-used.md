@@ -227,3 +227,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-22 | https://divulgeadventures.com/wp-content/uploads/2025/12/5057-x-3023divulge_adventures-scaled.jpg | samburu-vs-masai-mara
 2026-10-22 | https://images.unsplash.com/photo-1535342604578-a175d3fc4f22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OXx8U2FtYnVydSUyMEtlbnlhfGVufDB8MHx8fDE3OTI2ODQzMjl8Mg&ixlib=rb-4.1.0&q=80&w=1080 | samburu-vs-masai-mara
 2026-10-22 | https://divulgeadventures.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-29-at-17.45.15.jpeg | samburu-vs-masai-mara
+2026-10-23 | https://divulgeadventures.com/wp-content/uploads/2026/10/male-lion-on-a-rock-in-the-serengeti.jpg | kenya-and-tanzania-safari
+2026-10-23 | https://divulgeadventures.com/wp-content/uploads/2026/10/wildebeest-and-zebras-grazing-on-the-serengeti-plains.jpg | kenya-and-tanzania-safari
+2026-10-23 | https://images.unsplash.com/photo-1695302938665-1853a2c35994?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8c2FmYXJpJTIwYWlyc3RyaXAlMjBwbGFuZXxlbnwwfDB8fHwxNzkyNzI3NzUyfDI&ixlib=rb-4.1.0&q=80&w=1080 | kenya-and-tanzania-safari
+2026-10-23 | https://divulgeadventures.com/wp-content/uploads/2026/10/large-herd-of-wildebeest-crossing-a-river-during-the-migration.jpg | kenya-and-tanzania-safari
+2026-10-23 | https://images.unsplash.com/photo-1726075016723-6ea81c84925c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8Tmdvcm9uZ29ybyUyMGNyYXRlcnxlbnwwfDB8fHwxNzkyNzI3NzUyfDI&ixlib=rb-4.1.0&q=80&w=1080 | kenya-and-tanzania-safari
+2026-10-23 | https://divulgeadventures.com/wp-content/uploads/2026/10/wildebeest-herd-heading-across-the-serengeti-during-the-migration.jpg | kenya-and-tanzania-safari
