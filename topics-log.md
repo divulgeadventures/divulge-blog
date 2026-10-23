@@ -55,3 +55,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-21 | Rwanda RW-002 | Safari Planning Tips | how hard is gorilla trekking | how-hard-is-gorilla-trekking
 2026-10-22 | Kenya KE-118 | Destination Tips | samburu vs masai mara | samburu-vs-masai-mara
 2026-10-23 | Tanzania TZ-005 | Safari Planning Tips | kenya and tanzania safari | kenya-and-tanzania-safari
+2026-10-23 | Uganda UG-042 | Destination Tips | uganda in january | uganda-in-january

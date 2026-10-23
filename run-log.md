@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-23 11:00 | New post 2
+- "Uganda in January: Dry Forest Trails, Busy Permits and Hot Savannah Days": https://divulgeadventures.com/uganda-in-january/ (Uganda UG-042, Destination Tips; focus keyword refined to "uganda in january"). Scheduled for 2026-10-23 14:00 Nairobi time.
+- Images: 3 from the owner's Media Library (grey crowned cranes, Kibale chimpanzee, shoebill) + 3 Unsplash in the body, plus an Unsplash featured image (Bwindi gorilla).
+- Fees checked October 2026: gorilla permit US$800 and park fees from the UWA tariff; Kibale chimp US$250 now, widely reported (not seen on UWA itself) as US$300 from 1 Jan 2027. Reports disagree on whether the gorilla permit rises for 2027, so the post tells readers to confirm; owner may want to check UWA's "Tariff changes 2026-2027" PDF and update. Uganda dropped the yellow fever certificate entry rule in October 2026 (the Dec post still says a certificate is expected; worth a TEXT FIX).
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none.
+- Could not open: https://ugandawildlife.org/wp-content/uploads/2026/03/Tariff-changes-2026-2027.pdf (permission request timed out).
+
 ## 2026-10-23 05:36 Trip Optimiser
 - Done: 2 Days Tsavo West National Park from Diani (ID 7739, "2 day tsavo west safari from diani", kenya-7739-2-day-tsavo-west-safari-from-diani.json); 5 Days Mt Kenya Lake Tour Climb (ID 2957, "5 day mount kenya lakes trek", kenya-2957-5-day-mount-kenya-lakes-trek.json). Both read from the site-data copy (snapshot 2026-10-23 03:18 UTC); the live site was not opened. Prices: 7739 from USD 595 (regular USD 735); 2957 shows no price, so the "Price on request" box is used. Row 16 (4-day-wildebeest-migration-safari, ID 9518) is a Tanzania trip (destination 31, breadcrumb Tanzania, Serengeti/Kogatende itinerary), so it was moved to the top of the Tanzania block and not written this run.
 - Photos: 7739 5 owner + 0 Unsplash (featured tsavo-west-national-park-kenya, gallery Tsavo-West-National-Park-8 red elephants, Shetani Lava Flow, Leopard, Tsavo-West-National-Park; the old featured image 5340-x-3463divulge_adventures, alt "divulge adventures kenya and tanzania safari", was dropped because nothing names it as Tsavo; put it back if it is a Tsavo photo). 2957 2 owner + 3 Unsplash (featured DSC_1572, gallery DSC_0031, plus 3 Unsplash views of Mount Kenya). Dropped from 2957: DSC0002 and DSC_0039 (titled Mt Satima, Aberdares, so the wrong mountain) and DSC_1676 ("hiking and safari combo", place unknown and may show hikers as the main subject). Alts are from file names/titles only; please check DSC_1572 and DSC_0031 show the mountain, not a guest portrait.

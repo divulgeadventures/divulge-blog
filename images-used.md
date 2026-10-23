@@ -233,3 +233,10 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-23 | https://divulgeadventures.com/wp-content/uploads/2026/10/large-herd-of-wildebeest-crossing-a-river-during-the-migration.jpg | kenya-and-tanzania-safari
 2026-10-23 | https://images.unsplash.com/photo-1726075016723-6ea81c84925c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8Tmdvcm9uZ29ybyUyMGNyYXRlcnxlbnwwfDB8fHwxNzkyNzI3NzUyfDI&ixlib=rb-4.1.0&q=80&w=1080 | kenya-and-tanzania-safari
 2026-10-23 | https://divulgeadventures.com/wp-content/uploads/2026/10/wildebeest-herd-heading-across-the-serengeti-during-the-migration.jpg | kenya-and-tanzania-safari
+2026-10-23 | https://images.unsplash.com/photo-1711198587711-2020c1e4a3a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8QndpbmRpJTIwZ29yaWxsYXxlbnwwfDB8fHwxNzkyNzQyMjEyfDI&ixlib=rb-4.1.0&q=80&w=1080 | uganda-in-january
+2026-10-23 | https://images.unsplash.com/photo-1557447636-028d8c59b13c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8QndpbmRpJTIwZ29yaWxsYXxlbnwwfDB8fHwxNzkyNzQyMjEyfDI&ixlib=rb-4.1.0&q=80&w=1080 | uganda-in-january
+2026-10-23 | https://divulgeadventures.com/wp-content/uploads/2026/05/grey-crowned-cranes-700x450-1.jpg | uganda-in-january
+2026-10-23 | https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-in-the-dense-forest-of-kibale.jpg | uganda-in-january
+2026-10-23 | https://images.unsplash.com/photo-1663498798455-8ce6d44d4505?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8TXVyY2hpc29uJTIwRmFsbHN8ZW58MHwwfHx8MTc5Mjc0MjIxMXwy&ixlib=rb-4.1.0&q=80&w=1080 | uganda-in-january
+2026-10-23 | https://divulgeadventures.com/wp-content/uploads/2026/10/shoebill-stork-in-uganda.jpg | uganda-in-january
+2026-10-23 | https://images.unsplash.com/photo-1671221641133-9c35fcd38aed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8UXVlZW4lMjBFbGl6YWJldGglMjBOYXRpb25hbCUyMFBhcmslMjBVZ2FuZGF8ZW58MHwwfHx8MTc5Mjc0MjIxMnwy&ixlib=rb-4.1.0&q=80&w=1080 | uganda-in-january
