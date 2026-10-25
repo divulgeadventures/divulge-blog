@@ -246,3 +246,11 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-25 | https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-resting-in-the-rainforest-canopy.jpg | kenya-vs-uganda-safari
 2026-10-25 | https://divulgeadventures.com/wp-content/uploads/2025/12/Divulge-Adventures-Copy1-58.jpg | kenya-vs-uganda-safari
 2026-10-25 | https://divulgeadventures.com/wp-content/uploads/2026/10/shoebill-resting-in-the-grass.jpg | kenya-vs-uganda-safari
+2026-10-25 | https://images.unsplash.com/photo-1665270409076-880b210fb0fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8Qm90c3dhbmElMjBlbGVwaGFudHN8ZW58MHwwfHx8MTc5Mjk0MzU0N3wy&ixlib=rb-4.1.0&q=80&w=1080 | botswana-safari-guide
+2026-10-25 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-Khwai-and-Savuti-2.jpg | botswana-safari-guide
+2026-10-25 | https://images.unsplash.com/photo-1759252973832-617895b7ef4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8bW9rb3JvJTIwQm90c3dhbmF8ZW58MHwwfHx8MTc5Mjk0MzU0MXwy&ixlib=rb-4.1.0&q=80&w=1080 | botswana-safari-guide
+2026-10-25 | https://images.unsplash.com/photo-1646338127518-07d025f4fe5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8Qm90c3dhbmElMjBlbGVwaGFudHN8ZW58MHwwfHx8MTc5Mjk0MzU0N3wy&ixlib=rb-4.1.0&q=80&w=1080 | botswana-safari-guide
+2026-10-25 | https://images.unsplash.com/photo-1759221947568-240243ee9b3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8TWFrZ2FkaWtnYWRpfGVufDB8MHx8fDE3OTI5NDM1NDB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | botswana-safari-guide
+2026-10-25 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-and-Nothern-Exploration.jpg | botswana-safari-guide
+2026-10-25 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-and-Northern-Exploration.jpg | botswana-safari-guide
+2026-10-25 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-and-Nothern-Exploration-1.jpg | botswana-safari-guide

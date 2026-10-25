@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-25 18:56 | New post 2
+- "A Botswana Safari Guide for First-Timers, From the Okavango to the Kalahari": https://divulgeadventures.com/botswana-safari-guide/ (Botswana BW-001, pillar, Destination Tips). Focus keyword refined to "botswana safari". Scheduled for 2026-10-25 19:00 Nairobi time (14:00 had already passed when this run started).
+- Covers regions (Okavango, Moremi/Khwai, Chobe/Savuti/Linyanti, Makgadikgadi, Central Kalahari), a month-by-month table, cost estimates by tier, flights and light aircraft, visas and malaria. Chobe/Moremi fee BWP 270 per international adult per day (checked October 2026); the planned 1 April 2026 fee rise is on hold with no new date, so the post tells readers to confirm. Links the 3-day mokoro, 7-day Chobe/Khwai/Okavango and 8-day Moremi trips.
+- Images: 4 from the owner's Media Library (Moremi/Okavango trip photos in the body), 4 from Unsplash (featured Chobe elephants, plus Okavango elephant, canoes by a river and a meerkat on a salt pan). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none (no Botswana seasonal rows for December/January left; no BOOST, as post 1 today was one).
+- Could not open: none.
+
 ## 2026-10-25 15:05 | New post 1
 - "Weighing Up Kenya vs Uganda Safari Options? Start With the Animals on Your List": https://divulgeadventures.com/kenya-vs-uganda-safari/ (Kenya KE-262, BOOST comparison, Destination Tips). Scheduled for 2026-10-25 15:00 Nairobi time (10:00 had already passed when this run started).
 - Covers wildlife, gorillas and chimps, month-by-month seasons, cost estimates by tier, travel times, the East Africa Tourist Visa and yellow fever. Gorilla permit US$800 and Kibale chimps US$250 (checked October 2026); the reported 2027 rises (US$1,000 / US$300) come from non-UWA sources, so the post tells readers to confirm. Links the 7 day Uganda primate safari and 6 day Amboseli and Masai Mara trips, Kenya and Uganda safari pages and 9 Divulge Diaries posts.
