@@ -216,3 +216,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/samburu-vs-masai-mara/ (samburu vs masai mara)
 - https://divulgeadventures.com/kenya-and-tanzania-safari/ (kenya and tanzania safari)
 - https://divulgeadventures.com/uganda-in-january/ (uganda in january)
+- https://divulgeadventures.com/kenya-vs-uganda-safari/ (kenya vs uganda safari)

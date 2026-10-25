@@ -56,3 +56,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-22 | Kenya KE-118 | Destination Tips | samburu vs masai mara | samburu-vs-masai-mara
 2026-10-23 | Tanzania TZ-005 | Safari Planning Tips | kenya and tanzania safari | kenya-and-tanzania-safari
 2026-10-23 | Uganda UG-042 | Destination Tips | uganda in january | uganda-in-january
+2026-10-25 | Kenya KE-262 | Destination Tips | kenya vs uganda safari | kenya-vs-uganda-safari

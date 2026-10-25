@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-25 15:05 | New post 1
+- "Weighing Up Kenya vs Uganda Safari Options? Start With the Animals on Your List": https://divulgeadventures.com/kenya-vs-uganda-safari/ (Kenya KE-262, BOOST comparison, Destination Tips). Scheduled for 2026-10-25 15:00 Nairobi time (10:00 had already passed when this run started).
+- Covers wildlife, gorillas and chimps, month-by-month seasons, cost estimates by tier, travel times, the East Africa Tourist Visa and yellow fever. Gorilla permit US$800 and Kibale chimps US$250 (checked October 2026); the reported 2027 rises (US$1,000 / US$300) come from non-UWA sources, so the post tells readers to confirm. Links the 7 day Uganda primate safari and 6 day Amboseli and Masai Mara trips, Kenya and Uganda safari pages and 9 Divulge Diaries posts.
+- Images: 6 from the owner's Media Library (featured Uganda gorilla, plus Masai Mara scenery, Queen Elizabeth lion, Kibale chimpanzee, Kenya wildebeest and shoebill in the body), 0 from Unsplash. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). No posts were written on 2026-10-24. Skipped topics: none.
+- Could not open: https://www.flightsfrom.com/NBO-EBB (site error).
+
 ## 2026-10-23 11:00 | New post 2
 - "Uganda in January: Dry Forest Trails, Busy Permits and Hot Savannah Days": https://divulgeadventures.com/uganda-in-january/ (Uganda UG-042, Destination Tips; focus keyword refined to "uganda in january"). Scheduled for 2026-10-23 14:00 Nairobi time.
 - Images: 3 from the owner's Media Library (grey crowned cranes, Kibale chimpanzee, shoebill) + 3 Unsplash in the body, plus an Unsplash featured image (Bwindi gorilla).

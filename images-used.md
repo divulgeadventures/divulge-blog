@@ -240,3 +240,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-23 | https://images.unsplash.com/photo-1663498798455-8ce6d44d4505?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8TXVyY2hpc29uJTIwRmFsbHN8ZW58MHwwfHx8MTc5Mjc0MjIxMXwy&ixlib=rb-4.1.0&q=80&w=1080 | uganda-in-january
 2026-10-23 | https://divulgeadventures.com/wp-content/uploads/2026/10/shoebill-stork-in-uganda.jpg | uganda-in-january
 2026-10-23 | https://images.unsplash.com/photo-1671221641133-9c35fcd38aed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8UXVlZW4lMjBFbGl6YWJldGglMjBOYXRpb25hbCUyMFBhcmslMjBVZ2FuZGF8ZW58MHwwfHx8MTc5Mjc0MjIxMnwy&ixlib=rb-4.1.0&q=80&w=1080 | uganda-in-january
+2026-10-25 | https://divulgeadventures.com/wp-content/uploads/2026/05/uganda-gorillas-best-attractions-in-Uganda-scaled.jpg | kenya-vs-uganda-safari
+2026-10-25 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge-adventures-58.jpg | kenya-vs-uganda-safari
+2026-10-25 | https://divulgeadventures.com/wp-content/uploads/2026/04/lion-in-queen-elizabeth-national-park.jpg | kenya-vs-uganda-safari
+2026-10-25 | https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-resting-in-the-rainforest-canopy.jpg | kenya-vs-uganda-safari
+2026-10-25 | https://divulgeadventures.com/wp-content/uploads/2025/12/Divulge-Adventures-Copy1-58.jpg | kenya-vs-uganda-safari
+2026-10-25 | https://divulgeadventures.com/wp-content/uploads/2026/10/shoebill-resting-in-the-grass.jpg | kenya-vs-uganda-safari
