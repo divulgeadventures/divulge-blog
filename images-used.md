@@ -259,3 +259,12 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-26 | https://images.unsplash.com/photo-1518729571365-9a891a9df2bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8S2lsaW1hbmphcm98ZW58MHwwfHx8MTc5Mjk4NjY3MHwy&ixlib=rb-4.1.0&q=80&w=1080 | kilimanjaro-routes
 2026-10-26 | https://images.unsplash.com/photo-1588445599591-efe468e9c3ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MTB8fEtpbGltYW5qYXJvfGVufDB8MHx8fDE3OTI5ODY2NzB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | kilimanjaro-routes
 2026-10-26 | https://images.unsplash.com/photo-1650668302253-3fc13879ec85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MTN8fEtpbGltYW5qYXJvfGVufDB8MHx8fDE3OTI5ODY2NzB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | kilimanjaro-routes
+2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/02/Laikipia-Wilderness-Wild-Dogs.jpg | discovering-laikipia-wilderness
+2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/02/Black-Leopard.jpg | discovering-laikipia-wilderness
+2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2022/03/mount-kenya-seen-across-the-plains-from-nanyuki.jpg | discovering-laikipia-wilderness
+2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2025/11/4527-x-2741divulge_adventures_1-5-scaled.jpg | best-masai-mara-camps-by-budget
+2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/05/masai-mara-accommodations-angama-mara-premium-lodge.jpg | best-masai-mara-camps-by-budget
+2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/01/mara-wildebeest-migration-1.jpg | best-masai-mara-camps-by-budget
+2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/04/5688-x-3792divulge_adventures-4-scaled.jpg | kenya-safari-in-december
+2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/10/flamingos-taking-flight-over-lake-nakuru-kenya.jpg | kenya-safari-in-december
+2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/01/Tsavo-West-National-Park.jpg | kenya-safari-in-december
