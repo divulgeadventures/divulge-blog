@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-26 07:20 | New post 1
+- "Kilimanjaro Routes Compared: Which of the Seven Suits Your Days, Budget and Nerves?": https://divulgeadventures.com/kilimanjaro-routes/ (Tanzania TZ-006, core topic, Destination Tips; focus keyword refined to "kilimanjaro routes"). Scheduled for 2026-10-26 10:00 Nairobi time.
+- Compares all seven routes (days, distance, acclimatisation, crowds, summit night, getting there from Nairobi) with a park-fee estimate table by climb length. Fees from the 2026 TANAPA tariff as reported in April 2026 (US$70/day conservation, US$50/night camping, US$60/night huts, US$20 rescue, all plus 18% VAT; checked October 2026), and readers are told to confirm. Success-rate percentages were left out because only operator claims were found. Links the mountain climbing page, Mt Kenya traverse and 5-day northern Tanzania trips and 6 Divulge Diaries posts.
+- Images: 1 from the owner's Media Library (mount-kilimanjaro.jpg, also used on 18 Oct as the only Kilimanjaro summit photo), 4 from Unsplash (featured Kilimanjaro from Amboseli, plus plateau above clouds, tent at sunrise and high rocky ground). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none (no Tanzania seasonal rows for December/January left; no BOOST, as yesterday used one).
+- Could not open: none (TANAPA's own tariff page did not come up in search, so fees rely on a recent summary of it).
+
 ## 2026-10-25 18:56 | New post 2
 - "A Botswana Safari Guide for First-Timers, From the Okavango to the Kalahari": https://divulgeadventures.com/botswana-safari-guide/ (Botswana BW-001, pillar, Destination Tips). Focus keyword refined to "botswana safari". Scheduled for 2026-10-25 19:00 Nairobi time (14:00 had already passed when this run started).
 - Covers regions (Okavango, Moremi/Khwai, Chobe/Savuti/Linyanti, Makgadikgadi, Central Kalahari), a month-by-month table, cost estimates by tier, flights and light aircraft, visas and malaria. Chobe/Moremi fee BWP 270 per international adult per day (checked October 2026); the planned 1 April 2026 fee rise is on hold with no new date, so the post tells readers to confirm. Links the 3-day mokoro, 7-day Chobe/Khwai/Okavango and 8-day Moremi trips.

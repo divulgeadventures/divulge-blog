@@ -254,3 +254,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-25 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-and-Nothern-Exploration.jpg | botswana-safari-guide
 2026-10-25 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-and-Northern-Exploration.jpg | botswana-safari-guide
 2026-10-25 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-and-Nothern-Exploration-1.jpg | botswana-safari-guide
+2026-10-26 | https://images.unsplash.com/photo-1489392191049-fc10c97e64b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8S2lsaW1hbmphcm98ZW58MHwwfHx8MTc5Mjk4NjY3MHwy&ixlib=rb-4.1.0&q=80&w=1080 | kilimanjaro-routes
+2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/07/mount-kilimanjaro.jpg | kilimanjaro-routes
+2026-10-26 | https://images.unsplash.com/photo-1518729571365-9a891a9df2bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8S2lsaW1hbmphcm98ZW58MHwwfHx8MTc5Mjk4NjY3MHwy&ixlib=rb-4.1.0&q=80&w=1080 | kilimanjaro-routes
+2026-10-26 | https://images.unsplash.com/photo-1588445599591-efe468e9c3ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MTB8fEtpbGltYW5qYXJvfGVufDB8MHx8fDE3OTI5ODY2NzB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | kilimanjaro-routes
+2026-10-26 | https://images.unsplash.com/photo-1650668302253-3fc13879ec85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MTN8fEtpbGltYW5qYXJvfGVufDB8MHx8fDE3OTI5ODY2NzB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | kilimanjaro-routes
