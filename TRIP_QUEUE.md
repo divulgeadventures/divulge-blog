@@ -23,8 +23,8 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 14 | Kenya | 5-day-best-of-kenya-birding-safari | 7883 | done 2026-10-21 | 5 day kenya birding safari | kenya-7883-5-day-kenya-birding-safari.json |
 | 15 | Kenya | 2-days-tsavo-west-national-park-from-diani | 7739 | done 2026-10-23 | 2 day tsavo west safari from diani | kenya-7739-2-day-tsavo-west-safari-from-diani.json |
 | 17 | Kenya | mout-kemya | 2957 | done 2026-10-23 | 5 day mount kenya lakes trek | kenya-2957-5-day-mount-kenya-lakes-trek.json |
-| 18 | Kenya | 4-days-mt-kenya-sirimon-chogoria-route |  | todo |  |  |
-| 19 | Kenya | 5-days-mt-kenya-sirimon-to-chogoria-traverse |  | todo |  |  |
+| 18 | Kenya | 4-days-mt-kenya-sirimon-chogoria-route | 6804 | done 2026-10-26 | 4 day mount kenya sirimon chogoria trek | kenya-6804-4-day-mount-kenya-sirimon-chogoria-trek.json |
+| 19 | Kenya | 5-days-mt-kenya-sirimon-to-chogoria-traverse | 6806 | done 2026-10-26 | 5 day mount kenya sirimon chogoria traverse | kenya-6806-5-day-mount-kenya-sirimon-chogoria-traverse.json |
 | 20 | Kenya | full-day-corporate-team-building-at-burudani-adventure-park |  | todo |  |  |
 | 16 | Tanzania | 4-day-wildebeest-migration-safari | 9518 | todo |  |  |
 | 21 | Tanzania | 8-day-great-migration-northern-tanzania |  | todo |  |  |
