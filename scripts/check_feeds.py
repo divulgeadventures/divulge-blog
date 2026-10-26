@@ -70,13 +70,21 @@ def check(url):
 
 
 def terms(site, kind):
-    status, body, _ = get(f"{site}/wp-json/wp/v2/{kind}?per_page=100&_fields=slug,count")
-    if status != 200:
-        return []
-    try:
-        return [t["slug"] for t in json.loads(body) if t.get("count", 0) > 0]
-    except Exception:
-        return []
+    slugs = []
+    for page in range(1, 11):
+        status, body, _ = get(f"{site}/wp-json/wp/v2/{kind}?per_page=100&page={page}&_fields=slug,count")
+        if status != 200:
+            break
+        try:
+            batch = json.loads(body)
+        except Exception:
+            break
+        if not batch:
+            break
+        slugs += [t["slug"] for t in batch if t.get("count", 0) > 0]
+        if len(batch) < 100:
+            break
+    return slugs
 
 
 out = {"checked_at_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M"), "feeds": {}}
@@ -85,7 +93,8 @@ for name, site in SITES.items():
     urls += [f"{site}/category/{s}/feed/" for s in terms(site, "categories")]
     tags = terms(site, "tags")
     countries = ["kenya", "tanzania", "uganda", "rwanda", "namibia", "botswana"]
-    urls += [f"{site}/tag/{s}/feed/" for s in tags if s in countries or name == "hogh"]
+    out.setdefault("tags", {})[name] = tags
+    urls += [f"{site}/tag/{s}/feed/" for s in tags if s.split("-")[0] in countries or (name == "hogh" and s in ("hiking", "kenya"))]
     out["feeds"][name] = [check(u) for u in urls]
 
 with open("site-data/feeds.json", "w") as f:
