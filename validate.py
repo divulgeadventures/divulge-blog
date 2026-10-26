@@ -123,6 +123,16 @@ def title_variety(path, p, kw):
     return errs
 
 
+COUNTRY_HINTS = {
+    "kenya": ["masai mara", "maasai mara", "amboseli", "samburu", "tsavo", "lake nakuru", "naivasha", "ol pejeta", "laikipia", "diani", "nairobi", "watamu", "lamu", "mount kenya", "aberdare"],
+    "tanzania": ["serengeti", "ngorongoro", "tarangire", "zanzibar", "lake manyara", "arusha", "ruaha", "selous", "nyerere", "ndutu"],
+    "uganda": ["bwindi", "kibale", "murchison", "queen elizabeth national park", "lake mburo", "semliki"],
+    "rwanda": ["volcanoes national park", "akagera", "nyungwe", "kigali", "lake kivu"],
+    "namibia": ["etosha", "sossusvlei", "damaraland", "skeleton coast", "swakopmund", "fish river canyon"],
+    "botswana": ["okavango", "chobe", "moremi", "kalahari", "makgadikgadi", "khwai", "savuti"],
+}
+
+
 def check(path):
     errs = []
     try:
@@ -145,8 +155,20 @@ def check(path):
     kw = p["focus_keyword"].lower().strip()
     if p["category"] not in CATEGORIES:
         errs.append(f"bad category: {p['category']}")
-    if not 3 <= len(p["tags"]) <= 5:
-        errs.append("tags must be 3-5")
+    if not 3 <= len(p["tags"]) <= 6:
+        errs.append("tags must be 3-6")
+    # Pinterest boards read one RSS feed per plain country tag (/tag/kenya/feed/ etc.),
+    # so every post that is about a country must carry that country's plain tag.
+    tag_names = {t.strip().lower() for t in p["tags"]}
+    named = " ".join([p["title"], p["focus_keyword"], " ".join(p["tags"])]).lower()
+    main = " ".join([p["title"], p["focus_keyword"]]).lower()
+    for country, places in COUNTRY_HINTS.items():
+        if country in tag_names:
+            continue
+        hit = re.search(r"\b" + country + r"\b", named) or any(
+            re.search(r"\b" + re.escape(w) + r"\b", main) for w in places)
+        if hit:
+            errs.append(f'add the plain country tag "{country.title()}" (Pinterest board feed /tag/{country}/feed/)')
     if len(p["meta_title"]) >= 60:
         errs.append(f"meta_title {len(p['meta_title'])} chars (must be < 60)")
     pos = p["meta_title"].lower().find(kw)

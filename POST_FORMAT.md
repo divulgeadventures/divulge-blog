@@ -20,6 +20,7 @@
 ```
 
 - `status: "draft"` lands the post as a draft for review. A future `publish_at` schedules it.
+- Tags (3-6): always include the plain country tag for every country the post is about ("Kenya", "Tanzania", "Uganda", "Rwanda", "Namibia", "Botswana"), as well as any "Kenya safari"-style tags. Pinterest boards read the feeds /tag/kenya/feed/, /tag/tanzania/feed/ etc., so a post without the plain country tag never reaches its country board. validate.py checks this.
 - `faq` is printed as FAQPage schema on the post by the sync snippet.
 - Refresh an existing post: add `"update_slug": "<existing-slug>"` and set `slug` to the same value. URL, date and author stay; title, content, excerpt, category, tags, Rank Math fields, FAQ and (optionally) featured image are replaced. WordPress keeps the old version under Revisions.
 - Filenames: new posts `posts/YYYY-MM-DD-<slot 1-3>-<slug>.json`; refreshes `posts/refresh-YYYY-MM-DD-<slug>.json` (refresh files must not start with the date, so they never count as one of the day's 3 posts).
