@@ -268,3 +268,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/04/5688-x-3792divulge_adventures-4-scaled.jpg | kenya-safari-in-december
 2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/10/flamingos-taking-flight-over-lake-nakuru-kenya.jpg | kenya-safari-in-december
 2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/01/Tsavo-West-National-Park.jpg | kenya-safari-in-december
+2026-10-26 | https://images.unsplash.com/photo-1545833303-6bab33314c69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8RXRvc2hhJTIwemVicmF8ZW58MHwwfHx8MTc5MzAwMTE1MHwy&ixlib=rb-4.1.0&q=80&w=1080 | namibia-in-january
+2026-10-26 | https://images.unsplash.com/photo-1734690237101-12746ed45a00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8RXRvc2hhJTIwemVicmF8ZW58MHwwfHx8MTc5MzAwMTE1MHwy&ixlib=rb-4.1.0&q=80&w=1080 | namibia-in-january
+2026-10-26 | https://images.unsplash.com/photo-1679940512982-b8bfe2ab7374?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8TmFtaWJpYSUyMHN0b3JtJTIwY2xvdWRzfGVufDB8MHx8fDE3OTMwMDExNTJ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | namibia-in-january
+2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/06/Etosha-national-park.webp | namibia-in-january
+2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/01/Namibia-Safari-Deadvlei.jpg | namibia-in-january
+2026-10-26 | https://images.unsplash.com/photo-1594137833275-ff977562796a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8U3dha29wbXVuZHxlbnwwfDB8fHwxNzkzMDAxMTUxfDI&ixlib=rb-4.1.0&q=80&w=1080 | namibia-in-january
