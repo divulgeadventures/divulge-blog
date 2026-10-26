@@ -274,3 +274,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/06/Etosha-national-park.webp | namibia-in-january
 2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/01/Namibia-Safari-Deadvlei.jpg | namibia-in-january
 2026-10-26 | https://images.unsplash.com/photo-1594137833275-ff977562796a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8U3dha29wbXVuZHxlbnwwfDB8fHwxNzkzMDAxMTUxfDI&ixlib=rb-4.1.0&q=80&w=1080 | namibia-in-january
+2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/10/divulge-adventures-kenya-safari-4-scaled.jpg | amboseli-lodges
+2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge_adventures_safari-415-scaled.jpg | amboseli-lodges
+2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/04/Divulge-Adventures-78-scaled.jpg | amboseli-lodges
+2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/04/5177-x-3082divulge_adventures-scaled.jpg | amboseli-lodges
+2026-10-26 | https://images.unsplash.com/photo-1632315152441-465a943cc211?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8c2FmYXJpJTIwdGVudHxlbnwwfDB8fHwxNzkzMDE1ODkyfDI&ixlib=rb-4.1.0&q=80&w=1080 | amboseli-lodges
+2026-10-26 | https://images.unsplash.com/photo-1579710790876-d10ddcb2370b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OXx8QW1ib3NlbGl8ZW58MHwwfHx8MTc5MzAxNTg5M3wy&ixlib=rb-4.1.0&q=80&w=1080 | amboseli-lodges

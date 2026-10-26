@@ -220,3 +220,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/botswana-safari-guide/ (botswana safari)
 - https://divulgeadventures.com/kilimanjaro-routes/ (kilimanjaro routes)
 - https://divulgeadventures.com/namibia-in-january/ (namibia in january)
+- https://divulgeadventures.com/amboseli-lodges/ (amboseli lodges)
