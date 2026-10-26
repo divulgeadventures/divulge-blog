@@ -7,6 +7,7 @@ number of items, newest item date, and how many items carry an image
 without an image and stops reading a feed that is broken or not RSS.
 """
 import json
+import time
 import re
 import urllib.error
 import urllib.request
@@ -33,7 +34,11 @@ def get(url):
 
 
 def check(url):
+    time.sleep(1.5)  # be gentle: fast bursts can trigger 503s from the host
     status, body, ctype = get(url)
+    if status in (429, 503):
+        time.sleep(15)
+        status, body, ctype = get(url)
     res = {"url": url, "status": status, "content_type": ctype}
     start = body.lstrip()[:200]
     res["starts_with"] = start[:120]
@@ -78,7 +83,9 @@ out = {"checked_at_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M"), 
 for name, site in SITES.items():
     urls = [f"{site}/feed/"]
     urls += [f"{site}/category/{s}/feed/" for s in terms(site, "categories")]
-    urls += [f"{site}/tag/{s}/feed/" for s in terms(site, "tags")][:40]
+    tags = terms(site, "tags")
+    countries = ["kenya", "tanzania", "uganda", "rwanda", "namibia", "botswana"]
+    urls += [f"{site}/tag/{s}/feed/" for s in tags if s in countries or name == "hogh"]
     out["feeds"][name] = [check(u) for u in urls]
 
 with open("site-data/feeds.json", "w") as f:
