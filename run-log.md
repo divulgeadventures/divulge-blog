@@ -4,6 +4,10 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-26 18:50 | Nothing to do
+- Today's 3 new posts are already written (Kilimanjaro routes, Namibia in January, Amboseli lodges). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left), so no post changes.
+- Could not open: none.
+
 ## 2026-10-26 15:20 | New post 3
 - "How to Pick Between Amboseli Lodges for Kilimanjaro Views, Elephants and Budget": https://divulgeadventures.com/amboseli-lodges/ (Kenya KE-004, core topic, Accommodation Guide; focus keyword refined from "best amboseli lodges" to "amboseli lodges"). Scheduled for 2026-10-26 18:00 Nairobi time.
 - Compares six properties by zone, each described from its own website only: Ol Tukai Lodge and Amboseli Serena Safari Lodge (inside the park), Amboseli Sopa Lodge (park edge), Tortilis Camp, Tawi Lodge and Angama Amboseli (conservancies). No room rates quoted; KWS park fee US$90 adult / US$45 child per 24 hours (checked October 2026). Links the 3 day Amboseli fly-in and 6-day Best of Amboseli & Masai Mara trips, the Kenya safari page and 4 Divulge Diaries posts.
