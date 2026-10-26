@@ -1,0 +1,24 @@
+name: Contact sheets
+on:
+  push:
+    branches: [photo-review]
+    paths: [review/candidates.json, scripts/contact_sheets.py]
+permissions:
+  contents: write
+jobs:
+  sheets:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - run: python3 scripts/contact_sheets.py
+      - run: |
+          git config user.name "divulgeadventures"
+          git config user.email "divulgeadventures@gmail.com"
+          git add review
+          git commit -m "Contact sheets for photo review" || true
+          git push
