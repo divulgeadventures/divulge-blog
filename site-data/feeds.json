@@ -1,5 +1,5 @@
 {
- "checked_at_utc": "2026-10-26 12:58",
+ "checked_at_utc": "2026-10-26 13:05",
  "feeds": {
   "divulge": [
    {
@@ -257,111 +257,6 @@
     ]
    },
    {
-    "url": "https://divulgeadventures.com/tag/amboseli/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 3,
-    "items_with_image": 3,
-    "newest": "Wed, 21 Oct 2026 11:00:00 +0000",
-    "sample": [
-     {
-      "title": "How to Plan a Kenya Safari Itinerary for One Week, With Four Routes Compared",
-      "date": "Wed, 21 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-66-1024x683.jpg"
-     },
-     {
-      "title": "Kenya Safari in January: Weather, Wildlife, Costs and Where to Go",
-      "date": "Mon, 12 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-safari-in-january-683x1024.jpg"
-     },
-     {
-      "title": "Kenya Safari in December: Weather, Wildlife, Costs and Where to Go",
-      "date": "Fri, 09 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-safari-in-december-1024x683.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/amboseli-attractions/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Thu, 09 Apr 2026 14:24:46 +0000",
-    "sample": [
-     {
-      "title": "8 Best of Amboseli National Park Attractions",
-      "date": "Thu, 09 Apr 2026 14:24:46 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2025/11/IMG_5622-1024x681.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/amboseli-national-park/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 3,
-    "items_with_image": 3,
-    "newest": "Tue, 20 Oct 2026 07:00:00 +0000",
-    "sample": [
-     {
-      "title": "Masai Mara vs Amboseli: 7 Honest Differences to Help You Choose",
-      "date": "Tue, 20 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/elephant-herd-walking-in-front-of-kilimanjaro-1024x576.jpg"
-     },
-     {
-      "title": "8 Best of Amboseli National Park Attractions",
-      "date": "Thu, 09 Apr 2026 14:24:46 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2025/11/IMG_5622-1024x681.jpg"
-     },
-     {
-      "title": "Why Every Safari Should Include Amboseli National Park?",
-      "date": "Tue, 25 Nov 2025 14:09:37 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-10-09-at-20.55.13-1024x682.jpeg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/best-time-to-visit-kenya/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Mon, 12 Oct 2026 07:00:00 +0000",
-    "sample": [
-     {
-      "title": "Kenya Safari in January: Weather, Wildlife, Costs and Where to Go",
-      "date": "Mon, 12 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-safari-in-january-683x1024.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/black-leopard/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Wed, 25 Feb 2026 19:24:46 +0000",
-    "sample": [
-     {
-      "title": "Laikipia Wilderness: Kenya’s Wild North for Rhinos, Black Leopards and Walking Safaris",
-      "date": "Wed, 25 Feb 2026 19:24:46 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/02/Laikipia-Wilderness-1024x544.png"
-     }
-    ]
-   },
-   {
     "url": "https://divulgeadventures.com/tag/botswana/feed/",
     "status": 200,
     "content_type": "application/rss+xml; charset=UTF-8",
@@ -384,345 +279,20 @@
     ]
    },
    {
-    "url": "https://divulgeadventures.com/tag/botswana-safari/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 4,
-    "items_with_image": 4,
-    "newest": "Sun, 25 Oct 2026 16:24:50 +0000",
-    "sample": [
-     {
-      "title": "A Botswana Safari Guide for First-Timers, From the Okavango to the Kalahari",
-      "date": "Sun, 25 Oct 2026 16:24:50 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/botswana-safari-guide-1024x683.jpg"
-     },
-     {
-      "title": "Botswana in January: Green Season Safari Guide and Where to Go",
-      "date": "Tue, 20 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/botswana-in-january-1024x683.jpg"
-     },
-     {
-      "title": "Botswana vs Namibia: Which Safari Is Right for You?",
-      "date": "Fri, 16 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/06/botswanasafarichobe-1024x593.webp"
-     },
-     {
-      "title": "Botswana in December: Where the Wildlife Is and What to Expect",
-      "date": "Sun, 11 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/botswana-in-december-1024x813.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/botswana-safari-planning/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Wed, 14 Oct 2026 07:00:00 +0000",
-    "sample": [
-     {
-      "title": "Okavango Delta vs Chobe: Which Botswana Safari Is Right for You?",
-      "date": "Wed, 14 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/okavango-delta-vs-chobe-1024x683.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/buridani-adventure-park/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Tue, 08 Sep 2026 11:20:12 +0000",
-    "sample": [
-     {
-      "title": "Burudani Adventure Park Team Building: The Complete Guide for Nairobi Corporates",
-      "date": "Tue, 08 Sep 2026 11:20:12 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/09/burudani-adventure-park-team-building-1024x682.jpeg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/bush-and-beach/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 2,
-    "items_with_image": 2,
-    "newest": "Tue, 13 Oct 2026 15:00:00 +0000",
-    "sample": [
-     {
-      "title": "Kenya Honeymoon Safari: Where to Go, Best Time, Costs and Itineraries",
-      "date": "Tue, 13 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-honeymoon-safari-1024x683.jpg"
-     },
-     {
-      "title": "Kenya Safari in December: Weather, Wildlife, Costs and Where to Go",
-      "date": "Fri, 09 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-safari-in-december-1024x683.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/bwindi/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 4,
-    "items_with_image": 4,
-    "newest": "Fri, 23 Oct 2026 11:00:00 +0000",
-    "sample": [
-     {
-      "title": "Uganda in January: Dry Forest Trails, Busy Permits and Hot Savannah Days",
-      "date": "Fri, 23 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/uganda-in-january-1024x683.jpg"
-     },
-     {
-      "title": "How Hard Is Gorilla Trekking, Really? Fitness, Altitude and Trek Times Explained",
-      "date": "Wed, 21 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/young-gorilla-in-the-grass-of-the-forest-1024x696.jpg"
-     },
-     {
-      "title": "Bwindi Gorilla Trekking: Permits, Sectors, Costs and Tips",
-      "date": "Tue, 13 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/bwindi-gorilla-trekking-1024x683.jpg"
-     },
-     {
-      "title": "Uganda Safari in December: Weather, Gorillas, Fees and Where to Go",
-      "date": "Sat, 10 Oct 2026 09:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/uganda-safari-in-december-1024x576.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/calving-season/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 4,
-    "items_with_image": 4,
-    "newest": "Mon, 19 Oct 2026 07:00:00 +0000",
-    "sample": [
-     {
-      "title": "Tanzania Safari in January: Weather, Calving Season, Costs and Where to Go",
-      "date": "Mon, 19 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2025/12/Tanzania-Serengeti-safari-1024x576.jpg"
-     },
-     {
-      "title": "Serengeti in January: Calving Season, Weather, Where to Stay and Costs",
-      "date": "Sat, 17 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/serengeti-in-january-1024x576.jpg"
-     },
-     {
-      "title": "Serengeti in December: Where the Herds Are, Weather and Costs",
-      "date": "Tue, 13 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/serengeti-in-december-1024x871.jpg"
-     },
-     {
-      "title": "Great Migration Month by Month: Where the Herds Are and When to Go",
-      "date": "Thu, 08 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/great-migration-month-by-month-1024x768.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/chimpanzee-trekking/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Mon, 19 Oct 2026 11:00:00 +0000",
-    "sample": [
-     {
-      "title": "Chimpanzee Trekking in Kibale: Permits, Costs and Best Time",
-      "date": "Mon, 19 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-trekking-in-kibale-1024x683.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/chobe-national-park/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 2,
-    "items_with_image": 2,
-    "newest": "Sun, 25 Oct 2026 16:24:50 +0000",
-    "sample": [
-     {
-      "title": "A Botswana Safari Guide for First-Timers, From the Okavango to the Kalahari",
-      "date": "Sun, 25 Oct 2026 16:24:50 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/botswana-safari-guide-1024x683.jpg"
-     },
-     {
-      "title": "Okavango Delta vs Chobe: Which Botswana Safari Is Right for You?",
-      "date": "Wed, 14 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/okavango-delta-vs-chobe-1024x683.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/crater-rim/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Sun, 11 Oct 2026 11:00:00 +0000",
-    "sample": [
-     {
-      "title": "Ngorongoro Crater Lodges: Where to Stay on the Rim, in the Highlands and in Karatu",
-      "date": "Sun, 11 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/ngorongoro-crater-lodges-1024x731.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/day-trips-from-nairobi/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 0,
-    "newest": "Mon, 14 Sep 2026 11:17:49 +0000",
-    "sample": [
-     {
-      "title": "Lake Nakuru Day Trip from Nairobi: Timings, Fees and What You’ll See",
-      "date": "Mon, 14 Sep 2026 11:17:49 +0000",
-      "image": null
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/december-safari/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 5,
-    "items_with_image": 5,
-    "newest": "Sun, 18 Oct 2026 15:00:00 +0000",
-    "sample": [
-     {
-      "title": "Tanzania Safari in December: Weather, Migration, Costs and Where to Go",
-      "date": "Sun, 18 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/07/serengeti-migration.jpg"
-     },
-     {
-      "title": "Serengeti in December: Where the Herds Are, Weather and Costs",
-      "date": "Tue, 13 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/serengeti-in-december-1024x871.jpg"
-     },
-     {
-      "title": "Botswana in December: Where the Wildlife Is and What to Expect",
-      "date": "Sun, 11 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/botswana-in-december-1024x813.jpg"
-     },
-     {
-      "title": "Uganda Safari in December: Weather, Gorillas, Fees and Where to Go",
-      "date": "Sat, 10 Oct 2026 09:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/uganda-safari-in-december-1024x576.jpg"
-     },
-     {
-      "title": "Kenya Safari in December: Weather, Wildlife, Costs and Where to Go",
-      "date": "Fri, 09 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-safari-in-december-1024x683.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/december-travel/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Wed, 21 Oct 2026 07:00:00 +0000",
-    "sample": [
-     {
-      "title": "Is Namibia Worth Visiting in December? Heat, First Rains and Quiet Waterholes",
-      "date": "Wed, 21 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/namibia-in-december-1024x237.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/diani/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Tue, 13 Oct 2026 15:00:00 +0000",
-    "sample": [
-     {
-      "title": "Kenya Honeymoon Safari: Where to Go, Best Time, Costs and Itineraries",
-      "date": "Tue, 13 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-honeymoon-safari-1024x683.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/dry-season-safari/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Mon, 12 Oct 2026 07:00:00 +0000",
-    "sample": [
-     {
-      "title": "Kenya Safari in January: Weather, Wildlife, Costs and Where to Go",
-      "date": "Mon, 12 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-safari-in-january-683x1024.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/east-africa/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Sun, 25 Oct 2026 12:33:09 +0000",
-    "sample": [
-     {
-      "title": "Weighing Up Kenya vs Uganda Safari Options? Start With the Animals on Your List",
-      "date": "Sun, 25 Oct 2026 12:33:09 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/05/uganda-gorillas-best-attractions-in-Uganda-1024x683.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/east-africa-safa/feed/",
+    "url": "https://divulgeadventures.com/tag/kenya/feed/",
     "status": 200,
     "content_type": "application/rss+xml; charset=UTF-8",
     "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Mon, 12 Oct 2026 11:00:00 +0000",
+    "newest": "Tue, 13 Oct 2026 15:00:00 +0000",
     "sample": [
+     {
+      "title": "Kenya Honeymoon Safari: Where to Go, Best Time, Costs and Itineraries",
+      "date": "Tue, 13 Oct 2026 15:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-honeymoon-safari-1024x683.jpg"
+     },
      {
       "title": "Golden Monkey Trekking in Rwanda: Permits, Costs and What to Expect",
       "date": "Mon, 12 Oct 2026 11:00:00 +0000",
@@ -732,48 +302,6 @@
       "title": "Kenya Safari in January: Weather, Wildlife, Costs and Where to Go",
       "date": "Mon, 12 Oct 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-safari-in-january-683x1024.jpg"
-     },
-     {
-      "title": "Ngorongoro Crater Lodges: Where to Stay on the Rim, in the Highlands and in Karatu",
-      "date": "Sun, 11 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/ngorongoro-crater-lodges-1024x731.jpg"
-     },
-     {
-      "title": "Tanzania Northern Circuit Itinerary: Day-by-Day Routes, Costs and Best Time",
-      "date": "Fri, 09 Oct 2026 17:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/tanzania-northern-circuit-itinerary-1024x683.jpg"
-     },
-     {
-      "title": "Great Migration Month by Month: Where the Herds Are and When to Go",
-      "date": "Thu, 08 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/great-migration-month-by-month-1024x768.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/east-africa-safari/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 9,
-    "items_with_image": 9,
-    "newest": "Mon, 12 Oct 2026 11:00:00 +0000",
-    "sample": [
-     {
-      "title": "Golden Monkey Trekking in Rwanda: Permits, Costs and What to Expect",
-      "date": "Mon, 12 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/golden-monkey-trekking-rwanda-1024x705.jpg"
-     },
-     {
-      "title": "Kenya Safari in January: Weather, Wildlife, Costs and Where to Go",
-      "date": "Mon, 12 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-safari-in-january-683x1024.jpg"
-     },
-     {
-      "title": "Ngorongoro Crater Lodges: Where to Stay on the Rim, in the Highlands and in Karatu",
-      "date": "Sun, 11 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/ngorongoro-crater-lodges-1024x731.jpg"
      },
      {
       "title": "Botswana in December: Where the Wildlife Is and What to Expect",
@@ -784,365 +312,6 @@
       "title": "Day Trips from Nairobi: 12 Best Escapes by Distance and Time",
       "date": "Sat, 10 Oct 2026 17:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/day-trips-from-nairobi-1024x683.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/east-africa-tourist-visa/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Thu, 15 Oct 2026 07:00:00 +0000",
-    "sample": [
-     {
-      "title": "East Africa Tourist Visa: Cost, Rules and How to Apply",
-      "date": "Thu, 15 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/east-africa-tourist-visa-1024x683.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/entry-requirements/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Wed, 14 Oct 2026 15:00:00 +0000",
-    "sample": [
-     {
-      "title": "Tanzania Visa for Safari: Cost, eVisa Steps and Entry Rules",
-      "date": "Wed, 14 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/tanzania-visa-1024x683.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/etosha/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 2,
-    "items_with_image": 2,
-    "newest": "Mon, 26 Oct 2026 11:00:00 +0000",
-    "sample": [
-     {
-      "title": "Namibia in January Means Green Etosha, Dry Dunes and Afternoon Storms",
-      "date": "Mon, 26 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/namibia-in-january-1024x576.jpg"
-     },
-     {
-      "title": "Is Namibia Worth Visiting in December? Heat, First Rains and Quiet Waterholes",
-      "date": "Wed, 21 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/namibia-in-december-1024x237.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/etosha-national-park/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 3,
-    "items_with_image": 3,
-    "newest": "Sat, 17 Oct 2026 15:00:00 +0000",
-    "sample": [
-     {
-      "title": "Best Time to Visit Namibia: A Month-by-Month Safari Guide",
-      "date": "Sat, 17 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/best-time-to-visit-namibia-1024x683.jpg"
-     },
-     {
-      "title": "Botswana vs Namibia: Which Safari Is Right for You?",
-      "date": "Fri, 16 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/06/botswanasafarichobe-1024x593.webp"
-     },
-     {
-      "title": "Namibia Safari Tips: 101 Essential Things to Know Before You Go",
-      "date": "Tue, 30 Jun 2026 10:58:34 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/06/Etosha-national-park-1024x658.webp"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/fish-river-canyon/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Sun, 11 Oct 2026 15:00:00 +0000",
-    "sample": [
-     {
-      "title": "Namibia Hiking Safari: The Best Hikes, Seasons and Costs",
-      "date": "Sun, 11 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/namibia-hiking-safari-1024x576.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/flamingos/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 0,
-    "newest": "Tue, 22 Sep 2026 08:07:25 +0000",
-    "sample": [
-     {
-      "title": "Lake Bogoria: Hot Springs, Geysers and Flamingos in Kenya’s Rift Valley",
-      "date": "Tue, 22 Sep 2026 08:07:25 +0000",
-      "image": null
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/fly-in-safari/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 0,
-    "newest": "Wed, 13 May 2026 10:18:19 +0000",
-    "sample": [
-     {
-      "title": "Kenya Safari Packing List: What to Bring, Wear and Leave at Home",
-      "date": "Wed, 13 May 2026 10:18:19 +0000",
-      "image": null
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/golden-monkey-trekking/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Mon, 12 Oct 2026 11:00:00 +0000",
-    "sample": [
-     {
-      "title": "Golden Monkey Trekking in Rwanda: Permits, Costs and What to Expect",
-      "date": "Mon, 12 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/golden-monkey-trekking-rwanda-1024x705.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/gorilla-permits/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 3,
-    "items_with_image": 3,
-    "newest": "Fri, 16 Oct 2026 07:00:00 +0000",
-    "sample": [
-     {
-      "title": "Rwanda Gorilla Permit: Prices, Discounts and How to Book",
-      "date": "Fri, 16 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-Trekking-Rwanda-volcanoes-park-1024x682.jpeg"
-     },
-     {
-      "title": "Bwindi Gorilla Trekking: Permits, Sectors, Costs and Tips",
-      "date": "Tue, 13 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/bwindi-gorilla-trekking-1024x683.jpg"
-     },
-     {
-      "title": "Gorilla Trekking in Rwanda: The Complete Guide to Permits, Costs and the Best Time",
-      "date": "Thu, 08 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-in-rwanda-875x1024.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/gorilla-trekking/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 9,
-    "items_with_image": 9,
-    "newest": "Sun, 25 Oct 2026 12:33:09 +0000",
-    "sample": [
-     {
-      "title": "Weighing Up Kenya vs Uganda Safari Options? Start With the Animals on Your List",
-      "date": "Sun, 25 Oct 2026 12:33:09 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/05/uganda-gorillas-best-attractions-in-Uganda-1024x683.jpg"
-     },
-     {
-      "title": "Uganda in January: Dry Forest Trails, Busy Permits and Hot Savannah Days",
-      "date": "Fri, 23 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/uganda-in-january-1024x683.jpg"
-     },
-     {
-      "title": "How Hard Is Gorilla Trekking, Really? Fitness, Altitude and Trek Times Explained",
-      "date": "Wed, 21 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/young-gorilla-in-the-grass-of-the-forest-1024x696.jpg"
-     },
-     {
-      "title": "Rwanda vs Tanzania Safari: Which Is Better for Your Trip?",
-      "date": "Sun, 18 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-in-rwanda.jpg"
-     },
-     {
-      "title": "Rwanda Gorilla Permit: Prices, Discounts and How to Book",
-      "date": "Fri, 16 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-Trekking-Rwanda-volcanoes-park-1024x682.jpeg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/great-migration/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 7,
-    "items_with_image": 6,
-    "newest": "Fri, 23 Oct 2026 07:00:00 +0000",
-    "sample": [
-     {
-      "title": "A Kenya and Tanzania Safari Works Best When You Plan the Border First",
-      "date": "Fri, 23 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/male-lion-on-a-rock-in-the-serengeti-1024x683.jpg"
-     },
-     {
-      "title": "Tanzania Safari in December: Weather, Migration, Costs and Where to Go",
-      "date": "Sun, 18 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/07/serengeti-migration.jpg"
-     },
-     {
-      "title": "Serengeti in January: Calving Season, Weather, Where to Stay and Costs",
-      "date": "Sat, 17 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/serengeti-in-january-1024x576.jpg"
-     },
-     {
-      "title": "Serengeti in December: Where the Herds Are, Weather and Costs",
-      "date": "Tue, 13 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/serengeti-in-december-1024x871.jpg"
-     },
-     {
-      "title": "Best Serengeti Camps: Where to Stay by Area, Season and Budget",
-      "date": "Mon, 12 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/best-serengeti-camps-1024x684.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/great-wildebeest-migration/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Thu, 19 Feb 2026 11:56:16 +0000",
-    "sample": [
-     {
-      "title": "Serengeti National Park: Ultimate Guide to Africa’s Wilderness",
-      "date": "Thu, 19 Feb 2026 11:56:16 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/02/mara-wildebeest-migration-1-1024x683.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/green-season/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 2,
-    "items_with_image": 2,
-    "newest": "Tue, 20 Oct 2026 11:00:00 +0000",
-    "sample": [
-     {
-      "title": "Botswana in January: Green Season Safari Guide and Where to Go",
-      "date": "Tue, 20 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/botswana-in-january-1024x683.jpg"
-     },
-     {
-      "title": "Botswana in December: Where the Wildlife Is and What to Expect",
-      "date": "Sun, 11 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/botswana-in-december-1024x813.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/hells-gate/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Sat, 10 Oct 2026 17:00:00 +0000",
-    "sample": [
-     {
-      "title": "Day Trips from Nairobi: 12 Best Escapes by Distance and Time",
-      "date": "Sat, 10 Oct 2026 17:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/day-trips-from-nairobi-1024x683.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/hiking-safari/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Sun, 11 Oct 2026 15:00:00 +0000",
-    "sample": [
-     {
-      "title": "Namibia Hiking Safari: The Best Hikes, Seasons and Costs",
-      "date": "Sun, 11 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/namibia-hiking-safari-1024x576.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/honeymoon/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 1,
-    "newest": "Tue, 13 Oct 2026 15:00:00 +0000",
-    "sample": [
-     {
-      "title": "Kenya Honeymoon Safari: Where to Go, Best Time, Costs and Itineraries",
-      "date": "Tue, 13 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-honeymoon-safari-1024x683.jpg"
-     }
-    ]
-   },
-   {
-    "url": "https://divulgeadventures.com/tag/hot-air-balloon/feed/",
-    "status": 200,
-    "content_type": "application/rss+xml; charset=UTF-8",
-    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
-    "xml_ok": true,
-    "items": 1,
-    "items_with_image": 0,
-    "newest": "Mon, 14 Sep 2026 08:33:36 +0000",
-    "sample": [
-     {
-      "title": "Masai Mara Hot Air Balloon Safari: Times, Costs and Honest Tips",
-      "date": "Mon, 14 Sep 2026 08:33:36 +0000",
-      "image": null
      }
     ]
    }
@@ -1224,15 +393,40 @@
    },
    {
     "url": "https://hikingoutdoorhub.com/category/hiking-tips/feed/",
-    "status": 503,
-    "content_type": "text/html",
-    "starts_with": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"",
-    "warning": "Feed does not start with <?xml or <rss (extra output before the XML?)",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
     "xml_ok": true,
-    "items": 0,
-    "items_with_image": 0,
-    "newest": null,
-    "sample": []
+    "items": 8,
+    "items_with_image": 4,
+    "newest": "Fri, 09 Oct 2026 04:00:00 +0000",
+    "sample": [
+     {
+      "title": "Caught in a Downpour? How to Keep Hiking in the Rain Safe on Kenyan Trails",
+      "date": "Fri, 09 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-in-the-rain-safety-tips-819x1024.jpg"
+     },
+     {
+      "title": "What to Wear Hiking in Kenya, From Ngong Hills to Mt Kenya",
+      "date": "Wed, 07 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/what-to-wear-hiking-in-kenya-683x1024.jpg"
+     },
+     {
+      "title": "New to Hiking? How to Start Hiking in Kenya Without the Stress",
+      "date": "Mon, 05 Oct 2026 13:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-for-beginners-in-kenya-1024x683.jpg"
+     },
+     {
+      "title": "Layering for Cold Weather Hikes: Base, Fleece, and Rain Shell Explained",
+      "date": "Thu, 10 Sep 2026 14:07:36 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/09/Mt-Longonot-Day-Hike-4-1024x768.jpeg"
+     },
+     {
+      "title": "Coleman C300 Performance Screw-On Gas Can, Powerful 26",
+      "date": "Wed, 05 Aug 2026 15:09:40 +0000",
+      "image": null
+     }
+    ]
    },
    {
     "url": "https://hikingoutdoorhub.com/category/hiking-trails-guide/feed/",
@@ -2093,6 +1287,1190 @@
       "title": "Stuck on What to Buy a Hiker? Gift Ideas in Nairobi That Actually Get Used on the Trail",
       "date": "Tue, 20 Oct 2026 11:59:05 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/gifts-for-hikers-in-nairobi-1024x678.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-backpacks/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 4,
+    "items_with_image": 4,
+    "newest": "Tue, 20 Oct 2026 15:00:00 +0000",
+    "sample": [
+     {
+      "title": "Why Kenyan Hikers Keep Asking for Osprey Backpacks (and Which Ones Fit Your Hikes)",
+      "date": "Tue, 20 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/osprey-backpacks-kenya-683x1024.jpg"
+     },
+     {
+      "title": "Deuter Backpacks in Kenya: Which Line Fits Your Hikes, and How to Buy One Second-Hand",
+      "date": "Fri, 16 Oct 2026 12:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/deuter-backpacks-kenya-1024x683.jpg"
+     },
+     {
+      "title": "Hydration Packs in Nairobi: Bladder Size, Fit and Keeping the Tube Clean",
+      "date": "Wed, 14 Oct 2026 07:59:45 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hydration-packs-nairobi-1024x683.jpg"
+     },
+     {
+      "title": "Hiking Backpacks in Nairobi, From 20-Litre Daypacks to Mt Kenya Trekking Packs",
+      "date": "Thu, 08 Oct 2026 13:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-backpacks-nairobi-683x1024.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-boot-brands/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Wed, 14 Oct 2026 04:00:00 +0000",
+    "sample": [
+     {
+      "title": "From Lowa to Quechua: Hiking Boot Brands Matched to Kenya’s Trails",
+      "date": "Wed, 14 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/best-hiking-boot-brands-kenya-1024x768.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-boots/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 10,
+    "items_with_image": 10,
+    "newest": "Mon, 26 Oct 2026 04:01:26 +0000",
+    "sample": [
+     {
+      "title": "Karrimor Boots, Jackets and Rucksacks in Nairobi: What Each Era of the Brand Gets You",
+      "date": "Mon, 26 Oct 2026 04:01:26 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/karrimor-nairobi-819x1024.jpg"
+     },
+     {
+      "title": "Quechua Forclaz 500 High: The Trekking Boot Decathlon Renamed, Explained for Kenyan Trails",
+      "date": "Sun, 25 Oct 2026 13:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/06/QUECHUA-FORCLAZ-500-HIGH-WOMENS-WATERPROOF-WALKING-BOOTS-3.jpg"
+     },
+     {
+      "title": "Lowa Hiking Boots for Kenyan Hikers: Which Model, Which Size, Which Trail",
+      "date": "Wed, 21 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/lowa-hiking-boots-kenya-1024x683.jpg"
+     },
+     {
+      "title": "From Italian Foothills to the Aberdares: Picking Scarpa Hiking Boots in Kenya",
+      "date": "Tue, 20 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/scarpa-hiking-boots-kenya-1024x683.jpg"
+     },
+     {
+      "title": "Ten Hikes a Year, Under 10 km: Who the Quechua MH100 Hiking Boots Suit in Kenya",
+      "date": "Mon, 19 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/quechua-mh100-hiking-boots-kenya-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-boots-nairobi/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Fri, 23 Oct 2026 04:00:00 +0000",
+    "sample": [
+     {
+      "title": "How to Judge Second Hand Hiking Boots in Nairobi Before You Hand Over Cash",
+      "date": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/second-hand-hiking-boots-nairobi-1024x767.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-brands/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 3,
+    "items_with_image": 3,
+    "newest": "Mon, 26 Oct 2026 08:00:00 +0000",
+    "sample": [
+     {
+      "title": "Is Under Armour Any Good for Hiking in Kenya? Fabrics, Shoes and What to Skip",
+      "date": "Mon, 26 Oct 2026 08:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/under-armour-hiking-kenya-1024x768.jpg"
+     },
+     {
+      "title": "How Black Diamond Trekking Poles Hold Up on Longonot Ash and Mt Kenya Scree",
+      "date": "Wed, 21 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/black-diamond-trekking-poles-kenya-1024x683.jpg"
+     },
+     {
+      "title": "Is Adidas Terrex Any Good on Kenyan Trails? Shoes, Jackets and Second-Hand Buys",
+      "date": "Sat, 17 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/adidas-terrex-kenya-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-clothes/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Wed, 07 Oct 2026 04:00:00 +0000",
+    "sample": [
+     {
+      "title": "What to Wear Hiking in Kenya, From Ngong Hills to Mt Kenya",
+      "date": "Wed, 07 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/what-to-wear-hiking-in-kenya-683x1024.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-clothing/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Mon, 26 Oct 2026 08:00:00 +0000",
+    "sample": [
+     {
+      "title": "Is Under Armour Any Good for Hiking in Kenya? Fabrics, Shoes and What to Skip",
+      "date": "Mon, 26 Oct 2026 08:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/under-armour-hiking-kenya-1024x768.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-clothing-nairobi/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 2,
+    "items_with_image": 2,
+    "newest": "Sun, 18 Oct 2026 12:00:00 +0000",
+    "sample": [
+     {
+      "title": "Are Zip-Off Hiking Pants Worth Buying in Nairobi? Fit, Fabric and the Trails They Suit",
+      "date": "Sun, 18 Oct 2026 12:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/zip-off-hiking-pants-nairobi-1024x683.jpg"
+     },
+     {
+      "title": "Cotton Stays Wet, Polyester Dries by Lunch: Choosing Quick Dry Shirts in Nairobi",
+      "date": "Sun, 18 Oct 2026 08:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/quick-dry-shirts-nairobi-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-for-beginners/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 2,
+    "items_with_image": 2,
+    "newest": "Wed, 07 Oct 2026 04:00:00 +0000",
+    "sample": [
+     {
+      "title": "What to Wear Hiking in Kenya, From Ngong Hills to Mt Kenya",
+      "date": "Wed, 07 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/what-to-wear-hiking-in-kenya-683x1024.jpg"
+     },
+     {
+      "title": "Nairobi’s Best Day Hikes, Ranked From Gentle Forest Loop to Aberdares Summit",
+      "date": "Thu, 10 Sep 2026 13:31:26 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/09/karura-forest-best-day-hikes-near-Nairobi-1024x512.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-gaiters/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Thu, 15 Oct 2026 15:00:00 +0000",
+    "sample": [
+     {
+      "title": "What Leg Gaiters Actually Do, and Where to Buy Them in Nairobi",
+      "date": "Thu, 15 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/leg-gaiters-nairobi-768x1024.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-gear-checklist/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Mon, 12 Oct 2026 12:00:00 +0000",
+    "sample": [
+     {
+      "title": "What Goes in Your Pack? A Hiking Gear Checklist for Kenya, From Karura to Point Lenana",
+      "date": "Mon, 12 Oct 2026 12:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-gear-checklist-kenya-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-gear-kenya/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Mon, 12 Oct 2026 12:00:00 +0000",
+    "sample": [
+     {
+      "title": "What Goes in Your Pack? A Hiking Gear Checklist for Kenya, From Karura to Point Lenana",
+      "date": "Mon, 12 Oct 2026 12:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-gear-checklist-kenya-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-gear-nairobi/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 10,
+    "items_with_image": 9,
+    "newest": "Mon, 26 Oct 2026 04:01:26 +0000",
+    "sample": [
+     {
+      "title": "Karrimor Boots, Jackets and Rucksacks in Nairobi: What Each Era of the Brand Gets You",
+      "date": "Mon, 26 Oct 2026 04:01:26 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/karrimor-nairobi-819x1024.jpg"
+     },
+     {
+      "title": "Isotex 5,000 vs 20,000: Matching Regatta Jackets to Kenyan Weather",
+      "date": "Sun, 25 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/regatta-kenya-1024x683.jpg"
+     },
+     {
+      "title": "Quechua Forclaz 500 High: The Trekking Boot Decathlon Renamed, Explained for Kenyan Trails",
+      "date": "Sun, 25 Oct 2026 13:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/06/QUECHUA-FORCLAZ-500-HIGH-WOMENS-WATERPROOF-WALKING-BOOTS-3.jpg"
+     },
+     {
+      "title": "Starting From Sneakers: How to Build Beginner Hiking Gear in Nairobi Without Overspending",
+      "date": "Mon, 19 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/beginner-hiking-gear-nairobi-1024x683.jpg"
+     },
+     {
+      "title": "When a Rain Poncho Beats a Rain Jacket on Kenyan Trails (and When It Doesn’t)",
+      "date": "Sun, 18 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/rain-poncho-kenya-1024x576.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-gifts/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Tue, 20 Oct 2026 11:59:05 +0000",
+    "sample": [
+     {
+      "title": "Stuck on What to Buy a Hiker? Gift Ideas in Nairobi That Actually Get Used on the Trail",
+      "date": "Tue, 20 Oct 2026 11:59:05 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/gifts-for-hikers-in-nairobi-1024x678.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-gloves/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Thu, 15 Oct 2026 12:00:00 +0000",
+    "sample": [
+     {
+      "title": "Cold Fingers on Summit Night: Picking Hiking Gloves in Nairobi",
+      "date": "Thu, 15 Oct 2026 12:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-gloves-nairobi-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-hats/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Sat, 17 Oct 2026 08:00:00 +0000",
+    "sample": [
+     {
+      "title": "How to Pick Hiking Hats in Nairobi for Midday Sun and Summit Frost",
+      "date": "Sat, 17 Oct 2026 08:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/05/Tactical-bucket-hat.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-in-kenya/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Mon, 26 Oct 2026 12:00:00 +0000",
+    "sample": [
+     {
+      "title": "The Best Hikes in Kenya, Sorted by Effort: Forest Walks, Crater Rims and Mountain Summits",
+      "date": "Mon, 26 Oct 2026 12:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/best-hikes-in-kenya-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-jackets/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 3,
+    "items_with_image": 3,
+    "newest": "Wed, 14 Oct 2026 15:00:00 +0000",
+    "sample": [
+     {
+      "title": "Gold Dots, Silver Ridge and Omni-Tech: Columbia Hiking Gear for Kenya’s Hills and Peaks",
+      "date": "Wed, 14 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/columbia-hiking-gear-nairobi-1024x683.jpg"
+     },
+     {
+      "title": "Buying The North Face in Nairobi: Which Pieces Earn Their Place on Kenyan Trails",
+      "date": "Tue, 13 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/the-north-face-nairobi-819x1024.jpg"
+     },
+     {
+      "title": "Shell, Fleece or Down? Hiking Jackets for Kenya Explained",
+      "date": "Wed, 10 Jun 2026 07:36:34 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/06/waterproof-hiking-jackets-nairobi-kenya-1024x576.jpeg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-layers/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Thu, 15 Oct 2026 04:00:00 +0000",
+    "sample": [
+     {
+      "title": "Fleece Jackets in Nairobi: The Warm Layer Between Your Base and Your Rain Shell",
+      "date": "Thu, 15 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/fleece-jackets-nairobi-1024x819.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-pants-kenya/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Sun, 18 Oct 2026 12:00:00 +0000",
+    "sample": [
+     {
+      "title": "Are Zip-Off Hiking Pants Worth Buying in Nairobi? Fit, Fabric and the Trails They Suit",
+      "date": "Sun, 18 Oct 2026 12:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/zip-off-hiking-pants-nairobi-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-poles/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Tue, 13 Oct 2026 12:00:00 +0000",
+    "sample": [
+     {
+      "title": "Are Trekking Poles Worth It? Buying a Pair in Nairobi for Kenya’s Steep Descents",
+      "date": "Tue, 13 Oct 2026 12:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/trekking-poles-nairobi-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-safety/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Fri, 09 Oct 2026 04:00:00 +0000",
+    "sample": [
+     {
+      "title": "Caught in a Downpour? How to Keep Hiking in the Rain Safe on Kenyan Trails",
+      "date": "Fri, 09 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-in-the-rain-safety-tips-819x1024.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-shirts/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Sun, 18 Oct 2026 08:00:00 +0000",
+    "sample": [
+     {
+      "title": "Cotton Stays Wet, Polyester Dries by Lunch: Choosing Quick Dry Shirts in Nairobi",
+      "date": "Sun, 18 Oct 2026 08:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/quick-dry-shirts-nairobi-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-shoes/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 2,
+    "items_with_image": 2,
+    "newest": "Thu, 22 Oct 2026 15:00:00 +0000",
+    "sample": [
+     {
+      "title": "The Moab and Its Siblings: A Kenyan Hiker’s Guide to Merrell Hiking Shoes",
+      "date": "Thu, 22 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/merrell-hiking-shoes-kenya-1024x822.jpg"
+     },
+     {
+      "title": "Light Shoe or Proper Boot? Where Salomon Hiking Shoes Fit on Kenyan Trails",
+      "date": "Thu, 15 Oct 2026 08:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/salomon-hiking-shoes-kenya-683x1024.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-shoes-kenya/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Sat, 17 Oct 2026 15:00:00 +0000",
+    "sample": [
+     {
+      "title": "Is Adidas Terrex Any Good on Kenyan Trails? Shoes, Jackets and Second-Hand Buys",
+      "date": "Sat, 17 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/adidas-terrex-kenya-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-socks/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Sun, 11 Oct 2026 13:00:00 +0000",
+    "sample": [
+     {
+      "title": "Sore Heels by the Crater Rim? How to Choose Hiking Socks in Nairobi",
+      "date": "Sun, 11 Oct 2026 13:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-socks-nairobi-819x1024.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-sunglasses/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Sat, 17 Oct 2026 12:00:00 +0000",
+    "sample": [
+     {
+      "title": "Squinting at the Snow Line: What Hiking Sunglasses in Kenya Need to Block",
+      "date": "Sat, 17 Oct 2026 12:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-sunglasses-kenya-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-tips-kenya/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Mon, 05 Oct 2026 13:00:00 +0000",
+    "sample": [
+     {
+      "title": "New to Hiking? How to Start Hiking in Kenya Without the Stress",
+      "date": "Mon, 05 Oct 2026 13:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-for-beginners-in-kenya-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hiking-water/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Wed, 14 Oct 2026 07:59:45 +0000",
+    "sample": [
+     {
+      "title": "Hydration Packs in Nairobi: Bladder Size, Fit and Keeping the Tube Clean",
+      "date": "Wed, 14 Oct 2026 07:59:45 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hydration-packs-nairobi-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/hydration-packs/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 2,
+    "items_with_image": 2,
+    "newest": "Wed, 14 Oct 2026 07:59:45 +0000",
+    "sample": [
+     {
+      "title": "Hydration Packs in Nairobi: Bladder Size, Fit and Keeping the Tube Clean",
+      "date": "Wed, 14 Oct 2026 07:59:45 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hydration-packs-nairobi-1024x683.jpg"
+     },
+     {
+      "title": "Hiking Backpacks in Nairobi, From 20-Litre Daypacks to Mt Kenya Trekking Packs",
+      "date": "Thu, 08 Oct 2026 13:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-backpacks-nairobi-683x1024.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/insulated-jackets/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Fri, 16 Oct 2026 04:00:00 +0000",
+    "sample": [
+     {
+      "title": "A Puffer That Packs to the Size of a Mango: Buying Down Jackets in Nairobi",
+      "date": "Fri, 16 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/down-jackets-nairobi-1024x811.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/jack-wolfskin/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Mon, 19 Oct 2026 08:00:00 +0000",
+    "sample": [
+     {
+      "title": "Texapore Core or Pro? Buying Jack Wolfskin in Kenya for Rain, Wind and Summit Cold",
+      "date": "Mon, 19 Oct 2026 08:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/jack-wolfskin-kenya-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/karrimor/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Mon, 26 Oct 2026 04:01:26 +0000",
+    "sample": [
+     {
+      "title": "Karrimor Boots, Jackets and Rucksacks in Nairobi: What Each Era of the Brand Gets You",
+      "date": "Mon, 26 Oct 2026 04:01:26 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/karrimor-nairobi-819x1024.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/kasarani/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Wed, 21 Oct 2026 08:00:00 +0000",
+    "sample": [
+     {
+      "title": "Kasarani to Ruiru: Finding an Outdoor Gear Shop on Thika Road Before Your Next Hike",
+      "date": "Wed, 21 Oct 2026 08:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/outdoor-gear-shop-thika-road-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/keen/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 4,
+    "items_with_image": 4,
+    "newest": "Sun, 18 Oct 2026 04:00:00 +0000",
+    "sample": [
+     {
+      "title": "Inside the Keen Targhee Mid Waterproof: Build, Fit and the Kenyan Trails It Suits",
+      "date": "Sun, 18 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/keen-targhee-mid-waterproof-1024x683.jpg"
+     },
+     {
+      "title": "Toe Room, Toe Bumpers and Bamboo Mud: What Keen Hiking Boots Do Well in Kenya",
+      "date": "Sat, 17 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/keen-hiking-boots-kenya-683x1024.jpg"
+     },
+     {
+      "title": "Lowa, Keen or Quechua? Hiking Boots for Men in Nairobi, Trail by Trail",
+      "date": "Fri, 16 Oct 2026 08:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-boots-men-nairobi-1024x683.jpg"
+     },
+     {
+      "title": "From Lowa to Quechua: Hiking Boot Brands Matched to Kenya’s Trails",
+      "date": "Wed, 14 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/best-hiking-boot-brands-kenya-1024x768.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/kenya-hiking/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 3,
+    "items_with_image": 3,
+    "newest": "Fri, 09 Oct 2026 04:00:00 +0000",
+    "sample": [
+     {
+      "title": "Caught in a Downpour? How to Keep Hiking in the Rain Safe on Kenyan Trails",
+      "date": "Fri, 09 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-in-the-rain-safety-tips-819x1024.jpg"
+     },
+     {
+      "title": "What to Wear Hiking in Kenya, From Ngong Hills to Mt Kenya",
+      "date": "Wed, 07 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/what-to-wear-hiking-in-kenya-683x1024.jpg"
+     },
+     {
+      "title": "Red Soil, Volcanic Scree and Mud: Boots for Kenyan Trails",
+      "date": "Thu, 10 Sep 2026 12:32:10 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/06/Scarpa-Mens-R-evolution-Pro-GTX-2.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/kenya-hiking-gear/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 2,
+    "items_with_image": 2,
+    "newest": "Sat, 17 Oct 2026 04:00:00 +0000",
+    "sample": [
+     {
+      "title": "Toe Room, Toe Bumpers and Bamboo Mud: What Keen Hiking Boots Do Well in Kenya",
+      "date": "Sat, 17 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/keen-hiking-boots-kenya-683x1024.jpg"
+     },
+     {
+      "title": "Staying Dry on Kenyan Trails: Rainy Season Hiking Gear That Works",
+      "date": "Sun, 04 Oct 2026 17:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/rainy-season-hiking-gear-683x1024.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/kenya-hiking-trails/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 3,
+    "items_with_image": 3,
+    "newest": "Mon, 26 Oct 2026 12:00:00 +0000",
+    "sample": [
+     {
+      "title": "The Best Hikes in Kenya, Sorted by Effort: Forest Walks, Crater Rims and Mountain Summits",
+      "date": "Mon, 26 Oct 2026 12:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/best-hikes-in-kenya-1024x683.jpg"
+     },
+     {
+      "title": "Njabini to the Summit: An Elephant Hill Hike Planner for Nairobi Hikers",
+      "date": "Mon, 05 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/elephant-hill-hike-683x1024.jpg"
+     },
+     {
+      "title": "Climbing Mt Longonot: A Day Hike Around Kenya’s Crater Rim",
+      "date": "Sun, 04 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/mt-longonot-hike-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/kenya-mountains/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Sun, 11 Oct 2026 04:00:00 +0000",
+    "sample": [
+     {
+      "title": "Mt Kenya for First-Timers: Routes, Seasons and Point Lenana",
+      "date": "Sun, 11 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/mt-kenya-hiking-guide-1024x768.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/kilimambogo/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Mon, 12 Oct 2026 08:00:00 +0000",
+    "sample": [
+     {
+      "title": "Ol Donyo Sabuk, Step by Step: Climbing Kilimambogo From Nairobi",
+      "date": "Mon, 12 Oct 2026 08:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/ol-donyo-sabuk-hike-1024x681.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/kilimanjaro-gear/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 3,
+    "items_with_image": 3,
+    "newest": "Mon, 19 Oct 2026 13:50:32 +0000",
+    "sample": [
+     {
+      "title": "Buying Kilimanjaro Gear in Nairobi Before the Drive to Namanga",
+      "date": "Mon, 19 Oct 2026 13:50:32 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/kilimanjaro-gear-nairobi-1024x681.jpg"
+     },
+     {
+      "title": "Squinting at the Snow Line: What Hiking Sunglasses in Kenya Need to Block",
+      "date": "Sat, 17 Oct 2026 12:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-sunglasses-kenya-1024x683.jpg"
+     },
+     {
+      "title": "Who Needs a Balaclava on Kenyan Mountains, and Where to Buy One in Nairobi",
+      "date": "Fri, 16 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/balaclava-nairobi-1024x1024.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/kilimanjaro-packing/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Mon, 19 Oct 2026 13:50:32 +0000",
+    "sample": [
+     {
+      "title": "Buying Kilimanjaro Gear in Nairobi Before the Drive to Namanga",
+      "date": "Mon, 19 Oct 2026 13:50:32 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/kilimanjaro-gear-nairobi-1024x681.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/layering/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 2,
+    "items_with_image": 2,
+    "newest": "Wed, 07 Oct 2026 04:00:00 +0000",
+    "sample": [
+     {
+      "title": "What to Wear Hiking in Kenya, From Ngong Hills to Mt Kenya",
+      "date": "Wed, 07 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/what-to-wear-hiking-in-kenya-683x1024.jpg"
+     },
+     {
+      "title": "Shell, Fleece or Down? Hiking Jackets for Kenya Explained",
+      "date": "Wed, 10 Jun 2026 07:36:34 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/06/waterproof-hiking-jackets-nairobi-kenya-1024x576.jpeg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/leg-gaiters/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Thu, 15 Oct 2026 15:00:00 +0000",
+    "sample": [
+     {
+      "title": "What Leg Gaiters Actually Do, and Where to Buy Them in Nairobi",
+      "date": "Thu, 15 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/leg-gaiters-nairobi-768x1024.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/lightning-safety/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Fri, 09 Oct 2026 04:00:00 +0000",
+    "sample": [
+     {
+      "title": "Caught in a Downpour? How to Keep Hiking in the Rain Safe on Kenyan Trails",
+      "date": "Fri, 09 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-in-the-rain-safety-tips-819x1024.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/lowa/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 3,
+    "items_with_image": 3,
+    "newest": "Wed, 21 Oct 2026 04:00:00 +0000",
+    "sample": [
+     {
+      "title": "Lowa Hiking Boots for Kenyan Hikers: Which Model, Which Size, Which Trail",
+      "date": "Wed, 21 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/lowa-hiking-boots-kenya-1024x683.jpg"
+     },
+     {
+      "title": "Lowa, Keen or Quechua? Hiking Boots for Men in Nairobi, Trail by Trail",
+      "date": "Fri, 16 Oct 2026 08:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-boots-men-nairobi-1024x683.jpg"
+     },
+     {
+      "title": "From Lowa to Quechua: Hiking Boot Brands Matched to Kenya’s Trails",
+      "date": "Wed, 14 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/best-hiking-boot-brands-kenya-1024x768.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/machakos/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Mon, 12 Oct 2026 08:00:00 +0000",
+    "sample": [
+     {
+      "title": "Ol Donyo Sabuk, Step by Step: Climbing Kilimambogo From Nairobi",
+      "date": "Mon, 12 Oct 2026 08:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/ol-donyo-sabuk-hike-1024x681.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/mammut/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Wed, 21 Oct 2026 12:00:00 +0000",
+    "sample": [
+     {
+      "title": "Should You Buy Mammut in Kenya? Where the Swiss Brand Shines on Local Trails",
+      "date": "Wed, 21 Oct 2026 12:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/mammut-kenya-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/mens-hiking-boots/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Fri, 16 Oct 2026 08:00:00 +0000",
+    "sample": [
+     {
+      "title": "Lowa, Keen or Quechua? Hiking Boots for Men in Nairobi, Trail by Trail",
+      "date": "Fri, 16 Oct 2026 08:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-boots-men-nairobi-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/merino-wool/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Sun, 18 Oct 2026 08:00:00 +0000",
+    "sample": [
+     {
+      "title": "Cotton Stays Wet, Polyester Dries by Lunch: Choosing Quick Dry Shirts in Nairobi",
+      "date": "Sun, 18 Oct 2026 08:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/quick-dry-shirts-nairobi-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/merino-wool-socks/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Sun, 11 Oct 2026 13:00:00 +0000",
+    "sample": [
+     {
+      "title": "Sore Heels by the Crater Rim? How to Choose Hiking Socks in Nairobi",
+      "date": "Sun, 11 Oct 2026 13:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-socks-nairobi-819x1024.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/merrell/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Thu, 22 Oct 2026 15:00:00 +0000",
+    "sample": [
+     {
+      "title": "The Moab and Its Siblings: A Kenyan Hiker’s Guide to Merrell Hiking Shoes",
+      "date": "Thu, 22 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/merrell-hiking-shoes-kenya-1024x822.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/mittens/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Thu, 15 Oct 2026 12:00:00 +0000",
+    "sample": [
+     {
+      "title": "Cold Fingers on Summit Night: Picking Hiking Gloves in Nairobi",
+      "date": "Thu, 15 Oct 2026 12:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-gloves-nairobi-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/mountain-mall/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 2,
+    "items_with_image": 2,
+    "newest": "Wed, 21 Oct 2026 08:00:00 +0000",
+    "sample": [
+     {
+      "title": "Kasarani to Ruiru: Finding an Outdoor Gear Shop on Thika Road Before Your Next Hike",
+      "date": "Wed, 21 Oct 2026 08:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/outdoor-gear-shop-thika-road-1024x683.jpg"
+     },
+     {
+      "title": "Where to Buy Hiking Boots in Nairobi (and How to Get the Fit Right)",
+      "date": "Tue, 06 Oct 2026 13:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/where-to-buy-hiking-boots-in-nairobi-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/mt-kenya/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 6,
+    "items_with_image": 6,
+    "newest": "Mon, 26 Oct 2026 12:00:00 +0000",
+    "sample": [
+     {
+      "title": "The Best Hikes in Kenya, Sorted by Effort: Forest Walks, Crater Rims and Mountain Summits",
+      "date": "Mon, 26 Oct 2026 12:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/best-hikes-in-kenya-1024x683.jpg"
+     },
+     {
+      "title": "Inside the Keen Targhee Mid Waterproof: Build, Fit and the Kenyan Trails It Suits",
+      "date": "Sun, 18 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/keen-targhee-mid-waterproof-1024x683.jpg"
+     },
+     {
+      "title": "Mt Kenya for First-Timers: Routes, Seasons and Point Lenana",
+      "date": "Sun, 11 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/mt-kenya-hiking-guide-1024x768.jpg"
+     },
+     {
+      "title": "How Warm Does Your Sleeping Bag Need to Be in Kenya?",
+      "date": "Sat, 10 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/sleeping-bags-nairobi-1024x768.jpg"
+     },
+     {
+      "title": "Gearing Up for Mt Kenya Without Leaving Nairobi",
+      "date": "Fri, 09 Oct 2026 13:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/mt-kenya-gear-nairobi-1024x768.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/mt-kenya-gear/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 10,
+    "items_with_image": 10,
+    "newest": "Wed, 21 Oct 2026 15:00:00 +0000",
+    "sample": [
+     {
+      "title": "How Black Diamond Trekking Poles Hold Up on Longonot Ash and Mt Kenya Scree",
+      "date": "Wed, 21 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/black-diamond-trekking-poles-kenya-1024x683.jpg"
+     },
+     {
+      "title": "Lowa Hiking Boots for Kenyan Hikers: Which Model, Which Size, Which Trail",
+      "date": "Wed, 21 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/lowa-hiking-boots-kenya-1024x683.jpg"
+     },
+     {
+      "title": "Why Kenyan Hikers Keep Asking for Osprey Backpacks (and Which Ones Fit Your Hikes)",
+      "date": "Tue, 20 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/osprey-backpacks-kenya-683x1024.jpg"
+     },
+     {
+      "title": "From Italian Foothills to the Aberdares: Picking Scarpa Hiking Boots in Kenya",
+      "date": "Tue, 20 Oct 2026 04:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/scarpa-hiking-boots-kenya-1024x683.jpg"
+     },
+     {
+      "title": "Squinting at the Snow Line: What Hiking Sunglasses in Kenya Need to Block",
+      "date": "Sat, 17 Oct 2026 12:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-sunglasses-kenya-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://hikingoutdoorhub.com/tag/mt-longonot/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 3,
+    "items_with_image": 3,
+    "newest": "Tue, 13 Oct 2026 12:00:00 +0000",
+    "sample": [
+     {
+      "title": "Are Trekking Poles Worth It? Buying a Pair in Nairobi for Kenya’s Steep Descents",
+      "date": "Tue, 13 Oct 2026 12:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/trekking-poles-nairobi-1024x683.jpg"
+     },
+     {
+      "title": "Climbing Mt Longonot: A Day Hike Around Kenya’s Crater Rim",
+      "date": "Sun, 04 Oct 2026 15:00:00 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/mt-longonot-hike-1024x683.jpg"
+     },
+     {
+      "title": "Nairobi’s Best Day Hikes, Ranked From Gentle Forest Loop to Aberdares Summit",
+      "date": "Thu, 10 Sep 2026 13:31:26 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/09/karura-forest-best-day-hikes-near-Nairobi-1024x512.jpg"
      }
     ]
    }
