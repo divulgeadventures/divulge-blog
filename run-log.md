@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-27 07:25 | New post 1
+- "Is Rwanda in December Worth It? Gorillas, Short Rains and a Cheaper Permit": https://divulgeadventures.com/rwanda-in-december/ (Rwanda RW-054, seasonal, Destination Tips). Scheduled for 2026-10-27 10:00 Nairobi time.
+- Covers December weather (Kigali 25°C/13°C, 101 mm on about 20 days vs 140 mm in November and 75 mm in January; long-term averages from Weather2Travel; Meteo Rwanda outlooks for Musanze), trekking conditions, the gorilla permit (US$1,500, or US$1,050 with the RDB 30% November-May low-season discount; checked October 2026), golden monkeys (US$100), Akagera (2025 African Parks price list, readers told to confirm), Nyungwe, Lake Kivu, a 7-day discount-qualifying route, festive-season booking, Umuganda and GOV.UK visa rules. Links the quote form (Rwanda rule), 2 trip pages (Akagera night game drive, 6-day gorilla and Akagera), the Rwanda gorilla trek page and 6 Divulge Diaries posts.
+- Images: 5 from the owner's Media Library (featured gorilla resting, plus gorilla eating leaves, golden monkey, Akagera giraffe, Lake Kivu island), 1 from Unsplash (Kigali wetland). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none (Rwanda has no BOOST rows; this is today's one seasonal post). Nyungwe activity fees left out because no official current price list could be confirmed.
+- Could not open: africanparks.org/the-parks/nyungwe (permission request timed out); gov.uk Rwanda entry requirements timed out on the first try, then opened.
+
 ## 2026-10-26 18:50 | Nothing to do
 - Today's 3 new posts are already written (Kilimanjaro routes, Namibia in January, Amboseli lodges). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left), so no post changes.
 - Could not open: none.

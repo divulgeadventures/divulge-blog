@@ -61,3 +61,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-26 | Tanzania TZ-006 | Destination Tips | kilimanjaro routes | kilimanjaro-routes
 2026-10-26 | Namibia NA-053 | Destination Tips | namibia in january | namibia-in-january
 2026-10-26 | Kenya KE-004 | Accommodation Guide | amboseli lodges | amboseli-lodges
+2026-10-27 | Rwanda RW-054 | Destination Tips | rwanda in december | rwanda-in-december

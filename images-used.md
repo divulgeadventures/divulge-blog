@@ -280,3 +280,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-26 | https://divulgeadventures.com/wp-content/uploads/2026/04/5177-x-3082divulge_adventures-scaled.jpg | amboseli-lodges
 2026-10-26 | https://images.unsplash.com/photo-1632315152441-465a943cc211?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8c2FmYXJpJTIwdGVudHxlbnwwfDB8fHwxNzkzMDE1ODkyfDI&ixlib=rb-4.1.0&q=80&w=1080 | amboseli-lodges
 2026-10-26 | https://images.unsplash.com/photo-1579710790876-d10ddcb2370b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OXx8QW1ib3NlbGl8ZW58MHwwfHx8MTc5MzAxNTg5M3wy&ixlib=rb-4.1.0&q=80&w=1080 | amboseli-lodges
+2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park-1.jpg | rwanda-in-december
+2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-eating-leaves-in-volcanoes-national-park-rwanda-1.jpg | rwanda-in-december
+2026-10-27 | https://images.unsplash.com/photo-1779900275257-aaadab6d9285?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8UndhbmRhJTIwaGlsbHN8ZW58MHwwfHx8MTc5MzA3MzY5NHwy&ixlib=rb-4.1.0&q=80&w=1080 | rwanda-in-december
+2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2026/10/golden-monkey-in-the-bamboo-forest-of-volcanoes-national-park.jpg | rwanda-in-december
+2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2026/10/giraffe-on-the-plains-of-akagera-national-park-rwanda.jpg | rwanda-in-december
+2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2026/10/island-on-lake-kivu-a-highlight-of-this-rwanda-holiday-package.jpg | rwanda-in-december
