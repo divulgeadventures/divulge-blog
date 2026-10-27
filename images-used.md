@@ -291,3 +291,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-27 | https://images.unsplash.com/photo-1679559429194-7fcc01396023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8TGFrZSUyME5haXZhc2hhfGVufDB8MHx8fDE3OTMwODc4NTN8Mg&ixlib=rb-4.1.0&q=80&w=1080 | lake-naivasha-lodges
 2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-340-scaled.jpg | lake-naivasha-lodges
 2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2025/12/6000-x-4000divulge_adventures-340-scaled.jpg | lake-naivasha-lodges
+2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2026/07/serengeti-migration.jpg | serengeti-vs-ngorongoro
+2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2026/07/wildebeest-serengeti_11zon-scaled.jpg | serengeti-vs-ngorongoro
+2026-10-27 | https://images.unsplash.com/photo-1726075016723-6ea81c84925c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8Tmdvcm9uZ29ybyUyMGNyYXRlcnxlbnwwfDB8fHwxNzkzMTAyMDczfDI&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-vs-ngorongoro
+2026-10-27 | https://images.unsplash.com/photo-1586584525758-f63cd62475a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MTB8fE5nb3Jvbmdvcm8lMjBjcmF0ZXJ8ZW58MHwwfHx8MTc5MzEwMjA3M3wy&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-vs-ngorongoro
+2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2026/07/ngorongoro-crater.jpg | serengeti-vs-ngorongoro
+2026-10-27 | https://images.unsplash.com/photo-1694694866733-e79bf75b218b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8U2VyZW5nZXRpJTIwcGxhaW5zfGVufDB8MHx8fDE3OTMxMDIwNzV8Mg&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-vs-ngorongoro

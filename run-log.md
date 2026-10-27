@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-27 14:58 | New post 3
+- "Serengeti vs Ngorongoro Is Rarely an Either-Or, So Here Is How to Split Your Days": https://divulgeadventures.com/serengeti-vs-ngorongoro/ (Tanzania TZ-081, BOOST comparison, Destination Tips). Scheduled for 2026-10-27 18:00 Nairobi time.
+- Compares the two on size, wildlife (crater rhino and missing giraffe/impala/topi), seasons, fees and days needed, with a trip-length split table. Fees (Serengeti US$82.60/US$70.80, Ngorongoro US$70.80, crater fee US$295 per vehicle, concession US$59) checked October 2026; size and UNESCO facts from UNESCO and park records. Links the Tanzania safari page, the 8-day Tarangire/Ngorongoro/Serengeti and 5-day northern Tanzania trips, and 7 Divulge Diaries posts.
+- Images: 3 from the owner's Media Library (Ngorongoro and Serengeti safari, Serengeti wildebeest, Ngorongoro Crater), 3 from Unsplash (featured giraffe under an umbrella thorn tree in the Serengeti, rhinos and elephants in the Ngorongoro Crater). The owner photos were last used 9-10 days ago (no fresher Tanzania matches). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none.
+- Could not open: TANAPA tariff page figures (shown only behind a PDF link; fees taken from our October 2026 check and a recent consistent source). No official source found for a crater time limit, so none is stated.
+
 ## 2026-10-27 11:20 | New post 2
 - "Lake Naivasha Lodges by Shore, From Hell's Gate Resorts to Quiet Ranch Houses": https://divulgeadventures.com/lake-naivasha-lodges/ (Kenya KE-005, core topic, Accommodation Guide; focus keyword refined from "best lodges in lake naivasha" to "lake naivasha lodges"). Scheduled for 2026-10-27 14:00 Nairobi time.
 - Compares Loldia House, Enashipai Resort & Spa and The Great Rift Valley Lodge & Golf Resort (each from its own website) plus Lake Naivasha Sopa Resort (described only from our own trip pages). No room rates quoted. Hell's Gate / Longonot fees from KWS Legal Notice 160 of 2025 (US$50 adult / US$25 child non-resident, checked October 2026); Ramsar facts from the Ramsar site record. Links the 4-day and 9-day Naivasha trips, the Kenya safari page and 5 Divulge Diaries posts.
