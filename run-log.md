@@ -4,6 +4,10 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-27 18:50 | Nothing to do
+- Today's work is complete: all 3 new posts for 2026-10-27 already exist (Rwanda in December, Lake Naivasha lodges, Serengeti vs Ngorongoro). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left in REFRESH_QUEUE.md). No post changes made.
+- Could not open: none.
+
 ## 2026-10-27 14:58 | New post 3
 - "Serengeti vs Ngorongoro Is Rarely an Either-Or, So Here Is How to Split Your Days": https://divulgeadventures.com/serengeti-vs-ngorongoro/ (Tanzania TZ-081, BOOST comparison, Destination Tips). Scheduled for 2026-10-27 18:00 Nairobi time.
 - Compares the two on size, wildlife (crater rhino and missing giraffe/impala/topi), seasons, fees and days needed, with a trip-length split table. Fees (Serengeti US$82.60/US$70.80, Ngorongoro US$70.80, crater fee US$295 per vehicle, concession US$59) checked October 2026; size and UNESCO facts from UNESCO and park records. Links the Tanzania safari page, the 8-day Tarangire/Ngorongoro/Serengeti and 5-day northern Tanzania trips, and 7 Divulge Diaries posts.
