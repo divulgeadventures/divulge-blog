@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-27 11:20 | New post 2
+- "Lake Naivasha Lodges by Shore, From Hell's Gate Resorts to Quiet Ranch Houses": https://divulgeadventures.com/lake-naivasha-lodges/ (Kenya KE-005, core topic, Accommodation Guide; focus keyword refined from "best lodges in lake naivasha" to "lake naivasha lodges"). Scheduled for 2026-10-27 14:00 Nairobi time.
+- Compares Loldia House, Enashipai Resort & Spa and The Great Rift Valley Lodge & Golf Resort (each from its own website) plus Lake Naivasha Sopa Resort (described only from our own trip pages). No room rates quoted. Hell's Gate / Longonot fees from KWS Legal Notice 160 of 2025 (US$50 adult / US$25 child non-resident, checked October 2026); Ramsar facts from the Ramsar site record. Links the 4-day and 9-day Naivasha trips, the Kenya safari page and 5 Divulge Diaries posts.
+- Images: 3 from the owner's Media Library (Lake Naivasha, Crescent Island, Hell's Gate), 2 from Unsplash (featured pelican on a Lake Naivasha boat ride, hippos in Lake Naivasha). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none. Added "loldia" and "enashipai" to spelling-allowlist.txt.
+- Could not open: sopalodges.com Lake Naivasha Sopa Resort page (permission request timed out); no official website found for Chui Lodge, Camp Carnelley's or Elsamere, so they were left out. Owner photos could not be downloaded for a visual check (proxy blocked), so they were chosen by title.
+
 ## 2026-10-27 08:36 Trip Optimiser
 - Done: A Day Corporate Team Building at Burudani Adventure Park (ID 6861, "full day corporate team building at burudani adventure park", kenya-6861-full-day-corporate-team-building-at-burudani-adventure-park.json); 4-Day Serengeti Wildebeest Migration Safari (ID 9518, "4 day serengeti wildebeest migration safari", tanzania-9518-4-day-serengeti-wildebeest-migration-safari.json). Both read from the site-data copy (snapshot 2026-10-27 03:19 UTC); the live site was not opened. Burudani shows no price, so it uses the "Price on request" box; the Serengeti trip uses "From USD 3,392 per adult" (the page shows one price only, no regular/sale pair).
 - Photos: Burudani 2 owner + 0 Unsplash (featured + 1 gallery photo only, see below); Serengeti 6 owner + 0 Unsplash.

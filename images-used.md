@@ -286,3 +286,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2026/10/golden-monkey-in-the-bamboo-forest-of-volcanoes-national-park.jpg | rwanda-in-december
 2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2026/10/giraffe-on-the-plains-of-akagera-national-park-rwanda.jpg | rwanda-in-december
 2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2026/10/island-on-lake-kivu-a-highlight-of-this-rwanda-holiday-package.jpg | rwanda-in-december
+2026-10-27 | https://images.unsplash.com/photo-1562263904-0c37aafb9e8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8TGFrZSUyME5haXZhc2hhfGVufDB8MHx8fDE3OTMwODc4NTN8Mg&ixlib=rb-4.1.0&q=80&w=1080 | lake-naivasha-lodges
+2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2025/12/6000-x-4000divulge_adventures-4-scaled.jpg | lake-naivasha-lodges
+2026-10-27 | https://images.unsplash.com/photo-1679559429194-7fcc01396023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8TGFrZSUyME5haXZhc2hhfGVufDB8MHx8fDE3OTMwODc4NTN8Mg&ixlib=rb-4.1.0&q=80&w=1080 | lake-naivasha-lodges
+2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-340-scaled.jpg | lake-naivasha-lodges
+2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2025/12/6000-x-4000divulge_adventures-340-scaled.jpg | lake-naivasha-lodges

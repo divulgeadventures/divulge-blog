@@ -222,3 +222,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/namibia-in-january/ (namibia in january)
 - https://divulgeadventures.com/amboseli-lodges/ (amboseli lodges)
 - https://divulgeadventures.com/rwanda-in-december/ (rwanda in december)
+- https://divulgeadventures.com/lake-naivasha-lodges/ (lake naivasha lodges)
