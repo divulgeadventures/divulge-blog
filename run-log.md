@@ -4,6 +4,11 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-28 18:50 | Nothing to do
+- Today's work is complete: all 3 new posts for 2026-10-28 are already written and scheduled.
+- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
+- Could not open: none.
+
 ## 2026-10-28 15:06 | New post 3
 - "Best Time to Visit Botswana for Floods, Elephants, Zebra Herds or Lower Prices" https://divulgeadventures.com/best-time-to-visit-botswana/ (Botswana BW-002, Destination Tips, core topic). Scheduled for 2026-10-28 18:00 Nairobi time.
 - Month-by-month Maun climate table, Okavango flood timeline, region-by-season table and zebra migration timing (UN CMS fact sheet). No park fees or lodge prices quoted; seasons described as peak/shoulder/low only.
