@@ -1,5 +1,5 @@
 {
- "checked_at_utc": "2026-10-28 03:27",
+ "checked_at_utc": "2026-10-28 11:26",
  "feeds": {
   "divulge": [
    {
@@ -10,8 +10,18 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Tue, 27 Oct 2026 15:00:00 +0000",
+    "newest": "Wed, 28 Oct 2026 11:00:00 +0000",
     "sample": [
+     {
+      "title": "Which Samburu Lodges Suit Your Trip? Riverbank Tents, Shaba Springs and Conservancy Hideaw",
+      "date": "Wed, 28 Oct 2026 11:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/samburu-lodges-1024x819.jpg"
+     },
+     {
+      "title": "A Gorilla Trekking Packing List That Copes With Mud, Nettles and Rain",
+      "date": "Wed, 28 Oct 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-packing-list-1024x809.jpg"
+     },
      {
       "title": "Serengeti vs Ngorongoro Is Rarely an Either-Or, So Here Is How to Split Your Days",
       "date": "Tue, 27 Oct 2026 15:00:00 +0000",
@@ -26,16 +36,6 @@
       "title": "Is Rwanda in December Worth It? Gorillas, Short Rains and a Cheaper Permit",
       "date": "Tue, 27 Oct 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park-1-1024x900.jpg"
-     },
-     {
-      "title": "How to Pick Between Amboseli Lodges for Kilimanjaro Views, Elephants and Budget",
-      "date": "Mon, 26 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/divulge-adventures-kenya-safari-4-1024x533.jpg"
-     },
-     {
-      "title": "Namibia in January Means Green Etosha, Dry Dunes and Afternoon Storms",
-      "date": "Mon, 26 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/namibia-in-january-1024x576.jpg"
      }
     ]
    },
@@ -45,10 +45,15 @@
     "content_type": "application/rss+xml; charset=UTF-8",
     "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
     "xml_ok": true,
-    "items": 7,
-    "items_with_image": 6,
-    "newest": "Tue, 27 Oct 2026 11:00:00 +0000",
+    "items": 8,
+    "items_with_image": 7,
+    "newest": "Wed, 28 Oct 2026 11:00:00 +0000",
     "sample": [
+     {
+      "title": "Which Samburu Lodges Suit Your Trip? Riverbank Tents, Shaba Springs and Conservancy Hideaw",
+      "date": "Wed, 28 Oct 2026 11:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/samburu-lodges-1024x819.jpg"
+     },
      {
       "title": "Lake Naivasha Lodges by Shore, From Hell’s Gate Resorts to Quiet Ranch Houses",
       "date": "Tue, 27 Oct 2026 11:00:00 +0000",
@@ -68,11 +73,6 @@
       "title": "Ngorongoro Crater Lodges: Where to Stay on the Rim, in the Highlands and in Karatu",
       "date": "Sun, 11 Oct 2026 11:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/ngorongoro-crater-lodges-1024x731.jpg"
-     },
-     {
-      "title": "Best Masai Mara Camps by Budget: Where to Stay in the Mara",
-      "date": "Thu, 08 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/best-masai-mara-camps-by-budget-1024x686.jpg"
      }
     ]
    },
@@ -158,8 +158,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Fri, 23 Oct 2026 07:00:00 +0000",
+    "newest": "Wed, 28 Oct 2026 07:00:00 +0000",
     "sample": [
+     {
+      "title": "A Gorilla Trekking Packing List That Copes With Mud, Nettles and Rain",
+      "date": "Wed, 28 Oct 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-packing-list-1024x809.jpg"
+     },
      {
       "title": "A Kenya and Tanzania Safari Works Best When You Plan the Border First",
       "date": "Fri, 23 Oct 2026 07:00:00 +0000",
@@ -179,11 +184,6 @@
       "title": "Tipping in Kenya: How Much to Tip on Safari, at Lodges and on Mount Kenya",
       "date": "Sun, 18 Oct 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/tipping-in-kenya-1024x683.jpg"
-     },
-     {
-      "title": "Is Kenya Safe for Safari? An Honest Guide From Nairobi",
-      "date": "Sat, 17 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/02/6000-x-4000divulge_adventures-147-1024x683.jpg"
      }
     ]
    },
@@ -350,8 +350,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Tue, 27 Oct 2026 11:00:00 +0000",
+    "newest": "Wed, 28 Oct 2026 11:00:00 +0000",
     "sample": [
+     {
+      "title": "Which Samburu Lodges Suit Your Trip? Riverbank Tents, Shaba Springs and Conservancy Hideaw",
+      "date": "Wed, 28 Oct 2026 11:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/samburu-lodges-1024x819.jpg"
+     },
      {
       "title": "Lake Naivasha Lodges by Shore, From Hell’s Gate Resorts to Quiet Ranch Houses",
       "date": "Tue, 27 Oct 2026 11:00:00 +0000",
@@ -371,11 +376,6 @@
       "title": "A Kenya and Tanzania Safari Works Best When You Plan the Border First",
       "date": "Fri, 23 Oct 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/male-lion-on-a-rock-in-the-serengeti-1024x683.jpg"
-     },
-     {
-      "title": "Samburu or the Masai Mara? Pick by the Animals, the Season and the Crowds",
-      "date": "Thu, 22 Oct 2026 16:24:50 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/01/Gravy-Zebra-samburu-1024x683.jpg"
      }
     ]
    },
@@ -592,10 +592,15 @@
     "content_type": "application/rss+xml; charset=UTF-8",
     "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
     "xml_ok": true,
-    "items": 2,
-    "items_with_image": 2,
-    "newest": "Tue, 27 Oct 2026 11:00:00 +0000",
+    "items": 3,
+    "items_with_image": 3,
+    "newest": "Wed, 28 Oct 2026 11:00:00 +0000",
     "sample": [
+     {
+      "title": "Which Samburu Lodges Suit Your Trip? Riverbank Tents, Shaba Springs and Conservancy Hideaw",
+      "date": "Wed, 28 Oct 2026 11:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/samburu-lodges-1024x819.jpg"
+     },
      {
       "title": "Lake Naivasha Lodges by Shore, From Hell’s Gate Resorts to Quiet Ranch Houses",
       "date": "Tue, 27 Oct 2026 11:00:00 +0000",
@@ -861,10 +866,15 @@
     "content_type": "application/rss+xml; charset=UTF-8",
     "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
     "xml_ok": true,
-    "items": 8,
-    "items_with_image": 8,
-    "newest": "Tue, 27 Oct 2026 07:00:00 +0000",
+    "items": 9,
+    "items_with_image": 9,
+    "newest": "Wed, 28 Oct 2026 07:00:00 +0000",
     "sample": [
+     {
+      "title": "A Gorilla Trekking Packing List That Copes With Mud, Nettles and Rain",
+      "date": "Wed, 28 Oct 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-packing-list-1024x809.jpg"
+     },
      {
       "title": "Is Rwanda in December Worth It? Gorillas, Short Rains and a Cheaper Permit",
       "date": "Tue, 27 Oct 2026 07:00:00 +0000",
@@ -884,11 +894,6 @@
       "title": "Rwanda Gorilla Permit: Prices, Discounts and How to Book",
       "date": "Fri, 16 Oct 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-Trekking-Rwanda-volcanoes-park-1024x682.jpeg"
-     },
-     {
-      "title": "East Africa Tourist Visa: Cost, Rules and How to Apply",
-      "date": "Thu, 15 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/east-africa-tourist-visa-1024x683.jpg"
      }
     ]
    },
@@ -1079,8 +1084,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Sun, 25 Oct 2026 12:33:09 +0000",
+    "newest": "Wed, 28 Oct 2026 07:00:00 +0000",
     "sample": [
+     {
+      "title": "A Gorilla Trekking Packing List That Copes With Mud, Nettles and Rain",
+      "date": "Wed, 28 Oct 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-packing-list-1024x809.jpg"
+     },
      {
       "title": "Weighing Up Kenya vs Uganda Safari Options? Start With the Animals on Your List",
       "date": "Sun, 25 Oct 2026 12:33:09 +0000",
@@ -1100,11 +1110,6 @@
       "title": "East Africa Tourist Visa: Cost, Rules and How to Apply",
       "date": "Thu, 15 Oct 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/east-africa-tourist-visa-1024x683.jpg"
-     },
-     {
-      "title": "Bwindi Gorilla Trekking: Permits, Sectors, Costs and Tips",
-      "date": "Tue, 13 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/bwindi-gorilla-trekking-1024x683.jpg"
      }
     ]
    },
@@ -1155,8 +1160,13 @@
     "xml_ok": true,
     "items": 10,
     "items_with_image": 10,
-    "newest": "Tue, 27 Oct 2026 04:30:57 +0000",
+    "newest": "Wed, 28 Oct 2026 04:00:38 +0000",
     "sample": [
+     {
+      "title": "UK 8, EU 42 or US 9? Getting Hiking Boot Sizes in Kenya Right Before You Climb",
+      "date": "Wed, 28 Oct 2026 04:00:38 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-boot-sizes-kenya-1024x683.jpg"
+     },
      {
       "title": "Seven Knuckles Above the Rift: Hiking the Ngong Hills From Nairobi",
       "date": "Tue, 27 Oct 2026 04:30:57 +0000",
@@ -1176,11 +1186,6 @@
       "title": "Karrimor Boots, Jackets and Rucksacks in Nairobi: What Each Era of the Brand Gets You",
       "date": "Mon, 26 Oct 2026 04:01:26 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/karrimor-nairobi-819x1024.jpg"
-     },
-     {
-      "title": "Isotex 5,000 vs 20,000: Matching Regatta Jackets to Kenyan Weather",
-      "date": "Sun, 25 Oct 2026 15:00:00 +0000",
-      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/regatta-kenya-1024x683.jpg"
      }
     ]
    },
@@ -1192,8 +1197,13 @@
     "xml_ok": true,
     "items": 10,
     "items_with_image": 10,
-    "newest": "Mon, 26 Oct 2026 08:00:00 +0000",
+    "newest": "Wed, 28 Oct 2026 04:00:38 +0000",
     "sample": [
+     {
+      "title": "UK 8, EU 42 or US 9? Getting Hiking Boot Sizes in Kenya Right Before You Climb",
+      "date": "Wed, 28 Oct 2026 04:00:38 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-boot-sizes-kenya-1024x683.jpg"
+     },
      {
       "title": "Is Under Armour Any Good for Hiking in Kenya? Fabrics, Shoes and What to Skip",
       "date": "Mon, 26 Oct 2026 08:00:00 +0000",
@@ -1213,11 +1223,6 @@
       "title": "Quechua Forclaz 500 High: The Trekking Boot Decathlon Renamed, Explained for Kenyan Trails",
       "date": "Sun, 25 Oct 2026 13:00:00 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/06/QUECHUA-FORCLAZ-500-HIGH-WOMENS-WATERPROOF-WALKING-BOOTS-3.jpg"
-     },
-     {
-      "title": "Patagonia Gear on Kenyan Trails: Which Jackets, Fleeces and Packs Earn Their Keep",
-      "date": "Fri, 23 Oct 2026 08:00:00 +0000",
-      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/patagonia-kenya-1024x683.jpg"
      }
     ]
    },
@@ -1388,6 +1393,7 @@
    "botswana",
    "botswana-safari",
    "botswana-safari-planning",
+   "buffalo-springs",
    "buridani-adventure-park",
    "bush-and-beach",
    "bwindi",
@@ -1520,6 +1526,7 @@
    "safari-visas",
    "samburu",
    "samburu-game-reserve",
+   "samburu-national-reserve",
    "samburu-special-five",
    "self-drive-safari",
    "serengeti",
@@ -1570,6 +1577,7 @@
    "blister-prevention",
    "boot-care",
    "boot-fitting",
+   "boot-sizing",
    "budget-hiking-gear",
    "budget-hiking-kit",
    "camping-gas",
@@ -1607,6 +1615,7 @@
    "hiking-clothing-nairobi",
    "hiking-for-beginners",
    "hiking-gaiters",
+   "hiking-gear",
    "hiking-gear-checklist",
    "hiking-gear-kenya",
    "hiking-gear-nairobi",
@@ -1680,6 +1689,7 @@
    "quick-dry-shirts",
    "rain-gear",
    "rain-gear-nairobi",
+   "rain-jacket-care",
    "rain-jackets",
    "rain-poncho",
    "rainy-season-hiking",
@@ -1691,6 +1701,7 @@
    "second-hand-hiking-gear",
    "short-rains-hiking",
    "sirimon-route",
+   "size-conversion",
    "sleeping-bags",
    "sock-care",
    "summit-layers",
