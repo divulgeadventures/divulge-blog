@@ -27,8 +27,8 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 19 | Kenya | 5-days-mt-kenya-sirimon-to-chogoria-traverse | 6806 | done 2026-10-26 | 5 day mount kenya sirimon chogoria traverse | kenya-6806-5-day-mount-kenya-sirimon-chogoria-traverse.json |
 | 20 | Kenya | full-day-corporate-team-building-at-burudani-adventure-park | 6861 | done 2026-10-27 | full day corporate team building at burudani adventure park | kenya-6861-full-day-corporate-team-building-at-burudani-adventure-park.json |
 | 16 | Tanzania | 4-day-wildebeest-migration-safari | 9518 | done 2026-10-27 | 4 day serengeti wildebeest migration safari | tanzania-9518-4-day-serengeti-wildebeest-migration-safari.json |
-| 21 | Tanzania | 8-day-great-migration-northern-tanzania |  | todo |  |  |
-| 22 | Tanzania | tarangire-ngorongoro-serengeti-safari |  | todo |  |  |
+| 21 | Tanzania | 8-day-great-migration-northern-tanzania | 9539 | done 2026-10-28 | 8 day northern tanzania great migration safari | tanzania-9539-8-day-northern-tanzania-great-migration-safari.json |
+| 22 | Tanzania | tarangire-ngorongoro-serengeti-safari | 9481 | done 2026-10-28 | 8 day tarangire ngorongoro and serengeti safari | tanzania-9481-8-day-tarangire-ngorongoro-and-serengeti-safari.json |
 | 23 | Tanzania | northern-tanzania-safari |  | todo |  |  |
 | 24 | Tanzania | 5-days-northern-tanzania-safari |  | todo |  |  |
 | 25 | Tanzania | 8-day-tanzania-safari-premium-parks |  | todo |  |  |
