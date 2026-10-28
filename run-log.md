@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-28 15:06 | New post 3
+- "Best Time to Visit Botswana for Floods, Elephants, Zebra Herds or Lower Prices" https://divulgeadventures.com/best-time-to-visit-botswana/ (Botswana BW-002, Destination Tips, core topic). Scheduled for 2026-10-28 18:00 Nairobi time.
+- Month-by-month Maun climate table, Okavango flood timeline, region-by-season table and zebra migration timing (UN CMS fact sheet). No park fees or lodge prices quoted; seasons described as peak/shoulder/low only.
+- Images: 3 from the owner's Media Library + 2 Unsplash in the body (5 total); featured image from Unsplash (elephants drinking in the Chobe River).
+- Skipped: no BOOST row (a BOOST post ran yesterday) and no December/January Botswana seasonal row left.
+- Could not open: fitfortravel.nhs.uk/destinations/africa/botswana and wwwnc.cdc.gov/travel/destinations/traveler/none/botswana (permission requests timed out), so malaria advice is kept general.
+
 ## 2026-10-28 11:00 | New post 2
 - "Which Samburu Lodges Suit Your Trip? Riverbank Tents, Shaba Springs and Conservancy Hideaways" https://divulgeadventures.com/samburu-lodges/ (Kenya KE-006, Accommodation Guide; focus keyword refined from "best samburu lodges" to "samburu lodges"). Scheduled for 2026-10-28 14:00 Nairobi time.
 - Lodges covered only from their official sites: Samburu Sopa, Samburu Intrepids, Ashnil Samburu Camp, Surana Buffalo Springs, Sarova Shaba, Sasaab. Elephant Watch Camp left out (its site shows no current dates, so could not confirm it is operating) and Saruni Samburu left out (official site could not be opened). No room rates or county reserve fee quoted (not verifiable on an official source); readers are told fees are confirmed in the quote.
