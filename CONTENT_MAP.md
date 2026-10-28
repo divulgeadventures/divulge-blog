@@ -224,3 +224,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/rwanda-in-december/ (rwanda in december)
 - https://divulgeadventures.com/lake-naivasha-lodges/ (lake naivasha lodges)
 - https://divulgeadventures.com/serengeti-vs-ngorongoro/ (serengeti vs ngorongoro)
+- https://divulgeadventures.com/gorilla-trekking-packing-list/ (gorilla trekking packing list)

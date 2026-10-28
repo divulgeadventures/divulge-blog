@@ -297,3 +297,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-27 | https://images.unsplash.com/photo-1586584525758-f63cd62475a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MTB8fE5nb3Jvbmdvcm8lMjBjcmF0ZXJ8ZW58MHwwfHx8MTc5MzEwMjA3M3wy&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-vs-ngorongoro
 2026-10-27 | https://divulgeadventures.com/wp-content/uploads/2026/07/ngorongoro-crater.jpg | serengeti-vs-ngorongoro
 2026-10-27 | https://images.unsplash.com/photo-1694694866733-e79bf75b218b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8U2VyZW5nZXRpJTIwcGxhaW5zfGVufDB8MHx8fDE3OTMxMDIwNzV8Mg&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-vs-ngorongoro
+2026-10-28 | https://images.unsplash.com/photo-1485809052957-5113b0ff51af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8aGlraW5nJTIwYm9vdHN8ZW58MHwwfHx8MTc5MzE1OTQzOXwy&ixlib=rb-4.1.0&q=80&w=1080 | gorilla-trekking-packing-list
+2026-10-28 | https://divulgeadventures.com/wp-content/uploads/2026/10/bwindi-gorilla-trekking.jpg | gorilla-trekking-packing-list
+2026-10-28 | https://images.unsplash.com/photo-1575987116913-e96e7d490b8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8aGlraW5nJTIwYm9vdHN8ZW58MHwwfHx8MTc5MzE1OTQzOXwy&ixlib=rb-4.1.0&q=80&w=1080 | gorilla-trekking-packing-list
+2026-10-28 | https://images.unsplash.com/photo-1665678473650-b4d8c79b02b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8cmFpbmZvcmVzdCUyMHRyYWlsfGVufDB8MHx8fDE3OTMxNTk0NDB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | gorilla-trekking-packing-list
+2026-10-28 | https://divulgeadventures.com/wp-content/uploads/2026/10/uganda-safari-in-december.jpg | gorilla-trekking-packing-list
+2026-10-28 | https://divulgeadventures.com/wp-content/uploads/2025/11/Rwanda-Gorilla.jpg | gorilla-trekking-packing-list

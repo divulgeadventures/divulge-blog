@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-28 06:53 | New post 1
+- "A Gorilla Trekking Packing List That Copes With Mud, Nettles and Rain": https://divulgeadventures.com/gorilla-trekking-packing-list/ (Uganda UG-003, core topic, Safari Planning Tips; focus keyword refined from "what to pack for gorilla trekking" to "gorilla trekking packing list"). Scheduled for 2026-10-28 10:00 Nairobi time.
+- Covers clothing, daypack, rain/altitude (Bwindi 1,190-2,600 m, 1,000-2,000 mm rain, wet seasons Mar-May and Sep-Nov, from ITFC research records), photography, Uganda vs Rwanda differences (Rwanda plastic bag ban, from Visit Rwanda) and what to leave at home. No permit prices quoted (UWA's online tariff PDF is the old 2022-2024 one, so readers are sent to the Bwindi and Rwanda permit posts). Links the Uganda safari page, the 4-day Bwindi trip, the gorilla trekking activity page and 7 Divulge Diaries posts.
+- Images: 3 from the owner's Media Library (Bwindi gorilla, mother and juvenile gorilla in Bwindi, gorilla from the Bwindi trip gallery), 3 from Unsplash (featured gear flat lay, hiking boots, forest). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none.
+- Could not open: no official Aerolink baggage page found (light-aircraft weight limit left unstated); acrossafrica blog page redirected and was not fetched.
+
 ## 2026-10-27 18:50 | Nothing to do
 - Today's work is complete: all 3 new posts for 2026-10-27 already exist (Rwanda in December, Lake Naivasha lodges, Serengeti vs Ngorongoro). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left in REFRESH_QUEUE.md). No post changes made.
 - Could not open: none.

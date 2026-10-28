@@ -64,3 +64,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-27 | Rwanda RW-054 | Destination Tips | rwanda in december | rwanda-in-december
 2026-10-27 | Kenya KE-005 | Accommodation Guide | lake naivasha lodges | lake-naivasha-lodges
 2026-10-27 | Tanzania TZ-081 | Destination Tips | serengeti vs ngorongoro | serengeti-vs-ngorongoro
+2026-10-28 | Uganda UG-003 | Safari Planning Tips | gorilla trekking packing list | gorilla-trekking-packing-list
