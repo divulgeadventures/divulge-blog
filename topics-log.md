@@ -65,3 +65,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-27 | Kenya KE-005 | Accommodation Guide | lake naivasha lodges | lake-naivasha-lodges
 2026-10-27 | Tanzania TZ-081 | Destination Tips | serengeti vs ngorongoro | serengeti-vs-ngorongoro
 2026-10-28 | Uganda UG-003 | Safari Planning Tips | gorilla trekking packing list | gorilla-trekking-packing-list
+2026-10-28 | Kenya KE-006 | Accommodation Guide | samburu lodges | samburu-lodges

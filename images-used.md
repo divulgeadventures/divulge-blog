@@ -303,3 +303,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-28 | https://images.unsplash.com/photo-1665678473650-b4d8c79b02b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8cmFpbmZvcmVzdCUyMHRyYWlsfGVufDB8MHx8fDE3OTMxNTk0NDB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | gorilla-trekking-packing-list
 2026-10-28 | https://divulgeadventures.com/wp-content/uploads/2026/10/uganda-safari-in-december.jpg | gorilla-trekking-packing-list
 2026-10-28 | https://divulgeadventures.com/wp-content/uploads/2025/11/Rwanda-Gorilla.jpg | gorilla-trekking-packing-list
+2026-10-28 | https://divulgeadventures.com/wp-content/uploads/2026/10/giraffe-feeding-on-tree-tops-in-samburu-scaled.jpg | samburu-lodges
+2026-10-28 | https://divulgeadventures.com/wp-content/uploads/2025/12/4527-x-2741divulge_adventures_1-42-scaled.jpg | samburu-lodges
+2026-10-28 | https://divulgeadventures.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-29-at-17.45.06.jpeg | samburu-lodges
+2026-10-28 | https://images.unsplash.com/photo-1558907685-9f38cd850e1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8U2FtYnVydXxlbnwwfDB8fHwxNzkzMTc0MTk5fDI&ixlib=rb-4.1.0&q=80&w=1080 | samburu-lodges
+2026-10-28 | https://images.unsplash.com/photo-1610624677227-09c9e2c12a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8U2FtYnVydXxlbnwwfDB8fHwxNzkzMTc0MTk5fDI&ixlib=rb-4.1.0&q=80&w=1080 | samburu-lodges
+2026-10-28 | https://images.unsplash.com/photo-1517502252510-68bb1fed55b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8U2FtYnVydXxlbnwwfDB8fHwxNzkzMTc0MTk5fDI&ixlib=rb-4.1.0&q=80&w=1080 | samburu-lodges

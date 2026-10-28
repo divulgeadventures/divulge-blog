@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-28 11:00 | New post 2
+- "Which Samburu Lodges Suit Your Trip? Riverbank Tents, Shaba Springs and Conservancy Hideaways" https://divulgeadventures.com/samburu-lodges/ (Kenya KE-006, Accommodation Guide; focus keyword refined from "best samburu lodges" to "samburu lodges"). Scheduled for 2026-10-28 14:00 Nairobi time.
+- Lodges covered only from their official sites: Samburu Sopa, Samburu Intrepids, Ashnil Samburu Camp, Surana Buffalo Springs, Sarova Shaba, Sasaab. Elephant Watch Camp left out (its site shows no current dates, so could not confirm it is operating) and Saruni Samburu left out (official site could not be opened). No room rates or county reserve fee quoted (not verifiable on an official source); readers are told fees are confirmed in the quote.
+- Images: 3 from the owner's Media Library + 2 Unsplash in the body (5 total); featured image from Unsplash (zebra in Samburu National Reserve).
+- Could not open: sarunibasecamp.com/our-properties/saruni-samburu/ (permission request timed out).
+
 ## 2026-10-28 05:36 Trip Optimiser
 - Done: 8 Days Great Migration Northern Tanzania (ID 9539, "8 day northern tanzania great migration safari", tanzania-9539-8-day-northern-tanzania-great-migration-safari.json); 8-Day Tarangire, Ngorongoro & Serengeti Safari (ID 9481, "8 day tarangire ngorongoro and serengeti safari", tanzania-9481-8-day-tarangire-ngorongoro-and-serengeti-safari.json). Both read from the site-data copy (snapshot 2026-10-28 03:27 UTC); the live site was not opened. 9539 uses "From USD 2,526 per adult"; 9481 uses "From USD 6,180 per adult (USD 4,368 per child)" (each page shows one price, no regular/sale pair).
 - Photos: 9539 6 owner/Media Library + 1 Unsplash (Elizabeth Morgan, elephants and baobabs in Tanzania; credited); 9481 7 owner/Media Library + 0 Unsplash. Owner photos could not be downloaded for a visual check (proxy blocked divulgeadventures.com), so they were chosen by file name/title; please check none has a person as the main subject (especially divulge_adventures_safari-167 and divulge_adventures_safari-27, whose content is not described anywhere).
