@@ -321,3 +321,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-29 | https://images.unsplash.com/photo-1591803026220-6385999e82b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MjF8fEtpbGltYW5qYXJvfGVufDB8MHx8fDE3OTMyNDYxOTR8Mg&ixlib=rb-4.1.0&q=80&w=1080 | lemosho-vs-machame
 2026-10-29 | https://divulgeadventures.com/wp-content/uploads/2026/10/mt-kilimanjaro-hiking-and-safari-combo.jpeg | lemosho-vs-machame
 2026-10-29 | https://divulgeadventures.com/wp-content/uploads/2026/10/elephants-grazing-below-mount-kilimanjaro-in-amboseli-1-scaled.jpg | lemosho-vs-machame
+2026-10-29 | https://images.unsplash.com/photo-1646345098774-acb16125b6f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8RXRvc2hhfGVufDB8MHx8fDE3OTMyNjAzNjV8Mg&ixlib=rb-4.1.0&q=80&w=1080 | etosha-safari
+2026-10-29 | https://images.unsplash.com/photo-1596220025211-df3289d602ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8RXRvc2hhfGVufDB8MHx8fDE3OTMyNjAzNjV8Mg&ixlib=rb-4.1.0&q=80&w=1080 | etosha-safari
+2026-10-29 | https://images.unsplash.com/photo-1563994798145-aac79dece602?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8N3x8RXRvc2hhfGVufDB8MHx8fDE3OTMyNjAzNjV8Mg&ixlib=rb-4.1.0&q=80&w=1080 | etosha-safari
+2026-10-29 | https://images.unsplash.com/photo-1595653413306-66ba0f05e0de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8RXRvc2hhJTIwcGFufGVufDB8MHx8fDE3OTMyNjA1MDd8Mg&ixlib=rb-4.1.0&q=80&w=1080 | etosha-safari
+2026-10-29 | https://images.unsplash.com/photo-1667079365437-78a4b593c908?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8RXRvc2hhJTIwcGFufGVufDB8MHx8fDE3OTMyNjA1MDd8Mg&ixlib=rb-4.1.0&q=80&w=1080 | etosha-safari

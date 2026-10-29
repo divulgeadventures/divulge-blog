@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-29 11:20 | New post 2
+- "How to Plan an Etosha Safari Around the Waterholes": https://divulgeadventures.com/etosha-safari/
+- Namibia, Destination Tips (bank row NA-002; focus keyword refined from "etosha national park safari" to "etosha safari"). Scheduled for 29 Oct 14:00 Nairobi time.
+- Images: 0 from the owner's Media Library (the two Etosha photos there were used on 26 Oct), 5 from Unsplash (featured + 4 in the body). Park fees taken from the Government Gazette schedule in force from 1 April 2026.
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none
+
 ## 2026-10-29 05:35 Trip Optimiser
 - Done: 6 Days 5 Nights Northern Tanzania Safari (ID 9482, "6 day tarangire serengeti and ngorongoro safari", tanzania-9482-6-day-tarangire-serengeti-and-ngorongoro-safari.json); 5 Days 4 Nights Northern Tanzania Safari (ID 9493, "5 day lake manyara ngorongoro and serengeti safari", tanzania-9493-5-day-lake-manyara-ngorongoro-and-serengeti-safari.json). Both read from the site-data copy (snapshot 2026-10-29 03:30 UTC); the live site was not opened. 9482 uses "From USD 2,649 per adult (USD 1,250 per child)"; 9493 uses "From USD 2,195 per adult (USD 810 per child)". Each page shows one price, with no regular/sale pair.
 - Photos: 9482 7 owner/Media Library + 0 Unsplash; 9493 7 owner/Media Library + 0 Unsplash. The 2026/10 gallery photos already on both pages were kept. 9482 drops wildebeest-and-zebras-grazing (11849) to stay at 6 and adds elephants-at-a-waterhole-with-baobab-trees (12192) and the owner Ngorongoro photo (6854). Owner photos could not be checked visually, so they were chosen by file name and title. Please check that none has a person as the main subject.
