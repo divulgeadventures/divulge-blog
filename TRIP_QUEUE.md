@@ -29,8 +29,8 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 16 | Tanzania | 4-day-wildebeest-migration-safari | 9518 | done 2026-10-27 | 4 day serengeti wildebeest migration safari | tanzania-9518-4-day-serengeti-wildebeest-migration-safari.json |
 | 21 | Tanzania | 8-day-great-migration-northern-tanzania | 9539 | done 2026-10-28 | 8 day northern tanzania great migration safari | tanzania-9539-8-day-northern-tanzania-great-migration-safari.json |
 | 22 | Tanzania | tarangire-ngorongoro-serengeti-safari | 9481 | done 2026-10-28 | 8 day tarangire ngorongoro and serengeti safari | tanzania-9481-8-day-tarangire-ngorongoro-and-serengeti-safari.json |
-| 23 | Tanzania | northern-tanzania-safari |  | todo |  |  |
-| 24 | Tanzania | 5-days-northern-tanzania-safari |  | todo |  |  |
+| 23 | Tanzania | northern-tanzania-safari | 9482 | done 2026-10-29 | 6 day tarangire serengeti and ngorongoro safari | tanzania-9482-6-day-tarangire-serengeti-and-ngorongoro-safari.json |
+| 24 | Tanzania | 5-days-northern-tanzania-safari | 9493 | done 2026-10-29 | 5 day lake manyara ngorongoro and serengeti safari | tanzania-9493-5-day-lake-manyara-ngorongoro-and-serengeti-safari.json |
 | 25 | Tanzania | 8-day-tanzania-safari-premium-parks |  | todo |  |  |
 | 26 | Tanzania | 8-day-midrange-tanzania-safari |  | todo |  |  |
 | 27 | Tanzania | tanzania-luxury-safari |  | todo |  |  |
