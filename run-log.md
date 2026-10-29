@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-29 07:20 | New post 1
+- "Lemosho vs Machame Comes Down to One Extra Night and a Quieter Start" https://divulgeadventures.com/lemosho-vs-machame/ (Tanzania TZ-210, Destination Tips, BOOST comparison). Scheduled for 2026-10-29 10:00 Nairobi time.
+- Day-by-day route comparison, park-fee estimate table (US$70 conservation fee confirmed on the TANAPA Kilimanjaro page; camping, rescue fee and VAT from July 2026 tariff reports, checked October 2026) and advice by traveller type. No Divulge package prices quoted (no Kilimanjaro trip page in site data).
+- Images: 2 from the owner's Media Library + 3 Unsplash in the body (5 total); featured image from Unsplash (glacier on top of Kilimanjaro).
+- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows left as todo.
+- Could not open: whc.unesco.org/en/list/403 (permission request timed out); divulgeadventures.com image download blocked by the session proxy (used the Media Library title for alt text).
+
 ## 2026-10-28 18:50 | Nothing to do
 - Today's work is complete: all 3 new posts for 2026-10-28 are already written and scheduled.
 - Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.

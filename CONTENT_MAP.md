@@ -227,3 +227,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/gorilla-trekking-packing-list/ (gorilla trekking packing list)
 - https://divulgeadventures.com/samburu-lodges/ (samburu lodges)
 - https://divulgeadventures.com/best-time-to-visit-botswana/ (best time to visit botswana)
+- https://divulgeadventures.com/lemosho-vs-machame/ (lemosho vs machame)
