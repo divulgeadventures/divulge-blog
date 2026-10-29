@@ -69,3 +69,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-28 | Botswana BW-002 | Destination Tips | best time to visit botswana | best-time-to-visit-botswana
 2026-10-29 | Tanzania TZ-210 | Destination Tips | lemosho vs machame | lemosho-vs-machame
 2026-10-29 | Namibia NA-002 | Destination Tips | etosha safari | etosha-safari
+2026-10-29 | Kenya KE-007 | Safari Planning Tips | best time to visit kenya | best-time-to-visit-kenya

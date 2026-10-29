@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-29 14:55 | New post 3
+- "When Is the Best Time to Visit Kenya for Safari? It Depends on the Park": https://divulgeadventures.com/best-time-to-visit-kenya/
+- Kenya, Safari Planning Tips (bank row KE-007; focus keyword refined from "best time to visit kenya for safari" to "best time to visit kenya"). Scheduled for 29 Oct 18:00 Nairobi time.
+- Images: 6 from the owner's Media Library (featured + 5 in the body), 0 from Unsplash. Fees: KWS rates from the 1 October 2025 regulations, Mara rates US$100/US$200 by season (checked October 2026).
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Today's 3 new posts are complete.
+- Could not open: nation.africa Masai Mara planning guide (blocked by the site), thekenyatimes.com Masai Mara fees 2026 article (site error)
+
 ## 2026-10-29 10:57 | New post 2
 - "How to Plan an Etosha Safari Around the Waterholes": https://divulgeadventures.com/etosha-safari/
 - Namibia, Destination Tips (bank row NA-002; focus keyword refined from "etosha national park safari" to "etosha safari"). Scheduled for 29 Oct 14:00 Nairobi time.
