@@ -4,7 +4,7 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
-## 2026-10-29 11:20 | New post 2
+## 2026-10-29 10:57 | New post 2
 - "How to Plan an Etosha Safari Around the Waterholes": https://divulgeadventures.com/etosha-safari/
 - Namibia, Destination Tips (bank row NA-002; focus keyword refined from "etosha national park safari" to "etosha safari"). Scheduled for 29 Oct 14:00 Nairobi time.
 - Images: 0 from the owner's Media Library (the two Etosha photos there were used on 26 Oct), 5 from Unsplash (featured + 4 in the body). Park fees taken from the Government Gazette schedule in force from 1 April 2026.
