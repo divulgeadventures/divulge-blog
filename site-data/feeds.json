@@ -1,5 +1,5 @@
 {
- "checked_at_utc": "2026-10-29 03:30",
+ "checked_at_utc": "2026-10-29 11:26",
  "feeds": {
   "divulge": [
    {
@@ -10,8 +10,18 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Wed, 28 Oct 2026 15:00:00 +0000",
+    "newest": "Thu, 29 Oct 2026 11:00:00 +0000",
     "sample": [
+     {
+      "title": "How to Plan an Etosha Safari Around the Waterholes",
+      "date": "Thu, 29 Oct 2026 11:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/etosha-safari-1024x665.jpg"
+     },
+     {
+      "title": "Lemosho vs Machame Comes Down to One Extra Night and a Quieter Start",
+      "date": "Thu, 29 Oct 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/lemosho-vs-machame-1024x684.jpg"
+     },
      {
       "title": "Best Time to Visit Botswana for Floods, Elephants, Zebra Herds or Lower Prices",
       "date": "Wed, 28 Oct 2026 15:00:00 +0000",
@@ -26,16 +36,6 @@
       "title": "A Gorilla Trekking Packing List That Copes With Mud, Nettles and Rain",
       "date": "Wed, 28 Oct 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-packing-list-1024x809.jpg"
-     },
-     {
-      "title": "Serengeti vs Ngorongoro Is Rarely an Either-Or, So Here Is How to Split Your Days",
-      "date": "Tue, 27 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/serengeti-vs-ngorongoro-1024x667.jpg"
-     },
-     {
-      "title": "Lake Naivasha Lodges by Shore, From Hell’s Gate Resorts to Quiet Ranch Houses",
-      "date": "Tue, 27 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/lake-naivasha-lodges-1024x576.jpg"
      }
     ]
    },
@@ -84,8 +84,18 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Wed, 28 Oct 2026 15:00:00 +0000",
+    "newest": "Thu, 29 Oct 2026 11:00:00 +0000",
     "sample": [
+     {
+      "title": "How to Plan an Etosha Safari Around the Waterholes",
+      "date": "Thu, 29 Oct 2026 11:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/etosha-safari-1024x665.jpg"
+     },
+     {
+      "title": "Lemosho vs Machame Comes Down to One Extra Night and a Quieter Start",
+      "date": "Thu, 29 Oct 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/lemosho-vs-machame-1024x684.jpg"
+     },
      {
       "title": "Best Time to Visit Botswana for Floods, Elephants, Zebra Herds or Lower Prices",
       "date": "Wed, 28 Oct 2026 15:00:00 +0000",
@@ -100,16 +110,6 @@
       "title": "Is Rwanda in December Worth It? Gorillas, Short Rains and a Cheaper Permit",
       "date": "Tue, 27 Oct 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park-1-1024x900.jpg"
-     },
-     {
-      "title": "Namibia in January Means Green Etosha, Dry Dunes and Afternoon Storms",
-      "date": "Mon, 26 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/namibia-in-january-1024x576.jpg"
-     },
-     {
-      "title": "Kilimanjaro Routes Compared: Which of the Seven Suits Your Days, Budget and Nerves?",
-      "date": "Mon, 26 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/kilimanjaro-routes-1024x686.jpg"
      }
     ]
    },
@@ -755,8 +755,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Mon, 26 Oct 2026 11:00:00 +0000",
+    "newest": "Thu, 29 Oct 2026 11:00:00 +0000",
     "sample": [
+     {
+      "title": "How to Plan an Etosha Safari Around the Waterholes",
+      "date": "Thu, 29 Oct 2026 11:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/etosha-safari-1024x665.jpg"
+     },
      {
       "title": "Namibia in January Means Green Etosha, Dry Dunes and Afternoon Storms",
       "date": "Mon, 26 Oct 2026 11:00:00 +0000",
@@ -776,11 +781,6 @@
       "title": "Botswana vs Namibia: Which Safari Is Right for You?",
       "date": "Fri, 16 Oct 2026 15:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/06/botswanasafarichobe-1024x593.webp"
-     },
-     {
-      "title": "Namibia Hiking Safari: The Best Hikes, Seasons and Costs",
-      "date": "Sun, 11 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/namibia-hiking-safari-1024x576.jpg"
      }
     ]
    },
@@ -790,10 +790,15 @@
     "content_type": "application/rss+xml; charset=UTF-8",
     "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
     "xml_ok": true,
-    "items": 5,
-    "items_with_image": 5,
-    "newest": "Mon, 26 Oct 2026 11:00:00 +0000",
+    "items": 6,
+    "items_with_image": 6,
+    "newest": "Thu, 29 Oct 2026 11:00:00 +0000",
     "sample": [
+     {
+      "title": "How to Plan an Etosha Safari Around the Waterholes",
+      "date": "Thu, 29 Oct 2026 11:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/etosha-safari-1024x665.jpg"
+     },
      {
       "title": "Namibia in January Means Green Etosha, Dry Dunes and Afternoon Storms",
       "date": "Mon, 26 Oct 2026 11:00:00 +0000",
@@ -813,11 +818,6 @@
       "title": "Botswana vs Namibia: Which Safari Is Right for You?",
       "date": "Fri, 16 Oct 2026 15:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/06/botswanasafarichobe-1024x593.webp"
-     },
-     {
-      "title": "Namibia Safari Tips: 101 Essential Things to Know Before You Go",
-      "date": "Tue, 30 Jun 2026 10:58:34 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/06/Etosha-national-park-1024x658.webp"
      }
     ]
    },
@@ -964,8 +964,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Tue, 27 Oct 2026 15:00:00 +0000",
+    "newest": "Thu, 29 Oct 2026 07:00:00 +0000",
     "sample": [
+     {
+      "title": "Lemosho vs Machame Comes Down to One Extra Night and a Quieter Start",
+      "date": "Thu, 29 Oct 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/lemosho-vs-machame-1024x684.jpg"
+     },
      {
       "title": "Serengeti vs Ngorongoro Is Rarely an Either-Or, So Here Is How to Split Your Days",
       "date": "Tue, 27 Oct 2026 15:00:00 +0000",
@@ -985,11 +990,6 @@
       "title": "Best Time to Climb Kilimanjaro: Month-by-Month Weather Guide",
       "date": "Tue, 20 Oct 2026 15:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/best-time-to-climb-kilimanjaro-1024x683.jpg"
-     },
-     {
-      "title": "Tanzania Safari in January: Weather, Calving Season, Costs and Where to Go",
-      "date": "Mon, 19 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2025/12/Tanzania-Serengeti-safari-1024x576.jpg"
      }
     ]
    },
@@ -1165,8 +1165,13 @@
     "xml_ok": true,
     "items": 10,
     "items_with_image": 10,
-    "newest": "Wed, 28 Oct 2026 04:00:38 +0000",
+    "newest": "Thu, 29 Oct 2026 04:00:35 +0000",
     "sample": [
+     {
+      "title": "Two American Jacket Giants on Kenyan Trails: North Face vs Columbia Compared",
+      "date": "Thu, 29 Oct 2026 04:00:35 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/north-face-vs-columbia-jackets-1024x769.jpg"
+     },
      {
       "title": "UK 8, EU 42 or US 9? Getting Hiking Boot Sizes in Kenya Right Before You Climb",
       "date": "Wed, 28 Oct 2026 04:00:38 +0000",
@@ -1186,11 +1191,6 @@
       "title": "Is Under Armour Any Good for Hiking in Kenya? Fabrics, Shoes and What to Skip",
       "date": "Mon, 26 Oct 2026 08:00:00 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/under-armour-hiking-kenya-1024x768.jpg"
-     },
-     {
-      "title": "Karrimor Boots, Jackets and Rucksacks in Nairobi: What Each Era of the Brand Gets You",
-      "date": "Mon, 26 Oct 2026 04:01:26 +0000",
-      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/karrimor-nairobi-819x1024.jpg"
      }
     ]
    },
@@ -1202,8 +1202,13 @@
     "xml_ok": true,
     "items": 10,
     "items_with_image": 10,
-    "newest": "Wed, 28 Oct 2026 04:00:38 +0000",
+    "newest": "Thu, 29 Oct 2026 04:00:35 +0000",
     "sample": [
+     {
+      "title": "Two American Jacket Giants on Kenyan Trails: North Face vs Columbia Compared",
+      "date": "Thu, 29 Oct 2026 04:00:35 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/north-face-vs-columbia-jackets-1024x769.jpg"
+     },
      {
       "title": "UK 8, EU 42 or US 9? Getting Hiking Boot Sizes in Kenya Right Before You Climb",
       "date": "Wed, 28 Oct 2026 04:00:38 +0000",
@@ -1223,11 +1228,6 @@
       "title": "Isotex 5,000 vs 20,000: Matching Regatta Jackets to Kenyan Weather",
       "date": "Sun, 25 Oct 2026 15:00:00 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/regatta-kenya-1024x683.jpg"
-     },
-     {
-      "title": "Quechua Forclaz 500 High: The Trekking Boot Decathlon Renamed, Explained for Kenyan Trails",
-      "date": "Sun, 25 Oct 2026 13:00:00 +0000",
-      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/06/QUECHUA-FORCLAZ-500-HIGH-WOMENS-WATERPROOF-WALKING-BOOTS-3.jpg"
      }
     ]
    },
@@ -1418,6 +1418,7 @@
    "entry-requirements",
    "etosha",
    "etosha-national-park",
+   "etosha-safari",
    "fish-river-canyon",
    "flamingos",
    "fly-in-safari",
@@ -1460,6 +1461,7 @@
    "kibale",
    "kibale-national-park",
    "kilimanjaro",
+   "kilimanjaro-routes",
    "kilimanjaro-views",
    "kilimanjaro-weather",
    "laikipia",
@@ -1481,6 +1483,7 @@
    "masai-mara-national-reserve",
    "moremi-game-reserve",
    "mount-kenya-climb",
+   "mount-kilimanjaro",
    "mount-kilimanjaro-climb",
    "mountain-climbing",
    "mountain-gorillas",
