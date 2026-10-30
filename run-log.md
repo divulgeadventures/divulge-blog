@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-30 18:55 | New post 1
+- "Rwanda in January Brings Drier Gorilla Trails and a Still-Discounted Permit": https://divulgeadventures.com/rwanda-in-january/
+- Rwanda, Destination Tips (bank row RW-056, seasonal). Scheduled for 30 Oct 19:00 Nairobi time (10:00 had already passed when this run started at 18:48).
+- Images: 4 from the owner's Media Library (featured + 3 in the body), 3 from Unsplash. Fees checked October 2026 on the RDB low-season discount page, African Parks' Akagera 2025 price list and Nyungwe's 2025-2026 pricing scheme; visa rules from GOV.UK.
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Owner photos could not be checked visually (download blocked), so they were chosen by title.
+- Could not open: none
+
 ## 2026-10-29 19:02 | Nothing to do
 - Today's 3 new posts are already written and scheduled; refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). No post changes.
 - Could not open: none

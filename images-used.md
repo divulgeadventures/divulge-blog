@@ -332,3 +332,10 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-29 | https://divulgeadventures.com/wp-content/uploads/2026/10/kilimanjaro-routes.jpg | best-time-to-visit-kenya
 2026-10-29 | https://divulgeadventures.com/wp-content/uploads/2026/10/flamingos-wading-in-a-rift-valley-lake.jpg | best-time-to-visit-kenya
 2026-10-29 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge-adventures-safari-meru-national-park.jpg | best-time-to-visit-kenya
+2026-10-30 | https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-in-rwanda.jpg | rwanda-in-january
+2026-10-30 | https://images.unsplash.com/photo-1509897739002-791fa79aac9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8bW91bnRhaW4lMjBnb3JpbGxhfGVufDB8MHx8fDE3OTMzNzU0ODd8Mg&ixlib=rb-4.1.0&q=80&w=1080 | rwanda-in-january
+2026-10-30 | https://images.unsplash.com/photo-1727797716658-469836019c90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8UndhbmRhJTIwZ3JlZW4lMjBoaWxsc3xlbnwwfDB8fHwxNzkzMzc1NDkzfDI&ixlib=rb-4.1.0&q=80&w=1080 | rwanda-in-january
+2026-10-30 | https://images.unsplash.com/photo-1624975981958-9e5ea70cc8d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8bW91bnRhaW4lMjBnb3JpbGxhfGVufDB8MHx8fDE3OTMzNzU0ODd8Mg&ixlib=rb-4.1.0&q=80&w=1080 | rwanda-in-january
+2026-10-30 | https://divulgeadventures.com/wp-content/uploads/2026/10/elephant-in-akagera-national-park-rwanda.jpg | rwanda-in-january
+2026-10-30 | https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-in-the-forest-the-highlight-of-nyungwe-chimpanzee-trekking.jpg | rwanda-in-january
+2026-10-30 | https://divulgeadventures.com/wp-content/uploads/2026/10/Lake-Kivu-in-Rwanda.jpeg | rwanda-in-january
