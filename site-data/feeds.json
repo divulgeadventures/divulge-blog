@@ -1,5 +1,5 @@
 {
- "checked_at_utc": "2026-10-30 11:21",
+ "checked_at_utc": "2026-10-31 03:30",
  "feeds": {
   "divulge": [
    {
@@ -10,8 +10,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Thu, 29 Oct 2026 15:00:00 +0000",
+    "newest": "Fri, 30 Oct 2026 16:24:24 +0000",
     "sample": [
+     {
+      "title": "Rwanda in January Brings Drier Gorilla Trails and a Still-Discounted Permit",
+      "date": "Fri, 30 Oct 2026 16:24:24 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-in-rwanda-875x1024.jpg"
+     },
      {
       "title": "When Is the Best Time to Visit Kenya for Safari? It Depends on the Park",
       "date": "Thu, 29 Oct 2026 15:00:00 +0000",
@@ -31,11 +36,6 @@
       "title": "Best Time to Visit Botswana for Floods, Elephants, Zebra Herds or Lower Prices",
       "date": "Wed, 28 Oct 2026 15:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/best-time-to-visit-botswana-1024x686.jpg"
-     },
-     {
-      "title": "Which Samburu Lodges Suit Your Trip? Riverbank Tents, Shaba Springs and Conservancy Hideaw",
-      "date": "Wed, 28 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/samburu-lodges-1024x819.jpg"
      }
     ]
    },
@@ -84,8 +84,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Thu, 29 Oct 2026 11:00:00 +0000",
+    "newest": "Fri, 30 Oct 2026 16:24:24 +0000",
     "sample": [
+     {
+      "title": "Rwanda in January Brings Drier Gorilla Trails and a Still-Discounted Permit",
+      "date": "Fri, 30 Oct 2026 16:24:24 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-in-rwanda-875x1024.jpg"
+     },
      {
       "title": "How to Plan an Etosha Safari Around the Waterholes",
       "date": "Thu, 29 Oct 2026 11:00:00 +0000",
@@ -105,11 +110,6 @@
       "title": "Serengeti vs Ngorongoro Is Rarely an Either-Or, So Here Is How to Split Your Days",
       "date": "Tue, 27 Oct 2026 15:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/serengeti-vs-ngorongoro-1024x667.jpg"
-     },
-     {
-      "title": "Is Rwanda in December Worth It? Gorillas, Short Rains and a Cheaper Permit",
-      "date": "Tue, 27 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park-1-1024x900.jpg"
      }
     ]
    },
@@ -873,8 +873,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Wed, 28 Oct 2026 07:00:00 +0000",
+    "newest": "Fri, 30 Oct 2026 16:24:24 +0000",
     "sample": [
+     {
+      "title": "Rwanda in January Brings Drier Gorilla Trails and a Still-Discounted Permit",
+      "date": "Fri, 30 Oct 2026 16:24:24 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-in-rwanda-875x1024.jpg"
+     },
      {
       "title": "A Gorilla Trekking Packing List That Copes With Mud, Nettles and Rain",
       "date": "Wed, 28 Oct 2026 07:00:00 +0000",
@@ -894,11 +899,6 @@
       "title": "Rwanda vs Tanzania Safari: Which Is Better for Your Trip?",
       "date": "Sun, 18 Oct 2026 11:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-in-rwanda.jpg"
-     },
-     {
-      "title": "Rwanda Gorilla Permit: Prices, Discounts and How to Book",
-      "date": "Fri, 16 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-Trekking-Rwanda-volcanoes-park-1024x682.jpeg"
      }
     ]
    },
@@ -925,10 +925,15 @@
     "content_type": "application/rss+xml; charset=UTF-8",
     "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
     "xml_ok": true,
-    "items": 5,
-    "items_with_image": 5,
-    "newest": "Tue, 27 Oct 2026 07:00:00 +0000",
+    "items": 6,
+    "items_with_image": 6,
+    "newest": "Fri, 30 Oct 2026 16:24:24 +0000",
     "sample": [
+     {
+      "title": "Rwanda in January Brings Drier Gorilla Trails and a Still-Discounted Permit",
+      "date": "Fri, 30 Oct 2026 16:24:24 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-in-rwanda-875x1024.jpg"
+     },
      {
       "title": "Is Rwanda in December Worth It? Gorillas, Short Rains and a Cheaper Permit",
       "date": "Tue, 27 Oct 2026 07:00:00 +0000",
@@ -948,11 +953,6 @@
       "title": "Uganda Safari in December: Weather, Gorillas, Fees and Where to Go",
       "date": "Sat, 10 Oct 2026 09:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/uganda-safari-in-december-1024x576.jpg"
-     },
-     {
-      "title": "Gorilla Trekking in Rwanda: The Complete Guide to Permits, Costs and the Best Time",
-      "date": "Thu, 08 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-in-rwanda-875x1024.jpg"
      }
     ]
    },
