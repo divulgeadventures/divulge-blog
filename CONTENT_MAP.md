@@ -231,3 +231,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/etosha-safari/ (etosha safari)
 - https://divulgeadventures.com/best-time-to-visit-kenya/ (best time to visit kenya)
 - https://divulgeadventures.com/rwanda-in-january/ (rwanda in january)
+- https://divulgeadventures.com/kenya-birding-safari/ (kenya birding safari)

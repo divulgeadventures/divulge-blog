@@ -339,3 +339,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-30 | https://divulgeadventures.com/wp-content/uploads/2026/10/elephant-in-akagera-national-park-rwanda.jpg | rwanda-in-january
 2026-10-30 | https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-in-the-forest-the-highlight-of-nyungwe-chimpanzee-trekking.jpg | rwanda-in-january
 2026-10-30 | https://divulgeadventures.com/wp-content/uploads/2026/10/Lake-Kivu-in-Rwanda.jpeg | rwanda-in-january
+2026-10-31 | https://divulgeadventures.com/wp-content/uploads/2026/01/divulge_adventures_safari-184-scaled.jpg | kenya-birding-safari
+2026-10-31 | https://divulgeadventures.com/wp-content/uploads/2026/01/4465-x-3109divulge_adventures-scaled.jpg | kenya-birding-safari
+2026-10-31 | https://divulgeadventures.com/wp-content/uploads/2026/10/african-fish-eagle-perched-on-a-dead-branch.jpg | kenya-birding-safari
+2026-10-31 | https://divulgeadventures.com/wp-content/uploads/2026/09/kakamega-forest-1.jpg | kenya-birding-safari
+2026-10-31 | https://divulgeadventures.com/wp-content/uploads/2026/10/fischers-turaco-a-coastal-forest-speciality.jpg | kenya-birding-safari
+2026-10-31 | https://divulgeadventures.com/wp-content/uploads/2026/10/pair-of-grey-crowned-cranes-in-kenya.jpg | kenya-birding-safari

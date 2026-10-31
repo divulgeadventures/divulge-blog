@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-10-31 07:10 | New post 1
+- "Kenya Birding Safari Routes Across Soda Lakes, Rainforest and Dry Northern Bush": https://divulgeadventures.com/kenya-birding-safari/
+- Kenya, Safari Themes (bank row KE-008, core topic; focus keyword refined from "birding safari in kenya" to "kenya birding safari"). Scheduled for 31 Oct 10:00 Nairobi time.
+- Images: 6 from the owner's Media Library (featured + 5 in the body), 0 from Unsplash. Fees from the KWS regulations in force since 1 October 2025 and Mara rates (checked October 2026); Arabuko-Sokoke fee left out (no recent official source).
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none
+
 ## 2026-10-30 18:55 | New post 1
 - "Rwanda in January Brings Drier Gorilla Trails and a Still-Discounted Permit": https://divulgeadventures.com/rwanda-in-january/
 - Rwanda, Destination Tips (bank row RW-056, seasonal). Scheduled for 30 Oct 19:00 Nairobi time (10:00 had already passed when this run started at 18:48).
