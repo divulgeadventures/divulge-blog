@@ -1,5 +1,5 @@
 {
- "checked_at_utc": "2026-10-31 11:18",
+ "checked_at_utc": "2026-11-01 03:33",
  "feeds": {
   "divulge": [
    {
@@ -1165,8 +1165,13 @@
     "xml_ok": true,
     "items": 10,
     "items_with_image": 10,
-    "newest": "Thu, 29 Oct 2026 04:00:35 +0000",
+    "newest": "Sat, 31 Oct 2026 04:00:24 +0000",
     "sample": [
+     {
+      "title": "Where Quechua Hiking Gear Fits on Kenyan Trails, From Karura Forest to Point Lenana",
+      "date": "Sat, 31 Oct 2026 04:00:24 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/quechua-hiking-gear-nairobi-1024x683.jpg"
+     },
      {
       "title": "Two American Jacket Giants on Kenyan Trails: North Face vs Columbia Compared",
       "date": "Thu, 29 Oct 2026 04:00:35 +0000",
@@ -1186,11 +1191,6 @@
       "title": "The Best Hikes in Kenya, Sorted by Effort: Forest Walks, Crater Rims and Mountain Summits",
       "date": "Mon, 26 Oct 2026 12:00:00 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/best-hikes-in-kenya-1024x683.jpg"
-     },
-     {
-      "title": "Is Under Armour Any Good for Hiking in Kenya? Fabrics, Shoes and What to Skip",
-      "date": "Mon, 26 Oct 2026 08:00:00 +0000",
-      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/under-armour-hiking-kenya-1024x768.jpg"
      }
     ]
    },
@@ -1202,8 +1202,13 @@
     "xml_ok": true,
     "items": 10,
     "items_with_image": 10,
-    "newest": "Thu, 29 Oct 2026 04:00:35 +0000",
+    "newest": "Sat, 31 Oct 2026 04:00:24 +0000",
     "sample": [
+     {
+      "title": "Where Quechua Hiking Gear Fits on Kenyan Trails, From Karura Forest to Point Lenana",
+      "date": "Sat, 31 Oct 2026 04:00:24 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/quechua-hiking-gear-nairobi-1024x683.jpg"
+     },
      {
       "title": "Two American Jacket Giants on Kenyan Trails: North Face vs Columbia Compared",
       "date": "Thu, 29 Oct 2026 04:00:35 +0000",
@@ -1223,11 +1228,6 @@
       "title": "Karrimor Boots, Jackets and Rucksacks in Nairobi: What Each Era of the Brand Gets You",
       "date": "Mon, 26 Oct 2026 04:01:26 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/karrimor-nairobi-819x1024.jpg"
-     },
-     {
-      "title": "Isotex 5,000 vs 20,000: Matching Regatta Jackets to Kenyan Weather",
-      "date": "Sun, 25 Oct 2026 15:00:00 +0000",
-      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/regatta-kenya-1024x683.jpg"
      }
     ]
    },
