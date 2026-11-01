@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-01 18:58 | New post 2
+- "Bwindi vs Volcanoes National Park: Trade a Cheaper Permit for a Longer Drive, or Pay for Speed": https://divulgeadventures.com/bwindi-vs-volcanoes/
+- Uganda (with Rwanda), Destination Tips (bank row UG-029, BOOST comparison; focus keyword refined to "bwindi vs volcanoes"). Scheduled for 1 Nov 19:00 Nairobi time (14:00 had already passed when this run started at 18:49).
+- Images: 4 from the owner's Media Library (featured + 3 in the body), 2 from Unsplash (Bwindi gorilla, Bwindi hillside lodge). Fees checked October 2026: Uganda permit US$800 (US$600 Apr/May/Nov), habituation US$1,500 (US$1,800 from Jan 2027), Rwanda US$1,500 (US$1,050 with the Nov-May discount). Cost tables are labelled estimates.
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none
+
 ## 2026-11-01 14:58 | New post 1
 - "Planning Around the Serengeti Calving Season? Choose Your Weeks Before Your Camp": https://divulgeadventures.com/serengeti-calving-season/
 - Tanzania, Great Migration & River Crossing (bank row TZ-007, core and seasonal topic). Scheduled for 1 Nov 16:00 Nairobi time (10:00 had already passed when this run started at 14:48).

@@ -351,3 +351,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-01 | https://images.unsplash.com/photo-1617900279597-297d4fed60b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8TmR1dHV8ZW58MHwwfHx8MTc5MzUzMzg1OXwy&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-calving-season
 2026-11-01 | https://divulgeadventures.com/wp-content/uploads/2026/10/wildebeest-and-zebras-grazing-on-the-serengeti-plains.jpg | serengeti-calving-season
 2026-11-01 | https://divulgeadventures.com/wp-content/uploads/2025/11/6000-x-4000divulge_adventures-2-1-scaled.jpg | serengeti-calving-season
+2026-11-01 | https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p-1.jpg | bwindi-vs-volcanoes
+2026-11-01 | https://divulgeadventures.com/wp-content/uploads/2026/10/uganda-in-january.jpg | bwindi-vs-volcanoes
+2026-11-01 | https://images.unsplash.com/photo-1672932238132-3cf53963c73c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8QndpbmRpfGVufDB8MHx8fDE3OTM1NDgyNjd8Mg&ixlib=rb-4.1.0&q=80&w=1080 | bwindi-vs-volcanoes
+2026-11-01 | https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorillas-feeding-during-1-day-gorilla-trekking-in-rwanda-1.jpg | bwindi-vs-volcanoes
+2026-11-01 | https://divulgeadventures.com/wp-content/uploads/2026/10/kigali-city-skyline-at-sunset-rwanda.jpg | bwindi-vs-volcanoes
+2026-11-01 | https://images.unsplash.com/photo-1672172672923-6910a8c55539?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MTB8fEJ3aW5kaXxlbnwwfDB8fHwxNzkzNTQ4MjY3fDI&ixlib=rb-4.1.0&q=80&w=1080 | bwindi-vs-volcanoes
