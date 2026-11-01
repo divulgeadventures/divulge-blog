@@ -345,3 +345,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-10-31 | https://divulgeadventures.com/wp-content/uploads/2026/09/kakamega-forest-1.jpg | kenya-birding-safari
 2026-10-31 | https://divulgeadventures.com/wp-content/uploads/2026/10/fischers-turaco-a-coastal-forest-speciality.jpg | kenya-birding-safari
 2026-10-31 | https://divulgeadventures.com/wp-content/uploads/2026/10/pair-of-grey-crowned-cranes-in-kenya.jpg | kenya-birding-safari
+2026-11-01 | https://divulgeadventures.com/wp-content/uploads/2026/10/serengeti-in-january.jpg | serengeti-calving-season
+2026-11-01 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-27.jpg | serengeti-calving-season
+2026-11-01 | https://images.unsplash.com/photo-1571950484792-c2cbbee9c88b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8TmR1dHV8ZW58MHwwfHx8MTc5MzUzMzg1OXwy&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-calving-season
+2026-11-01 | https://images.unsplash.com/photo-1617900279597-297d4fed60b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8TmR1dHV8ZW58MHwwfHx8MTc5MzUzMzg1OXwy&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-calving-season
+2026-11-01 | https://divulgeadventures.com/wp-content/uploads/2026/10/wildebeest-and-zebras-grazing-on-the-serengeti-plains.jpg | serengeti-calving-season
+2026-11-01 | https://divulgeadventures.com/wp-content/uploads/2025/11/6000-x-4000divulge_adventures-2-1-scaled.jpg | serengeti-calving-season

@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-01 14:58 | New post 1
+- "Planning Around the Serengeti Calving Season? Choose Your Weeks Before Your Camp": https://divulgeadventures.com/serengeti-calving-season/
+- Tanzania, Great Migration & River Crossing (bank row TZ-007, core and seasonal topic). Scheduled for 1 Nov 16:00 Nairobi time (10:00 had already passed when this run started at 14:48).
+- Images: 4 from the owner's Media Library (featured + 3 in the body), 2 from Unsplash (Ndutu wildebeest, Ndutu cheetahs). Fees as checked October 2026 (Serengeti US$82.60, NCA US$70.80, crater US$295/vehicle); Ndutu off-road driving described as generally allowed, with a note that rules can change.
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none
+
 ## 2026-10-31 05:36 Trip Optimiser
 - Done: 8 Day Tanzania Safari; Tarangire, Manyara, Serengeti, & Crater (ID 8068, "8 day tarangire manyara serengeti and ngorongoro safari", tanzania-8068-8-day-tarangire-manyara-serengeti-and-ngorongoro-safari.json); 8 Day Midrange Tanzania Safari (ID 9532, "8 day midrange tanzania safari", tanzania-9532-8-day-midrange-tanzania-safari.json). Both read from the site-data copy (snapshot 2026-10-31 03:30 UTC); the live site was not opened. 8068 uses "From USD 3,395 per adult (regular price USD 3,608)"; 9532 uses "From USD 2,725 per adult" (one price, no child price). The two pages now target different searches and link to each other.
 - Photos: 8068 7 owner/Media Library + 0 Unsplash; 9532 6 owner/Media Library + 0 Unsplash. Unsplash had no Lake Eyasi photos and its Lake Manyara results do not name the place, so none were used. Owner photos could not be viewed, so they were chosen by file name and title; please check none has a person as the main subject (especially 4665-x-3063, 5563-x-3708-2 and divulge_adventures_safari-167, whose content is not described anywhere). Dropped as wrong place: divulge_adventures_safari-66 (current 8068 featured image, alt "Wildebeest on the Masai Mara plains, Kenya"), masai-mara-lions.jpg (current 9532 featured image and 8068 gallery) and 6000-x-4000divulge_adventures-39 ("Siana Conservancy Maasai Mara"). No real Lake Manyara, Lake Eyasi or Hadzabe owner photos exist in the Media Library; landscape photos from your own trips would help both pages.

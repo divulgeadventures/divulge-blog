@@ -72,3 +72,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-29 | Kenya KE-007 | Safari Planning Tips | best time to visit kenya | best-time-to-visit-kenya
 2026-10-30 | Rwanda RW-056 | Destination Tips | rwanda in january | rwanda-in-january
 2026-10-31 | Kenya KE-008 | Safari Themes | kenya birding safari | kenya-birding-safari
+2026-11-01 | Tanzania TZ-007 | Great Migration & River Crossing | serengeti calving season | serengeti-calving-season
