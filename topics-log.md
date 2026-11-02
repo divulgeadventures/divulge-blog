@@ -74,3 +74,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-10-31 | Kenya KE-008 | Safari Themes | kenya birding safari | kenya-birding-safari
 2026-11-01 | Tanzania TZ-007 | Great Migration & River Crossing | serengeti calving season | serengeti-calving-season
 2026-11-01 | Uganda UG-029 | Destination Tips | bwindi vs volcanoes | bwindi-vs-volcanoes
+2026-11-02 | Kenya KE-095 | Destination Tips | kenya safari in february | kenya-safari-in-february

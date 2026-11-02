@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-02 06:53 | New post 1
+- "A Kenya Safari in February Means Dry Plains, Clear Mountain Views and the Lower Mara Fee": https://divulgeadventures.com/kenya-safari-in-february/
+- Kenya, Destination Tips (bank row KE-095, seasonal). Scheduled for 2 Nov 10:00 Nairobi time.
+- Images: 5 from the owner's Media Library (featured + 4 in the body), 0 from Unsplash. KWS fees checked on the KWS conservation fee schedule (Amboseli/Nakuru US$90 etc.) and Mara US$100 Jan-Jun (checked November 2026). eTA cost left out (not re-checked today); post links the Kenya eTA guide instead.
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: thekenyatimes.com Masai Mara fees article (site error), nation.africa Masai Mara planning guide (blocked to robots)
+
 ## 2026-11-01 18:58 | New post 2
 - "Bwindi vs Volcanoes National Park: Trade a Cheaper Permit for a Longer Drive, or Pay for Speed": https://divulgeadventures.com/bwindi-vs-volcanoes/
 - Uganda (with Rwanda), Destination Tips (bank row UG-029, BOOST comparison; focus keyword refined to "bwindi vs volcanoes"). Scheduled for 1 Nov 19:00 Nairobi time (14:00 had already passed when this run started at 18:49).
