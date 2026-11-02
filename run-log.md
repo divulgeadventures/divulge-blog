@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-02 11:00 | New post 2
+- Chobe Safari Planning, From Riverfront Boat Cruises to Savuti's Lion Country: https://divulgeadventures.com/chobe-safari/
+- Botswana (BW-003, core topic), Destination Tips; focus keyword refined from "chobe national park safari" to "chobe safari". Scheduled for 2026-11-02 14:00 Nairobi time.
+- Images: 2 from the owner's Media Library (featured botswanasafarichobe.webp, Moremi-Khwai-and-Savuti.jpg in the body) and 4 from Unsplash (all described as Chobe). Other Chobe owner photos were left out because they were used in the last 14 days.
+- No refresh today: no FIX FIRST / LINK FIX / TEXT FIX rows left, so the daily refresh stays paused.
+- Could not open: tourismupdate.com article on Botswana park fees (page had no article text). Chobe park fee confirmed from other sources instead.
+
 ## 2026-11-02 08:37 Trip Optimiser
 - Done: Tanzania Luxury Safari (ID 9538, "8 day serengeti ngorongoro and lake eyasi safari", tanzania-9538-8-day-serengeti-ngorongoro-and-lake-eyasi-safari.json); Tanzania Honeymoon Itinerary (ID 9499, "9 day tanzania safari and zanzibar honeymoon", tanzania-9499-9-day-tanzania-safari-and-zanzibar-honeymoon.json). Both read from the site-data copy (snapshot 2026-11-02 03:37 UTC); the live site was not opened. 9538 uses "From USD 3,588 per adult"; 9499 uses "From USD 3,242 per adult" (both single prices, no regular/sale pair). 9538 links to the 8 day midrange Tanzania safari (9532) as the lower-budget option.
 - Photos: 9538 7 owner/Media Library + 0 Unsplash; 9499 5 owner/Media Library + 2 Unsplash (Zanzibar beach with pier, sailing boat at sunset off Zanzibar, both by Humphrey M; credit line added). Unsplash had no Lake Eyasi photos, and Hadzabe photos were skipped because people are the main subject. Owner photos were chosen by file name and title and could not be viewed; please check that zanzibar_island_boat.jpg (9499 featured) and mara-wildebeest-migration-1.jpg do not have a person as the main subject. Not used: tanzania-honeymoon-1.jpg and zanzibar-beach-holidays.jpg (content unknown, may show people).

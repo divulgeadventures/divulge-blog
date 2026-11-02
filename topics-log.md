@@ -75,3 +75,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-01 | Tanzania TZ-007 | Great Migration & River Crossing | serengeti calving season | serengeti-calving-season
 2026-11-01 | Uganda UG-029 | Destination Tips | bwindi vs volcanoes | bwindi-vs-volcanoes
 2026-11-02 | Kenya KE-095 | Destination Tips | kenya safari in february | kenya-safari-in-february
+2026-11-02 | Botswana BW-003 | Destination Tips | chobe safari | chobe-safari

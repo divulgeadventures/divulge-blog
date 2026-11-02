@@ -362,3 +362,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-02 | https://divulgeadventures.com/wp-content/uploads/2025/11/mount-kenya-seen-across-the-plains-from-nanyuki.jpg | kenya-safari-in-february
 2026-11-02 | https://divulgeadventures.com/wp-content/uploads/2026/01/DSC_0966-scaled.jpg | kenya-safari-in-february
 2026-11-02 | https://divulgeadventures.com/wp-content/uploads/2026/10/giraffe-feeding-on-tree-tops-in-samburu-scaled.webp | kenya-safari-in-february
+2026-11-02 | https://divulgeadventures.com/wp-content/uploads/2026/06/botswanasafarichobe.webp | chobe-safari
+2026-11-02 | https://images.unsplash.com/photo-1711092038197-7082ba6d20ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8N3x8Q2hvYmUlMjByaXZlcnxlbnwwfDB8fHwxNzkzNjA2MjI2fDI&ixlib=rb-4.1.0&q=80&w=1080 | chobe-safari
+2026-11-02 | https://images.unsplash.com/photo-1597009255787-bbdeb81f087f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8Q2hvYmUlMjByaXZlcnxlbnwwfDB8fHwxNzkzNjA2MjI2fDI&ixlib=rb-4.1.0&q=80&w=1080 | chobe-safari
+2026-11-02 | https://images.unsplash.com/photo-1708886367475-c6958ce18f74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8Q2hvYmUlMjByaXZlcnxlbnwwfDB8fHwxNzkzNjA2MjI2fDI&ixlib=rb-4.1.0&q=80&w=1080 | chobe-safari
+2026-11-02 | https://images.unsplash.com/photo-1597008224557-9304cc6d4eca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OXx8Q2hvYmUlMjByaXZlcnxlbnwwfDB8fHwxNzkzNjA2MjI2fDI&ixlib=rb-4.1.0&q=80&w=1080 | chobe-safari
+2026-11-02 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-Khwai-and-Savuti.jpg | chobe-safari
