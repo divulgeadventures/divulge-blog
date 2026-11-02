@@ -33,8 +33,8 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 24 | Tanzania | 5-days-northern-tanzania-safari | 9493 | done 2026-10-29 | 5 day lake manyara ngorongoro and serengeti safari | tanzania-9493-5-day-lake-manyara-ngorongoro-and-serengeti-safari.json |
 | 25 | Tanzania | 8-day-tanzania-safari-premium-parks | 8068 | done 2026-10-31 | 8 day tarangire manyara serengeti and ngorongoro safari | tanzania-8068-8-day-tarangire-manyara-serengeti-and-ngorongoro-safari.json |
 | 26 | Tanzania | 8-day-midrange-tanzania-safari | 9532 | done 2026-10-31 | 8 day midrange tanzania safari | tanzania-9532-8-day-midrange-tanzania-safari.json |
-| 27 | Tanzania | tanzania-luxury-safari |  | todo |  |  |
-| 28 | Tanzania | tanzania-honeymoon-itinerary |  | todo |  |  |
+| 27 | Tanzania | tanzania-luxury-safari | 9538 | done 2026-11-02 | 8 day serengeti ngorongoro and lake eyasi safari | tanzania-9538-8-day-serengeti-ngorongoro-and-lake-eyasi-safari.json |
+| 28 | Tanzania | tanzania-honeymoon-itinerary | 9499 | done 2026-11-02 | 9 day tanzania safari and zanzibar honeymoon | tanzania-9499-9-day-tanzania-safari-and-zanzibar-honeymoon.json |
 | 29 | Tanzania | 8-days-tanzania-zanzibar-classic-safari-beach |  | todo |  |  |
 | 30 | Tanzania | tanzania-and-zanzibar-safari |  | todo |  |  |
 | 31 | Tanzania | tanzania-safari-zanzibar-beach-holiday |  | todo |  |  |
