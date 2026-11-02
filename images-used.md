@@ -368,3 +368,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-02 | https://images.unsplash.com/photo-1708886367475-c6958ce18f74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8Q2hvYmUlMjByaXZlcnxlbnwwfDB8fHwxNzkzNjA2MjI2fDI&ixlib=rb-4.1.0&q=80&w=1080 | chobe-safari
 2026-11-02 | https://images.unsplash.com/photo-1597008224557-9304cc6d4eca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OXx8Q2hvYmUlMjByaXZlcnxlbnwwfDB8fHwxNzkzNjA2MjI2fDI&ixlib=rb-4.1.0&q=80&w=1080 | chobe-safari
 2026-11-02 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-Khwai-and-Savuti.jpg | chobe-safari
+2026-11-02 | https://divulgeadventures.com/wp-content/uploads/2026/10/tanzania-park-fees.jpg | serengeti-safari-cost
+2026-11-02 | https://divulgeadventures.com/wp-content/uploads/2026/10/serengeti-in-december.jpg | serengeti-safari-cost
+2026-11-02 | https://images.unsplash.com/photo-1577971132997-c10be9372519?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8U2VyZW5nZXRpJTIwc2FmYXJpJTIwdmVoaWNsZXxlbnwwfDB8fHwxNzkzNjIwMzUxfDI&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-safari-cost
+2026-11-02 | https://divulgeadventures.com/wp-content/uploads/2026/10/ngorongoro-crater-lodges.jpg | serengeti-safari-cost
+2026-11-02 | https://images.unsplash.com/photo-1789643121078-0d00f7a4cdd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8VGFuemFuaWElMjBzYWZhcmklMjBsb2RnZXxlbnwwfDB8fHwxNzkzNjIwMzYwfDI&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-safari-cost
+2026-11-02 | https://divulgeadventures.com/wp-content/uploads/2026/05/elephants-at-a-waterhole-with-baobab-trees-in-tanzania.jpg | serengeti-safari-cost

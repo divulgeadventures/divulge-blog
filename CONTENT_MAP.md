@@ -236,3 +236,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/bwindi-vs-volcanoes/ (bwindi vs volcanoes)
 - https://divulgeadventures.com/kenya-safari-in-february/ (kenya safari in february)
 - https://divulgeadventures.com/chobe-safari/ (chobe safari)
+- https://divulgeadventures.com/serengeti-safari-cost/ (serengeti safari cost)

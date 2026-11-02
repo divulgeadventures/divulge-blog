@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-02 14:55 | New post 3
+- "How Much Does a Serengeti Safari Cost Once Fees, Camps and Flights Are Counted?": https://divulgeadventures.com/serengeti-safari-cost/
+- Tanzania (TZ-008, core topic), Safari Planning Tips. Scheduled for 2 Nov 18:00 Nairobi time. Park, concession and Ngorongoro fees re-checked November 2026 (unchanged from the 2021 schedule; a rumoured future increase is unconfirmed, so readers are told to confirm). Divulge prices quoted only from five trip pages; daily tier ranges labelled as estimates; flight fares left out (not verifiable on an official source).
+- Images: 4 from the owner's Media Library (featured tanzania-park-fees.jpg, plus serengeti-in-december.jpg, ngorongoro-crater-lodges.jpg, elephants with baobabs in the body) and 2 from Unsplash (elephants on a game drive; safari vehicle at a Serengeti lodge).
+- Today's work is complete (3 new posts); the daily refresh stays paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: dumaexplorer.com Tanzania safari cost guide (site error); tourismupdate.com "Tanzania freezes fees" article (no article text); peakplanet.com 2026 park fee changes page (no fee details).
+
 ## 2026-11-02 11:00 | New post 2
 - Chobe Safari Planning, From Riverfront Boat Cruises to Savuti's Lion Country: https://divulgeadventures.com/chobe-safari/
 - Botswana (BW-003, core topic), Destination Tips; focus keyword refined from "chobe national park safari" to "chobe safari". Scheduled for 2026-11-02 14:00 Nairobi time.
