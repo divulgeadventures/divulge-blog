@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-03 06:59 | New post 1
+- "Etosha vs Okavango: Waterhole Drives in Namibia or Mokoro Channels in Botswana?": https://divulgeadventures.com/etosha-vs-okavango/
+- Namibia (NA-066, BOOST comparison), Destination Tips; focus keyword refined from "etosha vs okavango delta" to "etosha vs okavango". Kept distinct from the country-level Botswana vs Namibia post (linked). Scheduled for 3 Nov 10:00 Nairobi time. Etosha fee re-checked on the April 2026 Government Gazette; Moremi BWP 270 confirmed; daily cost tiers labelled as estimates.
+- Images: 1 from the owner's Media Library (etosha-safari.jpg, elephant at the Etosha pan) and 5 from Unsplash (featured aerial of the Delta; Etosha elephants and zebras; Okavango hippos; Okavango elephant from the air). Other Namibia/Botswana owner photos were left out because they were used in the last 14 days.
+- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
+- Could not open: UNESCO Okavango Delta page (permission request timed out); airmilescalculator.com Windhoek-Maun page (site error).
+
 ## 2026-11-02 19:08 | Nothing to do
 - Today's work is complete: all 3 new posts for 2 November are in (Kenya safari in February, Chobe safari, Serengeti safari cost).
 - Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.

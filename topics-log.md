@@ -77,3 +77,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-02 | Kenya KE-095 | Destination Tips | kenya safari in february | kenya-safari-in-february
 2026-11-02 | Botswana BW-003 | Destination Tips | chobe safari | chobe-safari
 2026-11-02 | Tanzania TZ-008 | Safari Planning Tips | serengeti safari cost | serengeti-safari-cost
+2026-11-03 | Namibia NA-066 | Destination Tips | etosha vs okavango | etosha-vs-okavango
