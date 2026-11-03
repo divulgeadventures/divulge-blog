@@ -324,6 +324,11 @@ function divulge_to_import( $json ) {
 			update_post_meta( $id, 'rank_math_description', sanitize_text_field( $item['rank_math_desc'] ) );
 			$done[] = 'meta description';
 		}
+		// Trip name: updated when the file gives a different "title".
+		if ( ! empty( $item['title'] ) && sanitize_text_field( $item['title'] ) !== get_the_title( $id ) ) {
+			wp_update_post( array( 'ID' => $id, 'post_title' => sanitize_text_field( $item['title'] ) ) );
+			$done[] = 'trip name';
+		}
 		if ( isset( $item['post_content'] ) && $item['post_content'] !== '' ) {
 			wp_update_post( array( 'ID' => $id, 'post_content' => wp_kses_post( $item['post_content'] ) ) );
 			$done[] = 'intro line';
