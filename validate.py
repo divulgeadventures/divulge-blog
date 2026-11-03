@@ -288,7 +288,7 @@ def check(path):
     order = [("Quick Facts box", "border-left:5px solid #C97A3D"),
              ("Trip CTA", "border:2px solid #043D0E"),
              ("Insider Tips box", "border-left:5px solid #C97A3D"),
-             ("Plan My Safari CTA", "safari-proposal-request"),
+             ("Plan My Safari CTA", "group-safari-inquiry" if "group-safari-inquiry" in html else "safari-proposal-request"),
              ("WhatsApp CTA", "wa.me/254706223888")]
     pos = 0
     for name, marker in order:
