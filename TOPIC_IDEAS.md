@@ -3,6 +3,7 @@
 Add one idea per line as `- [ ] your idea`. The daily task writes the oldest unchecked idea first and ticks it off.
 
 ## Ideas
+- [ ] URGENT, write next: Serengeti Golf Course (new 18-hole course at Fort Ikoma, Serengeti District, launched October 2026 by Tourism Minister Dr Ashatu Kijaji) as a golf-and-safari post for golf clubs and groups. Source: https://www.thecitizen.co.tz/tanzania/news/national/tanzania-launches-sh8-5-billion-serengeti-golf-course-to-boost-tourism-5637734 (18 holes, 450 acres, Sh8.5 billion). Verify access, fees and booking before stating them; if not published, say so and invite readers to ask us. Link /group-safaris/, the group inquiry form and a Serengeti trip.
 - [x] Kenya eTA for tourists (entry requirements for safari travellers) — written 2026-10-14: https://divulgeadventures.com/kenya-eta/
 - [x] Tanzania visa for safari (e-visa, cost, how to apply) — written 2026-10-14: https://divulgeadventures.com/tanzania-visa/
 - [x] East Africa Tourist Visa (Kenya, Uganda, Rwanda in one visa) — written 2026-10-15: https://divulgeadventures.com/east-africa-tourist-visa/
