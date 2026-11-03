@@ -122,6 +122,7 @@
    ]
   },
   "status": "draft",
-  "force_slug": true
+  "force_slug": true,
+  "revision": 2
  }
 ]
