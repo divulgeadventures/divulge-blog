@@ -4,6 +4,10 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-04 09:05 | Failed (duplicate discarded)
+- This run wrote a Naivasha corporate retreat post (KE-009) on 3 Nov, but it paused overnight before pushing. When it resumed, another run had already published the same topic as 4 November's post 1 (https://divulgeadventures.com/naivasha-corporate-retreat/), so this copy was discarded to avoid two competing posts. No post or planning-file changes from this run.
+- Could not open: enashipai.com (permission request timed out); GitHub push briefly returned HTTP 403 while other runs were pushing.
+
 ## 2026-11-04 08:46 | New post 1
 - "How to Match a Naivasha Corporate Retreat Venue to Your Team, Agenda and Budget": https://divulgeadventures.com/naivasha-corporate-retreat/
 - Kenya (KE-009, core topic), Team Building; focus keyword refined from "corporate retreat venues in naivasha" to "naivasha corporate retreat". Kept distinct from the Lake Naivasha lodges post (leisure stays) and the team building venues near Nairobi post (both linked). Venue capacities taken from each venue's own meetings page; KWS Hell's Gate fees and MICE group discounts checked on the KWS fee schedule (November 2026); no venue rates quoted.
