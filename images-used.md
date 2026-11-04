@@ -380,3 +380,10 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-03 | https://images.unsplash.com/photo-1590214780567-b48c7c927b7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8T2thdmFuZ28lMjBkZWx0YSUyMG1va29yb3xlbnwwfDB8fHwxNzkzNjc4MTM5fDI&ixlib=rb-4.1.0&q=80&w=1080 | etosha-vs-okavango
 2026-11-03 | https://divulgeadventures.com/wp-content/uploads/2026/10/etosha-safari.jpg | etosha-vs-okavango
 2026-11-03 | https://images.unsplash.com/photo-1697638332749-da3ba4046082?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8T2thdmFuZ28lMjBkZWx0YSUyMGFlcmlhbHxlbnwwfDB8fHwxNzkzNjc4MTQwfDI&ixlib=rb-4.1.0&q=80&w=1080 | etosha-vs-okavango
+2026-11-03 | https://divulgeadventures.com/wp-content/uploads/2025/12/Tanzania-Serengeti-safari.jpg | serengeti-golf-course
+2026-11-03 | https://divulgeadventures.com/wp-content/uploads/2026/10/serengeti-vs-ngorongoro.jpg | serengeti-golf-course
+2026-11-03 | https://images.unsplash.com/photo-1637346031556-8c7cbb7ddf89 | serengeti-golf-course
+2026-11-03 | https://divulgeadventures.com/wp-content/uploads/2026/10/tanzania-visa.jpg | serengeti-golf-course
+2026-11-03 | https://divulgeadventures.com/wp-content/uploads/2026/10/herd-of-wildebeest-walking-across-a-river.jpg | serengeti-golf-course
+2026-11-03 | https://divulgeadventures.com/wp-content/uploads/2026/10/best-serengeti-camps.jpg | serengeti-golf-course
+2026-11-03 | https://divulgeadventures.com/wp-content/uploads/2026/10/green-golf-fairway-part-of-a-rwanda-golf-and-gorilla-safari.jpg | serengeti-golf-course

@@ -239,3 +239,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/chobe-safari/ (chobe safari)
 - https://divulgeadventures.com/serengeti-safari-cost/ (serengeti safari cost)
 - https://divulgeadventures.com/etosha-vs-okavango/ (etosha vs okavango)
+- https://divulgeadventures.com/serengeti-golf-course/ (serengeti golf course)
