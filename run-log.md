@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-04 11:20 | New post 2
+- "Organising a Kilimanjaro Group Climb? Build It Around Your Slowest Walker": https://divulgeadventures.com/kilimanjaro-group-climb/
+- Tanzania (TZ-321, today's group post), Safari Themes. Scheduled for 4 Nov 14:00 Nairobi time. Kilimanjaro park fees (US$70/day, US$50/night camping, US$20 rescue, plus 18% VAT) checked November 2026 against the TANAPA tariff and a January 2026 fee page; links /group-safaris/, organise-a-group-safari, the group inquiry button and the 10-day Lemosho and 8-day Machame trips. No climb prices quoted.
+- Images: 4 from the owner's Media Library (featured Lemosho route photo; Uhuru Peak, Machame route and Kilimanjaro climb in the body) and 2 from Unsplash (high-camp tents, rocky mountain cliff).
+- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
+- Could not open: none (owner photos could not be previewed from the cloud workspace, so they were chosen from their Media Library titles only).
+
 ## 2026-11-04 09:05 | Failed (duplicate discarded)
 - This run wrote a Naivasha corporate retreat post (KE-009) on 3 Nov, but it paused overnight before pushing. When it resumed, another run had already published the same topic as 4 November's post 1 (https://divulgeadventures.com/naivasha-corporate-retreat/), so this copy was discarded to avoid two competing posts. No post or planning-file changes from this run.
 - Could not open: enashipai.com (permission request timed out); GitHub push briefly returned HTTP 403 while other runs were pushing.

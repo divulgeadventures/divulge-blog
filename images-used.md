@@ -392,3 +392,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-04 | https://images.unsplash.com/photo-1431540015161-0bf868a2d407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8ZW1wdHklMjBjb25mZXJlbmNlJTIwcm9vbXxlbnwwfDB8fHwxNzkzNjkyNTU5fDI&ixlib=rb-4.1.0&q=80&w=1080 | naivasha-corporate-retreat
 2026-11-04 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_8_days_safari_edited-21-scaled.jpg | naivasha-corporate-retreat
 2026-11-04 | https://images.unsplash.com/photo-1706083642707-63a4ed57d068?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8TmFpdmFzaGElMjBLZW55YXxlbnwwfDB8fHwxNzkzNjkyNTcyfDI&ixlib=rb-4.1.0&q=80&w=1080 | naivasha-corporate-retreat
+2026-11-04 | https://divulgeadventures.com/wp-content/uploads/2026/11/Lemosho-Route-8-Day-Climb.jpeg | kilimanjaro-group-climb
+2026-11-04 | https://divulgeadventures.com/wp-content/uploads/2026/11/lemesho-route-uhuru-peak-mt-kilimanjaro.jpeg | kilimanjaro-group-climb
+2026-11-04 | https://divulgeadventures.com/wp-content/uploads/2026/11/machame-route-mt-kilimanjaro.jpeg | kilimanjaro-group-climb
+2026-11-04 | https://images.unsplash.com/photo-1710915322794-150ce2f4aa9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8N3x8S2lsaW1hbmphcm8lMjB0ZW50cyUyMGNhbXB8ZW58MHwwfHx8MTc5Mzc3ODc0MHwy&ixlib=rb-4.1.0&q=80&w=1080 | kilimanjaro-group-climb
+2026-11-04 | https://divulgeadventures.com/wp-content/uploads/2026/11/mt-kilimanjaro-climb.jpeg | kilimanjaro-group-climb
+2026-11-04 | https://images.unsplash.com/photo-1650668300457-ae029f20461d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8S2lsaW1hbmphcm8lMjBnbGFjaWVyJTIwc3VtbWl0fGVufDB8MHx8fDE3OTM3Nzg3NDB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | kilimanjaro-group-climb
