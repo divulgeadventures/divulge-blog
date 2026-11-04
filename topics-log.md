@@ -79,3 +79,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-02 | Tanzania TZ-008 | Safari Planning Tips | serengeti safari cost | serengeti-safari-cost
 2026-11-03 | Namibia NA-066 | Destination Tips | etosha vs okavango | etosha-vs-okavango
 2026-11-03 | Tanzania TZ-333 | Safari Themes | serengeti golf course | serengeti-golf-course
+2026-11-04 | Kenya KE-009 | Team Building | naivasha corporate retreat | naivasha-corporate-retreat

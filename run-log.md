@@ -4,6 +4,14 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-04 08:46 | New post 1
+- "How to Match a Naivasha Corporate Retreat Venue to Your Team, Agenda and Budget": https://divulgeadventures.com/naivasha-corporate-retreat/
+- Kenya (KE-009, core topic), Team Building; focus keyword refined from "corporate retreat venues in naivasha" to "naivasha corporate retreat". Kept distinct from the Lake Naivasha lodges post (leisure stays) and the team building venues near Nairobi post (both linked). Venue capacities taken from each venue's own meetings page; KWS Hell's Gate fees and MICE group discounts checked on the KWS fee schedule (November 2026); no venue rates quoted.
+- Written on 3 Nov as new post 2, but the session paused before the push and only resumed at 08:44 on 4 Nov, after its 14:00 slot had passed. Filed instead as 4 Nov new post 1, scheduled for 4 Nov 10:00 Nairobi time (3 Nov's post 2 slot was filled meanwhile by the Serengeti golf course post).
+- Images: 2 from the owner's Media Library (Lake Naivasha pelican, Hell's Gate) and 3 from Unsplash (featured Naivasha valley; boardroom; Lake Oloidien sunset). Team-building owner photos were left out because people are the main subject.
+- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
+- Could not open: enashipai.com home page and sopalodges.com resort page (permission requests timed out; used their meetings/events pages instead).
+
 ## 2026-11-04 08:45 | Failed (duplicate discarded)
 - This run wrote the owner's Serengeti Golf Course idea as 4 November's post 1, but while it was working an earlier interrupted run pushed the same topic (https://divulgeadventures.com/serengeti-golf-course/, filed as 3 November's post 2). The duplicate was discarded before pushing; nothing else was changed.
 - No new post for 4 November yet: the next run will write post 1 (the owner's ideas list now has no unchecked items, so it goes back to the destination cycle and the day's group row).

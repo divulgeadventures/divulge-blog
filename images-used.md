@@ -387,3 +387,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-03 | https://divulgeadventures.com/wp-content/uploads/2026/10/herd-of-wildebeest-walking-across-a-river.jpg | serengeti-golf-course
 2026-11-03 | https://divulgeadventures.com/wp-content/uploads/2026/10/best-serengeti-camps.jpg | serengeti-golf-course
 2026-11-03 | https://divulgeadventures.com/wp-content/uploads/2026/10/green-golf-fairway-part-of-a-rwanda-golf-and-gorilla-safari.jpg | serengeti-golf-course
+2026-11-04 | https://images.unsplash.com/photo-1750580994672-a412adf95f0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OXx8TmFpdmFzaGElMjBLZW55YXxlbnwwfDB8fHwxNzkzNjkyNTcyfDI&ixlib=rb-4.1.0&q=80&w=1080 | naivasha-corporate-retreat
+2026-11-04 | https://divulgeadventures.com/wp-content/uploads/2026/10/lake-naivasha-lodges.jpg | naivasha-corporate-retreat
+2026-11-04 | https://images.unsplash.com/photo-1431540015161-0bf868a2d407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8ZW1wdHklMjBjb25mZXJlbmNlJTIwcm9vbXxlbnwwfDB8fHwxNzkzNjkyNTU5fDI&ixlib=rb-4.1.0&q=80&w=1080 | naivasha-corporate-retreat
+2026-11-04 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_8_days_safari_edited-21-scaled.jpg | naivasha-corporate-retreat
+2026-11-04 | https://images.unsplash.com/photo-1706083642707-63a4ed57d068?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8TmFpdmFzaGElMjBLZW55YXxlbnwwfDB8fHwxNzkzNjkyNTcyfDI&ixlib=rb-4.1.0&q=80&w=1080 | naivasha-corporate-retreat
