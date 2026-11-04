@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-04 15:10 | New post 3
+- "Uganda in February: Dry Trails, Quieter Lodges and the Last Weeks Before the Rains": https://divulgeadventures.com/uganda-in-february/
+- Uganda (UG-041, seasonal row), Destination Tips; focus keyword refined from "uganda safari in february" to "uganda in february" (matches the January post). Scheduled for 4 Nov 18:00 Nairobi time. Kept distinct from the Uganda in January post (end of dry season, calmer than the holiday rush, Rwenzori window, 2027 permit budgeting). Gorilla US$1,000 and Kibale chimp US$300 from 1 Jan 2027 are stated as reported figures (UWA's 2026-2027 tariff-change PDF could not be opened), with readers told to confirm on the UWA rates page; Bwindi temperatures from the ITFC/MUST weather report.
+- Images: 4 from the owner's Media Library (young gorilla, Kibale chimpanzee, Queen Elizabeth game drive, shoebill) and 2 from Unsplash (featured Murchison Falls rainbow; Rwenzori slopes in the body).
+- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md. Today's 3 new posts are now done.
+- Could not open: ugandawildlife.org home page, UWA "Tariff changes 2026-2027" PDF and UWA conservation tariff PDF (permission requests timed out); climate-data.org February page (site error).
+
 ## 2026-11-04 11:20 | New post 2
 - "Organising a Kilimanjaro Group Climb? Build It Around Your Slowest Walker": https://divulgeadventures.com/kilimanjaro-group-climb/
 - Tanzania (TZ-321, today's group post), Safari Themes. Scheduled for 4 Nov 14:00 Nairobi time. Kilimanjaro park fees (US$70/day, US$50/night camping, US$20 rescue, plus 18% VAT) checked November 2026 against the TANAPA tariff and a January 2026 fee page; links /group-safaris/, organise-a-group-safari, the group inquiry button and the 10-day Lemosho and 8-day Machame trips. No climb prices quoted.

@@ -398,3 +398,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-04 | https://images.unsplash.com/photo-1710915322794-150ce2f4aa9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8N3x8S2lsaW1hbmphcm8lMjB0ZW50cyUyMGNhbXB8ZW58MHwwfHx8MTc5Mzc3ODc0MHwy&ixlib=rb-4.1.0&q=80&w=1080 | kilimanjaro-group-climb
 2026-11-04 | https://divulgeadventures.com/wp-content/uploads/2026/11/mt-kilimanjaro-climb.jpeg | kilimanjaro-group-climb
 2026-11-04 | https://images.unsplash.com/photo-1650668300457-ae029f20461d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8S2lsaW1hbmphcm8lMjBnbGFjaWVyJTIwc3VtbWl0fGVufDB8MHx8fDE3OTM3Nzg3NDB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | kilimanjaro-group-climb
+2026-11-04 | https://images.unsplash.com/photo-1704183683740-1400a49816b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OXx8VWdhbmRhJTIwbGFuZHNjYXBlfGVufDB8MHx8fDE3OTM3OTQwMTh8Mg&ixlib=rb-4.1.0&q=80&w=1080 | uganda-in-february
+2026-11-04 | https://divulgeadventures.com/wp-content/uploads/2026/10/young-gorilla-in-the-grass-of-the-forest.jpg | uganda-in-february
+2026-11-04 | https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-trekking-in-kibale.jpg | uganda-in-february
+2026-11-04 | https://divulgeadventures.com/wp-content/uploads/2026/04/game-drive-queen.jpg | uganda-in-february
+2026-11-04 | https://divulgeadventures.com/wp-content/uploads/2026/10/shoebill-with-its-huge-bill-against-green-foliage.jpg | uganda-in-february
+2026-11-04 | https://images.unsplash.com/photo-1583140310426-9187b6489be3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8VWdhbmRhJTIwbGFuZHNjYXBlfGVufDB8MHx8fDE3OTM3OTQwMTh8Mg&ixlib=rb-4.1.0&q=80&w=1080 | uganda-in-february
