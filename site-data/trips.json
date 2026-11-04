@@ -1,5 +1,72 @@
 [
  {
+  "id": 12543,
+  "slug": "8-day-kilimanjaro-machame-route",
+  "url": "https://divulgeadventures.com/trip/8-day-kilimanjaro-machame-route/",
+  "title": "8 Days Kilimanjaro Machame Route (6-Day Climb)",
+  "destination": [
+   31
+  ],
+  "modified": "2026-11-03T23:35:45",
+  "featured_image": null
+ },
+ {
+  "id": 12549,
+  "slug": "9-day-kilimanjaro-lemosho-route",
+  "url": "https://divulgeadventures.com/trip/9-day-kilimanjaro-lemosho-route/",
+  "title": "9 Days Kilimanjaro Lemosho Route (7-Day Climb)",
+  "destination": [
+   31
+  ],
+  "modified": "2026-11-03T23:35:43",
+  "featured_image": {
+   "id": 12560,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/mt-kilimanjaro-Lemosho-Route-8-Day-Climb.jpeg",
+   "alt": "mt kilimanjaro Lemosho Route 7 Day Climb"
+  }
+ },
+ {
+  "id": 12553,
+  "slug": "9-day-kilimanjaro-machame-route",
+  "url": "https://divulgeadventures.com/trip/9-day-kilimanjaro-machame-route/",
+  "title": "9 Days Kilimanjaro Machame Route (7-Day Climb)",
+  "destination": [
+   31
+  ],
+  "modified": "2026-11-03T23:35:47",
+  "featured_image": {
+   "id": 12566,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/mt-kilimanjaro-machame-route-7-day-climb.jpeg",
+   "alt": "mt kilimanjaro machame route 7 day climb"
+  }
+ },
+ {
+  "id": 12551,
+  "slug": "10-day-kilimanjaro-lemosho-route",
+  "url": "https://divulgeadventures.com/trip/10-day-kilimanjaro-lemosho-route/",
+  "title": "10 Day Kilimanjaro Lemosho Route (8-Day Climb)",
+  "destination": [
+   31
+  ],
+  "modified": "2026-11-03T23:35:44",
+  "featured_image": {
+   "id": 12559,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/Lemosho-Route-8-Day-Climb.jpeg",
+   "alt": "Lemosho Route 8 Day Climb"
+  }
+ },
+ {
+  "id": 12555,
+  "slug": "9-day-kilimanjaro-rongai-route",
+  "url": "https://divulgeadventures.com/trip/9-day-kilimanjaro-rongai-route/",
+  "title": "9 Days Kilimanjaro Rongai Route (7-Day Climb)",
+  "destination": [
+   31
+  ],
+  "modified": "2026-11-03T23:35:49",
+  "featured_image": null
+ },
+ {
   "id": 12074,
   "slug": "9-day-kenya-fly-in-safari",
   "url": "https://divulgeadventures.com/trip/9-day-kenya-fly-in-safari/",
