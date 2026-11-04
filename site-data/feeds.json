@@ -1,5 +1,5 @@
 {
- "checked_at_utc": "2026-11-04 03:33",
+ "checked_at_utc": "2026-11-04 11:41",
  "feeds": {
   "divulge": [
    {
@@ -10,8 +10,23 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Tue, 03 Nov 2026 07:00:00 +0000",
+    "newest": "Wed, 04 Nov 2026 11:00:00 +0000",
     "sample": [
+     {
+      "title": "Organising a Kilimanjaro Group Climb? Build It Around Your Slowest Walker",
+      "date": "Wed, 04 Nov 2026 11:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/Lemosho-Route-8-Day-Climb-1024x683.jpeg"
+     },
+     {
+      "title": "How to Match a Naivasha Corporate Retreat Venue to Your Team, Agenda and Budget",
+      "date": "Wed, 04 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/naivasha-corporate-retreat-1024x684.jpg"
+     },
+     {
+      "title": "Serengeti Golf Course Brings 18 Holes of Savannah Golf to Fort Ikoma, on the Edge of the P",
+      "date": "Wed, 04 Nov 2026 06:24:31 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2025/12/Tanzania-Serengeti-safari-1024x576.jpg"
+     },
      {
       "title": "Etosha vs Okavango: Waterhole Drives in Namibia or Mokoro Channels in Botswana?",
       "date": "Tue, 03 Nov 2026 07:00:00 +0000",
@@ -21,21 +36,6 @@
       "title": "How Much Does a Serengeti Safari Cost Once Fees, Camps and Flights Are Counted?",
       "date": "Mon, 02 Nov 2026 15:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/tanzania-park-fees-1024x683.jpg"
-     },
-     {
-      "title": "Chobe Safari Planning, From Riverfront Boat Cruises to Savuti’s Lion Country",
-      "date": "Mon, 02 Nov 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/06/botswanasafarichobe-1024x593.webp"
-     },
-     {
-      "title": "A Kenya Safari in February Means Dry Plains, Clear Mountain Views and the Lower Mara Fee",
-      "date": "Mon, 02 Nov 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/lion-on-golden-grass-during-a-kenya-photography-safari-1024x683.jpg"
-     },
-     {
-      "title": "Bwindi vs Volcanoes National Park: Trade a Cheaper Permit for a Longer Drive, or Pay for S",
-      "date": "Sun, 01 Nov 2026 16:25:07 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p-1-1024x750.jpg"
      }
     ]
    },
@@ -194,9 +194,19 @@
     "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
     "xml_ok": true,
     "items": 9,
-    "items_with_image": 4,
-    "newest": "Sat, 31 Oct 2026 07:00:00 +0000",
+    "items_with_image": 6,
+    "newest": "Wed, 04 Nov 2026 11:00:00 +0000",
     "sample": [
+     {
+      "title": "Organising a Kilimanjaro Group Climb? Build It Around Your Slowest Walker",
+      "date": "Wed, 04 Nov 2026 11:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/Lemosho-Route-8-Day-Climb-1024x683.jpeg"
+     },
+     {
+      "title": "Serengeti Golf Course Brings 18 Holes of Savannah Golf to Fort Ikoma, on the Edge of the P",
+      "date": "Wed, 04 Nov 2026 06:24:31 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2025/12/Tanzania-Serengeti-safari-1024x576.jpg"
+     },
      {
       "title": "Kenya Birding Safari Routes Across Soda Lakes, Rainforest and Dry Northern Bush",
       "date": "Sat, 31 Oct 2026 07:00:00 +0000",
@@ -211,16 +221,6 @@
       "title": "Namibia Hiking Safari: The Best Hikes, Seasons and Costs",
       "date": "Sun, 11 Oct 2026 15:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/namibia-hiking-safari-1024x576.jpg"
-     },
-     {
-      "title": "Day Trips from Nairobi: 12 Best Escapes by Distance and Time",
-      "date": "Sat, 10 Oct 2026 17:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/day-trips-from-nairobi-1024x683.jpg"
-     },
-     {
-      "title": "Lake Nakuru Day Trip from Nairobi: Timings, Fees and What You’ll See",
-      "date": "Mon, 14 Sep 2026 11:17:49 +0000",
-      "image": null
      }
     ]
    },
@@ -230,10 +230,15 @@
     "content_type": "application/rss+xml; charset=UTF-8",
     "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
     "xml_ok": true,
-    "items": 4,
-    "items_with_image": 4,
-    "newest": "Wed, 09 Sep 2026 09:29:08 +0000",
+    "items": 5,
+    "items_with_image": 5,
+    "newest": "Wed, 04 Nov 2026 07:00:00 +0000",
     "sample": [
+     {
+      "title": "How to Match a Naivasha Corporate Retreat Venue to Your Team, Agenda and Budget",
+      "date": "Wed, 04 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/naivasha-corporate-retreat-1024x684.jpg"
+     },
      {
       "title": "Chaka Ranch Team Building: The Complete 2 Days, 1 Night Package Guide from Nairobi",
       "date": "Wed, 09 Sep 2026 09:29:08 +0000",
@@ -355,8 +360,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Mon, 02 Nov 2026 07:00:00 +0000",
+    "newest": "Wed, 04 Nov 2026 07:00:00 +0000",
     "sample": [
+     {
+      "title": "How to Match a Naivasha Corporate Retreat Venue to Your Team, Agenda and Budget",
+      "date": "Wed, 04 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/naivasha-corporate-retreat-1024x684.jpg"
+     },
      {
       "title": "A Kenya Safari in February Means Dry Plains, Clear Mountain Views and the Lower Mara Fee",
       "date": "Mon, 02 Nov 2026 07:00:00 +0000",
@@ -376,11 +386,6 @@
       "title": "Which Samburu Lodges Suit Your Trip? Riverbank Tents, Shaba Springs and Conservancy Hideaw",
       "date": "Wed, 28 Oct 2026 11:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/samburu-lodges-1024x819.jpg"
-     },
-     {
-      "title": "Lake Naivasha Lodges by Shore, From Hell’s Gate Resorts to Quiet Ranch Houses",
-      "date": "Tue, 27 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/lake-naivasha-lodges-1024x576.jpg"
      }
     ]
    },
@@ -981,8 +986,18 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Mon, 02 Nov 2026 15:00:00 +0000",
+    "newest": "Wed, 04 Nov 2026 11:00:00 +0000",
     "sample": [
+     {
+      "title": "Organising a Kilimanjaro Group Climb? Build It Around Your Slowest Walker",
+      "date": "Wed, 04 Nov 2026 11:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/Lemosho-Route-8-Day-Climb-1024x683.jpeg"
+     },
+     {
+      "title": "Serengeti Golf Course Brings 18 Holes of Savannah Golf to Fort Ikoma, on the Edge of the P",
+      "date": "Wed, 04 Nov 2026 06:24:31 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2025/12/Tanzania-Serengeti-safari-1024x576.jpg"
+     },
      {
       "title": "How Much Does a Serengeti Safari Cost Once Fees, Camps and Flights Are Counted?",
       "date": "Mon, 02 Nov 2026 15:00:00 +0000",
@@ -997,16 +1012,6 @@
       "title": "Lemosho vs Machame Comes Down to One Extra Night and a Quieter Start",
       "date": "Thu, 29 Oct 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/lemosho-vs-machame-1024x684.jpg"
-     },
-     {
-      "title": "Serengeti vs Ngorongoro Is Rarely an Either-Or, So Here Is How to Split Your Days",
-      "date": "Tue, 27 Oct 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/serengeti-vs-ngorongoro-1024x667.jpg"
-     },
-     {
-      "title": "Kilimanjaro Routes Compared: Which of the Seven Suits Your Days, Budget and Nerves?",
-      "date": "Mon, 26 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/kilimanjaro-routes-1024x686.jpg"
      }
     ]
    },
@@ -1052,8 +1057,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Sun, 01 Nov 2026 13:00:00 +0000",
+    "newest": "Wed, 04 Nov 2026 06:24:31 +0000",
     "sample": [
+     {
+      "title": "Serengeti Golf Course Brings 18 Holes of Savannah Golf to Fort Ikoma, on the Edge of the P",
+      "date": "Wed, 04 Nov 2026 06:24:31 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2025/12/Tanzania-Serengeti-safari-1024x576.jpg"
+     },
      {
       "title": "Planning Around the Serengeti Calving Season? Choose Your Weeks Before Your Camp",
       "date": "Sun, 01 Nov 2026 13:00:00 +0000",
@@ -1073,11 +1083,6 @@
       "title": "Tanzania Safari in December: Weather, Migration, Costs and Where to Go",
       "date": "Sun, 18 Oct 2026 15:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/07/serengeti-migration.jpg"
-     },
-     {
-      "title": "Rwanda vs Tanzania Safari: Which Is Better for Your Trip?",
-      "date": "Sun, 18 Oct 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-in-rwanda.jpg"
      }
     ]
    },
@@ -1199,8 +1204,13 @@
     "xml_ok": true,
     "items": 10,
     "items_with_image": 10,
-    "newest": "Mon, 02 Nov 2026 04:00:25 +0000",
+    "newest": "Wed, 04 Nov 2026 06:00:58 +0000",
     "sample": [
+     {
+      "title": "Hiking Hells Gate in a Day: Fischer’s Tower, the Gorge and the Road From Nairobi",
+      "date": "Wed, 04 Nov 2026 06:00:58 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/11/hells-gate-hike-683x1024.jpg"
+     },
      {
       "title": "Red Dust, Black Cotton Mud: Hiking Boot Care in Nairobi, Season by Season",
       "date": "Mon, 02 Nov 2026 04:00:25 +0000",
@@ -1220,11 +1230,6 @@
       "title": "UK 8, EU 42 or US 9? Getting Hiking Boot Sizes in Kenya Right Before You Climb",
       "date": "Wed, 28 Oct 2026 04:00:38 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-boot-sizes-kenya-1024x683.jpg"
-     },
-     {
-      "title": "Seven Knuckles Above the Rift: Hiking the Ngong Hills From Nairobi",
-      "date": "Tue, 27 Oct 2026 04:30:57 +0000",
-      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/ngong-hills-hike-1024x683.jpg"
      }
     ]
    },
@@ -1286,12 +1291,12 @@
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-in-the-rain-safety-tips-819x1024.jpg"
      },
      {
-      "title": "What to Wear Hiking in Kenya, From Ngong Hills to Mt Kenya",
+      "title": "What to Wear Hiking in Kenya When One Day Brings Mist, Sun and Rain",
       "date": "Wed, 07 Oct 2026 04:00:00 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/what-to-wear-hiking-in-kenya-683x1024.jpg"
      },
      {
-      "title": "New to Hiking? How to Start Hiking in Kenya Without the Stress",
+      "title": "Never Hiked Before? A Beginner’s Route Into Kenya’s Trails, From Karura to Longonot",
       "date": "Mon, 05 Oct 2026 13:00:00 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-for-beginners-in-kenya-1024x683.jpg"
      },
@@ -1355,7 +1360,7 @@
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/hiking-in-the-rain-safety-tips-819x1024.jpg"
      },
      {
-      "title": "What to Wear Hiking in Kenya, From Ngong Hills to Mt Kenya",
+      "title": "What to Wear Hiking in Kenya When One Day Brings Mist, Sun and Rain",
       "date": "Wed, 07 Oct 2026 04:00:00 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/what-to-wear-hiking-in-kenya-683x1024.jpg"
      },
@@ -1443,6 +1448,7 @@
    "calving-season",
    "chimpanzee-trekking",
    "chobe-national-park",
+   "corporate-retreat",
    "crater-rim",
    "day-trips-from-nairobi",
    "december-safari",
@@ -1462,11 +1468,14 @@
    "flamingos",
    "fly-in-safari",
    "golden-monkey-trekking",
+   "golf-safari",
    "gorilla-permits",
    "gorilla-trekking",
    "great-migration",
    "great-wildebeest-migration",
    "green-season",
+   "group-safari",
+   "group-travel",
    "hells-gate",
    "hiking-safari",
    "honeymoon",
@@ -1501,6 +1510,7 @@
    "kibale",
    "kibale-national-park",
    "kilimanjaro",
+   "kilimanjaro-climb",
    "kilimanjaro-routes",
    "kilimanjaro-views",
    "kilimanjaro-weather",
@@ -1531,6 +1541,7 @@
    "naboisho",
    "nairobi",
    "nairobi-national-park",
+   "naivasha",
    "namanga-border",
    "namib-desert",
    "namibia",
@@ -1657,6 +1668,7 @@
    "guided-hikes",
    "headlamps",
    "hells-gate-camping",
+   "hells-gate-national-park",
    "hiking-accessories",
    "hiking-backpacks",
    "hiking-boot-brands",
@@ -1693,6 +1705,7 @@
    "jack-wolfskin",
    "kajiado",
    "karrimor",
+   "karura-forest",
    "kasarani",
    "keen",
    "kenya-hiking",
@@ -1723,6 +1736,7 @@
    "nairobi-hiking",
    "nairobi-hiking-gear",
    "nairobi-outdoor-shop",
+   "naivasha",
    "naro-moru-route",
    "ngong-hills",
    "night-hiking",
