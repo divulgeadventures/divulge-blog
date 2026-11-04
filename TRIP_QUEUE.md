@@ -35,8 +35,8 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 26 | Tanzania | 8-day-midrange-tanzania-safari | 9532 | done 2026-10-31 | 8 day midrange tanzania safari | tanzania-9532-8-day-midrange-tanzania-safari.json |
 | 27 | Tanzania | tanzania-luxury-safari | 9538 | done 2026-11-02 | 8 day serengeti ngorongoro and lake eyasi safari | tanzania-9538-8-day-serengeti-ngorongoro-and-lake-eyasi-safari.json |
 | 28 | Tanzania | tanzania-honeymoon-itinerary | 9499 | done 2026-11-02 | 9 day tanzania safari and zanzibar honeymoon | tanzania-9499-9-day-tanzania-safari-and-zanzibar-honeymoon.json |
-| 29 | Tanzania | 8-days-tanzania-zanzibar-classic-safari-beach |  | todo |  |  |
-| 30 | Tanzania | tanzania-and-zanzibar-safari |  | todo |  |  |
+| 29 | Tanzania | 8-days-tanzania-zanzibar-classic-safari-beach | 6840 | done 2026-11-04 | 8 day serengeti and zanzibar safari | tanzania-6840-8-day-serengeti-and-zanzibar-safari.json |
+| 30 | Tanzania | tanzania-and-zanzibar-safari | 9511 | done 2026-11-04 | 8 day family tanzania and zanzibar safari | tanzania-9511-8-day-family-tanzania-and-zanzibar-safari.json |
 | 31 | Tanzania | tanzania-safari-zanzibar-beach-holiday |  | todo |  |  |
 | 32 | Tanzania | tanzania-safari-zanzibar-beach-safari |  | todo |  |  |
 | 33 | Uganda | gorilla-trekking-safari-to-bwindi |  | todo |  |  |

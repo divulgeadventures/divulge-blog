@@ -4,6 +4,23 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-04 08:35 Trip Optimiser
+- Done: 8 Days Tanzania & Zanzibar Safari & Beach (ID 6840, "8 day serengeti and zanzibar safari", tanzania-6840-8-day-serengeti-and-zanzibar-safari.json); Family Tanzania and Zanzibar Safari (ID 9511, "8 day family tanzania and zanzibar safari", tanzania-9511-8-day-family-tanzania-and-zanzibar-safari.json). Both read from the site-data copy (snapshot 2026-11-04 03:33 UTC); the live site was not opened. 6840 shows no price, so it uses the "Price on request" box; 9511 uses "From USD 4,120 per adult (USD 2,060 per child)" (single price, no regular/sale pair). The two pages link to each other as Melia vs Serena versions of the same route.
+- Photos: 6840 5 owner/Media Library + 1 Unsplash (mother and baby elephants in the Serengeti, Hu Chen); 9511 5 owner/Media Library + 1 Unsplash (elephant family in Serengeti NP, Michael Wilcox). Credit line added to both; it also credits Humphrey M because the Media Library Zanzibar beach/sailing-boat photos are copies of his Unsplash photos. Dropped from the galleries: guests_on_safari-24-1.jpg (people as the main subject; it was the featured image on 9511 and in the 6840 gallery) and the Ngorongoro Crater photo on 6840 (no Ngorongoro in the itinerary). Kept on 6840 but not viewable: 4558-x-3248divulge_adventures and 5502-x-3668divulge_adventures, given neutral alt text because their old alt was just the trip title; please check what they show and that no person is the main subject.
+- Owner to fix by hand (the importer cannot change these):
+  - 6840 and 9511 are near-duplicates: same 8-day route (1 night Arusha, fly to Serengeti for 3 nights, fly to Zanzibar for 3 nights) and nearly the same day texts. They now target different keywords, but consider making the difference clearer in the titles (e.g. "Melia" vs "Serena"/family) or merging them.
+  - 6840 missing price: no "From $" price on the page (9511, the same route, shows USD 4,120). Please add one.
+  - 6840 missing Includes/Excludes tab: the page lists no inclusions or exclusions; the new overview says they are confirmed in the quote.
+  - 6840 wrong facts in the old overview/day text: it mentions the "Ngorongoro Crater" and the Great Migration, but the itinerary has no Ngorongoro day. Day 8 (Zanzibar departure) has no description. Days 6 & 7 text is missing "Dinner and overnight at:" before "Melia Zanzibar" and has a space before the full stop ("beachfront hotel .").
+  - 6840 lodge names: day 2 says "Melia Serengeti", days 3 & 4 say "Melia Serengeti Lodge"; use one name.
+  - 6840 "premium package"/"luxury lodge/camp" wording in the old text: Melia properties are upscale, so this is fine, but day 2 still says "lodge/camp"; name the lodge.
+  - 9511 itinerary typos: "transfered", "aproximately", "overnigt", "yor family", Highlights "Sunnrise", Includes "Zanzibar Heath insurance". Day 3 & 4 opens with "You will begin your Tanzania and Zanzibar safari by Spending" (capital S, and the safari began on day 2).
+  - 9511 includes conflict: "All Park and crater entry fees", but there is no crater in the itinerary. The old text calls Zanzibar Beach Resort a "luxury beachfront resort"; confirm the resort's exact name.
+  - 9511 title has no duration ("Family Tanzania and Zanzibar Safari") while the overview says 8 days; consider "8 Day Family Tanzania and Zanzibar Safari". Slug "tanzania-and-zanzibar-safari" is very generic but has no typo; leave it.
+  - No "Luxury" titles or slug typos in this batch.
+- Could not open: none.
+- Next: tanzania-safari-zanzibar-beach-holiday (row 31), tanzania-safari-zanzibar-beach-safari (row 32).
+
 ## 2026-11-03 06:59 | New post 1
 - "Etosha vs Okavango: Waterhole Drives in Namibia or Mokoro Channels in Botswana?": https://divulgeadventures.com/etosha-vs-okavango/
 - Namibia (NA-066, BOOST comparison), Destination Tips; focus keyword refined from "etosha vs okavango delta" to "etosha vs okavango". Kept distinct from the country-level Botswana vs Namibia post (linked). Scheduled for 3 Nov 10:00 Nairobi time. Etosha fee re-checked on the April 2026 Government Gazette; Moremi BWP 270 confirmed; daily cost tiers labelled as estimates.
