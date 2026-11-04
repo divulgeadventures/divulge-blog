@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-04 08:45 | Failed (duplicate discarded)
+- This run wrote the owner's Serengeti Golf Course idea as 4 November's post 1, but while it was working an earlier interrupted run pushed the same topic (https://divulgeadventures.com/serengeti-golf-course/, filed as 3 November's post 2). The duplicate was discarded before pushing; nothing else was changed.
+- No new post for 4 November yet: the next run will write post 1 (the owner's ideas list now has no unchecked items, so it goes back to the destination cycle and the day's group row).
+- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
+- Could not open: booking.flightlink.co.tz Serengeti destinations page (bot-protection page, no content).
+
 ## 2026-11-04 08:50 | New post 2 (for 3 November)
 - "Serengeti Golf Course Brings 18 Holes of Savannah Golf to Fort Ikoma, on the Edge of the Park": https://divulgeadventures.com/serengeti-golf-course/
 - Tanzania, Safari Themes. Owner's urgent idea, added to the bank as TZ-333 and counted as 3 November's group post (golf clubs, corporate golf days). Written on 3 Nov but the run was interrupted before pushing, so it is scheduled for 4 Nov 09:00 Nairobi time and counts as 3 November's post 2 (3 November ended with 2 new posts). Followed research/serengeti-golf-course.md: no links to news sites; only official external link is TANAPA. Green fees, tee-time booking and club hire are stated as not yet published (checked Nov 2026); no lodges named because none could be confirmed on an official site. Links: /group-safaris/, organise-a-group-safari, group inquiry button, 8-day great migration trip, Rwanda golf and gorilla trip.
