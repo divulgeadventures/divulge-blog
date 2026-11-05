@@ -36,8 +36,10 @@ add_action( 'wp_footer', function () {
 	@media (min-width:1301px){ .divulge-topbar-reviews{position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); flex:none !important;} }
 	@media (max-width:1300px){ .divulge-topbar-reviews{gap:14px !important;} }
 	@media (max-width:1024px){ .divulge-topbar-reviews{display:none !important;} }
-	.divulge-topbar-lang a, .divulge-topbar-lang a span{color:#ffffff !important; font-weight:300 !important; font-size:14px;}
-	.divulge-topbar-lang a:hover, .divulge-topbar-lang a:hover span{color:#F2B544 !important;}
+	.divulge-topbar-lang > li > a, .divulge-topbar-lang > li > a span, .divulge-topbar-lang > a, .divulge-topbar-lang > a span{color:#ffffff !important; font-weight:300 !important; font-size:14px;}
+	.divulge-topbar-lang > li > a:hover, .divulge-topbar-lang > li > a:hover span{color:#F2B544 !important;}
+	.divulge-topbar-lang ul a, .divulge-topbar-lang ul a span, .divulge-topbar-lang [class*="sub"] a, .divulge-topbar-lang [class*="sub"] a span{color:#1b1b1b !important; font-weight:400 !important;}
+	.divulge-topbar-lang ul a:hover, .divulge-topbar-lang ul a:hover span, .divulge-topbar-lang [class*="sub"] a:hover{color:#043D0E !important;}
 	</style>
 	<script>
 	(function () {
@@ -73,10 +75,12 @@ add_action( 'wp_footer', function () {
 				var CODES = { English: 'EN', French: 'FR', 'Français': 'FR', Italian: 'IT', Italiano: 'IT', Spanish: 'ES', 'Español': 'ES' };
 				var RX = /English|Français|French|Italiano|Italian|Español|Spanish/g;
 				var shorten = function () {
-					var w = document.createTreeWalker(left, NodeFilter.SHOW_TEXT);
+					// Only the language shown in the bar (the first link); the list keeps full names.
+					var top = left.querySelector('a');
+					if (!top) return;
+					var w = document.createTreeWalker(top, NodeFilter.SHOW_TEXT);
 					while (w.nextNode()) {
-						var n = w.currentNode, list = n.parentElement.closest('ul');
-						if (n.parentElement.closest('.dvg-cur') || (list && left.contains(list))) continue;
+						var n = w.currentNode;
 						var v = n.nodeValue.replace(RX, function (m) { return CODES[m]; });
 						if (v !== n.nodeValue) n.nodeValue = v;
 					}
