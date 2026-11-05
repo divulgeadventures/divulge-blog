@@ -26,13 +26,14 @@ add_action( 'wp_footer', function () {
 		$cards .= '<a href="' . esc_url( $r[3] ) . '" target="_blank" rel="noopener" style="display:flex; align-items:center; gap:7px; color:#ffffff; text-decoration:none; white-space:nowrap;">'
 			. ( $r[4] ? '<img src="' . esc_url( $r[4] ) . '" alt="' . esc_attr( $r[0] ) . '" style="width:20px; height:20px; border-radius:50%; background:#ffffff; object-fit:contain; flex:none; margin:0;" />' : '' )
 			. '<span style="display:block; text-align:left; line-height:1.15;">'
-			. '<span style="display:block;"><span style="font-size:15px; font-weight:300; color:#ffffff;">' . esc_html( $r[1] ) . '/5</span> ' . divulge_rv_stars( $r[1], '15px' ) . '</span>'
-			. '<span class="divulge-tb-based" style="display:block; font-size:12px; font-weight:300; font-style:italic; color:#ffffff;">Based on <span style="text-decoration:underline;">' . esc_html( $r[2] ) . '+ reviews</span></span>'
+			. '<span style="display:block;"><span style="font-size:13px; font-weight:300; color:#ffffff;">' . esc_html( $r[1] ) . '/5</span> ' . divulge_rv_stars( $r[1], '13px' ) . '</span>'
+			. '<span class="divulge-tb-based" style="display:block; font-size:11px; font-weight:300; font-style:italic; color:#ffffff;">Based on <span style="text-decoration:underline;">' . esc_html( $r[2] ) . '+ reviews</span></span>'
 			. '</span></a>';
 	}
 	$strip = '<div class="divulge-topbar-reviews" style="flex:1 1 auto; display:flex; justify-content:center; align-items:center; gap:24px; padding:4px 12px; min-width:0;">' . $cards . '</div>';
 	?>
 	<style>
+	@media (min-width:1301px){ .divulge-topbar-reviews{position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); flex:none !important;} }
 	@media (max-width:1300px){ .divulge-topbar-reviews{gap:14px !important;} }
 	@media (max-width:1024px){ .divulge-topbar-reviews{display:none !important;} }
 	</style>
@@ -58,6 +59,9 @@ add_action( 'wp_footer', function () {
 			});
 
 			// Reviews go before the menu, centred in the free space.
+			// Centre the reviews in the bar; keep the menu on the right.
+			if (getComputedStyle(row).position === 'static') row.style.position = 'relative';
+			menu.style.marginLeft = 'auto';
 			menu.insertAdjacentHTML('beforebegin', strip);
 		}
 		if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', run); else run();
