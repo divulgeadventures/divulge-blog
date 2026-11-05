@@ -1,8 +1,7 @@
 /**
  * Divulge – top bar reviews
- * Green top bar: removes the social icons, shows the review cards (same style as the
- * trip pages) in the centre, makes the phone number a WhatsApp chat link with a
- * ready message, and shows the email as a short "Email" link.
+ * Green top bar: hides the social icons, phone and email, and shows the review
+ * cards (same style as the trip pages) next to the menu.
  * Needs the "Divulge – Review trust bar" snippet to be active (logos + live numbers).
  * WPCode: PHP Snippet, Auto Insert, Run Everywhere.
  */
@@ -27,12 +26,11 @@ add_action( 'wp_footer', function () {
 		$cards .= '<a href="' . esc_url( $r[3] ) . '" target="_blank" rel="noopener" style="display:flex; align-items:center; gap:7px; color:#ffffff; text-decoration:none; white-space:nowrap;">'
 			. ( $r[4] ? '<img src="' . esc_url( $r[4] ) . '" alt="' . esc_attr( $r[0] ) . '" style="width:26px; height:26px; border-radius:50%; background:#ffffff; object-fit:contain; flex:none; margin:0;" />' : '' )
 			. '<span style="display:block; text-align:left; line-height:1.15;">'
-			. '<span style="display:block;"><strong style="font-size:15px; color:#ffffff;">' . esc_html( $r[1] ) . '/5</strong> ' . divulge_rv_stars( $r[1], '15px' ) . '</span>'
-			. '<span class="divulge-tb-based" style="display:block; font-size:12px; font-style:italic; color:#ffffff;">Based on <span style="text-decoration:underline;">' . esc_html( $r[2] ) . '+ reviews</span></span>'
+			. '<span style="display:block;"><span style="font-size:15px; font-weight:300; color:#ffffff;">' . esc_html( $r[1] ) . '/5</span> ' . divulge_rv_stars( $r[1], '15px' ) . '</span>'
+			. '<span class="divulge-tb-based" style="display:block; font-size:12px; font-weight:300; font-style:italic; color:#ffffff;">Based on <span style="text-decoration:underline;">' . esc_html( $r[2] ) . '+ reviews</span></span>'
 			. '</span></a>';
 	}
 	$strip = '<div class="divulge-topbar-reviews" style="flex:1 1 auto; display:flex; justify-content:center; align-items:center; gap:24px; padding:4px 12px; min-width:0;">' . $cards . '</div>';
-	$wa    = 'https://wa.me/254706223888?text=' . rawurlencode( 'Hi Divulge Adventures, I would like to plan a safari.' );
 	?>
 	<style>
 	@media (max-width:1300px){ .divulge-topbar-reviews{gap:14px !important;} }
@@ -41,43 +39,26 @@ add_action( 'wp_footer', function () {
 	<script>
 	(function () {
 		var strip = <?php echo wp_json_encode( $strip ); ?>;
-		var wa = <?php echo wp_json_encode( $wa ); ?>;
-		var SOCIAL = 'a[href*="facebook.com"], a[href*="instagram.com"], a[href*="tripadvisor"], a[href*="wa.me"], a[href*="whatsapp"]';
 		function run() {
 			var head = document.querySelector('header') || document.body;
 			if (head.querySelector('.divulge-topbar-reviews')) return;
 
 			// 1. Phone number -> WhatsApp chat with a ready message.
-			head.querySelectorAll('a[href^="tel:"]').forEach(function (a) {
-				a.href = wa; a.target = '_blank'; a.rel = 'noopener';
-			});
-
-			// 2. Email address -> short "Email" link.
-			head.querySelectorAll('a[href^="mailto:"]').forEach(function (a) {
-				var w = document.createTreeWalker(a, NodeFilter.SHOW_TEXT);
-				while (w.nextNode()) {
-					if (w.currentNode.nodeValue.indexOf('@') > -1) w.currentNode.nodeValue = 'Email';
-				}
-			});
-
-			// 3. Hide the social icons (if they are still switched on in the theme).
-			var first = head.querySelector('a[href*="facebook.com"], a[href*="instagram.com"]');
-			if (first) {
-				var box = first.parentElement;
-				while (box && box !== head && box.querySelectorAll(SOCIAL).length < 2) box = box.parentElement;
-				if (box && box !== head) box.style.display = 'none';
-			}
-
-			// 4. Top bar row = smallest block holding both the email link and the B2B menu link.
+			// Top bar row = smallest block holding both the email link and the B2B menu link.
 			var b2b = head.querySelector('a[href*="b2b-agent-rates"]');
 			if (!b2b) return;
 			var row = b2b.parentElement;
-			while (row && row !== head && !row.querySelector('a[href^="mailto:"]')) row = row.parentElement;
+			while (row && row !== head && !row.querySelector('a[href^="mailto:"], a[href^="tel:"]')) row = row.parentElement;
 			if (!row || row === head) return;
 			var menu = b2b;
 			while (menu.parentElement && menu.parentElement !== row) menu = menu.parentElement;
 
-			// 5. Reviews go between the contact details and the menu.
+			// Hide the left side (social icons, phone, email) so only reviews and menu remain.
+			Array.prototype.forEach.call(row.children, function (c) {
+				if (c !== menu && !c.contains(menu)) c.style.display = 'none';
+			});
+
+			// Reviews go before the menu, centred in the free space.
 			menu.insertAdjacentHTML('beforebegin', strip);
 		}
 		if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', run); else run();
