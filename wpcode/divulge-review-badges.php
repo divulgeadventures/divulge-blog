@@ -44,11 +44,11 @@ function divulge_rv_data() {
 	return $rows;
 }
 
-function divulge_rv_stars( $rating, $size ) {
+function divulge_rv_stars( $rating, $size = '17px' ) {
 	$out = '';
 	for ( $i = 1; $i <= 5; $i++ ) {
 		$fill = max( 0, min( 1, (float) $rating - ( $i - 1 ) ) ) * 100;
-		$out .= '<span style="display:inline-block; font-size:' . $size . 'px; line-height:1; background:linear-gradient(90deg,#F2B544 ' . $fill . '%,rgba(255,255,255,0.3) ' . $fill . '%); -webkit-background-clip:text; background-clip:text; color:transparent;">&#9733;</span>';
+		$out .= '<span style="display:inline-block; font-size:' . $size . '; line-height:1; background:linear-gradient(90deg,#F2B544 ' . $fill . '%,rgba(255,255,255,0.3) ' . $fill . '%); -webkit-background-clip:text; background-clip:text; color:transparent;">&#9733;</span>';
 	}
 	return $out;
 }
@@ -70,16 +70,16 @@ function divulge_rv_bar( $compact = false ) {
 	foreach ( divulge_rv_data() as $r ) {
 		if ( $r[1] === '' ) { continue; }
 		$icon = ! empty( $r[4] )
-			? '<img src="' . esc_url( $r[4] ) . '" alt="' . esc_attr( $r[0] ) . '" style="width:44px; height:44px; border-radius:50%; object-fit:contain; background:#ffffff; flex:none;" />'
-			: '<span style="display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:50%; background:#ffffff; color:#043D0E; font-weight:bold; font-size:18px; flex:none;">' . esc_html( substr( $r[0], 0, 1 ) ) . '</span>';
-		$cards .= '<a href="' . esc_url( $r[3] ) . '" target="_blank" rel="noopener" style="display:flex; align-items:center; gap:12px; color:#ffffff; text-decoration:none; padding:4px 8px;">'
+			? '<img src="' . esc_url( $r[4] ) . '" alt="' . esc_attr( $r[0] ) . '" style="width:clamp(26px,6vw,38px); height:clamp(26px,6vw,38px); border-radius:50%; object-fit:contain; background:#ffffff; flex:none; margin:0;" />'
+			: '<span style="display:inline-flex; align-items:center; justify-content:center; width:clamp(26px,6vw,38px); height:clamp(26px,6vw,38px); border-radius:50%; background:#ffffff; color:#043D0E; font-weight:bold; flex:none;">' . esc_html( substr( $r[0], 0, 1 ) ) . '</span>';
+		$cards .= '<a href="' . esc_url( $r[3] ) . '" target="_blank" rel="noopener" title="' . esc_attr( $r[0] ) . ' reviews" style="display:flex; align-items:center; gap:clamp(5px,1.2vw,10px); color:#ffffff; text-decoration:none; white-space:nowrap; min-width:0;">'
 			. $icon
-			. '<span style="display:block; text-align:left; line-height:1.3;">'
-			. '<span style="display:block; white-space:nowrap;"><strong style="font-size:20px; color:#ffffff;">' . esc_html( $r[1] ) . '/5</strong> ' . divulge_rv_stars( $r[1], 20 ) . '</span>'
-			. '<span style="display:block; font-size:14px; font-style:italic; color:#ffffff;">Based on <span style="text-decoration:underline;">' . esc_html( $r[2] ) . '+ reviews</span> on ' . esc_html( $r[0] ) . '</span>'
+			. '<span style="display:block; text-align:left; line-height:1.25;">'
+			. '<span style="display:block;"><strong style="font-size:clamp(12px,2.6vw,18px); color:#ffffff;">' . esc_html( $r[1] ) . '/5</strong> ' . divulge_rv_stars( $r[1], 'clamp(10px,2.4vw,17px)' ) . '</span>'
+			. '<span style="display:block; font-size:clamp(9px,2vw,13px); font-style:italic; color:#ffffff;">Based on <span style="text-decoration:underline;">' . esc_html( $r[2] ) . '+ reviews</span></span>'
 			. '</span></a>';
 	}
-	return '<div class="divulge-reviews" style="background-color:#043D0E; border-radius:10px; padding:14px 16px; margin:0 0 20px 0; display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:12px 40px;">'
+	return '<div class="divulge-reviews" style="background-color:#043D0E; border-radius:10px; padding:10px clamp(8px,2vw,16px); margin:0 0 20px 0; display:flex; flex-wrap:nowrap; justify-content:space-evenly; align-items:center; gap:clamp(8px,3vw,36px); overflow-x:auto;">'
 		. $cards . '</div>';
 }
 
