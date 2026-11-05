@@ -404,3 +404,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-04 | https://divulgeadventures.com/wp-content/uploads/2026/04/game-drive-queen.jpg | uganda-in-february
 2026-11-04 | https://divulgeadventures.com/wp-content/uploads/2026/10/shoebill-with-its-huge-bill-against-green-foliage.jpg | uganda-in-february
 2026-11-04 | https://images.unsplash.com/photo-1583140310426-9187b6489be3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8VWdhbmRhJTIwbGFuZHNjYXBlfGVufDB8MHx8fDE3OTM3OTQwMTh8Mg&ixlib=rb-4.1.0&q=80&w=1080 | uganda-in-february
+2026-11-05 | https://images.unsplash.com/photo-1763220207281-c4d0febb61a8 | namugongo-pilgrimage
+2026-11-05 | https://images.unsplash.com/photo-1675756261486-09bd1e0f6c8a | namugongo-pilgrimage
+2026-11-05 | https://images.unsplash.com/photo-1621367296494-e64fd2a2d890 | namugongo-pilgrimage
+2026-11-05 | https://images.unsplash.com/photo-1621368731620-97e391550ab8 | namugongo-pilgrimage
+2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-in-the-dense-forest-of-kibale.jpg | namugongo-pilgrimage
+2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2026/04/lion-in-queen-elizabeth-national-park.jpg | namugongo-pilgrimage

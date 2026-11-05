@@ -67,3 +67,5 @@ nogatsaa
 ikoma
 muthu
 headcount
+namugongo
+munyonyo

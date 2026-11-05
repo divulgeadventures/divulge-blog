@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-05 07:00 | New post 1
+- "Namugongo Pilgrimage Planning Starts With Where Your Church Group Sleeps on 2 June": https://divulgeadventures.com/namugongo-pilgrimage/
+- Uganda (UG-312, today's group post, faith), Safari Themes; focus keyword refined from "namugongo martyrs day pilgrimage" to "namugongo pilgrimage". Scheduled for 5 Nov 10:00 Nairobi time. Covers the 2026 postponement (Ebola) and the 28 Oct 2026 US Embassy health alert honestly, tells readers to check official advice; visa US$50 checked on immigration.go.ug (November 2026). No gorilla permit price stated. Links /group-safaris/, organise-a-group-safari, the group inquiry button and the 7-day primate and 4-day Bwindi trips.
+- Images: 2 from the owner's Media Library (Kibale chimpanzee, Queen Elizabeth lion) and 4 from Unsplash (featured Kampala from Nsambya; Kampala city view, Ggaba beach on Lake Victoria, Muyenga Hill in the body).
+- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
+- Could not open: gov.uk FCDO Uganda travel advice (permission request timed out).
+
 ## 2026-11-04 19:10 | Failed (duplicate discarded)
 - This run (started 18:49) wrote a Uganda safari in February post (UG-041) as 4 November's post 3, but at push time another run had already published the same row as https://divulgeadventures.com/uganda-in-february/. This copy was discarded; no post or planning-file changes from this run. Today's 3 new posts are done; refresh paused.
 - Accuracy note for the owner: the published Uganda in February post gives the gorilla permit as US$1,000 from 1 January 2027. The UWA 2024-2026 tariff shows US$800, and most recent reports (and a March 2026 Capital Times report on the UWA tariff) say US$800 continues; only some sources say US$1,000. Worth checking that figure with UWA.
