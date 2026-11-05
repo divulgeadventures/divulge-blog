@@ -4,30 +4,54 @@
  *    (homepage below the banner, footer). [divulge_reviews compact="1"] gives a one-line version.
  * 2. Shown automatically at the top of every safari package (trip) page and on the
  *    quote form, group inquiry, contact and about pages.
- * Update the numbers below when your review counts change.
+ * Update the numbers below when your review counts change (they do not update by themselves).
+ * Optional logo: upload the platform's official badge to Media and paste its URL as the 5th value.
  * WPCode: PHP Snippet, Auto Insert, Run Everywhere.
  */
 
 function divulge_rv_data() {
 	return array(
-		array( 'TripAdvisor', '4.9', '74', 'https://www.tripadvisor.com/Attraction_Review-g294207-d21179070-Reviews-Divulge_Adventures-Nairobi.html' ),
-		array( 'SafariBookings', '5.0', '66', 'https://www.safaribookings.com/reviews/p5368' ),
+		// Platform, rating, review count, review page URL, logo URL (optional)
+		array( 'TripAdvisor', '4.9', '74', 'https://www.tripadvisor.com/Attraction_Review-g294207-d21179070-Reviews-Divulge_Adventures-Nairobi.html', '' ),
+		array( 'SafariBookings', '5.0', '66', 'https://www.safaribookings.com/reviews/p5368', '' ),
 	);
 }
 
+function divulge_rv_stars( $rating, $size ) {
+	$out = '';
+	for ( $i = 1; $i <= 5; $i++ ) {
+		$fill = max( 0, min( 1, (float) $rating - ( $i - 1 ) ) ) * 100;
+		$out .= '<span style="display:inline-block; font-size:' . $size . 'px; line-height:1; background:linear-gradient(90deg,#F2B544 ' . $fill . '%,rgba(255,255,255,0.3) ' . $fill . '%); -webkit-background-clip:text; background-clip:text; color:transparent;">&#9733;</span>';
+	}
+	return $out;
+}
+
 function divulge_rv_bar( $compact = false ) {
-	$items = array();
-	foreach ( divulge_rv_data() as $r ) {
-		$items[] = '<a href="' . esc_url( $r[3] ) . '" target="_blank" rel="noopener" style="color:#043D0E; text-decoration:none; white-space:nowrap;">'
-			. '<span style="color:#C97A3D;">&#9733;&#9733;&#9733;&#9733;&#9733;</span> <strong>' . esc_html( $r[1] ) . '/5</strong> on ' . esc_html( $r[0] )
-			. ' <span style="color:#555555;">(' . esc_html( $r[2] ) . ' reviews)</span></a>';
-	}
-	$line = implode( '<span style="color:#C97A3D; margin:0 10px;">&middot;</span>', $items );
 	if ( $compact ) {
-		return '<p class="divulge-reviews" style="margin:10px 0; font-size:14px; text-align:center; line-height:1.8;">' . $line . '</p>';
+		$items = array();
+		foreach ( divulge_rv_data() as $r ) {
+			$items[] = '<a href="' . esc_url( $r[3] ) . '" target="_blank" rel="noopener" style="color:#043D0E; text-decoration:none; white-space:nowrap;">'
+				. '<span style="color:#C97A3D;">&#9733;</span> <strong>' . esc_html( $r[1] ) . '/5</strong> on ' . esc_html( $r[0] )
+				. ' <span style="color:#555555;">(' . esc_html( $r[2] ) . '+ reviews)</span></a>';
+		}
+		return '<p class="divulge-reviews" style="margin:10px 0; font-size:14px; text-align:center; line-height:1.8;">'
+			. implode( '<span style="color:#C97A3D; margin:0 10px;">&middot;</span>', $items ) . '</p>';
 	}
-	return '<div class="divulge-reviews" style="background-color:#f6efe7; border:1px solid #C97A3D; border-radius:10px; padding:12px 16px; margin:0 0 20px 0; text-align:center; font-size:15px; line-height:1.8;">'
-		. '<span style="display:block; font-weight:bold; color:#043D0E; margin-bottom:2px;">Rated excellent by our travellers</span>' . $line . '</div>';
+
+	$cards = '';
+	foreach ( divulge_rv_data() as $r ) {
+		$icon = ! empty( $r[4] )
+			? '<img src="' . esc_url( $r[4] ) . '" alt="' . esc_attr( $r[0] ) . '" style="width:44px; height:44px; border-radius:50%; object-fit:contain; background:#ffffff; flex:none;" />'
+			: '<span style="display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:50%; background:#ffffff; color:#043D0E; font-weight:bold; font-size:18px; flex:none;">' . esc_html( substr( $r[0], 0, 1 ) ) . '</span>';
+		$cards .= '<a href="' . esc_url( $r[3] ) . '" target="_blank" rel="noopener" style="display:flex; align-items:center; gap:12px; color:#ffffff; text-decoration:none; padding:4px 8px;">'
+			. $icon
+			. '<span style="display:block; text-align:left; line-height:1.3;">'
+			. '<span style="display:block; white-space:nowrap;"><strong style="font-size:20px; color:#ffffff;">' . esc_html( $r[1] ) . '/5</strong> ' . divulge_rv_stars( $r[1], 20 ) . '</span>'
+			. '<span style="display:block; font-size:14px; font-style:italic; color:#ffffff;">Based on <span style="text-decoration:underline;">' . esc_html( $r[2] ) . '+ reviews</span> on ' . esc_html( $r[0] ) . '</span>'
+			. '</span></a>';
+	}
+	return '<div class="divulge-reviews" style="background-color:#043D0E; border-radius:10px; padding:14px 16px; margin:0 0 20px 0; display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:12px 40px;">'
+		. $cards . '</div>';
 }
 
 add_shortcode( 'divulge_reviews', function ( $atts ) {
