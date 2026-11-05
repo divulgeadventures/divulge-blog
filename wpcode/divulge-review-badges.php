@@ -14,6 +14,7 @@ function divulge_rv_data() {
 		// Platform, rating, review count, review page URL, logo URL (optional)
 		array( 'TripAdvisor', '4.9', '74', 'https://www.tripadvisor.com/Attraction_Review-g294207-d21179070-Reviews-Divulge_Adventures-Nairobi.html', '' ),
 		array( 'SafariBookings', '5.0', '66', 'https://www.safaribookings.com/reviews/p5368', '' ),
+		array( 'Google', '', '', '', '' ), // fill in rating, count and your Google reviews link; hidden while rating is empty
 	);
 }
 
@@ -30,6 +31,7 @@ function divulge_rv_bar( $compact = false ) {
 	if ( $compact ) {
 		$items = array();
 		foreach ( divulge_rv_data() as $r ) {
+			if ( $r[1] === '' ) { continue; }
 			$items[] = '<a href="' . esc_url( $r[3] ) . '" target="_blank" rel="noopener" style="color:#043D0E; text-decoration:none; white-space:nowrap;">'
 				. '<span style="color:#C97A3D;">&#9733;</span> <strong>' . esc_html( $r[1] ) . '/5</strong> on ' . esc_html( $r[0] )
 				. ' <span style="color:#555555;">(' . esc_html( $r[2] ) . '+ reviews)</span></a>';
@@ -40,6 +42,7 @@ function divulge_rv_bar( $compact = false ) {
 
 	$cards = '';
 	foreach ( divulge_rv_data() as $r ) {
+		if ( $r[1] === '' ) { continue; }
 		$icon = ! empty( $r[4] )
 			? '<img src="' . esc_url( $r[4] ) . '" alt="' . esc_attr( $r[0] ) . '" style="width:44px; height:44px; border-radius:50%; object-fit:contain; background:#ffffff; flex:none;" />'
 			: '<span style="display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:50%; background:#ffffff; color:#043D0E; font-weight:bold; font-size:18px; flex:none;">' . esc_html( substr( $r[0], 0, 1 ) ) . '</span>';
