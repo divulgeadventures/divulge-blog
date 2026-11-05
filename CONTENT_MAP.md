@@ -245,3 +245,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/uganda-in-february/ (uganda in february)
 - https://divulgeadventures.com/namugongo-pilgrimage/ (namugongo pilgrimage)
 - https://divulgeadventures.com/first-kenya-safari/ (first kenya safari)
+- https://divulgeadventures.com/botswana-in-february/ (botswana in february)

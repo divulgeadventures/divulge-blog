@@ -416,3 +416,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2026/01/mara-wildebeest-migration-2.jpg | first-kenya-safari
 2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2026/08/gamedrive_nairobi_national_park-scaled.jpg | first-kenya-safari
 2026-11-05 | https://images.unsplash.com/photo-1709420838688-ccd0517d6a2d | first-kenya-safari
+2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2026/06/BOTSWANA-SAFARI.jpg | botswana-in-february
+2026-11-05 | https://images.unsplash.com/photo-1589658521797-9452827e1400?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8Qm90c3dhbmElMjBsaW9ufGVufDB8MHx8fDE3OTM4Nzk3OTN8Mg&ixlib=rb-4.1.0&q=80&w=1080 | botswana-in-february
+2026-11-05 | https://images.unsplash.com/photo-1612434140886-cc27133e4bd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8TnhhaSUyMFBhbnxlbnwwfDB8fHwxNzkzODc5Nzg4fDI&ixlib=rb-4.1.0&q=80&w=1080 | botswana-in-february
+2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2026/06/okavango-delta-1.jpg | botswana-in-february
+2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-Khwai.jpg | botswana-in-february
+2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2025/11/wgf_9235.jpg | botswana-in-february

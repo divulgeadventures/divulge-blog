@@ -84,3 +84,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-04 | Uganda UG-041 | Destination Tips | uganda in february | uganda-in-february
 2026-11-05 | Uganda UG-312 | Safari Themes | namugongo pilgrimage | namugongo-pilgrimage
 2026-11-05 | Kenya KE-010 | Safari Planning Tips | first kenya safari | first-kenya-safari
+2026-11-05 | Botswana BW-186 | Destination Tips | botswana in february | botswana-in-february

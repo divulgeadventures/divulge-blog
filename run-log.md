@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-05 15:20 | New post 3
+- "Is Botswana in February Worth It for Zebra Herds, Green Pans and Quieter Camps?": https://divulgeadventures.com/botswana-in-february/
+- Botswana (BW-186, seasonal row for February), Destination Tips. Scheduled for 5 Nov 18:00 Nairobi time. Maun climate averages (about 32°C/19°C, 104 mm, 11 rainy days) checked November 2026; zebra timing from the Oryx study and published reporting; Chobe/Moremi fee P270 as checked November 2026. No Divulge prices quoted.
+- Images: 4 from the owner's Media Library (featured Botswana safari; Okavango, Moremi-Khwai and Kalahari Expedition in the body) and 2 from Unsplash (lion on green grass, Botswana; zebra drinking). 5 body images in total.
+- Skipped topics: none. Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md. Today's 3 new posts are complete.
+- Could not open: fitfortravel.nhs.uk Botswana page (permission request timed out; linked the Scottish NHS Fit for Travel page already used in earlier posts), 4x4afrika.com Nxai Pan guide (bot check page).
+
 ## 2026-11-05 11:03 Trip Optimiser
 - Done: 11 Days 10 Nights Tanzania Safari and Zanzibar Beach Holiday (ID 9504, "11 day tanzania safari and zanzibar beach holiday", tanzania-9504-11-day-tanzania-safari-and-zanzibar-beach-holiday.json); 10-Day Tanzania Safari & Zanzibar Beach (ID 9527, "10 day tanzania safari and zanzibar beach", tanzania-9527-10-day-tanzania-safari-and-zanzibar-beach.json). Both read from the site-data copy (snapshot 2026-11-05 03:37 UTC); the live site was not opened. 9504 uses "From USD 3,908 per adult" (single price on the page); 9527 uses "From USD 6,130 per adult (USD 4,590 per child)". The two pages now link to each other as sister trips.
 - Photos: 9504 5 owner/Media Library + 1 Unsplash (Stone Town building, Alferio Njau); 9527 7 owner/Media Library + 0 new Unsplash (credit line names Humphrey M because the Media Library Zanzibar beach and sailing-boat photos are copies of his Unsplash photos). Dropped from 9504: guests_on_safari-24-1.jpg (people as the main subject; it was the featured image). No Unsplash photo of Lake Manyara had a description confirming the place, so none was used.
