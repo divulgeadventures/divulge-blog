@@ -56,6 +56,17 @@ add_action( 'wp_footer', function () {
 			if (getComputedStyle(row).position === 'static') row.style.position = 'relative';
 			menu.style.marginLeft = 'auto';
 			menu.insertAdjacentHTML('beforebegin', strip);
+
+			// Move the GTranslate language selector (Secondary menu) to the left end of the bar.
+			var gt = head.querySelector('.gtranslate_wrapper, [class*="gtranslate"], .gt_selector, .gt-current-lang');
+			if (gt) {
+				var item = gt.closest('li') || gt;
+				var left = document.createElement('div');
+				left.className = 'divulge-topbar-lang';
+				left.style.cssText = 'display:flex; align-items:center; list-style:none; margin:0; padding:0;';
+				left.appendChild(item);
+				row.insertBefore(left, row.firstChild);
+			}
 		}
 		if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', run); else run();
 	})();
