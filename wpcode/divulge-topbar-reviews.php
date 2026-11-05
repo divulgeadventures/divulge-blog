@@ -1,7 +1,7 @@
 /**
  * Divulge – top bar reviews
- * Green top bar: hides the social icons, phone and email, and shows the review
- * cards (same style as the trip pages) next to the menu.
+ * Shows the review cards (same style as the trip pages) in the centre of the green
+ * top bar. Turn off the social icons, phone and email in the theme's top bar settings.
  * Needs the "Divulge – Review trust bar" snippet to be active (logos + live numbers).
  * WPCode: PHP Snippet, Auto Insert, Run Everywhere.
  */
@@ -47,19 +47,13 @@ add_action( 'wp_footer', function () {
 			// Top bar row = smallest block holding both the email link and the B2B menu link.
 			var b2b = head.querySelector('a[href*="b2b-agent-rates"]');
 			if (!b2b) return;
+			// Top bar row = the first block around the menu that spans most of the screen.
 			var row = b2b.parentElement;
-			while (row && row !== head && !row.querySelector('a[href^="mailto:"], a[href^="tel:"]')) row = row.parentElement;
+			while (row && row !== head && row.getBoundingClientRect().width < window.innerWidth * 0.6) row = row.parentElement;
 			if (!row || row === head) return;
 			var menu = b2b;
 			while (menu.parentElement && menu.parentElement !== row) menu = menu.parentElement;
 
-			// Hide the left side (social icons, phone, email) so only reviews and menu remain.
-			Array.prototype.forEach.call(row.children, function (c) {
-				if (c !== menu && !c.contains(menu)) c.style.display = 'none';
-			});
-
-			// Reviews go before the menu, centred in the free space.
-			// Centre the reviews in the bar; keep the menu on the right.
 			if (getComputedStyle(row).position === 'static') row.style.position = 'relative';
 			menu.style.marginLeft = 'auto';
 			menu.insertAdjacentHTML('beforebegin', strip);
