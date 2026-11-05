@@ -410,3 +410,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-05 | https://images.unsplash.com/photo-1621368731620-97e391550ab8 | namugongo-pilgrimage
 2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-in-the-dense-forest-of-kibale.jpg | namugongo-pilgrimage
 2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2026/04/lion-in-queen-elizabeth-national-park.jpg | namugongo-pilgrimage
+2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge-adventures.jpg | first-kenya-safari
+2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2025/11/IMG_5961_1_11zon-scaled.jpg | first-kenya-safari
+2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2026/05/luxury-safari-lake-nakuru-national-park-atractions-flamingo-sighting.jpg | first-kenya-safari
+2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2026/01/mara-wildebeest-migration-2.jpg | first-kenya-safari
+2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2026/08/gamedrive_nairobi_national_park-scaled.jpg | first-kenya-safari
+2026-11-05 | https://images.unsplash.com/photo-1709420838688-ccd0517d6a2d | first-kenya-safari
