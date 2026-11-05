@@ -66,8 +66,12 @@ add_filter( 'the_content', function ( $content ) {
 	if ( strpos( $content, 'divulge-reviews' ) !== false ) {
 		return $content;
 	}
+	// Show once per page: on trip pages that is under the title (WP Travel Engine runs
+	// the content filter again for the Overview, which is skipped).
+	static $shown = false;
 	$pages = array( 'safari-proposal-request', 'group-safari-inquiry', 'contact-divulge-adventures', 'about-us' );
-	if ( is_singular( 'trip' ) || is_page( $pages ) ) {
+	if ( ! $shown && ( is_singular( 'trip' ) || is_page( $pages ) ) ) {
+		$shown = true;
 		return divulge_rv_bar() . $content;
 	}
 	return $content;
