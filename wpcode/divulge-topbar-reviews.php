@@ -36,6 +36,8 @@ add_action( 'wp_footer', function () {
 	@media (min-width:1301px){ .divulge-topbar-reviews{position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); flex:none !important;} }
 	@media (max-width:1300px){ .divulge-topbar-reviews{gap:14px !important;} }
 	@media (max-width:1024px){ .divulge-topbar-reviews{display:none !important;} }
+	.divulge-topbar-lang a, .divulge-topbar-lang a span{color:#ffffff !important; font-weight:300 !important; font-size:14px;}
+	.divulge-topbar-lang a:hover, .divulge-topbar-lang a:hover span{color:#F2B544 !important;}
 	</style>
 	<script>
 	(function () {
@@ -66,6 +68,18 @@ add_action( 'wp_footer', function () {
 				left.style.cssText = 'display:flex; align-items:center; list-style:none; margin:0; padding:0;';
 				left.appendChild(item);
 				row.insertBefore(left, row.firstChild);
+
+				// Show short codes (EN, FR, IT, ES) instead of full language names.
+				var CODES = { English: 'EN', French: 'FR', 'Français': 'FR', Italian: 'IT', Italiano: 'IT', Spanish: 'ES', 'Español': 'ES' };
+				var shorten = function () {
+					var w = document.createTreeWalker(left, NodeFilter.SHOW_TEXT);
+					while (w.nextNode()) {
+						var t = w.currentNode.nodeValue.trim();
+						if (CODES[t] && !w.currentNode.parentElement.closest('.dvg-cur, ul ul, .gt_options, [class*="popup"]')) w.currentNode.nodeValue = CODES[t];
+					}
+				};
+				shorten();
+				new MutationObserver(shorten).observe(left, { childList: true, subtree: true, characterData: true });
 			}
 		}
 		if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', run); else run();
