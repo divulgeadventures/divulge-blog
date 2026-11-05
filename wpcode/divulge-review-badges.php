@@ -13,9 +13,9 @@ function divulge_rv_data() {
 	// Fallback numbers, used only if the live file below cannot be read.
 	$rows = array(
 		// Platform, rating, review count, review page URL, logo URL (optional)
-		array( 'TripAdvisor', '4.9', '74', 'https://www.tripadvisor.com/Attraction_Review-g294207-d21179070-Reviews-Divulge_Adventures-Nairobi.html', '' ),
-		array( 'SafariBookings', '5.0', '66', 'https://www.safaribookings.com/reviews/p5368', '' ),
-		array( 'Google', '', '', '', '' ),
+		array( 'TripAdvisor', '4.9', '74', 'https://www.tripadvisor.com/Attraction_Review-g294207-d21179070-Reviews-Divulge_Adventures-Nairobi.html', 'https://divulgeadventures.com/wp-content/uploads/2026/11/tripadvisor-logo.png' ),
+		array( 'SafariBookings', '5.0', '66', 'https://www.safaribookings.com/reviews/p5368', 'https://divulgeadventures.com/wp-content/uploads/2026/11/sfaribookings-logo.png' ),
+		array( 'Google', '', '', 'https://g.page/r/CVKcxEFvUH1zEAI/review', 'https://divulgeadventures.com/wp-content/uploads/2026/11/google-logo.png' ),
 	);
 
 	// Live numbers: a monthly task refreshes site-data/reviews.json in the blog repo.

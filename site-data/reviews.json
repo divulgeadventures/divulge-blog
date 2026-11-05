@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-05",
   "platforms": [
-    {"name": "TripAdvisor", "rating": "4.9", "count": "74", "url": "https://www.tripadvisor.com/Attraction_Review-g294207-d21179070-Reviews-Divulge_Adventures-Nairobi.html"},
-    {"name": "SafariBookings", "rating": "5.0", "count": "66", "url": "https://www.safaribookings.com/reviews/p5368"},
-    {"name": "Google", "rating": "", "count": "", "url": ""}
+    {
+      "name": "TripAdvisor",
+      "rating": "4.9",
+      "count": "74",
+      "url": "https://www.tripadvisor.com/Attraction_Review-g294207-d21179070-Reviews-Divulge_Adventures-Nairobi.html"
+    },
+    {
+      "name": "SafariBookings",
+      "rating": "5.0",
+      "count": "66",
+      "url": "https://www.safaribookings.com/reviews/p5368"
+    },
+    {
+      "name": "Google",
+      "rating": "",
+      "count": "",
+      "url": "https://g.page/r/CVKcxEFvUH1zEAI/review"
+    }
   ]
 }
