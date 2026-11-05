@@ -24,7 +24,7 @@ add_action( 'wp_footer', function () {
 			continue;
 		}
 		$cards .= '<a href="' . esc_url( $r[3] ) . '" target="_blank" rel="noopener" style="display:flex; align-items:center; gap:7px; color:#ffffff; text-decoration:none; white-space:nowrap;">'
-			. ( $r[4] ? '<img src="' . esc_url( $r[4] ) . '" alt="' . esc_attr( $r[0] ) . '" style="width:26px; height:26px; border-radius:50%; background:#ffffff; object-fit:contain; flex:none; margin:0;" />' : '' )
+			. ( $r[4] ? '<img src="' . esc_url( $r[4] ) . '" alt="' . esc_attr( $r[0] ) . '" style="width:20px; height:20px; border-radius:50%; background:#ffffff; object-fit:contain; flex:none; margin:0;" />' : '' )
 			. '<span style="display:block; text-align:left; line-height:1.15;">'
 			. '<span style="display:block;"><span style="font-size:15px; font-weight:300; color:#ffffff;">' . esc_html( $r[1] ) . '/5</span> ' . divulge_rv_stars( $r[1], '15px' ) . '</span>'
 			. '<span class="divulge-tb-based" style="display:block; font-size:12px; font-weight:300; font-style:italic; color:#ffffff;">Based on <span style="text-decoration:underline;">' . esc_html( $r[2] ) . '+ reviews</span></span>'
