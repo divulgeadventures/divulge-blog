@@ -69,13 +69,16 @@ add_action( 'wp_footer', function () {
 				left.appendChild(item);
 				row.insertBefore(left, row.firstChild);
 
-				// Show short codes (EN, FR, IT, ES) instead of full language names.
+				// Short code (EN, FR, IT, ES) on the current language only; the drop-down list keeps full names.
 				var CODES = { English: 'EN', French: 'FR', 'Français': 'FR', Italian: 'IT', Italiano: 'IT', Spanish: 'ES', 'Español': 'ES' };
+				var RX = /English|Français|French|Italiano|Italian|Español|Spanish/g;
 				var shorten = function () {
 					var w = document.createTreeWalker(left, NodeFilter.SHOW_TEXT);
 					while (w.nextNode()) {
-						var t = w.currentNode.nodeValue.trim();
-						if (CODES[t] && !w.currentNode.parentElement.closest('.dvg-cur, ul ul, .gt_options, [class*="popup"]')) w.currentNode.nodeValue = CODES[t];
+						var n = w.currentNode, list = n.parentElement.closest('ul');
+						if (n.parentElement.closest('.dvg-cur') || (list && left.contains(list))) continue;
+						var v = n.nodeValue.replace(RX, function (m) { return CODES[m]; });
+						if (v !== n.nodeValue) n.nodeValue = v;
 					}
 				};
 				shorten();
