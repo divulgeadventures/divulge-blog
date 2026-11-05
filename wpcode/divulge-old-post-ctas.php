@@ -6,6 +6,7 @@
  *  1. Trip box (green) – after the middle H2, linking the best-matching money page;
  *  2. "Get My Free Safari Quote" (orange) – before the last H2 (usually the FAQ);
  *  3. "Chat on WhatsApp" – at the very end, pre-filled with the post title.
+ * With the review snippet active, a one-line TripAdvisor/SafariBookings rating sits under box 2.
  * Display only: post content in the database is never changed, so a later refresh that
  * adds the boxes for real simply switches this off for that post. Not shown in feeds.
  * WPCode: PHP Snippet, Auto Insert, Run Everywhere.
@@ -76,6 +77,11 @@ add_filter( 'the_content', function ( $content ) {
 		$content = substr_replace( $content, $trip, $mid, 0 );
 	} else {
 		$content .= $trip . $quote;
+	}
+
+	// One-line review rating under the orange quote box (uses the review snippet when active).
+	if ( function_exists( 'divulge_rv_bar' ) ) {
+		$content = str_replace( $quote, $quote . divulge_rv_bar( true ), $content );
 	}
 
 	return $content . $wa;

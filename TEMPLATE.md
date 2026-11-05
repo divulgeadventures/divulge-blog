@@ -61,7 +61,7 @@ Image alt text:
 - Length: at least 1,600 words; aim for 1,800-2,300. Pillar posts 2,500+.
 - Keyword density: 1-1.2%, spread naturally (intro, an H2, an H3, body, Final Thoughts).
 - Internal links: at least 3 internal links: 1+ to a money page (destination, activity, trip or mountain climbing page on divulgeadventures.com), 2+ to existing Divulge Diaries posts listed in CONTENT_MAP.md (never the post itself).
-- External link: at least 1 dofollow link to an authority source (official park, tourism board, government, WHO/CDC/NHS travel health, IATA, UNESCO) with target="_blank" rel="noopener". Never nofollow. Never link to other tour operators or booking sites (no Safaribookings, TripAdvisor tour listings, Viator, GetYourGuide, competitor agencies).
+- External link: at least 1 dofollow link to an authority source (official park, tourism board, government, WHO/CDC/NHS travel health, IATA, UNESCO) with target="_blank" rel="noopener". Never nofollow. Never link to other tour operators or booking sites (no Safaribookings, TripAdvisor tour listings, Viator, GetYourGuide, competitor agencies). The only exception is Divulge's own review line under the Plan My Safari CTA (exact TripAdvisor and SafariBookings profile links shown there).
 - Paragraphs under 120 words, ideally 2-4 sentences.
 - No bold inside paragraphs. Bold labels in lists and boxes are fine.
 - At least 4 images inside the body (the featured image does not count), spread across different sections, no image used twice in a post. The first has the keyword in its alt text; the others describe what they show.
@@ -112,6 +112,7 @@ Table style (copy exactly; every <th> carries its own light background and dark 
   <p style="margin:0 0 16px 0; font-size:14px; color:#333333; line-height:1.6;">Tell us your dates, budget and dream sightings, and our Nairobi team will send you a free tailor-made itinerary and quote.</p>
   <a href="https://divulgeadventures.com/safari-proposal-request/" target="_blank" style="display:inline-block; background-color:#C97A3D; color:#ffffff; padding:12px 28px; border-radius:30px; text-decoration:none; font-weight:bold; font-size:15px;">Get My Free Safari Quote</a>
 </div>
+<p class="divulge-reviews" style="margin:10px 0; font-size:14px; text-align:center; line-height:1.8;"><a href="https://www.tripadvisor.com/Attraction_Review-g294207-d21179070-Reviews-Divulge_Adventures-Nairobi.html" target="_blank" rel="noopener" style="color:#043D0E; text-decoration:none;"><span style="color:#C97A3D;">&#9733;&#9733;&#9733;&#9733;&#9733;</span> <strong>4.9/5</strong> on TripAdvisor</a> <span style="color:#C97A3D;">&middot;</span> <a href="https://www.safaribookings.com/reviews/p5368" target="_blank" rel="noopener" style="color:#043D0E; text-decoration:none;"><span style="color:#C97A3D;">&#9733;&#9733;&#9733;&#9733;&#9733;</span> <strong>5.0/5</strong> on SafariBookings</a></p>
 
 ### WhatsApp CTA (very end). Replace [POST_TOPIC] with the topic URL-encoded (spaces as %20):
 

@@ -21,6 +21,8 @@ MONEY_PATHS = ("/destinations/", "/activities/", "/trip-types/", "/trip/",
 NOT_BLOG = MONEY_PATHS + ("/safari-proposal-request/", "/category/", "/divulge-diaries/",
                           "/travel-insurance", "/flying-doctors", "/yellow-fever", "/wp-content/")
 BANNED_DOMAINS = ("safaribookings", "tripadvisor", "viator", "getyourguide", "hikingoutdoorhub")
+# Divulge's own review profiles (review line under the Plan My Safari CTA) are allowed.
+OWN_REVIEWS = ("tripadvisor.com/Attraction_Review-g294207-d21179070", "safaribookings.com/reviews/p5368")
 
 
 class Parser(HTMLParser):
@@ -316,7 +318,7 @@ def check(path):
     blog = [h for h in internal if not any(x in h for x in NOT_BLOG) and h.rstrip("/").split("/")[-1] != p["slug"]
             and h.rstrip("/") not in ("https://divulgeadventures.com", "https://www.divulgeadventures.com")]
     external = [a for a in ps.links if a.get("href", "").startswith("http") and SITE not in a.get("href", "")
-                and "wa.me" not in a.get("href", "")]
+                and "wa.me" not in a.get("href", "") and not any(o in a.get("href", "") for o in OWN_REVIEWS)]
     if len(money) < 1:
         errs.append("needs a link to a money page (destination/activity/trip/climbing)")
     if len(set(blog)) < 2:
@@ -327,7 +329,7 @@ def check(path):
     if not good_ext:
         errs.append("needs 1 dofollow external link with rel=\"noopener\"")
     for h in hrefs:
-        if any(b in h.lower() for b in BANNED_DOMAINS):
+        if any(b in h.lower() for b in BANNED_DOMAINS) and not any(o in h for o in OWN_REVIEWS):
             errs.append(f"banned link: {h}")
 
     # Images
