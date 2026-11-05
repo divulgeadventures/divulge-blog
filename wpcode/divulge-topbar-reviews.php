@@ -24,10 +24,10 @@ add_action( 'wp_footer', function () {
 		if ( $r[1] === '' ) {
 			continue;
 		}
-		$cards .= '<a href="' . esc_url( $r[3] ) . '" target="_blank" rel="noopener" style="display:flex; align-items:center; gap:8px; color:#ffffff; text-decoration:none; white-space:nowrap;">'
-			. ( $r[4] ? '<img src="' . esc_url( $r[4] ) . '" alt="' . esc_attr( $r[0] ) . '" style="width:32px; height:32px; border-radius:50%; background:#ffffff; object-fit:contain; flex:none; margin:0;" />' : '' )
-			. '<span style="display:block; text-align:left; line-height:1.2;">'
-			. '<span style="display:block;"><strong style="font-size:15px; color:#ffffff;">' . esc_html( $r[1] ) . '/5</strong> ' . divulge_rv_stars( $r[1], '14px' ) . '</span>'
+		$cards .= '<a href="' . esc_url( $r[3] ) . '" target="_blank" rel="noopener" style="display:flex; align-items:center; gap:7px; color:#ffffff; text-decoration:none; white-space:nowrap;">'
+			. ( $r[4] ? '<img src="' . esc_url( $r[4] ) . '" alt="' . esc_attr( $r[0] ) . '" style="width:26px; height:26px; border-radius:50%; background:#ffffff; object-fit:contain; flex:none; margin:0;" />' : '' )
+			. '<span style="display:block; text-align:left; line-height:1.15;">'
+			. '<span style="display:block;"><strong style="font-size:15px; color:#ffffff;">' . esc_html( $r[1] ) . '/5</strong> ' . divulge_rv_stars( $r[1], '15px' ) . '</span>'
 			. '<span class="divulge-tb-based" style="display:block; font-size:12px; font-style:italic; color:#ffffff;">Based on <span style="text-decoration:underline;">' . esc_html( $r[2] ) . '+ reviews</span></span>'
 			. '</span></a>';
 	}
@@ -35,7 +35,7 @@ add_action( 'wp_footer', function () {
 	$wa    = 'https://wa.me/254706223888?text=' . rawurlencode( 'Hi Divulge Adventures, I would like to plan a safari.' );
 	?>
 	<style>
-	@media (max-width:1300px){ .divulge-tb-based{display:none !important;} .divulge-topbar-reviews{gap:14px !important;} }
+	@media (max-width:1300px){ .divulge-topbar-reviews{gap:14px !important;} }
 	@media (max-width:1024px){ .divulge-topbar-reviews{display:none !important;} }
 	</style>
 	<script>
