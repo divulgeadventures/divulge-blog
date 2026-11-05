@@ -60,22 +60,24 @@ add_action( 'wp_footer', function () {
 				}
 			});
 
-			// 3. Find the social icons block and the top bar row around it.
+			// 3. Hide the social icons (if they are still switched on in the theme).
 			var first = head.querySelector('a[href*="facebook.com"], a[href*="instagram.com"]');
-			if (!first) return;
-			var box = first.parentElement;
-			while (box && box !== head && box.querySelectorAll(SOCIAL).length < 2) box = box.parentElement;
-			if (!box || box === head) return;
-			var row = box.parentElement;
-			while (row && row !== head && !row.querySelector('a[href*="b2b-agent-rates"], nav, .menu')) row = row.parentElement;
-			if (!row || row === head) return;
+			if (first) {
+				var box = first.parentElement;
+				while (box && box !== head && box.querySelectorAll(SOCIAL).length < 2) box = box.parentElement;
+				if (box && box !== head) box.style.display = 'none';
+			}
 
-			// The row's direct child that holds the menu (right side).
-			var menu = row.querySelector('a[href*="b2b-agent-rates"], nav, .menu');
+			// 4. Top bar row = smallest block holding both the email link and the B2B menu link.
+			var b2b = head.querySelector('a[href*="b2b-agent-rates"]');
+			if (!b2b) return;
+			var row = b2b.parentElement;
+			while (row && row !== head && !row.querySelector('a[href^="mailto:"]')) row = row.parentElement;
+			if (!row || row === head) return;
+			var menu = b2b;
 			while (menu.parentElement && menu.parentElement !== row) menu = menu.parentElement;
 
-			// 4. Remove the social icons, put the reviews between contacts and menu.
-			box.style.display = 'none';
+			// 5. Reviews go between the contact details and the menu.
 			menu.insertAdjacentHTML('beforebegin', strip);
 		}
 		if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', run); else run();
