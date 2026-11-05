@@ -4,18 +4,44 @@
  *    (homepage below the banner, footer). [divulge_reviews compact="1"] gives a one-line version.
  * 2. Shown automatically at the top of every safari package (trip) page and on the
  *    quote form, group inquiry, contact and about pages.
- * Update the numbers below when your review counts change (they do not update by themselves).
+ * Review numbers update automatically each month from site-data/reviews.json in the blog repo.
  * Optional logo: upload the platform's official badge to Media and paste its URL as the 5th value.
  * WPCode: PHP Snippet, Auto Insert, Run Everywhere.
  */
 
 function divulge_rv_data() {
-	return array(
+	// Fallback numbers, used only if the live file below cannot be read.
+	$rows = array(
 		// Platform, rating, review count, review page URL, logo URL (optional)
 		array( 'TripAdvisor', '4.9', '74', 'https://www.tripadvisor.com/Attraction_Review-g294207-d21179070-Reviews-Divulge_Adventures-Nairobi.html', '' ),
 		array( 'SafariBookings', '5.0', '66', 'https://www.safaribookings.com/reviews/p5368', '' ),
-		array( 'Google', '', '', '', '' ), // fill in rating, count and your Google reviews link; hidden while rating is empty
+		array( 'Google', '', '', '', '' ),
 	);
+
+	// Live numbers: a monthly task refreshes site-data/reviews.json in the blog repo.
+	// Read at most every 12 hours; logos always come from the rows above.
+	$live = get_transient( 'divulge_rv_live' );
+	if ( false === $live ) {
+		$args = array( 'timeout' => 5 );
+		if ( defined( 'DVG_GH_TOKEN' ) && DVG_GH_TOKEN ) {
+			$args['headers'] = array( 'Authorization' => 'Bearer ' . DVG_GH_TOKEN );
+		}
+		$res  = wp_remote_get( 'https://raw.githubusercontent.com/divulgeadventures/divulge-blog/main/site-data/reviews.json', $args );
+		$json = ( ! is_wp_error( $res ) && 200 === wp_remote_retrieve_response_code( $res ) ) ? json_decode( wp_remote_retrieve_body( $res ), true ) : null;
+		$live = ( is_array( $json ) && ! empty( $json['platforms'] ) ) ? $json['platforms'] : array();
+		set_transient( 'divulge_rv_live', $live, $live ? 12 * HOUR_IN_SECONDS : HOUR_IN_SECONDS );
+	}
+	foreach ( $rows as &$row ) {
+		foreach ( (array) $live as $p ) {
+			if ( isset( $p['name'] ) && $p['name'] === $row[0] && ! empty( $p['rating'] ) ) {
+				$row[1] = (string) $p['rating'];
+				$row[2] = (string) ( $p['count'] ?? $row[2] );
+				$row[3] = ! empty( $p['url'] ) ? $p['url'] : $row[3];
+			}
+		}
+	}
+	unset( $row );
+	return $rows;
 }
 
 function divulge_rv_stars( $rating, $size ) {
