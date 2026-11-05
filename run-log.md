@@ -6,7 +6,7 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ## 2026-11-05 15:20 | New post 3
 - "Is Botswana in February Worth It for Zebra Herds, Green Pans and Quieter Camps?": https://divulgeadventures.com/botswana-in-february/
-- Botswana (BW-186, seasonal row for February), Destination Tips. Scheduled for 5 Nov 18:00 Nairobi time. Maun climate averages (about 32°C/19°C, 104 mm, 11 rainy days) checked November 2026; zebra timing from the Oryx study and published reporting; Chobe/Moremi fee P270 as checked November 2026. No Divulge prices quoted.
+- Botswana (BW-186, seasonal row for February), Destination Tips. Scheduled for 5 Nov 19:00 Nairobi time (18:00 had passed by commit time). Maun climate averages (about 32°C/19°C, 104 mm, 11 rainy days) checked November 2026; zebra timing from the Oryx study and published reporting; Chobe/Moremi fee P270 as checked November 2026. No Divulge prices quoted.
 - Images: 4 from the owner's Media Library (featured Botswana safari; Okavango, Moremi-Khwai and Kalahari Expedition in the body) and 2 from Unsplash (lion on green grass, Botswana; zebra drinking). 5 body images in total.
 - Skipped topics: none. Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md. Today's 3 new posts are complete.
 - Could not open: fitfortravel.nhs.uk Botswana page (permission request timed out; linked the Scottish NHS Fit for Travel page already used in earlier posts), 4x4afrika.com Nxai Pan guide (bot check page).
