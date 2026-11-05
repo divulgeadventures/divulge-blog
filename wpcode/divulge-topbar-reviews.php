@@ -44,7 +44,6 @@ add_action( 'wp_footer', function () {
 			var head = document.querySelector('header') || document.body;
 			if (head.querySelector('.divulge-topbar-reviews')) return;
 
-			// Top bar row = smallest block holding both the email link and the B2B menu link.
 			var b2b = head.querySelector('a[href*="b2b-agent-rates"]');
 			if (!b2b) return;
 			// Top bar row = the first block around the menu that spans most of the screen.
