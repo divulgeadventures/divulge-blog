@@ -20,7 +20,7 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Could not open: none.
 - Next: chimpanzee-trekking-and-wildlife-safari (Uganda), 4-day-queen-elizabeth-national-park (Uganda).
 
-## 2026-11-06 07:15 | New post 1
+## 2026-11-06 09:20 | New post 1
 - "A Charity Kilimanjaro Climb That Raises More for the Cause Than It Spends Getting There": https://divulgeadventures.com/charity-kilimanjaro-climb/
 - Tanzania (TZ-322, today's group post: charity), Safari Themes. Scheduled for 6 Nov 10:00 Nairobi time. Covers self-funded vs minimum sponsorship, UK Gift Aid connected-person rule (gov.uk), Fundraising Regulator advice, KINAPA fees (checked November 2026) and KPAP porter standards; differentiated from /kilimanjaro-group-climb/ and linked to it. No Divulge prices quoted.
 - Images: 4 from the owner's Media Library (featured Machame route; Machame, Kilimanjaro hike and Marangu route in the body) and 2 from Unsplash (Kilimanjaro glacier; Rongai route view to Mawenzi). 5 body images. No photo credits (owner's rule); removed the credit requirement from CONTENT_MAP.md.
