@@ -4,7 +4,7 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
-## 2026-11-06 15:20 | New post 3
+## 2026-11-06 17:36 | New post 3
 - "Seeing Nairobi's Baby Elephants and Giraffes in One Unhurried Morning": https://divulgeadventures.com/elephant-orphanage-and-giraffe-centre/
 - Kenya (KE-011, core topic), Safari Themes. Scheduled for 6 Nov 18:00 Nairobi time. Focus keyword refined from "giraffe centre and sheldrick elephant orphanage" to "elephant orphanage and giraffe centre" (the phrase people search). Facts from the Sheldrick Wildlife Trust nursery page and FAQs (11am-12 noon, email booking, US$20/US$5 cash donation, KWS park ticket needed via Mbagathi Gate) and the Giraffe Centre FAQs and About page (9am-5pm, KES 1,500/750, 60-acre sanctuary, founded 1979); KWS US$80 Nairobi NP fee, all checked November 2026. No Divulge prices quoted.
 - Images: 3 from the owner's Media Library (Nairobi National Park x2, Rothschild's giraffes at Lake Nakuru) and 4 from Unsplash (featured Rothschild's giraffe at the Giraffe Centre; Sheldrick baby elephant bottle feed, giraffe feeding at the Nairobi sanctuary, warthog at the sanctuary in the body). 6 body images, no photo credits. Added "mbagathi" and "vaping" to spelling-allowlist.txt.
