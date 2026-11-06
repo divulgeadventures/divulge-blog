@@ -422,3 +422,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2026/06/okavango-delta-1.jpg | botswana-in-february
 2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-Khwai.jpg | botswana-in-february
 2026-11-05 | https://divulgeadventures.com/wp-content/uploads/2025/11/wgf_9235.jpg | botswana-in-february
+2026-11-06 | https://divulgeadventures.com/wp-content/uploads/2026/11/mt-kilimanjaro-machame-route-7-day-climb.jpeg | charity-kilimanjaro-climb
+2026-11-06 | https://divulgeadventures.com/wp-content/uploads/2026/11/machame-route-7-day-climb-mt-kilimanjaro.jpeg | charity-kilimanjaro-climb
+2026-11-06 | https://divulgeadventures.com/wp-content/uploads/2026/11/mt-kilimanjaro-hike.jpeg | charity-kilimanjaro-climb
+2026-11-06 | https://images.unsplash.com/photo-1591803026220-6385999e82b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8S2lsaW1hbmphcm8lMjBnbGFjaWVyfGVufDB8MHx8fDE3OTM5MzcwNTJ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | charity-kilimanjaro-climb
+2026-11-06 | https://divulgeadventures.com/wp-content/uploads/2026/11/1-8-day-kilimanjaro-marangu-route.jpg | charity-kilimanjaro-climb
+2026-11-06 | https://images.unsplash.com/photo-1621414050904-cc58d558dd5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8S2lsaW1hbmphcm8lMjBnbGFjaWVyfGVufDB8MHx8fDE3OTM5MzcwNTJ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | charity-kilimanjaro-climb
