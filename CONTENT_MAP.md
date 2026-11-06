@@ -48,7 +48,7 @@ Status values: `todo`, `done YYYY-MM-DD <url>`, `skip (<reason>)`.
 - Rwanda gorilla trek: https://divulgeadventures.com/destinations/rwanda-gorilla-trek/
 - Uganda safaris: https://divulgeadventures.com/destinations/uganda-safari/
 - Botswana safaris: https://divulgeadventures.com/destinations/botswana-safari/
-- Namibia safaris: https://divulgeadventures.com/destinations/namibia-safari/
+- Namibia safaris: https://divulgeadventures.com/destinations/namibia-safari/ (owns the keyword "namibia safari": no post may target it; posts link here with anchors like "Namibia safari packages")
 - Safari deals: https://divulgeadventures.com/safari-deals-divulge-adventures/
 - Birding safaris: https://divulgeadventures.com/activities/birding-safaris/
 - Bush safaris: https://divulgeadventures.com/activities/bush-safaris-wildlife-tours/
