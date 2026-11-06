@@ -144,8 +144,10 @@ def check(path):
         warns.append("featured image alt does not contain the focus keyword")
     if len(t["gallery"]) < 4:
         warns.append(f"gallery has {len(t['gallery'])} photos (aim for 4-6). The gallery REPLACES the trip's current gallery.")
-    if any("unsplash.com" in u for u in urls) and "unsplash.com/?utm_source" not in t["overview"]:
-        fails.append("Unsplash photos used but no photographer credit line at the end of the overview")
+    # Owner's rule (6 Nov 2026): no photo credits. Never add a credit line, photographer name,
+    # "Photo by"/"via Unsplash" text, or Unsplash/photographer profile links.
+    if re.search(r"unsplash\.com/(@|\?utm_source)|photo by|via unsplash|photos by", t["overview"], re.I):
+        fails.append("photo credit or Unsplash/photographer link found in the overview (owner's no-credits rule, 6 Nov 2026)")
     if t["status"] not in ("publish", "draft"):
         fails.append('status must be "publish" or "draft"')
     return fails, warns

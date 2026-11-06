@@ -59,8 +59,8 @@ See `trips/kenya-8080-7-day-masai-mara-river-crossing-safari.json` as the model.
   - Use the full `source_url`, not a resized `-600x810` copy.
   - Fill any gaps with the Unsplash connector (search_photos, `plus: "none"`, landscape, `premium: false` only, urls.regular as the url). Only use photos whose description matches the place.
   - No photo where a person is the main subject.
-  - If any Unsplash photo is used, end the overview with this credit line:
-    `<p style="font-size:12px;color:#777777;">Some gallery photos by <a href="[user.links.html]?utm_source=divulge_adventures&utm_medium=referral" target="_blank" rel="noopener">[name]</a> on <a href="https://unsplash.com/?utm_source=divulge_adventures&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a>.</p>`
+  - No photo credits (owner's rule, 6 Nov 2026): never add a credit line, photographer name, "Photo by"/"via Unsplash" text, or any Unsplash or photographer profile link. The validator fails a file that has one.
+  - Wherever an image gets a file name or title, name it after its subject (e.g. `elephant-amboseli.jpg`).
 - **Alt text:** every image needs accurate alt text, and the featured image alt starts with the keyword. You cannot see owner photos, so describe them from their file name, Media Library title and existing alt. Name a place only if one of those names it, and never copy obviously wrong alt text (e.g. "B2B Agent Rates", "Safar").
 
 ## Run log entry (newest first, under the "---" line in run-log.md)
