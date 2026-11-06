@@ -1,24 +1,46 @@
 [
  {
+  "id": 12547,
+  "slug": "10-days-rwenzori-margherita-peak-climb",
+  "url": "https://divulgeadventures.com/trip/10-days-rwenzori-margherita-peak-climb/",
+  "title": "10 Days Rwenzori Mountains Climb to Margherita Peak",
+  "destination": [
+   27
+  ],
+  "modified": "2026-11-05T20:06:08",
+  "featured_image": null
+ },
+ {
+  "id": 12545,
+  "slug": "8-day-kilimanjaro-marangu-route",
+  "url": "https://divulgeadventures.com/trip/8-day-kilimanjaro-marangu-route/",
+  "title": "8 Days Kilimanjaro Marangu Route with Acclimatisation Day",
+  "destination": [
+   31
+  ],
+  "modified": "2026-11-05T15:46:05",
+  "featured_image": null
+ },
+ {
   "id": 12529,
-  "slug": "10-days-mt-kenya-north-face-climb-kamweti-route",
-  "url": "https://divulgeadventures.com/trip/10-days-mt-kenya-north-face-climb-kamweti-route/",
+  "slug": "mount-kenya-north-face-climb-via-kamweti",
+  "url": "https://divulgeadventures.com/trip/mount-kenya-north-face-climb-via-kamweti/",
   "title": "10 Days Mt Kenya North Face Rock Climb via Kamweti Route",
   "destination": [
    19
   ],
-  "modified": "2026-11-05T13:22:30",
+  "modified": "2026-11-05T20:09:19",
   "featured_image": null
  },
  {
   "id": 12527,
-  "slug": "10-days-mount-kenya-trek-samburu-ol-pejeta-masai-mara",
-  "url": "https://divulgeadventures.com/trip/10-days-mount-kenya-trek-samburu-ol-pejeta-masai-mara/",
+  "slug": "10-days-mount-kenya-trek-and-safari",
+  "url": "https://divulgeadventures.com/trip/10-days-mount-kenya-trek-and-safari/",
   "title": "10 Days Mount Kenya Trek with Samburu, Ol Pejeta and Masai Mara",
   "destination": [
    19
   ],
-  "modified": "2026-11-05T13:06:15",
+  "modified": "2026-11-05T20:11:50",
   "featured_image": null
  },
  {
@@ -95,11 +117,11 @@
   "id": 12549,
   "slug": "9-day-kilimanjaro-lemosho-route",
   "url": "https://divulgeadventures.com/trip/9-day-kilimanjaro-lemosho-route/",
-  "title": "9 Days Kilimanjaro Lemosho Route (7-Day Climb)",
+  "title": "9 Days Kilimanjaro Lemosho Route (9-Day Climb)",
   "destination": [
    31
   ],
-  "modified": "2026-11-03T23:35:43",
+  "modified": "2026-11-05T20:03:50",
   "featured_image": {
    "id": 12560,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/mt-kilimanjaro-Lemosho-Route-8-Day-Climb.jpeg",
@@ -185,7 +207,7 @@
   "destination": [
    19
   ],
-  "modified": "2026-10-21T16:15:41",
+  "modified": "2026-11-05T15:31:01",
   "featured_image": {
    "id": 11829,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/young-giraffe-in-a-misty-clearing-at-sunrise-in-samburu.jpg",
@@ -456,7 +478,7 @@
   "destination": [
    19
   ],
-  "modified": "2026-10-19T13:45:29",
+  "modified": "2026-11-05T16:16:55",
   "featured_image": {
    "id": 11867,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/white-cheeked-turaco-on-a-branch.jpg",
