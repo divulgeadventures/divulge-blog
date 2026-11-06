@@ -244,3 +244,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/first-kenya-safari/ (first kenya safari)
 - https://divulgeadventures.com/botswana-in-february/ (botswana in february)
 - https://divulgeadventures.com/charity-kilimanjaro-climb/ (charity kilimanjaro climb)
+- https://divulgeadventures.com/namibia-in-february/ (namibia in february)

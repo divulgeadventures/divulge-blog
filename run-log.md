@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-06 11:00 | New post 2
+- "Heading to Namibia in February? Plan Your Route Around Where the Rain Falls": https://divulgeadventures.com/namibia-in-february/
+- Namibia (NA-052, seasonal post for the day), Destination Tips. Scheduled for 6 Nov 14:00 Nairobi time. Region-by-region February weather, Etosha in the wettest month, Sossusvlei gate timing, new park fees from 1 April 2026 (N$280 per foreign adult, checked November 2026), visa N$1,600, CDC malaria regions, Fish River Canyon trail closed until 1 May. Cost ranges are labelled estimates; no Divulge prices quoted.
+- Images: 2 from the owner's Media Library (Southern Skeleton Coast, Walvis Bay flamingos) and 5 from Unsplash (featured Etosha salt pans in February; Etosha Pan, Etosha giraffe, desert tree on a clay pan, desert elephant in the body). 6 body images, no photo credits.
+- Skipped topics: none. Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows left as todo.
+- Could not open: weather2travel.com Sossusvlei and Swakopmund February pages (permission request timed out; used Wikipedia station data and qualitative wording instead); nwrnamibia.com Etosha fee page shows old pre-April 2026 fees (used the January 2026 fee announcement instead).
+
 ## 2026-11-06 09:19 Trip Optimiser
 - Done: 4 Day Gorilla Trekking Safari to Bwindi Impenetrable National Park (ID 8708, "4 day bwindi gorilla trekking safari", uganda-8708-4-day-bwindi-gorilla-trekking-safari.json); 9 Days Gorilla and Chimpanzee Trekking Safari (ID 8738, "9 day gorilla and chimpanzee trekking safari", uganda-8738-9-day-gorilla-and-chimpanzee-trekking-safari.json). Both read from the site-data copy (snapshot 2026-11-06 03:38 UTC); the live site was not opened. Prices: From USD 2,856 and From USD 5,474 per adult (single price on each page, no sale price). The two pages now link to each other.
 - Photos: 8708 0 owner + 6 Unsplash; 8738 1 owner (lion-in-queen-elizabeth-national-park.jpg) + 6 Unsplash. All Unsplash photos are described by the photographer as Bwindi, Kibale or Murchison Falls; no person is the main subject. No credit lines (owner's rule, 6 Nov 2026).
