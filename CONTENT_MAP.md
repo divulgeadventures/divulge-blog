@@ -245,3 +245,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/botswana-in-february/ (botswana in february)
 - https://divulgeadventures.com/charity-kilimanjaro-climb/ (charity kilimanjaro climb)
 - https://divulgeadventures.com/namibia-in-february/ (namibia in february)
+- https://divulgeadventures.com/elephant-orphanage-and-giraffe-centre/ (elephant orphanage and giraffe centre)

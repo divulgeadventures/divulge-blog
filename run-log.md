@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-06 15:20 | New post 3
+- "Seeing Nairobi's Baby Elephants and Giraffes in One Unhurried Morning": https://divulgeadventures.com/elephant-orphanage-and-giraffe-centre/
+- Kenya (KE-011, core topic), Safari Themes. Scheduled for 6 Nov 18:00 Nairobi time. Focus keyword refined from "giraffe centre and sheldrick elephant orphanage" to "elephant orphanage and giraffe centre" (the phrase people search). Facts from the Sheldrick Wildlife Trust nursery page and FAQs (11am-12 noon, email booking, US$20/US$5 cash donation, KWS park ticket needed via Mbagathi Gate) and the Giraffe Centre FAQs and About page (9am-5pm, KES 1,500/750, 60-acre sanctuary, founded 1979); KWS US$80 Nairobi NP fee, all checked November 2026. No Divulge prices quoted.
+- Images: 3 from the owner's Media Library (Nairobi National Park x2, Rothschild's giraffes at Lake Nakuru) and 4 from Unsplash (featured Rothschild's giraffe at the Giraffe Centre; Sheldrick baby elephant bottle feed, giraffe feeding at the Nairobi sanctuary, warthog at the sanctuary in the body). 6 body images, no photo credits. Added "mbagathi" and "vaping" to spelling-allowlist.txt.
+- Skipped topics: none. Refresh still needed today: the owner re-opened the ultimate-namibia-safari-guide FIX FIRST row; it is left for the next run.
+- Could not open: visit.sheldrickwildlifetrust.org (redirects to the nursery page, used that); tourismupdate.com fee article (no article text loaded). No official Karen Blixen Museum page found, so no hours or fees were given for it.
+
 ## 2026-11-06 11:00 | New post 2
 - "Heading to Namibia in February? Plan Your Route Around Where the Rain Falls": https://divulgeadventures.com/namibia-in-february/
 - Namibia (NA-052, seasonal post for the day), Destination Tips. Scheduled for 6 Nov 14:00 Nairobi time. Region-by-region February weather, Etosha in the wettest month, Sossusvlei gate timing, new park fees from 1 April 2026 (N$280 per foreign adult, checked November 2026), visa N$1,600, CDC malaria regions, Fish River Canyon trail closed until 1 May. Cost ranges are labelled estimates; no Divulge prices quoted.

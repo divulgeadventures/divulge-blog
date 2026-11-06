@@ -435,3 +435,10 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-06 | https://images.unsplash.com/photo-1540994017759-c5ca0a2bbbd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8RGFtYXJhbGFuZCUyMGRlc2VydCUyMGVsZXBoYW50fGVufDB8MHx8fDE3OTM5NTE4NTZ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | namibia-in-february
 2026-11-06 | https://divulgeadventures.com/wp-content/uploads/2026/06/Namibian-Southern-Skeleton-Coast.jpg | namibia-in-february
 2026-11-06 | https://divulgeadventures.com/wp-content/uploads/2026/01/Namibia-safari-walvis-bay-flamingos.jpg | namibia-in-february
+2026-11-06 | https://images.unsplash.com/photo-1535083475219-aed59281b9aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8Z2lyYWZmZSUyMGNlbnRyZSUyME5haXJvYml8ZW58MHwwfHx8MTc5Mzk2NTk3MHwy&ixlib=rb-4.1.0&q=80&w=1080 | elephant-orphanage-and-giraffe-centre
+2026-11-06 | https://images.unsplash.com/photo-1702509416519-176ac54b6fbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8YmFieSUyMGVsZXBoYW50JTIwb3JwaGFuYWdlJTIwTmFpcm9iaXxlbnwwfDB8fHwxNzkzOTY1OTcwfDI&ixlib=rb-4.1.0&q=80&w=1080 | elephant-orphanage-and-giraffe-centre
+2026-11-06 | https://divulgeadventures.com/wp-content/uploads/2026/07/nairobi-national-park-safari-scaled.jpg | elephant-orphanage-and-giraffe-centre
+2026-11-06 | https://images.unsplash.com/photo-1535082053798-fb8ec63df5c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8Z2lyYWZmZSUyMGNlbnRyZSUyME5haXJvYml8ZW58MHwwfHx8MTc5Mzk2NTk3MHwy&ixlib=rb-4.1.0&q=80&w=1080 | elephant-orphanage-and-giraffe-centre
+2026-11-06 | https://images.unsplash.com/photo-1535082845375-75a7cf5c18fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8Z2lyYWZmZSUyMGNlbnRyZSUyME5haXJvYml8ZW58MHwwfHx8MTc5Mzk2NTk3MHwy&ixlib=rb-4.1.0&q=80&w=1080 | elephant-orphanage-and-giraffe-centre
+2026-11-06 | https://divulgeadventures.com/wp-content/uploads/2025/12/IMG_7362-scaled.jpg | elephant-orphanage-and-giraffe-centre
+2026-11-06 | https://divulgeadventures.com/wp-content/uploads/2026/08/divulge-adventures-nairobi-national-park-5-scaled.jpg | elephant-orphanage-and-giraffe-centre
