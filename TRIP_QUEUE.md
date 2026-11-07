@@ -41,8 +41,8 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 32 | Tanzania | tanzania-safari-zanzibar-beach-safari | 9527 | done 2026-11-05 | 10 day tanzania safari and zanzibar beach | tanzania-9527-10-day-tanzania-safari-and-zanzibar-beach.json |
 | 33 | Uganda | gorilla-trekking-safari-to-bwindi | 8708 | done 2026-11-06 | 4 day bwindi gorilla trekking safari | uganda-8708-4-day-bwindi-gorilla-trekking-safari.json |
 | 34 | Uganda | gorilla-and-chimpanzee-trekking-safari | 8738 | done 2026-11-06 | 9 day gorilla and chimpanzee trekking safari | uganda-8738-9-day-gorilla-and-chimpanzee-trekking-safari.json |
-| 35 | Uganda | chimpanzee-trekking-and-wildlife-safari |  | todo |  |  |
-| 36 | Uganda | 4-day-queen-elizabeth-national-park |  | todo |  |  |
+| 35 | Uganda | chimpanzee-trekking-and-wildlife-safari | 8771 | done 2026-11-07 | 6 day chimpanzee trekking and murchison falls safari | uganda-8771-6-day-chimpanzee-trekking-and-murchison-falls-safari.json |
+| 36 | Uganda | 4-day-queen-elizabeth-national-park | 8696 | done 2026-11-07 | 4 day queen elizabeth national park safari | uganda-8696-4-day-queen-elizabeth-national-park-safari.json |
 | 37 | Uganda | 7-days-primate-and-wildlife-safari |  | todo |  |  |
 | 38 | Uganda | 10-days-primate-and-wildlife-safari |  | todo |  |  |
 | 39 | Uganda | 3-days-at-kidepo-valley-national-park |  | todo |  |  |
