@@ -88,3 +88,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-06 | Tanzania TZ-322 | Safari Themes | charity kilimanjaro climb | charity-kilimanjaro-climb
 2026-11-06 | Namibia NA-052 | Destination Tips | namibia in february | namibia-in-february
 2026-11-06 | Kenya KE-011 | Safari Themes | elephant orphanage and giraffe centre | elephant-orphanage-and-giraffe-centre
+2026-11-07 | Rwanda RW-306 | Safari Themes | rwanda study tour | rwanda-study-tour

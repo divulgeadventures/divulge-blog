@@ -442,3 +442,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-06 | https://images.unsplash.com/photo-1535082845375-75a7cf5c18fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8Z2lyYWZmZSUyMGNlbnRyZSUyME5haXJvYml8ZW58MHwwfHx8MTc5Mzk2NTk3MHwy&ixlib=rb-4.1.0&q=80&w=1080 | elephant-orphanage-and-giraffe-centre
 2026-11-06 | https://divulgeadventures.com/wp-content/uploads/2025/12/IMG_7362-scaled.jpg | elephant-orphanage-and-giraffe-centre
 2026-11-06 | https://divulgeadventures.com/wp-content/uploads/2026/08/divulge-adventures-nairobi-national-park-5-scaled.jpg | elephant-orphanage-and-giraffe-centre
+2026-11-07 | https://images.unsplash.com/photo-1687986261123-b17f08f2796c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8S2lnYWxpfGVufDB8MHx8fDE3OTQwMjM0ODh8Mg&ixlib=rb-4.1.0&q=80&w=1080 | rwanda-study-tour
+2026-11-07 | https://images.unsplash.com/photo-1708772565599-2c4e4b3ed9db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8S2lnYWxpfGVufDB8MHx8fDE3OTQwMjM0ODh8Mg&ixlib=rb-4.1.0&q=80&w=1080 | rwanda-study-tour
+2026-11-07 | https://images.unsplash.com/photo-1779900275257-aaadab6d9285?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8UndhbmRhJTIwaGlsbHN8ZW58MHwwfHx8MTc5NDAyMzQ4OHwy&ixlib=rb-4.1.0&q=80&w=1080 | rwanda-study-tour
+2026-11-07 | https://divulgeadventures.com/wp-content/uploads/2026/10/virunga-volcano-above-volcanoes-national-park-in-rwanda.jpg | rwanda-study-tour
+2026-11-07 | https://divulgeadventures.com/wp-content/uploads/2026/10/green-hill-on-the-shore-of-lake-kivu-rwanda.jpg | rwanda-study-tour
+2026-11-07 | https://divulgeadventures.com/wp-content/uploads/2026/10/road-through-nyungwe-forest-national-park-in-rwanda.jpg | rwanda-study-tour
