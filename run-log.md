@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-06 18:49 | Failed
+- Refresh of https://divulgeadventures.com/ultimate-namibia-safari-guide/ (FIX FIRST row, focus keyword "namibia safari guide") was NOT done: there is no copy of this post in posts/ or site-data/, and opening the live post needs a permission request that timed out, so per the task rules the refresh was stopped for the day. The row stays `todo` for the next eligible run.
+- To unblock it: allow divulgeadventures.com for WebFetch, or add the post's current text to the repo (e.g. research/ultimate-namibia-safari-guide.md).
+- The day's 3 new posts were already done; no post files changed. (This entry was pushed on 7 Nov at 08:58 because the run was held up overnight.)
+- Could not open: https://divulgeadventures.com/ultimate-namibia-safari-guide/ (permission request timed out).
+
 ## 2026-11-07 08:57 Trip Optimiser
 - Done: 6 Days Chimpanzee Trekking and Wildlife Safari Uganda (ID 8771, "6 day chimpanzee trekking and murchison falls safari", uganda-8771-6-day-chimpanzee-trekking-and-murchison-falls-safari.json); 4 Day Queen Elizabeth National Park (ID 8696, "4 day queen elizabeth national park safari", uganda-8696-4-day-queen-elizabeth-national-park-safari.json). Both read from the site-data copy (snapshot 2026-11-07 03:34 UTC); the live site was not opened. Prices as on the pages: 8771 From USD 2,908 per adult (single price, no sale); 8696 From USD 1,545 per adult (regular USD 1,829, 16% off).
 - Photos: 8771 6 Media Library photos (all Kibale chimpanzees and Murchison Falls; these are site copies of earlier Unsplash photos, not owner-shot) + 0 new Unsplash; 8696 4 owner photos (lion-in-queen-elizabeth-national-park.jpg, game-drive-queen.jpg, queen-elizabeth.jpg, sasa.jpg) + 2 Unsplash (hippo and young Nile crocodile, both described by the photographer as the Kazinga Channel). No person is the main subject. No photo credits (owner's rule, 6 Nov 2026); the guide and validator already have no credit requirement, so no rule change this run.
