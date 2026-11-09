@@ -40,4 +40,4 @@ All-inclusive day pass: KES 5,000 per person Monday-Thursday, KES 6,000 Friday-S
 
 Note: the paintball here is target shooting ("mess-free"), not team-v-team battles; describe it accurately. Quad bike, team building and events prices were not supplied: say "on request".
 
-Images: do NOT use the resort's photos (no permission). Use Divulge owner photos from site-data/media.json if any match (Tigoni, tea farm, zipline, team building) and Unsplash for the rest (tea plantation, zipline, high ropes, archery), with the usual credit lines.
+Images (owner decision, 9 Nov): use the Twin Rivers photos the owner uploads to the Media Library (search site-data/media.json for "twin" or "tigoni"), with no credit line, as owner photos. Fill any remaining slots with Unsplash (tea plantation, zipline, high ropes, archery) with the usual credit lines. Never hotlink images from the resort's website.
