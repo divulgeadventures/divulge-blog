@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-10 06:58 | New post 1
+- "Twin Rivers Tigoni for Team Building: What Each Activity Costs and How to Run the Day": https://divulgeadventures.com/twin-rivers-tigoni-team-building/
+- Kenya (owner idea, added to the bank as KE-386), Team Building. Scheduled for 10 Nov 10:00 Nairobi time. Written ahead of the day's group post because the owner marked it URGENT, write next. Focus keyword refined to "twin rivers tigoni" (the venue search; the long phrase "twin rivers tigoni team building" could not reach the density target without stuffing); "team building" is in the title, SEO title and an H2. All activity rates, combos, Adrenaline Package and day pass from the owner's rate card in research/twin-rivers-tigoni.md; entry KES 500/300 labelled as published, confirm before booking; quad, camping and team-building package prices given as "on request". Hours 9am-5pm daily and the 5-10 km quad trails from a Tigoni listing; distance about 28 km from Rome2rio. No resort contacts published.
+- Images: 0 from the owner's Media Library (no Twin Rivers or Tigoni photos have been uploaded yet; Burudani/Nkasiri photos were not used because they show other venues) and 6 from Unsplash (featured tea bushes; body: misty tea hills, tea field with a hill, rope bridges between trees, archery targets, a parked quad bike). 5 body images, no photo credits, no people as the main subject. Owner: if you upload Twin Rivers photos, they can be swapped in. Added "tigoni", "paintball", "foosball", "tac" to spelling-allowlist.txt.
+- Skipped topics: none. Group post for today not yet written (left for a later run). Refresh still needed today (ultimate-namibia-safari-guide FIX FIRST row).
+- Could not open: en.wikipedia.org/wiki/Limuru (permission request timed out; no altitude figure given).
+
 ## 2026-11-06 18:49 | Failed
 - Refresh of https://divulgeadventures.com/ultimate-namibia-safari-guide/ (FIX FIRST row, focus keyword "namibia safari guide") was NOT done: there is no copy of this post in posts/ or site-data/, and opening the live post needs a permission request that timed out, so per the task rules the refresh was stopped for the day. The row stays `todo` for the next eligible run.
 - To unblock it: allow divulgeadventures.com for WebFetch, or add the post's current text to the repo (e.g. research/ultimate-namibia-safari-guide.md).

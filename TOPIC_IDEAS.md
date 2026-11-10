@@ -3,7 +3,7 @@
 Add one idea per line as `- [ ] your idea`. The daily task writes the oldest unchecked idea first and ticks it off.
 
 ## Ideas
-- [ ] URGENT, write next: Twin Rivers Resort Tigoni team building (all activities and rates). Read research/twin-rivers-tigoni.md first and follow it; never invent activity prices.
+- [x] Twin Rivers Resort Tigoni team building (all activities and rates) — written 2026-11-10: https://divulgeadventures.com/twin-rivers-tigoni-team-building/
 - [x] Serengeti Golf Course (golf-and-safari post for golf clubs and groups) — written 2026-11-03: https://divulgeadventures.com/serengeti-golf-course/
 - [x] Kenya eTA for tourists (entry requirements for safari travellers) — written 2026-10-14: https://divulgeadventures.com/kenya-eta/
 - [x] Tanzania visa for safari (e-visa, cost, how to apply) — written 2026-10-14: https://divulgeadventures.com/tanzania-visa/

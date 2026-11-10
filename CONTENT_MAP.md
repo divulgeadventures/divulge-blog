@@ -101,6 +101,7 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/masai-mara-sustainable-tourism/ (eco lodges in the Mara)
 
 ### Team Building
+- https://divulgeadventures.com/twin-rivers-tigoni-team-building/
 - https://divulgeadventures.com/chaka-ranch-team-building-2-days-1-night/
 - https://divulgeadventures.com/best-team-building-venues-near-nairobi/
 - https://divulgeadventures.com/nkasiri-adventure-park-team-building/
@@ -247,3 +248,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/namibia-in-february/ (namibia in february)
 - https://divulgeadventures.com/elephant-orphanage-and-giraffe-centre/ (elephant orphanage and giraffe centre)
 - https://divulgeadventures.com/rwanda-study-tour/ (rwanda study tour)
+- https://divulgeadventures.com/twin-rivers-tigoni-team-building/ (twin rivers tigoni)
