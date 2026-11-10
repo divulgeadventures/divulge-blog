@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-10 15:20 | New post 3
+- "Gorilla Trekking vs Habituation: One Hour With a Settled Family or Four With a Wild One?": https://divulgeadventures.com/gorilla-trekking-vs-habituation/
+- Uganda (UG-030, BOOST comparison), Destination Tips; focus keyword refined to "gorilla trekking vs habituation". Scheduled for 10 Nov 18:00 Nairobi time.
+- Permits checked November 2026: trekking US$800 (US$600 in April, May and November); habituation US$1,500 until 31 Dec 2026, US$1,800 from 1 Jan 2027 (Capital Times, March 2026, and a Uganda news blog on the new tariff). One operator page still quotes US$1,000 for trekking, which conflicts with these, so it was not used. Habituation family names and daily permit totals differ between sources, so none are stated.
+- Images: 5 body images from the owner's Media Library (Bwindi silverback, gorilla eating leaves, baby gorilla, gorillas on vegetation, gorilla face close-up) + Unsplash featured image (mountain gorilla in Bwindi). No credits.
+- Today's 3 new posts are now done. The refresh is still needed today (first eligible row: ultimate-namibia-safari-guide, FIX FIRST); it is due on the 18:00+ run. Could not open: none (ugandawildlife.org has no searchable tariff page; linked its home page as before).
+
 ## 2026-11-10 10:49 | New post 2
 - "Can a Tanzania School Trip Cover Fossils, Volcanoes and Wildlife in One Week?" https://divulgeadventures.com/tanzania-school-trip/
 - Tanzania (TZ-323, today's group post: school), Safari Themes; scheduled 2026-11-10 14:00 Nairobi time.

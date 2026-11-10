@@ -459,3 +459,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-10 | https://divulgeadventures.com/wp-content/uploads/2025/11/wgf_0489.jpg | tanzania-school-trip
 2026-11-10 | https://divulgeadventures.com/wp-content/uploads/2026/09/Tarangire-National-park-best-national-parks-in-Tanzania-Divulge-Adventures.jpeg | tanzania-school-trip
 2026-11-10 | https://divulgeadventures.com/wp-content/uploads/2026/05/elephant-family-on-green-grass-in-serengeti-national-park.jpg | tanzania-school-trip
+2026-11-10 | https://images.unsplash.com/photo-1711198598802-c890ae001719?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8QndpbmRpJTIwZm9yZXN0fGVufDB8MHx8fDE3OTQzMTE2MDh8Mg&ixlib=rb-4.1.0&q=80&w=1080 | gorilla-trekking-vs-habituation
+2026-11-10 | https://divulgeadventures.com/wp-content/uploads/2026/05/silverback-mountain-gorilla-in-bwindi-impenetrable-forest-uganda.jpg | gorilla-trekking-vs-habituation
+2026-11-10 | https://divulgeadventures.com/wp-content/uploads/2026/05/mountain-gorilla-eating-leaves-in-bwindi-impenetrable-forest-uganda.jpg | gorilla-trekking-vs-habituation
+2026-11-10 | https://divulgeadventures.com/wp-content/uploads/2026/05/baby-mountain-gorilla-sitting-on-leaves-in-bwindi-impenetrable-forest.jpg | gorilla-trekking-vs-habituation
+2026-11-10 | https://divulgeadventures.com/wp-content/uploads/2026/05/mountain-gorillas-on-green-vegetation-in-bwindi-impenetrable-forest-uganda.jpg | gorilla-trekking-vs-habituation
+2026-11-10 | https://divulgeadventures.com/wp-content/uploads/2026/05/close-up-of-a-mountain-gorilla-face-in-bwindi-impenetrable-forest.jpg | gorilla-trekking-vs-habituation
