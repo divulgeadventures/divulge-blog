@@ -454,3 +454,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-10 | https://images.unsplash.com/photo-1775647423221-ac87d3ec338b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8aGlnaCUyMHJvcGVzJTIwY291cnNlfGVufDB8MHx8fDE3OTQyODI4OTB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | twin-rivers-tigoni-team-building
 2026-11-10 | https://images.unsplash.com/photo-1776847651583-1d804b5cc339?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8YXJjaGVyeSUyMHRhcmdldHxlbnwwfDB8fHwxNzk0MjgyODkxfDI&ixlib=rb-4.1.0&q=80&w=1080 | twin-rivers-tigoni-team-building
 2026-11-10 | https://images.unsplash.com/photo-1734410096803-ab6f1a2fe5a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8cXVhZCUyMGJpa2UlMjB0cmFpbHxlbnwwfDB8fHwxNzk0MjgyODkyfDI&ixlib=rb-4.1.0&q=80&w=1080 | twin-rivers-tigoni-team-building
+2026-11-10 | https://images.unsplash.com/photo-1726075016723-6ea81c84925c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8Tmdvcm9uZ29ybyUyMGNyYXRlcnxlbnwwfDB8fHwxNzk0Mjk3NDQzfDI&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-school-trip
+2026-11-10 | https://divulgeadventures.com/wp-content/uploads/2026/11/wildebeest-serengeti_11zon.jpg | tanzania-school-trip
+2026-11-10 | https://divulgeadventures.com/wp-content/uploads/2025/11/wgf_0489.jpg | tanzania-school-trip
+2026-11-10 | https://divulgeadventures.com/wp-content/uploads/2026/09/Tarangire-National-park-best-national-parks-in-Tanzania-Divulge-Adventures.jpeg | tanzania-school-trip
+2026-11-10 | https://divulgeadventures.com/wp-content/uploads/2026/05/elephant-family-on-green-grass-in-serengeti-national-park.jpg | tanzania-school-trip

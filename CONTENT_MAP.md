@@ -249,3 +249,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/elephant-orphanage-and-giraffe-centre/ (elephant orphanage and giraffe centre)
 - https://divulgeadventures.com/rwanda-study-tour/ (rwanda study tour)
 - https://divulgeadventures.com/twin-rivers-tigoni-team-building/ (twin rivers tigoni)
+- https://divulgeadventures.com/tanzania-school-trip/ (tanzania school trip)

@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-10 10:49 | New post 2
+- "Can a Tanzania School Trip Cover Fossils, Volcanoes and Wildlife in One Week?" https://divulgeadventures.com/tanzania-school-trip/
+- Tanzania (TZ-323, today's group post: school), Safari Themes; scheduled 2026-11-10 14:00 Nairobi time.
+- Images: 4 body images from the owner's Media Library (Serengeti wildebeest, Ngorongoro, Tarangire, Serengeti elephants) + Unsplash featured image (Ngorongoro rhinos). No credits.
+- Fees checked on the NCAA tariff page (Olduvai/Shifting Sands, conservation, crater fee); no official Olduvai-only museum fee or student rate found, so none stated. Added "habilis" to spelling-allowlist.txt.
+- Could not open: whc.unesco.org/en/list/39/ (permission request timed out).
+
 ## 2026-11-10 08:36 Trip Optimiser
 - Done: 7 Days Primate and Wildlife Safari Uganda (Pearl Of Africa) (ID 8737, "7 day uganda gorilla and chimpanzee safari", uganda-8737-7-day-uganda-gorilla-and-chimpanzee-safari.json); 10 Days Primate and Wildlife Safari (ID 8770, "10 day uganda primate and wildlife safari", uganda-8770-10-day-uganda-primate-and-wildlife-safari.json). Both read from the site-data copy (snapshot 2026-11-09 21:11 UTC); the live site was not opened. Prices as on the pages: 8737 From USD 4,537 per adult; 8770 From USD 6,070 per adult (single prices, no sale).
 - Photos: 8737 7 Media Library photos (1 owner photo kept from the gallery, sasa.jpg; 6 subject-named site copies of earlier Unsplash photos: Bwindi gorillas, Kibale chimpanzees, Kazinga Channel hippo and crocodile) + 0 Unsplash; 8770 7 Media Library photos (lion-in-queen-elizabeth-national-park.jpg plus subject-named copies: Bwindi gorillas, Kibale chimpanzees, Murchison Falls) + 0 Unsplash. Unsplash searches for Ziwa rhinos and the Source of the Nile found nothing described as those places (one result had people as the subject), so none were added. No person is the main subject. No photo credits; the guide and validator already have no credit requirement, so no rule change this run.
