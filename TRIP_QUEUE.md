@@ -43,8 +43,8 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 34 | Uganda | gorilla-and-chimpanzee-trekking-safari | 8738 | done 2026-11-06 | 9 day gorilla and chimpanzee trekking safari | uganda-8738-9-day-gorilla-and-chimpanzee-trekking-safari.json |
 | 35 | Uganda | chimpanzee-trekking-and-wildlife-safari | 8771 | done 2026-11-07 | 6 day chimpanzee trekking and murchison falls safari | uganda-8771-6-day-chimpanzee-trekking-and-murchison-falls-safari.json |
 | 36 | Uganda | 4-day-queen-elizabeth-national-park | 8696 | done 2026-11-07 | 4 day queen elizabeth national park safari | uganda-8696-4-day-queen-elizabeth-national-park-safari.json |
-| 37 | Uganda | 7-days-primate-and-wildlife-safari |  | todo |  |  |
-| 38 | Uganda | 10-days-primate-and-wildlife-safari |  | todo |  |  |
+| 37 | Uganda | 7-days-primate-and-wildlife-safari | 8737 | done 2026-11-10 | 7 day uganda gorilla and chimpanzee safari | uganda-8737-7-day-uganda-gorilla-and-chimpanzee-safari.json |
+| 38 | Uganda | 10-days-primate-and-wildlife-safari | 8770 | done 2026-11-10 | 10 day uganda primate and wildlife safari | uganda-8770-10-day-uganda-primate-and-wildlife-safari.json |
 | 39 | Uganda | 3-days-at-kidepo-valley-national-park |  | todo |  |  |
 | 40 | Botswana | botswana-safari-chobe-khwai-okavango |  | todo |  |  |
 | 41 | Botswana | 3-day-okavango-delta-mokoro-tour |  | todo |  |  |
