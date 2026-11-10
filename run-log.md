@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-10 18:52 | Failed (refresh not done)
+- Today's 3 new posts were already done, so this run was the daily refresh: the only eligible row left is ultimate-namibia-safari-guide (FIX FIRST, retarget to "namibia safari guide").
+- The live post could not be read: the WebFetch permission request for https://divulgeadventures.com/ultimate-namibia-safari-guide/ was not answered in time and was withdrawn. There is no JSON copy in posts/ and site-data/posts.json holds titles only, so per the task rules the refresh was stopped for today. The row stays `todo`; the next run that does a refresh will try again.
+- To unblock it: approve the divulgeadventures.com permission when asked, or add the post's current HTML to the repo (e.g. research/ultimate-namibia-safari-guide.html) so the run can read it without opening the site.
+- Prepared for the retry: 4 suitable owner Media Library photos (Deadvlei, Sandwich Harbour, Walvis Bay pink lake, Etosha), none used in the last 14 days.
+- Could not open: https://divulgeadventures.com/ultimate-namibia-safari-guide/ (permission request timed out).
+
 ## 2026-11-10 14:55 | New post 3
 - "Gorilla Trekking vs Habituation: One Hour With a Settled Family or Four With a Wild One?": https://divulgeadventures.com/gorilla-trekking-vs-habituation/
 - Uganda (UG-030, BOOST comparison), Destination Tips; focus keyword refined to "gorilla trekking vs habituation". Scheduled for 10 Nov 18:00 Nairobi time.
