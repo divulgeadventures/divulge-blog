@@ -1,5 +1,5 @@
 {
- "checked_at_utc": "2026-11-10 10:33",
+ "checked_at_utc": "2026-11-10 18:22",
  "feeds": {
   "divulge": [
    {
@@ -10,8 +10,18 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Tue, 10 Nov 2026 08:11:12 +0000",
+    "newest": "Tue, 10 Nov 2026 15:00:00 +0000",
     "sample": [
+     {
+      "title": "Gorilla Trekking vs Habituation: One Hour With a Settled Family or Four With a Wild One?",
+      "date": "Tue, 10 Nov 2026 15:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/gorilla-trekking-vs-habituation-1024x683.jpg"
+     },
+     {
+      "title": "Can a Tanzania School Trip Cover Fossils, Volcanoes and Wildlife in One Week?",
+      "date": "Tue, 10 Nov 2026 11:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/tanzania-school-trip-1024x683.jpg"
+     },
      {
       "title": "Twin Rivers Tigoni for Team Building: What Each Activity Costs and How to Run the Day",
       "date": "Tue, 10 Nov 2026 08:11:12 +0000",
@@ -26,16 +36,6 @@
       "title": "Seeing Nairobi’s Baby Elephants and Giraffes in One Unhurried Morning",
       "date": "Fri, 06 Nov 2026 15:25:51 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/elephant-orphanage-and-giraffe-centre-1024x716.jpg"
-     },
-     {
-      "title": "Heading to Namibia in February? Plan Your Route Around Where the Rain Falls",
-      "date": "Fri, 06 Nov 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/namibia-in-february-1024x598.jpg"
-     },
-     {
-      "title": "A Charity Kilimanjaro Climb That Raises More for the Cause Than It Spends Getting There",
-      "date": "Fri, 06 Nov 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/mt-kilimanjaro-machame-route-7-day-climb-1024x682.jpeg"
      }
     ]
    },
@@ -84,8 +84,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Fri, 06 Nov 2026 11:00:00 +0000",
+    "newest": "Tue, 10 Nov 2026 15:00:00 +0000",
     "sample": [
+     {
+      "title": "Gorilla Trekking vs Habituation: One Hour With a Settled Family or Four With a Wild One?",
+      "date": "Tue, 10 Nov 2026 15:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/gorilla-trekking-vs-habituation-1024x683.jpg"
+     },
      {
       "title": "Heading to Namibia in February? Plan Your Route Around Where the Rain Falls",
       "date": "Fri, 06 Nov 2026 11:00:00 +0000",
@@ -105,11 +110,6 @@
       "title": "Etosha vs Okavango: Waterhole Drives in Namibia or Mokoro Channels in Botswana?",
       "date": "Tue, 03 Nov 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/etosha-vs-okavango-1024x683.jpg"
-     },
-     {
-      "title": "Chobe Safari Planning, From Riverfront Boat Cruises to Savuti’s Lion Country",
-      "date": "Mon, 02 Nov 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/06/botswanasafarichobe-1024x593.webp"
      }
     ]
    },
@@ -195,8 +195,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Sat, 07 Nov 2026 07:00:00 +0000",
+    "newest": "Tue, 10 Nov 2026 11:00:00 +0000",
     "sample": [
+     {
+      "title": "Can a Tanzania School Trip Cover Fossils, Volcanoes and Wildlife in One Week?",
+      "date": "Tue, 10 Nov 2026 11:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/tanzania-school-trip-1024x683.jpg"
+     },
      {
       "title": "Rwanda Study Tours for Universities That Link Genocide History, Governance and Gorilla Sci",
       "date": "Sat, 07 Nov 2026 07:00:00 +0000",
@@ -216,11 +221,6 @@
       "title": "Namugongo Pilgrimage Planning Starts With Where Your Church Group Sleeps on 2 June",
       "date": "Thu, 05 Nov 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/namugongo-pilgrimage-1024x683.jpg"
-     },
-     {
-      "title": "Organising a Kilimanjaro Group Climb? Build It Around Your Slowest Walker",
-      "date": "Wed, 04 Nov 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/Lemosho-Route-8-Day-Climb-1024x683.jpeg"
      }
     ]
    },
@@ -1003,8 +1003,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Fri, 06 Nov 2026 07:00:00 +0000",
+    "newest": "Tue, 10 Nov 2026 11:00:00 +0000",
     "sample": [
+     {
+      "title": "Can a Tanzania School Trip Cover Fossils, Volcanoes and Wildlife in One Week?",
+      "date": "Tue, 10 Nov 2026 11:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/tanzania-school-trip-1024x683.jpg"
+     },
      {
       "title": "A Charity Kilimanjaro Climb That Raises More for the Cause Than It Spends Getting There",
       "date": "Fri, 06 Nov 2026 07:00:00 +0000",
@@ -1024,11 +1029,6 @@
       "title": "How Much Does a Serengeti Safari Cost Once Fees, Camps and Flights Are Counted?",
       "date": "Mon, 02 Nov 2026 15:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/tanzania-park-fees-1024x683.jpg"
-     },
-     {
-      "title": "Planning Around the Serengeti Calving Season? Choose Your Weeks Before Your Camp",
-      "date": "Sun, 01 Nov 2026 13:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/serengeti-in-january-1024x576.jpg"
      }
     ]
    },
@@ -1121,6 +1121,23 @@
     ]
    },
    {
+    "url": "https://divulgeadventures.com/tag/tanzania-school-trip/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Tue, 10 Nov 2026 11:00:00 +0000",
+    "sample": [
+     {
+      "title": "Can a Tanzania School Trip Cover Fossils, Volcanoes and Wildlife in One Week?",
+      "date": "Tue, 10 Nov 2026 11:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/tanzania-school-trip-1024x683.jpg"
+     }
+    ]
+   },
+   {
     "url": "https://divulgeadventures.com/tag/tanzania-visa/feed/",
     "status": 200,
     "content_type": "application/rss+xml; charset=UTF-8",
@@ -1145,8 +1162,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Thu, 05 Nov 2026 07:00:00 +0000",
+    "newest": "Tue, 10 Nov 2026 15:00:00 +0000",
     "sample": [
+     {
+      "title": "Gorilla Trekking vs Habituation: One Hour With a Settled Family or Four With a Wild One?",
+      "date": "Tue, 10 Nov 2026 15:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/gorilla-trekking-vs-habituation-1024x683.jpg"
+     },
      {
       "title": "Namugongo Pilgrimage Planning Starts With Where Your Church Group Sleeps on 2 June",
       "date": "Thu, 05 Nov 2026 07:00:00 +0000",
@@ -1166,11 +1188,6 @@
       "title": "A Gorilla Trekking Packing List That Copes With Mud, Nettles and Rain",
       "date": "Wed, 28 Oct 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-packing-list-1024x809.jpg"
-     },
-     {
-      "title": "Weighing Up Kenya vs Uganda Safari Options? Start With the Animals on Your List",
-      "date": "Sun, 25 Oct 2026 12:33:09 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/05/uganda-gorillas-best-attractions-in-Uganda-1024x683.jpg"
      }
     ]
    },
@@ -1199,8 +1216,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Wed, 04 Nov 2026 16:25:01 +0000",
+    "newest": "Tue, 10 Nov 2026 15:00:00 +0000",
     "sample": [
+     {
+      "title": "Gorilla Trekking vs Habituation: One Hour With a Settled Family or Four With a Wild One?",
+      "date": "Tue, 10 Nov 2026 15:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/gorilla-trekking-vs-habituation-1024x683.jpg"
+     },
      {
       "title": "Uganda in February: Dry Trails, Quieter Lodges and the Last Weeks Before the Rains",
       "date": "Wed, 04 Nov 2026 16:25:01 +0000",
@@ -1220,11 +1242,6 @@
       "title": "Chimpanzee Trekking in Kibale: Permits, Costs and Best Time",
       "date": "Mon, 19 Oct 2026 11:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-trekking-in-kibale-1024x683.jpg"
-     },
-     {
-      "title": "East Africa Tourist Visa: Cost, Rules and How to Apply",
-      "date": "Thu, 15 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/east-africa-tourist-visa-1024x683.jpg"
      }
     ]
    }
@@ -1531,6 +1548,7 @@
    "giraffe-centre",
    "golden-monkey-trekking",
    "golf-safari",
+   "gorilla-habituation",
    "gorilla-permits",
    "gorilla-trekking",
    "great-migration",
@@ -1625,6 +1643,7 @@
    "okavango-delta",
    "ol-pejeta",
    "ol-pejeta-conservancy",
+   "olduvai-gorge",
    "packing-list",
    "park-fees",
    "primate-safaris",
@@ -1670,11 +1689,13 @@
    "sossusvlei",
    "southern-africa-safari",
    "special-five",
+   "student-study-tours",
    "tanzania",
    "tanzania-evisa",
    "tanzania-lodges",
    "tanzania-safari",
    "tanzania-safari-cost",
+   "tanzania-school-trip",
    "tanzania-visa",
    "team-building",
    "tented-camps",
