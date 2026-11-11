@@ -477,3 +477,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/06/Okavango-Delta.jpg | okavango-delta-safari
 2026-11-11 | https://images.unsplash.com/photo-1503592687001-f8d008454cbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MzV8fE9rYXZhbmdvfGVufDB8MHx8fDE3OTQzODM0OTB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | okavango-delta-safari
 2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-and-Nothern-Exploration.jpg | okavango-delta-safari
+2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/02/neptune-serengeti-national-park.jpg | serengeti-in-february
+2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/10/wildebeest-herd-heading-across-the-serengeti-during-the-migration.jpg | serengeti-in-february
+2026-11-11 | https://images.unsplash.com/photo-1772290776813-09b52267c552?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8N3x8d2lsZGViZWVzdCUyMGNhbGZ8ZW58MHwwfHx8MTc5NDM5NzkyN3wy&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-in-february
+2026-11-11 | https://images.unsplash.com/photo-1694694898001-50b88e3287fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8Y2hlZXRhaCUyMFNlcmVuZ2V0aXxlbnwwfDB8fHwxNzk0Mzk3OTI2fDI&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-in-february
+2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/10/male-lion-on-a-rock-in-the-serengeti.jpg | serengeti-in-february
+2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/10/large-flock-of-flamingos-in-the-serengeti-tanzania.jpg | serengeti-in-february

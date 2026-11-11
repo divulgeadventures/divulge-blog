@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-11 14:54 | New post 3
+- "Serengeti in February: Peak Calving, Green Plains and the Bases Worth Booking Early": https://divulgeadventures.com/serengeti-in-february/
+- Tanzania (TZ-048, seasonal February row), Great Migration & River Crossing. Scheduled for 11 Nov 18:00 Nairobi time.
+- Facts checked November 2026: Serengeti US$82.60 high-season entry and ~US$70.80 concession, NCA US$70.80 and US$295 crater vehicle fee (recent fee summaries, readers told to confirm on TANAPA/NCAA), Coastal timetable (Arusha-Ndutu about 1 hour via Manyara), February weather. Costs are labelled estimates; Divulge price quoted only from the Tarangire-Ngorongoro-Serengeti trip page (from USD 6,180).
+- Images: 4 from the owner's Media Library (featured Serengeti photo, wildebeest herd, lion on rock, flamingos) + 2 Unsplash (wildebeest with calf, cheetah in Serengeti); 5 body images, no credits. Reviews line left out (validate.py rejects its bold text).
+- Could not open: travel-origin.africageographic.com Serengeti month guide (redirect, not followed). Refresh (Namibia safari guide, FIX FIRST) still due on the 18:00+ run.
+
 ## 2026-11-11 11:20 | New post 2
 - "Planning an Okavango Delta Safari Around the Flood, the Camps and Your Budget": https://divulgeadventures.com/okavango-delta-safari/
 - Botswana (BW-004, core topic), Destination Tips. Scheduled for 11 Nov 14:00 Nairobi time.
