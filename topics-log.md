@@ -95,3 +95,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-11 | Kenya KE-374 | Safari Themes | kenya school trip | kenya-school-trip
 2026-11-11 | Botswana BW-004 | Destination Tips | okavango delta safari | okavango-delta-safari
 2026-11-11 | Tanzania TZ-048 | Great Migration & River Crossing | serengeti in february | serengeti-in-february
+2026-11-11 | REFRESH | Destination Tips | namibia safari guide | ultimate-namibia-safari-guide

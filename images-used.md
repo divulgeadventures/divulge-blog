@@ -483,3 +483,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-11 | https://images.unsplash.com/photo-1694694898001-50b88e3287fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8Y2hlZXRhaCUyMFNlcmVuZ2V0aXxlbnwwfDB8fHwxNzk0Mzk3OTI2fDI&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-in-february
 2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/10/male-lion-on-a-rock-in-the-serengeti.jpg | serengeti-in-february
 2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/10/large-flock-of-flamingos-in-the-serengeti-tanzania.jpg | serengeti-in-february
+2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/10/namibia-in-december.jpg | ultimate-namibia-safari-guide
+2026-11-11 | https://images.unsplash.com/photo-1616441140806-c21cacbaf08c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8RGFtYXJhbGFuZCUyME5hbWliaWF8ZW58MHwwfHx8MTc5NDQwOTA4Mnwy&ixlib=rb-4.1.0&q=80&w=1080 | ultimate-namibia-safari-guide
+2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/10/namibia-in-january.jpg | ultimate-namibia-safari-guide
+2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/10/best-time-to-visit-namibia.jpg | ultimate-namibia-safari-guide
+2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/01/Sandwich-Habour-Tours.jpg | ultimate-namibia-safari-guide
+2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/10/namibia-hiking-safari.jpg | ultimate-namibia-safari-guide

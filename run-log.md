@@ -4,6 +4,14 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-11 18:01 | Refresh
+- "Planning Namibia From Scratch? A Namibia Safari Guide to Regions, Seasons and Costs": https://divulgeadventures.com/ultimate-namibia-safari-guide/ (refreshed in place, FIX FIRST row; existing featured image kept)
+- Namibia, Destination Tips. Retargeted from "namibia safari" to "namibia safari guide"; links the Namibia destination page in the first paragraph ("Namibia safari packages") and in the Trip CTA, plus 11 Namibia posts and 3 Namibia trips. Removed the bare nwr.com.na link and the old Google review line. The old post was read from the live page (WebFetch worked) before the new site-data/post-content copy arrived.
+- Facts checked November 2026: N$280 park fee for international adults at Etosha/Namib-Naukluft from 1 April 2026 (namibian.org, matches recent posts), N$1,600 visa on arrival (Namibia embassy fact sheet), malaria zones (NHS Fit for Travel), driving distances (published Namibia distance chart). Costs labelled as estimates; no Divulge prices quoted.
+- Images: 5 from the owner's Media Library + 1 Unsplash (giraffe in Damaraland); 6 body images, no credits.
+- All broken-link fixes are done; the daily refresh is now paused.
+- Could not open: tourismupdate.com park-fee article (page loaded without the article text); nwrnamibia.com fee page still shows the old N$150 rate, so not used.
+
 ## 2026-11-11 14:54 | New post 3
 - "Serengeti in February: Peak Calving, Green Plains and the Bases Worth Booking Early": https://divulgeadventures.com/serengeti-in-february/
 - Tanzania (TZ-048, seasonal February row), Great Migration & River Crossing. Scheduled for 11 Nov 18:00 Nairobi time.
@@ -108,6 +116,7 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
   - Prices: 8771 has a single price (USD 2,908) with no sale price, while 8696 shows a 16% sale; no conflicts with other trips found. Slugs have no typos.
 - Could not open: none.
 - Next: 7-days-primate-and-wildlife-safari (Uganda), 10-days-primate-and-wildlife-safari (Uganda).
+
 ## 2026-11-07 06:55 | New post 1
 - "Rwanda Study Tours for Universities That Link Genocide History, Governance and Gorilla Science": https://divulgeadventures.com/rwanda-study-tour/
 - Rwanda (RW-306, the day's group post), Safari Themes. Scheduled for 7 Nov 10:00 Nairobi time. Focus keyword refined from "rwanda study tour for universities" to "rwanda study tour". Kigali Genocide Memorial hours, free entry, guided-group rates and the under-12 rule from kgm.rw; visa from the Rwanda High Commission (Singapore) page; gorilla permit US$1,500 / min age 15 from the RDB booking portal (all checked November 2026). Trip CTA to the Student & Study Tour Safaris page, orange CTA to the group inquiry form, trips linked: 6-day Rwanda holiday package and 4-day Akagera and Nyungwe.
@@ -196,6 +205,7 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 2 from the owner's Media Library (Kibale chimpanzee, Queen Elizabeth lion) and 4 from Unsplash (featured Kampala from Nsambya; Kampala city view, Ggaba beach on Lake Victoria, Muyenga Hill in the body).
 - Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
 - Could not open: gov.uk FCDO Uganda travel advice (permission request timed out).
+
 ## 2026-11-04 19:10 | Failed (duplicate discarded)
 - This run (started 18:49) wrote a Uganda safari in February post (UG-041) as 4 November's post 3, but at push time another run had already published the same row as https://divulgeadventures.com/uganda-in-february/. This copy was discarded; no post or planning-file changes from this run. Today's 3 new posts are done; refresh paused.
 - Accuracy note for the owner: the published Uganda in February post gives the gorilla permit as US$1,000 from 1 January 2027. The UWA 2024-2026 tariff shows US$800, and most recent reports (and a March 2026 Capital Times report on the UWA tariff) say US$800 continues; only some sources say US$1,000. Worth checking that figure with UWA.
