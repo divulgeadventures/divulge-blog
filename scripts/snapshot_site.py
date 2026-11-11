@@ -139,6 +139,34 @@ def main():
         save("posts.json", [{"id": p["id"], "slug": p["slug"], "url": p["link"], "title": text(p.get("title")),
                              "date": (p.get("date") or "")[:10]} for p in posts])
 
+    # Full HTML of posts the blog runs need to rewrite or edit: every `todo` row in
+    # REFRESH_QUEUE.md plus any slug listed in site-data/fetch-posts.txt (one per line).
+    wanted = set()
+    try:
+        for line in open("REFRESH_QUEUE.md", encoding="utf-8"):
+            cells = [c.strip() for c in line.strip().strip("|").split("|")]
+            if len(cells) >= 5 and cells[-1] == "todo" and re.fullmatch(r"[a-z0-9-]+", cells[0]):
+                wanted.add(cells[0])
+    except OSError:
+        pass
+    try:
+        wanted |= {l.strip() for l in open(os.path.join(OUT, "fetch-posts.txt"), encoding="utf-8") if re.fullmatch(r"[a-z0-9-]+", l.strip())}
+    except OSError:
+        pass
+    os.makedirs(os.path.join(OUT, "post-content"), exist_ok=True)
+    for slug in sorted(wanted):
+        body, _ = get(f"{SITE}/wp-json/wp/v2/posts?slug={slug}&_fields=id,slug,title,content,excerpt,link")
+        try:
+            item = json.loads(body)[0] if body else None
+        except (json.JSONDecodeError, IndexError):
+            item = None
+        if item:
+            with open(os.path.join(OUT, "post-content", slug + ".json"), "w", encoding="utf-8") as f:
+                json.dump({"id": item["id"], "slug": item["slug"], "url": item["link"], "title": text(item.get("title")),
+                           "excerpt": text(item.get("excerpt")), "content_html": item["content"]["rendered"]},
+                          f, indent=1, ensure_ascii=False)
+        time.sleep(1)
+
     pages = rest_all("pages", "id,slug,link,title")
     if pages:
         save("pages.json", [{"id": p["id"], "slug": p["slug"], "url": p["link"], "title": text(p.get("title"))} for p in pages])
