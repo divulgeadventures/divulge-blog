@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-11 11:20 | New post 2
+- "Planning an Okavango Delta Safari Around the Flood, the Camps and Your Budget": https://divulgeadventures.com/okavango-delta-safari/
+- Botswana (BW-004, core topic), Destination Tips. Scheduled for 11 Nov 14:00 Nairobi time.
+- Facts checked November 2026: Moremi entry P270 per non-resident adult per day and the postponed April 2026 fee rise (moremipark.com fee page, Gabz FM); UNESCO site facts; flood timing; Mack Air 20 kg soft-bag limit. Camp costs are labelled estimates; Divulge prices quoted only from the two Okavango trip pages ($715 and $3,600).
+- Images: 4 body images from the owner's Media Library + 1 Unsplash body image (kudu in Moremi) + Unsplash featured image (Okavango sunset). No credits. The Plan My Safari reviews line was left out because validate.py rejects its bold text and recent posts do not carry it.
+- Could not open: divulgeadventures.com image files via curl (proxy 403, used media.json titles instead). Refresh still due on the 18:00+ run.
+
 ## 2026-11-11 05:37 Trip Optimiser
 - Done: 4 Days at Kidepo Valley National Park (8716, "4 day kidepo valley national park safari", uganda-8716-4-day-kidepo-valley-national-park-safari.json), 7-Day Botswana Safari – Chobe National Park, Khwai & Okavango Wildlife Experience (9843, "7 day chobe moremi and khwai safari", botswana-9843-7-day-chobe-moremi-and-khwai-safari.json)
 - Photos: Kidepo 1 owner + 4 Unsplash (no owner Kidepo photos in the Media Library; the old featured image was a Masai Mara photo and was dropped); Botswana 3 owner + 3 Unsplash. No credits anywhere.
