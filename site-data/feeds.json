@@ -1,5 +1,5 @@
 {
- "checked_at_utc": "2026-11-10 18:22",
+ "checked_at_utc": "2026-11-11 09:58",
  "feeds": {
   "divulge": [
    {
@@ -10,8 +10,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Tue, 10 Nov 2026 15:00:00 +0000",
+    "newest": "Wed, 11 Nov 2026 07:00:00 +0000",
     "sample": [
+     {
+      "title": "A Kenya School Trip Can Teach Geology, Ecology and Conservation Within a Day of Nairobi",
+      "date": "Wed, 11 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-school-trip-1024x683.jpg"
+     },
      {
       "title": "Gorilla Trekking vs Habituation: One Hour With a Settled Family or Four With a Wild One?",
       "date": "Tue, 10 Nov 2026 15:00:00 +0000",
@@ -31,11 +36,6 @@
       "title": "Rwanda Study Tours for Universities That Link Genocide History, Governance and Gorilla Sci",
       "date": "Sat, 07 Nov 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/rwanda-study-tour-1024x576.jpg"
-     },
-     {
-      "title": "Seeing Nairobi’s Baby Elephants and Giraffes in One Unhurried Morning",
-      "date": "Fri, 06 Nov 2026 15:25:51 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/elephant-orphanage-and-giraffe-centre-1024x716.jpg"
      }
     ]
    },
@@ -195,8 +195,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Tue, 10 Nov 2026 11:00:00 +0000",
+    "newest": "Wed, 11 Nov 2026 07:00:00 +0000",
     "sample": [
+     {
+      "title": "A Kenya School Trip Can Teach Geology, Ecology and Conservation Within a Day of Nairobi",
+      "date": "Wed, 11 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-school-trip-1024x683.jpg"
+     },
      {
       "title": "Can a Tanzania School Trip Cover Fossils, Volcanoes and Wildlife in One Week?",
       "date": "Tue, 10 Nov 2026 11:00:00 +0000",
@@ -216,11 +221,6 @@
       "title": "A Charity Kilimanjaro Climb That Raises More for the Cause Than It Spends Getting There",
       "date": "Fri, 06 Nov 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/mt-kilimanjaro-machame-route-7-day-climb-1024x682.jpeg"
-     },
-     {
-      "title": "Namugongo Pilgrimage Planning Starts With Where Your Church Group Sleeps on 2 June",
-      "date": "Thu, 05 Nov 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/namugongo-pilgrimage-1024x683.jpg"
      }
     ]
    },
@@ -360,8 +360,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Tue, 10 Nov 2026 08:11:12 +0000",
+    "newest": "Wed, 11 Nov 2026 07:00:00 +0000",
     "sample": [
+     {
+      "title": "A Kenya School Trip Can Teach Geology, Ecology and Conservation Within a Day of Nairobi",
+      "date": "Wed, 11 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-school-trip-1024x683.jpg"
+     },
      {
       "title": "Twin Rivers Tigoni for Team Building: What Each Activity Costs and How to Run the Day",
       "date": "Tue, 10 Nov 2026 08:11:12 +0000",
@@ -381,11 +386,6 @@
       "title": "How to Match a Naivasha Corporate Retreat Venue to Your Team, Agenda and Budget",
       "date": "Wed, 04 Nov 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/naivasha-corporate-retreat-1024x684.jpg"
-     },
-     {
-      "title": "A Kenya Safari in February Means Dry Plains, Clear Mountain Views and the Lower Mara Fee",
-      "date": "Mon, 02 Nov 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/lion-on-golden-grass-during-a-kenya-photography-safari-1024x683.jpg"
      }
     ]
    },
@@ -681,6 +681,23 @@
       "title": "Tipping in Kenya: How Much to Tip on Safari, at Lodges and on Mount Kenya",
       "date": "Sun, 18 Oct 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/tipping-in-kenya-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://divulgeadventures.com/tag/kenya-school-trip/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Wed, 11 Nov 2026 07:00:00 +0000",
+    "sample": [
+     {
+      "title": "A Kenya School Trip Can Teach Geology, Ecology and Conservation Within a Day of Nairobi",
+      "date": "Wed, 11 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-school-trip-1024x683.jpg"
      }
     ]
    },
@@ -1255,8 +1272,13 @@
     "xml_ok": true,
     "items": 10,
     "items_with_image": 9,
-    "newest": "Tue, 10 Nov 2026 04:01:01 +0000",
+    "newest": "Wed, 11 Nov 2026 04:00:40 +0000",
     "sample": [
+     {
+      "title": "Six Kilometres From the CBD: A Karura Forest Hike, Loop by Loop",
+      "date": "Wed, 11 Nov 2026 04:00:40 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/11/karura-forest-hike-768x1024.jpg"
+     },
      {
       "title": "German Comfort or Italian Grip? How Lowa and Scarpa Boots Differ on Kenya’s Mountains",
       "date": "Tue, 10 Nov 2026 04:01:01 +0000",
@@ -1276,11 +1298,6 @@
       "title": "Eburru Forest Hike: Western Summit Trail",
       "date": "Fri, 06 Nov 2026 16:03:44 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/columbia-hiking-gear-nairobi-1024x683.jpg"
-     },
-     {
-      "title": "William Hill Hike, Mai Mahiu",
-      "date": "Fri, 06 Nov 2026 16:02:42 +0000",
-      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/11/hells-gate-hike-683x1024.jpg"
      }
     ]
    },
@@ -1327,7 +1344,7 @@
     "content_type": "application/rss+xml; charset=UTF-8",
     "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
     "xml_ok": true,
-    "items": 6,
+    "items": 5,
     "items_with_image": 5,
     "newest": "Mon, 02 Nov 2026 04:00:25 +0000",
     "sample": [
@@ -1366,8 +1383,13 @@
     "xml_ok": true,
     "items": 10,
     "items_with_image": 10,
-    "newest": "Fri, 06 Nov 2026 07:01:58 +0000",
+    "newest": "Wed, 11 Nov 2026 04:00:40 +0000",
     "sample": [
+     {
+      "title": "Six Kilometres From the CBD: A Karura Forest Hike, Loop by Loop",
+      "date": "Wed, 11 Nov 2026 04:00:40 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/11/karura-forest-hike-768x1024.jpg"
+     },
      {
       "title": "Can You Hike Mt Suswa in a Day? Crater Rim, Lava Caves and the Road From Nairobi",
       "date": "Fri, 06 Nov 2026 07:01:58 +0000",
@@ -1387,11 +1409,6 @@
       "title": "The Best Hikes in Kenya, Sorted by Effort: Forest Walks, Crater Rims and Mountain Summits",
       "date": "Mon, 26 Oct 2026 12:00:00 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/best-hikes-in-kenya-1024x683.jpg"
-     },
-     {
-      "title": "Ol Donyo Sabuk, Step by Step: Climbing Kilimambogo From Nairobi",
-      "date": "Mon, 12 Oct 2026 08:00:00 +0000",
-      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/ol-donyo-sabuk-hike-1024x681.jpg"
      }
     ]
    },
@@ -1535,6 +1552,7 @@
    "east-africa-safa",
    "east-africa-safari",
    "east-africa-tourist-visa",
+   "educational-travel",
    "entry-requirements",
    "etosha",
    "etosha-national-park",
@@ -1584,6 +1602,7 @@
    "kenya-safari-planning",
    "kenya-safari-safety",
    "kenya-safari-tips",
+   "kenya-school-trip",
    "kenya-travel",
    "kenya-travel-advice",
    "kenya-travel-insurance",
@@ -1726,6 +1745,7 @@
    "backpack-fitting",
    "balaclava",
    "base-layers",
+   "beginner-hikes",
    "beginner-hiking",
    "berghaus",
    "best-hiking-gear",
@@ -1756,6 +1776,7 @@
    "elephant-hill",
    "first-hike",
    "fleece-jackets",
+   "forest-walks-kenya",
    "gaiters",
    "gas-cartridges",
    "gear-care",
@@ -1764,6 +1785,8 @@
    "hells-gate-camping",
    "hells-gate-national-park",
    "hi-tec",
+   "high-altitude-hiking",
+   "hikes-in-nairobi",
    "hiking-accessories",
    "hiking-backpacks",
    "hiking-boot-brands",
@@ -1809,6 +1832,7 @@
    "kenya-hiking-trails",
    "kenya-volcanoes",
    "kilimambogo",
+   "kilimanjaro",
    "kilimanjaro-gear",
    "kilimanjaro-packing",
    "layering",
@@ -1871,6 +1895,7 @@
    "size-conversion",
    "sleeping-bags",
    "sock-care",
+   "summit-gear",
    "summit-layers",
    "sun-hats",
    "sun-protection",
