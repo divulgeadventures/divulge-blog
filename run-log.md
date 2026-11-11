@@ -4,6 +4,10 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-11 18:20 | Manual edit (owner request)
+- Added "12. Twin Rivers Resort — Tigoni" to https://divulgeadventures.com/best-team-building-venues-near-nairobi/ with a link to the Twin Rivers guide; title now "12 Best Team Building Venues Near Nairobi for Corporate Groups". Everything else in the post is unchanged (URL, SEO title, focus keyword and FAQs kept).
+- Kilimanjaro trip files re-pushed so the new trip names import (needs the latest Trip Optimiser snippet).
+
 ## 2026-11-11 18:01 | Refresh
 - "Planning Namibia From Scratch? A Namibia Safari Guide to Regions, Seasons and Costs": https://divulgeadventures.com/ultimate-namibia-safari-guide/ (refreshed in place, FIX FIRST row; existing featured image kept)
 - Namibia, Destination Tips. Retargeted from "namibia safari" to "namibia safari guide"; links the Namibia destination page in the first paragraph ("Namibia safari packages") and in the Trip CTA, plus 11 Namibia posts and 3 Namibia trips. Removed the bare nwr.com.na link and the old Google review line. The old post was read from the live page (WebFetch worked) before the new site-data/post-content copy arrived.
