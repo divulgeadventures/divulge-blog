@@ -104,7 +104,8 @@
     "hiking-safari-combo"
    ],
    "trip_types": [
-    "hiking-and-camping"
+    "hiking-and-camping",
+    "hiking-and-safari-combo"
    ],
    "difficulty": [
     "hard"
