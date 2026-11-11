@@ -465,3 +465,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-10 | https://divulgeadventures.com/wp-content/uploads/2026/05/baby-mountain-gorilla-sitting-on-leaves-in-bwindi-impenetrable-forest.jpg | gorilla-trekking-vs-habituation
 2026-11-10 | https://divulgeadventures.com/wp-content/uploads/2026/05/mountain-gorillas-on-green-vegetation-in-bwindi-impenetrable-forest-uganda.jpg | gorilla-trekking-vs-habituation
 2026-11-10 | https://divulgeadventures.com/wp-content/uploads/2026/05/close-up-of-a-mountain-gorilla-face-in-bwindi-impenetrable-forest.jpg | gorilla-trekking-vs-habituation
+2026-11-11 | https://images.unsplash.com/photo-1609849007477-1063724e241d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8TGFrZSUyME5ha3VydXxlbnwwfDB8fHwxNzk0MzY5MDk3fDI&ixlib=rb-4.1.0&q=80&w=1080 | kenya-school-trip
+2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/08/divulge-adventures-nairobi-national-park-scaled.jpg | kenya-school-trip
+2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/07/nairobi-national-park-safari-divulge-adventures-scaled.jpg | kenya-school-trip
+2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_8_days_safari_edited-19-scaled.jpg | kenya-school-trip
+2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/05/Lake_Nakuru_National_Park_005.jpg | kenya-school-trip
+2026-11-11 | https://images.unsplash.com/photo-1663848990481-8e0da3374a9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8TWFzYWklMjBNYXJhJTIwc2FmYXJpfGVufDB8MHx8fDE3OTQzNjkwODB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | kenya-school-trip

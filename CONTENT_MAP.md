@@ -251,3 +251,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/twin-rivers-tigoni-team-building/ (twin rivers tigoni)
 - https://divulgeadventures.com/tanzania-school-trip/ (tanzania school trip)
 - https://divulgeadventures.com/gorilla-trekking-vs-habituation/ (gorilla trekking vs habituation)
+- https://divulgeadventures.com/kenya-school-trip/ (kenya school trip)

@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-11 06:55 | New post 1
+- "A Kenya School Trip Can Teach Geology, Ecology and Conservation Within a Day of Nairobi": https://divulgeadventures.com/kenya-school-trip/
+- Kenya (KE-374, today's group post: school), Safari Themes; focus keyword refined to "kenya school trip". Scheduled for 11 Nov 10:00 Nairobi time.
+- Fees checked November 2026: KWS student/child rates from the official KWS conservation fee schedule (Nairobi US$40, Hell's Gate US$25, Lake Nakuru US$45; students = 23 or under on an organised institutional trip); Masai Mara child US$50 (ages 9-17) and the school student-rate rules from a 2026 reserve fee summary. Budget ranges are labelled as estimates. Visitor health cover (US$44) mentioned only as announced, with readers told to check.
+- Images: 4 body images from the owner's Media Library (Nairobi NP scenery, Nairobi NP wildlife, Hell's Gate gorges, Lake Nakuru) + 1 Unsplash body image (Mara zebras) + Unsplash featured image (Lake Nakuru shores). No credits.
+- Today's refresh is still needed (ultimate-namibia-safari-guide, FIX FIRST); it is due on the 18:00+ run. Could not open: thekenyatimes.com Masai Mara fees article (site error).
+
 ## 2026-11-10 18:52 | Failed (refresh not done)
 - Today's 3 new posts were already done, so this run was the daily refresh: the only eligible row left is ultimate-namibia-safari-guide (FIX FIRST, retarget to "namibia safari guide").
 - The live post could not be read: the WebFetch permission request for https://divulgeadventures.com/ultimate-namibia-safari-guide/ was not answered in time and was withdrawn. There is no JSON copy in posts/ and site-data/posts.json holds titles only, so per the task rules the refresh was stopped for today. The row stays `todo`; the next run that does a refresh will try again.

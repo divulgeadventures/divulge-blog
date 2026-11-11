@@ -92,3 +92,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-10 | Kenya KE-386 | Team Building | twin rivers tigoni | twin-rivers-tigoni-team-building
 2026-11-10 | Tanzania TZ-323 | Safari Themes | tanzania school trip | tanzania-school-trip
 2026-11-10 | Uganda UG-030 | Destination Tips | gorilla trekking vs habituation | gorilla-trekking-vs-habituation
+2026-11-11 | Kenya KE-374 | Safari Themes | kenya school trip | kenya-school-trip
