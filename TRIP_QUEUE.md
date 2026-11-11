@@ -45,8 +45,8 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 36 | Uganda | 4-day-queen-elizabeth-national-park | 8696 | done 2026-11-07 | 4 day queen elizabeth national park safari | uganda-8696-4-day-queen-elizabeth-national-park-safari.json |
 | 37 | Uganda | 7-days-primate-and-wildlife-safari | 8737 | done 2026-11-10 | 7 day uganda gorilla and chimpanzee safari | uganda-8737-7-day-uganda-gorilla-and-chimpanzee-safari.json |
 | 38 | Uganda | 10-days-primate-and-wildlife-safari | 8770 | done 2026-11-10 | 10 day uganda primate and wildlife safari | uganda-8770-10-day-uganda-primate-and-wildlife-safari.json |
-| 39 | Uganda | 3-days-at-kidepo-valley-national-park |  | todo |  |  |
-| 40 | Botswana | botswana-safari-chobe-khwai-okavango |  | todo |  |  |
+| 39 | Uganda | 3-days-at-kidepo-valley-national-park | 8716 | done 2026-11-11 | 4 day kidepo valley national park safari | uganda-8716-4-day-kidepo-valley-national-park-safari.json |
+| 40 | Botswana | botswana-safari-chobe-khwai-okavango | 9843 | done 2026-11-11 | 7 day chobe moremi and khwai safari | botswana-9843-7-day-chobe-moremi-and-khwai-safari.json |
 | 41 | Botswana | 3-day-okavango-delta-mokoro-tour |  | todo |  |  |
 | 42 | Botswana | 5-days-okavango-exploration |  | todo |  |  |
 | 43 | Botswana | 7-day-moremi-khwai-and-savuti |  | todo |  |  |

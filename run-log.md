@@ -4,6 +4,23 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-11 05:37 Trip Optimiser
+- Done: 4 Days at Kidepo Valley National Park (8716, "4 day kidepo valley national park safari", uganda-8716-4-day-kidepo-valley-national-park-safari.json), 7-Day Botswana Safari – Chobe National Park, Khwai & Okavango Wildlife Experience (9843, "7 day chobe moremi and khwai safari", botswana-9843-7-day-chobe-moremi-and-khwai-safari.json)
+- Photos: Kidepo 1 owner + 4 Unsplash (no owner Kidepo photos in the Media Library; the old featured image was a Masai Mara photo and was dropped); Botswana 3 owner + 3 Unsplash. No credits anywhere.
+- Owner to fix by hand (the importer cannot change these):
+  - Kidepo (8716): slug says "3-days" but the title and itinerary are 4 days/3 nights; consider a 301 to a 4-day slug.
+  - Kidepo: conflicting lodges in the park: day 2 overnight "Adere Safari Lodge", day 3 overnight "Kidepo Savannah Lodge" with no move between lodges in the text. Pick one (or say "or similar").
+  - Kidepo: current featured image and gallery photo is 6000-x-4000divulge_adventures-147 with alt "divulge adventures Masai Mara Kenya Safari", a Kenya photo on a Uganda trip. Wrong alt/wrong place.
+  - Kidepo itinerary typos: "Karamajong" (highlights and includes; correct is Karamojong), "Adere Safari Lodge i n the late afternoon", "Divulge Adventure Safaris", missing spaces after full stops ("National Park.The drive", "en route.Lunch", "traditions.This"). The page overview mentions Kanangorok Hot Springs, a "Sudanese border" and arrival "by scenic flight", none of which are in the road itinerary.
+  - Kidepo: only one price ("From $1,789"), no regular/sale pair; no drive times given for the long Kampala-Kidepo days; excludes list has no tips or insurance line; includes lists "Company Mark up", which reads oddly to clients.
+  - Botswana (9843): title says "Khwai & Okavango" but days 3-4 are in Moremi Game Reserve (Mankwe Tented Retreat); title/keyword now say Chobe, Moremi and Khwai.
+  - Botswana typos: "Gateway to the Okavango Wildernes" (day 3 heading), "your Botswana's Safari stunning landscapes" (day 7), lowercase "botswana"/"khwai" in the overview, "Safari ecosystems"; Highlights list has "Chobe National Park" twice; includes list has a stray "* " prefix on every bullet and an empty last bullet; "[whatsapp_booking]" shortcode shows as raw text in the copy.
+  - Botswana: "luxury lodge stays" in the overview; only Mankwe is described as luxury, check the claim. Gallery photos have alt "Botswana safari" (now corrected in the import file). Only one price ("From $4,870").
+  - Related trip cards: "5 Day Boteti Tented Safari Logde" (title and slug 5-day-boteti-tented-safari-logde, queue row 46: "Logde" should be "Lodge"); "Okavanga Delta" typo in the 5 Days Into the Okavango Exploration excerpt.
+  - Older trip files still carry Unsplash photo credits in the overview (they would now fail validate_trip.py under the no-credits rule): kenya-2957, kenya-6804, kenya-6806, tanzania-6840, tanzania-9499, tanzania-9504, tanzania-9511, tanzania-9527, tanzania-9539. Re-import them without the credit line (or let a future run clean them).
+- Could not open: none (site copy from 2026-11-10 18:22 UTC used; divulgeadventures.com not opened).
+- Next: 3-day-okavango-delta-mokoro-tour (Botswana), 5-days-okavango-exploration (Botswana)
+
 ## 2026-11-11 06:55 | New post 1
 - "A Kenya School Trip Can Teach Geology, Ecology and Conservation Within a Day of Nairobi": https://divulgeadventures.com/kenya-school-trip/
 - Kenya (KE-374, today's group post: school), Safari Themes; focus keyword refined to "kenya school trip". Scheduled for 11 Nov 10:00 Nairobi time.
