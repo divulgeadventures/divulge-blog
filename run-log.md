@@ -4,6 +4,17 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-12 08:36 Trip Optimiser
+- Done: 3-Day Okavango Delta Mokoro Tour (9793, "3 day okavango delta mokoro safari", botswana-9793-3-day-okavango-delta-mokoro-safari.json), 5 Days Into the Okavango Exploration (9769, "5 day okavango moremi and khwai safari", botswana-9769-5-day-okavango-moremi-and-khwai-safari.json)
+- Photos: 9793 = 2 owner + 3 Unsplash; 9769 = 4 owner + 2 Unsplash. No credits anywhere (no-credits rule was already in TRIP_GUIDE.md and validate_trip.py; nothing to remove).
+- Owner to fix by hand (the importer cannot change these):
+  - 3-Day Okavango Delta Mokoro Tour: the second "Cost Includes" heading should be "Cost Excludes"; "Meals" is listed as included but "Some meals" is also listed as excluded (pick one); "Roundtrip airport transfer" is included but the itinerary only has a Maun pick-up/drop-off; "Park fees" and "(For non-residents)" / "All activities" and "(Unless labeled as optional)" are split into separate bullets; "Island Walking Safaris:" has a stray colon; Day 1 typo "Delta ecosystemtracks" (missing dash/space); no best months on the page; price shows only "From $715" (no regular/sale pair) - please confirm; featured image alt "Okavango Exploration" is wrong for this trip (fixed in the file).
+  - 5 Days Into the Okavango Exploration: "Okavanga" twice in the overview (should be Okavango) and " .This" spacing; Day 1 "Your will be met" (You will be met); Day 2 "meandaring" (meandering) and the day is titled "Okavango Exploration" but describes Moremi; Day 4 "porcupinies" (porcupines) and "spring hares" (springhares); Day 5 "Maun,marking" missing space; highlight "Kwai concession." should be "Khwai Concession"; includes list "Charter flights within Botswana" but every day is by road from Maun - remove or explain; "Luxury tented accommodation" is included but no camp or lodge is named anywhere (mobile camp set up by a back-up team), so "luxury" cannot be checked; price "From $3,600" is identical to the 7 Days Kalahari Expeditions and 8 Days Moremi and Northern Exploration cards ($3,600 each) - looks like a placeholder, please confirm; trip title "5 Days Into the Okavango Exploration" reads awkwardly.
+  - Media Library: file names "Moremi-and-Nothern-Exploration.jpg" / "-1.jpg" have the typo "Nothern"; items 9778, 9792 and 9776 have empty or generic alt text ("Okavango Exploration").
+  - Slug typo spotted for a later row: 5-day-boteti-tented-safari-logde ("logde" = lodge), title "5 Day Boteti Tented Safari Logde" too.
+- Could not open: none (site copy from 2026-11-11 18:13 used; no live pages opened)
+- Next: 7-day-moremi-khwai-and-savuti, 8-days-moremi-and-northern-exploration
+
 ## 2026-11-12 06:56 | New post 1
 - "Driving Namibia as a Group? How a Self Drive Convoy Keeps Everyone Together": https://divulgeadventures.com/namibia-self-drive-convoy/
 - Namibia (NA-314, today's group post), Safari Planning Tips. Scheduled for 12 Nov 10:00 Nairobi time. Main link /group-safaris/organise-a-group-safari/ (first paragraph and Trip CTA), /group-safaris/ once, orange button to the group inquiry form, trips: 5 Days Namibia Adventure and 6-Day Namibian Culture and Scenery Tour.
