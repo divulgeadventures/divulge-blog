@@ -3,6 +3,11 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-12 18:50 | Nothing to do
+- Today's work is complete: all 9 sprint posts for 12 Nov are already written and scheduled.
+- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows left as todo in REFRESH_QUEUE.md.
+- Could not open: none
+
 ## 2026-11-12 18:36 Trip Optimiser
 - Done: 7 Days Kalahari Expeditions (9772, "7 day central kalahari and nxai pan safari", botswana-9772-7-day-central-kalahari-and-nxai-pan-safari.json), 5 Day Boteti Tented Safari Logde (9846, "5 day boteti and okavango delta safari", botswana-9846-5-day-boteti-and-okavango-delta-safari.json)
 - Photos: 9772 = 1 owner + 5 Unsplash; 9846 = 6 owner + 0 Unsplash. No credits anywhere (no-credits rule is already in TRIP_GUIDE.md and validate_trip.py, and the model file has none; nothing to remove).
@@ -947,18 +952,4 @@ Botswana (bank row BW-056, BOOST comparison), Destination Tips. Scheduled to pub
 Images: 0 from the owner's Media Library (search could not be opened), 6 from Unsplash (featured elephant in the Okavango, plus Okavango River aerial, Chobe River elephants, elephants crossing water in the Okavango, big cat in the Okavango, elephants in Chobe NP).
 Skipped topics: none.
 Could not open: https://divulgeadventures.com/?s=okavango+chobe, https://divulgeadventures.com/destinations/botswana-safari/, the media library search and https://whc.unesco.org/en/list/1432 (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts).
-
-## 2026-10-13 19:10 | Refresh
-Lake Nakuru Day Trip from Nairobi: Timings, Fees and What You'll See — https://divulgeadventures.com/lake-nakuru-safari-guide/
-Kenya, Safari Themes. Rewritten fully to the template (FIX FIRST row): all raw markdown links, the link code in the itinerary heading, the bare "www.lakenakurukenya.com" text and "+ 1"/"+ 2" leftovers are gone; the park-guide link now points to /lake-nakuru-national-park/. Focus keyword set to "lake nakuru day trip" (the full "...from Nairobi" phrase cannot reach the required keyword density without stuffing; "from Nairobi" stays in the title, meta title and first sentence). KWS fees (US$90 non-resident adult, US$45 child) checked October 2026. Featured image unchanged.
-Images: 0 from the owner's Media Library (not searched, see below), 4 from Unsplash (Lake Nakuru shore, zebras in Lake Nakuru NP, Lake Nakuru water, pelican on Lake Naivasha).
-Skipped topics: none. Next FIX row: masai-mara-balloon-safari (LINK FIX).
-Could not open: https://divulgeadventures.com/lake-nakuru-safari-guide/ (old post; permission request timed out, so it was rewritten from fresh research), https://en.wikipedia.org/wiki/Lake_Nakuru_National_Park and https://www.kws.go.ke/lake-nakuru-national-park (permission timeouts); the media library search and short-excursions page were not tried because they have timed out on every run today.
-
-## 2026-10-13 15:08 | New post 3
-Kenya Honeymoon Safari: Where to Go, Best Time, Costs and Itineraries — https://divulgeadventures.com/kenya-honeymoon-safari/
-Kenya (bank row KE-002, core pillar, about 2,700 words), Safari Themes. Scheduled to publish 2026-10-13 18:00 Nairobi time. Fees checked October 2026: Masai Mara US$100/US$200 per adult per day (Jan-Jun/Jul-Dec), KWS Amboseli and Lake Nakuru US$90, Nairobi NP and Tsavo US$80, Kisite-Mpunguti US$25, Kenya eTA US$30; cost tiers labelled as estimates. No Kenya trip page could be opened, so the post links the Kenya destination, bush & beach and fly-in pages.
-Images: 0 from the owner's Media Library (search could not be opened), 6 from Unsplash (featured Mara sunset, plus Mara plains, Mara tented camp, elephants below Kilimanjaro, Diani Beach, Lamu dhow).
-Skipped topics: none.
-Could not open: https://divulgeadventures.com/?s=kenya+honeymoon, https://divulgeadventures.com/destinations/kenya-safari/, the media library search and https://www.flysafarilink.com/baggage/ (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts).
 
