@@ -508,3 +508,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/hippo-in-the-water-often-seen-on-akagera-boat-cruises.jpg | rwanda-school-trip
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/golden-monkey-in-the-bamboo-forest-of-volcanoes-national-park.jpg | rwanda-school-trip
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/Nyungwe-forest-Nyngwe-National-Park.jpeg | rwanda-school-trip
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/02/serengeti-wildebeest-migration-river-crossing-scaled.jpg | serengeti-field-trip
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2025/11/mother-and-baby-elephants-on-dry-grass-in-the-serengeti.jpg | serengeti-field-trip
+2026-11-12 | https://images.unsplash.com/photo-1757205345419-1598fc345d9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8U2VyZW5nZXRpJTIwa29wamV8ZW58MHwwfHx8MTc5NDQ3NzA1OHwy&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-field-trip
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/marabou-stork-and-vulture-at-a-wildebeest-carcass-by-the-mara-river.jpg | serengeti-field-trip
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2025/11/5563-x-3708divulge_adventures-scaled.jpg | serengeti-field-trip
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/great-migration-month-by-month.jpg | serengeti-field-trip

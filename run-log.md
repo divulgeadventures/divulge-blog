@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-12 12:58 | New post 4
+- "Serengeti Field Trip for University Groups: Research Sites, Permits and Camp Logistics": https://divulgeadventures.com/serengeti-field-trip/
+- Tanzania (TZ-324, group sprint row), Safari Themes. Focus keyword refined from "serengeti university field trip" to "serengeti field trip" (the shorter phrase people search; the post still targets university groups and is differentiated from the Tanzania school trip post). Scheduled for 12 Nov 13:00 Nairobi time. Main link /group-safaris/student-study-tour-safaris/ (intro and Trip CTA), /group-safaris/ and /group-safaris/organise-a-group-safari/ once each, orange button to the group inquiry form, trips: 6 Days 5 Nights Northern Tanzania Safari and 8 Day Midrange Tanzania Safari.
+- Facts checked November 2026: Serengeti Wildlife Research Centre at Seronera (TAWIRI page: 327 km from Arusha, about 1 hour by air, labs, library, museum, herbarium, talks for visitors), COSTECH research permits (apply 3 months ahead, US$50 + US$300; US$120 residence permit per the Tanzania High Commission page; TAWIRI clearance for wildlife research). Park fees carried from recent verified posts (checked Nov 2026); per-student daily costs labelled estimates.
+- Images: 5 from the owner's Media Library (featured Mara River crossing + Serengeti elephants, marabou and vulture, northern Tanzania scenery, wildebeest crossing) + 1 Unsplash (lion cub on a Serengeti kopje). 5 body images, no credits. Refresh still paused.
+- Could not open: none
+
 ## 2026-11-12 11:58 | New post 3
 - "How to Run a Rwanda School Trip When Most of Your Pupils Are Too Young for Gorillas": https://divulgeadventures.com/rwanda-school-trip/
 - Rwanda (RW-307, group sprint row), Safari Themes. Scheduled for 12 Nov 12:00 Nairobi time (the post 3 slot; post 2 also sits at 12:00 because its 11:00 slot had passed). Main link /group-safaris/student-study-tour-safaris/ (intro and Trip CTA), /group-safaris/ and /group-safaris/organise-a-group-safari/ once each, orange button to the group inquiry form, trips: 6 Days Rwanda Wildlife, Culture and Lake Kivu Holiday and the Akagera day trip. Differentiated from the university study tour post by focusing on school age rules.
@@ -931,10 +938,4 @@ Kenya Safari in January: Weather, Wildlife, Costs and Where to Go — https://di
 Kenya (bank row KE-096, seasonal pick for January), Destination Tips. Scheduled to publish 2026-10-12 10:00 Nairobi time. Fees checked October 2026: Masai Mara US$100 Jan-Jun (Kenya Times, Aug 2026), KWS parks from the official KWS conservation fee sheet, eTA US$30.
 Skipped topics: none.
 Could not open: https://divulgeadventures.com/?s=kenya+safari+in+january, https://divulgeadventures.com/destinations/kenya-safari/, https://divulgeadventures.com/kenya-safari-in-december/ and the media library (permission requests timed out; used the repo's post files and CONTENT_MAP.md for overlap checks and links, and an already-linked Kenya birding trip page), https://fitfortravel.nhs.uk/destinations/africa/kenya (permission timed out; URL confirmed in search results), one Unsplash photo page (elephant herd; not used).
-
-## 2026-10-11 18:58 | Refresh
-Kakamega Forest: A Practical Guide to Kenya's Last Rainforest — https://divulgeadventures.com/divulgeadventures-com-kakamega-forest/
-Kenya, moved from Safari Themes to Destination Tips. Rewritten fully to the template: the raw markdown links and the links to non-existent pages (/kakamega-forest-kenya-safari-guide/ and similar) are removed, there are proper links to KWS and Kenya Forest Service, KWS fees were checked October 2026, and the existing kakamega-forest-6.jpg image is reused.
-Skipped topics: none.
-Could not open: https://kws.go.ke/park/kakamega-forest-national-reserve/ (permission request timed out; used the same KWS page on sandbox.kws.go.ke instead), https://www.kenyaforestservice.org/ (permission request timed out; linked as the official KFS site), BirdLife DataZone Kakamega factsheet (page loaded empty), The Standard article on Kakamega forests (body not available).
 
