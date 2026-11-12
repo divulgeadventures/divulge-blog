@@ -525,3 +525,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/06/hippos-wading-through-shallow-water-in-the-okavango-delta-botswana.jpg | botswana-photography-safari-groups
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/06/african-wild-dogs-playing-in-afternoon-sun-in-the-okavango-delta-botswana.jpg | botswana-photography-safari-groups
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/06/sunset-over-trees-and-water-in-the-okavango-delta-botswana.jpg | botswana-photography-safari-groups
+2026-11-12 | https://images.unsplash.com/photo-1604925016646-25e3f9af3736?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8TGFpa2lwaWElMjBLZW55YXxlbnwwfDB8fHwxNzk0NDg3OTY5fDI&ixlib=rb-4.1.0&q=80&w=1080 | university-study-tour-kenya
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-340-scaled.jpg | university-study-tour-kenya
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/02/solio.jpg | university-study-tour-kenya
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2025/12/6000-x-4000divulge_adventures-340-scaled.jpg | university-study-tour-kenya
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/09/kakamega-forest-3.jpg | university-study-tour-kenya
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2025/12/Divulge-Adventures-Copy2-116-scaled.jpg | university-study-tour-kenya

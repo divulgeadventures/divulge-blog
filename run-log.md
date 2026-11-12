@@ -3,6 +3,12 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-12 15:58 | New post 7
+- "Leading a University Study Tour in Kenya? Build It Around Field Stations, Not Game Drives" https://divulgeadventures.com/university-study-tour-kenya/
+- Kenya, Safari Themes (group sprint row KE-375; focus keyword refined to "university study tour in kenya"). Scheduled for 16:00 Nairobi time today.
+- Images: 5 from the owner's Media Library (all in the body), 1 from Unsplash (featured). NACOSTI licence fee not stated (new schedule from 1 Oct 2026 only confirmed in press, readers told to check the portal).
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: nation.africa article on NACOSTI fees (blocked to automated fetch).
 ## 2026-11-12 14:55 | New post 6
 - "A Botswana Photography Safari Gives Your Camera Club Space, Water and Light Few Places Can Match" https://divulgeadventures.com/botswana-photography-safari-groups/
 - Botswana, Safari Themes (group sprint row BW-310; focus keyword refined to "botswana photography safari"). Scheduled for 15:00 Nairobi time today.
@@ -942,10 +948,4 @@ Serengeti in December: Where the Herds Are, Weather and Costs — https://divulg
 Tanzania (bank row TZ-047, seasonal pick for December), Great Migration & River Crossing, country tag: Tanzania. Scheduled to publish 2026-10-13 10:00 Nairobi time. Fees checked October 2026: Serengeti US$82.60 adult / US$23.60 child (high season July to mid-March), NCAA US$70.80 + US$59 concession. No Tanzania trip page could be opened, so the post links the Tanzania destination page and fly-in packages page.
 Skipped topics: none.
 Could not open: https://divulgeadventures.com/?s=serengeti+in+december, https://divulgeadventures.com/destinations/tanzania-safari/ and the media library search (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts), https://www.tanzaniaparks.go.tz/ (permission timed out; fees taken from a March 2026 published fee table matching earlier checks), three Unsplash photo pages (permission timeouts; not used).
-
-## 2026-10-12 19:15 | Refresh
-Lake Bogoria: Hot Springs, Geysers and Flamingos in Kenya's Rift Valley — https://divulgeadventures.com/lake-bogoria-geysers-flamingos-rift-valley/
-Kenya, moved from Safari Themes to Destination Tips, country tag: Kenya. Fully rewritten to the template: the old raw markdown links, "utm_source=gemini" links and self-links are gone; external link is the Ramsar site record. The post now tells readers honestly that rising water has submerged most geysers (warden quoted by Nation, 2025; NASA 2020) and that the old main gate and Emsos road are underwater (July 2026). Entry fee not stated (could not verify on an official source; readers told we confirm it when quoting). New in-content image: flamingos at Lake Nakuru (Unsplash); featured image unchanged.
-Skipped topics: none.
-Could not open: https://divulgeadventures.com/lake-bogoria-geysers-flamingos-rift-valley/ and its wp-json version, https://divulgeadventures.com/destinations/kenya-safari/, the media library search (permission requests timed out; old post could not be read, so it was rewritten from fresh research and existing trip links in the repo), https://lakebogoria.org/entrance-fees/, /visitor-info/ and /plan-your-perfect-trip-to-lake-bogoria-national-reserve/ (fetch errors), https://whc.unesco.org/en/list/1060 and Unsplash/Pexels search pages (permission timeouts), Baringo County Finance Act 2023 PDF (unreadable binary).
 
