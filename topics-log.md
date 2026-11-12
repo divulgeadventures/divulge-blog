@@ -98,3 +98,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-11 | REFRESH | Destination Tips | namibia safari guide | ultimate-namibia-safari-guide
 2026-11-12 | Namibia NA-314 | Safari Planning Tips | namibia self drive convoy | namibia-self-drive-convoy
 2026-11-12 | Kenya KE-391 | Safari Planning Tips | east africa dmc | east-africa-dmc
+2026-11-12 | Rwanda RW-307 | Safari Themes | rwanda school trip | rwanda-school-trip

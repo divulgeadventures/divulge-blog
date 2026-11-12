@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-12 11:58 | New post 3
+- "How to Run a Rwanda School Trip When Most of Your Pupils Are Too Young for Gorillas": https://divulgeadventures.com/rwanda-school-trip/
+- Rwanda (RW-307, group sprint row), Safari Themes. Scheduled for 12 Nov 12:00 Nairobi time (the post 3 slot; post 2 also sits at 12:00 because its 11:00 slot had passed). Main link /group-safaris/student-study-tour-safaris/ (intro and Trip CTA), /group-safaris/ and /group-safaris/organise-a-group-safari/ once each, orange button to the group inquiry form, trips: 6 Days Rwanda Wildlife, Culture and Lake Kivu Holiday and the Akagera day trip. Differentiated from the university study tour post by focusing on school age rules.
+- Facts checked November 2026: Kigali Genocide Memorial (free entry, under-12s not admitted, guided group tours US$200-500 with 15% student discount; kgm.rw), Akagera fees (adult rates from 13, US$100/150/200, boat trips; African Parks price list), Nyungwe 2025-2026 prices (canopy walk US$40, chimps US$150), Rwanda visa (free for AU/Commonwealth/Francophonie, US$50 others; migration.gov.rw), Dian Fossey Fund campus hours and US$20 suggested donation, gorilla permit US$1,500 and 15+ age rule. Golden monkey age (12) and fee (US$100) are from secondary sources and flagged "confirm when booking". Per-student costs are labelled estimates.
+- Images: 5 from the owner's Media Library (featured Lake Kivu island + Akagera landscape, Akagera hippo, golden monkey, Nyungwe forest) + 1 Unsplash (Kigali, Nyamirambo). 5 body images, no credits. Refresh still paused.
+- Could not open: none
+
 ## 2026-11-12 11:05 | New post 2
 - "An East Africa DMC Turns Your Client's Safari Brief Into a Trip That Runs Smoothly on the Ground": https://divulgeadventures.com/east-africa-dmc/
 - Owner idea (today's one owner idea during the sprint), written for travel agents and tour operators; added to the bank as KE-391, Safari Planning Tips. Scheduled for 12 Nov 12:00 Nairobi time (11:00 slot had passed by commit time). Main link /group-safaris/safari-dmc/ in the second paragraph and Trip CTA, /group-safaris/ once, /b2b-agent-rates/, orange button "Become a Partner Agent" to the group inquiry form, trips: 12 Days Magical Kenya & Tanzania Safari and 9 Days Gorilla and Chimpanzee Trekking Safari.
@@ -930,10 +937,4 @@ Kakamega Forest: A Practical Guide to Kenya's Last Rainforest — https://divulg
 Kenya, moved from Safari Themes to Destination Tips. Rewritten fully to the template: the raw markdown links and the links to non-existent pages (/kakamega-forest-kenya-safari-guide/ and similar) are removed, there are proper links to KWS and Kenya Forest Service, KWS fees were checked October 2026, and the existing kakamega-forest-6.jpg image is reused.
 Skipped topics: none.
 Could not open: https://kws.go.ke/park/kakamega-forest-national-reserve/ (permission request timed out; used the same KWS page on sandbox.kws.go.ke instead), https://www.kenyaforestservice.org/ (permission request timed out; linked as the official KFS site), BirdLife DataZone Kakamega factsheet (page loaded empty), The Standard article on Kakamega forests (body not available).
-
-## 2026-10-11 15:03 | New post 3
-Namibia Hiking Safari: The Best Hikes, Seasons and Costs — https://divulgeadventures.com/namibia-hiking-safari/
-Namibia (bank row NA-313), Safari Themes. Scheduled to publish 2026-10-11 18:00 Nairobi time.
-Skipped topics: none.
-Could not open: https://divulgeadventures.com/trip-types/hiking-and-safari-combo/ (permission request timed out; linked as a listed money page), https://www.nwr.com.na/wp-content/uploads/2021/06/Hiking-Precautions.pdf (blocked by robots), images.unsplash.com image files (could not test-load from the sandbox; photo pages confirmed).
 

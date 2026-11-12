@@ -502,3 +502,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p.jpg | east-africa-dmc
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge_adventures_safari-31-8-scaled.jpg | east-africa-dmc
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/elephants-grazing-below-mount-kilimanjaro-in-amboseli.jpg | east-africa-dmc
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/island-on-lake-kivu-a-highlight-of-this-rwanda-holiday-package.jpg | rwanda-school-trip
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/lake-and-savannah-landscape-in-akagera-national-park.jpg | rwanda-school-trip
+2026-11-12 | https://images.unsplash.com/photo-1708772565588-33785e13aa46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8N3x8S2lnYWxpJTIwUndhbmRhfGVufDB8MHx8fDE3OTQ0NzM0NjR8Mg&ixlib=rb-4.1.0&q=80&w=1080 | rwanda-school-trip
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/hippo-in-the-water-often-seen-on-akagera-boat-cruises.jpg | rwanda-school-trip
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/golden-monkey-in-the-bamboo-forest-of-volcanoes-national-park.jpg | rwanda-school-trip
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/Nyungwe-forest-Nyngwe-National-Park.jpeg | rwanda-school-trip

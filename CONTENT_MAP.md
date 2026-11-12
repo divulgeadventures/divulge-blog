@@ -256,3 +256,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/serengeti-in-february/ (serengeti in february)
 - https://divulgeadventures.com/namibia-self-drive-convoy/ (namibia self drive convoy)
 - https://divulgeadventures.com/east-africa-dmc/ (east africa dmc)
+- https://divulgeadventures.com/rwanda-school-trip/ (rwanda school trip)
