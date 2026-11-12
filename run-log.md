@@ -4,6 +4,22 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-12 13:38 Trip Optimiser
+- Done: 7-Day Moremi Khwai and Savuti Special (9844, "7 day moremi khwai and savuti safari", botswana-9844-7-day-moremi-khwai-and-savuti-safari.json), 8 Days Moremi and Northern Exploration (9771, "8 day moremi and khwai camping safari", botswana-9771-8-day-moremi-and-khwai-camping-safari.json)
+- Photos: 9844 = 4 owner + 2 Unsplash; 9771 = 5 owner + 1 Unsplash. No credits anywhere (no-credits rule was already in TRIP_GUIDE.md and validate_trip.py; nothing to remove).
+- Owner to fix by hand (the importer cannot change these):
+  - 9844 typos: overview "7-Day Moremi Khwai , and Savuti Special" (stray comma); Day 05-06 "the legendary Savuti region of Savuti"; empty last bullet under Cost Includes.
+  - 9844 conflicting facts: the itinerary is mobile camping every night, but Includes says "6 Nights' accommodation safari lodges and tented camps" and the overview says "or a luxury fly-in lodge safari". Includes lists "Domestic scheduled flights" but every day is by road. Excludes lists "Roundtrip airport transfers" although Day 1 has a Maun airport pick-up and Day 7 a drop-off. "Mokoro Excursions" is a highlight but no day mentions a mokoro. The file says flights/transfers are "confirmed in your quote".
+  - 9844 wrong alt (Media Library): Moremi-Khwai-and-Savuti.jpg (ID 9857) has the alt "8 day botswana photography club safari: …". This file sets a neutral alt, but the group photography file uses the same photo, so the next import of either file will overwrite it again.
+  - 9844 near-duplicate: the group trip "7 Day Botswana Family Camping Safari: Moremi, Khwai and Savuti" has the same route. Consider making that page clearly different, or pointing it at this trip.
+  - 9771 typos: "Trip Highlihts", "Charter flghts", "itinirary", "Personal tems". There is also a missing full stop after "Having had a great experience for Moremi and Northern Exploration" at the end of Day 04-06.
+  - 9771 conflicting nights: the "Day 04-06: Khwai Concession" heading means 3 nights, but its text says "the next two nights". Moremi is 3 nights (Day 1 says "next three nights", Day 02 & 03 says "next two nights"). The file follows the day numbers: 3 Moremi + 3 Khwai + 1 Kaziikini = 7 nights.
+  - 9771 conflicting facts: Includes says "Luxury Tented accommodation" and "Charter flights within Botswana", but the itinerary is campsites and road transfers from and back to Maun. The overview also says "Big Five tracking", but no rhino is mentioned anywhere.
+  - 9771 wrong alt: the featured image Moremi-and-Nothern-Exploration.jpg (ID 9776) has the alt "5 day Okavango Moremi and Khwai safari…" because it is also 9769's featured image (and is used in 3 group files). I left it out of 9771 so 9769's alt is not overwritten. 9771 now uses Moremi-and-Northern-Exploration.jpg (ID 9792, which had no alt) as its featured image. Please upload a separate photo for each trip. The file name "Nothern" is also misspelt.
+  - Prices: 9771 (8 days, all meals and drinks) is From $3,600, the same as 9769 (5 days). Please confirm it is not copied. 9844 is $4,774. Both pages show one price only (no regular/sale pair), and the "/ person" on the related-trip cards differs from "/ Adult" on the trip pages.
+- Could not open: none (site copy from 2026-11-12 10:29 UTC was fresh, so the live site was not opened)
+- Next: 7-days-kalahari-expeditions, 5-day-boteti-tented-safari-logde (slug typo "logde")
+
 ## 2026-11-12 12:58 | New post 4
 - "Serengeti Field Trip for University Groups: Research Sites, Permits and Camp Logistics": https://divulgeadventures.com/serengeti-field-trip/
 - Tanzania (TZ-324, group sprint row), Safari Themes. Focus keyword refined from "serengeti university field trip" to "serengeti field trip" (the shorter phrase people search; the post still targets university groups and is differentiated from the Tanzania school trip post). Scheduled for 12 Nov 13:00 Nairobi time. Main link /group-safaris/student-study-tour-safaris/ (intro and Trip CTA), /group-safaris/ and /group-safaris/organise-a-group-safari/ once each, orange button to the group inquiry form, trips: 6 Days 5 Nights Northern Tanzania Safari and 8 Day Midrange Tanzania Safari.
