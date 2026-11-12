@@ -1,5 +1,320 @@
 [
  {
+  "id": 13089,
+  "slug": "9-day-uganda-gorilla-safari-for-clubs",
+  "url": "https://divulgeadventures.com/trip/9-day-uganda-gorilla-safari-for-clubs/",
+  "title": "9 Day Uganda Gorilla Safari for Clubs: Murchison, Kibale, Queen Elizabeth and Bwindi",
+  "destination": [
+   27
+  ],
+  "modified": "2026-11-12T07:15:51",
+  "featured_image": {
+   "id": 12860,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/baby-mountain-gorilla-sitting-on-leaves-in-bwindi-impenetrable-forest.jpg",
+   "alt": "9 day uganda gorilla safari for clubs: baby mountain gorilla in Bwindi Impenetrable Forest"
+  }
+ },
+ {
+  "id": 13087,
+  "slug": "7-day-uganda-family-gorilla-safari",
+  "url": "https://divulgeadventures.com/trip/7-day-uganda-family-gorilla-safari/",
+  "title": "7 Day Uganda Family Gorilla Safari: Kibale, Queen Elizabeth and Bwindi",
+  "destination": [
+   27
+  ],
+  "modified": "2026-11-12T07:15:50",
+  "featured_image": {
+   "id": 12865,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/chimpanzee-resting-in-a-tree-in-kibale-national-park-uganda.jpg",
+   "alt": "7 day uganda family gorilla safari: chimpanzee resting in a tree in Kibale National Park"
+  }
+ },
+ {
+  "id": 13085,
+  "slug": "10-day-uganda-student-study-tour",
+  "url": "https://divulgeadventures.com/trip/10-day-uganda-student-study-tour/",
+  "title": "10 Day Uganda Student Study Tour: Nile, Murchison, Kibale, Queen Elizabeth and Bwindi",
+  "destination": [
+   27
+  ],
+  "modified": "2026-11-12T07:15:48",
+  "featured_image": {
+   "id": 8768,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/330px-015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+   "alt": "10 day uganda student study tour: gorilla and chimpanzee trekking in Uganda"
+  }
+ },
+ {
+  "id": 13083,
+  "slug": "9-day-tanzania-celebration-safari",
+  "url": "https://divulgeadventures.com/trip/9-day-tanzania-celebration-safari/",
+  "title": "9 Day Tanzania Celebration Safari with Zanzibar",
+  "destination": [
+   31
+  ],
+  "modified": "2026-11-12T07:15:47",
+  "featured_image": {
+   "id": 6857,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/5502-x-3668divulge_adventures-scaled.jpg",
+   "alt": "9 day tanzania celebration safari: on safari in northern Tanzania"
+  }
+ },
+ {
+  "id": 13081,
+  "slug": "8-day-tanzania-student-study-tour",
+  "url": "https://divulgeadventures.com/trip/8-day-tanzania-student-study-tour/",
+  "title": "8 Day Tanzania Student Study Tour: Tarangire, Serengeti, Ngorongoro and Lake Eyasi",
+  "destination": [
+   31
+  ],
+  "modified": "2026-11-12T07:15:45",
+  "featured_image": {
+   "id": 12580,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/elephant-family-on-green-grass-in-serengeti-national-park.jpg",
+   "alt": "8 day tanzania student study tour: elephant family on green grass in Serengeti National Park"
+  }
+ },
+ {
+  "id": 13079,
+  "slug": "8-day-tanzania-incentive-safari",
+  "url": "https://divulgeadventures.com/trip/8-day-tanzania-incentive-safari/",
+  "title": "8 Day Tanzania Incentive Safari: Tarangire, Manyara, Serengeti and Ngorongoro",
+  "destination": [
+   31
+  ],
+  "modified": "2026-11-12T07:13:59",
+  "featured_image": {
+   "id": 10095,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/07/serengeti-migration.jpg",
+   "alt": "8 day tanzania incentive safari: Great Migration herds on the Serengeti plains"
+  }
+ },
+ {
+  "id": 13094,
+  "slug": "7-day-tanzania-golf-safari",
+  "url": "https://divulgeadventures.com/trip/7-day-tanzania-golf-safari/",
+  "title": "7 Day Tanzania Golf Safari: Kilimanjaro Golf Estate, Serengeti Golf Course and Ngorongoro",
+  "destination": [
+   31
+  ],
+  "modified": "2026-11-12T07:13:58",
+  "featured_image": {
+   "id": 12076,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/divulge-adventures-kenya-safari-4-scaled.jpg",
+   "alt": "7 day tanzania golf safari: elephant herd walking in front of Mount Kilimanjaro"
+  }
+ },
+ {
+  "id": 13077,
+  "slug": "6-day-rwanda-family-safari",
+  "url": "https://divulgeadventures.com/trip/6-day-rwanda-family-safari/",
+  "title": "6 Day Rwanda Family Safari: Akagera, Volcanoes and Lake Kivu",
+  "destination": [
+   33
+  ],
+  "modified": "2026-11-12T07:13:56",
+  "featured_image": {
+   "id": 11699,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/green-hill-on-the-shore-of-lake-kivu-rwanda.jpg",
+   "alt": "6 day rwanda family safari: Lake Kivu shoreline in Rwanda"
+  }
+ },
+ {
+  "id": 13075,
+  "slug": "6-day-rwanda-celebration-safari",
+  "url": "https://divulgeadventures.com/trip/6-day-rwanda-celebration-safari/",
+  "title": "6 Day Rwanda Celebration Safari: Akagera, Gorillas and Golden Monkeys",
+  "destination": [
+   33
+  ],
+  "modified": "2026-11-12T07:13:55",
+  "featured_image": {
+   "id": 11668,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p.jpg",
+   "alt": "6 day rwanda celebration safari: mountain gorilla in Volcanoes National Park"
+  }
+ },
+ {
+  "id": 13073,
+  "slug": "5-day-rwanda-incentive-safari",
+  "url": "https://divulgeadventures.com/trip/5-day-rwanda-incentive-safari/",
+  "title": "5 Day Rwanda Incentive Safari: Kigali, Gorillas and Golden Monkeys",
+  "destination": [
+   33
+  ],
+  "modified": "2026-11-12T07:13:53",
+  "featured_image": {
+   "id": 11679,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/golden-monkey-in-the-bamboo-forest-of-volcanoes-national-park.jpg",
+   "alt": "5 day rwanda incentive safari: golden monkey in Volcanoes National Park"
+  }
+ },
+ {
+  "id": 13071,
+  "slug": "7-day-namibia-family-safari",
+  "url": "https://divulgeadventures.com/trip/7-day-namibia-family-safari/",
+  "title": "7 Day Namibia Family Safari: Etosha National Park",
+  "destination": [
+   37
+  ],
+  "modified": "2026-11-12T07:13:52",
+  "featured_image": {
+   "id": 7867,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/01/Namibia-safari-walvis-bay-flamingos.jpg",
+   "alt": "7 day namibia family safari: wildlife and landscapes of Namibia"
+  }
+ },
+ {
+  "id": 13069,
+  "slug": "6-day-namibia-culture-tour-for-clubs",
+  "url": "https://divulgeadventures.com/trip/6-day-namibia-culture-tour-for-clubs/",
+  "title": "6 Day Namibia Culture Tour for Clubs: Erongo, Damaraland and Kaokoland",
+  "destination": [
+   37
+  ],
+  "modified": "2026-11-12T07:13:50",
+  "featured_image": {
+   "id": 9930,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/first-time-namibia-safari.jpg",
+   "alt": "6 day namibia culture tour for clubs: travelling through Namibia's landscapes"
+  }
+ },
+ {
+  "id": 13067,
+  "slug": "5-day-namibia-celebration-safari",
+  "url": "https://divulgeadventures.com/trip/5-day-namibia-celebration-safari/",
+  "title": "5 Day Namibia Celebration Safari: Etosha, AfriCat and Sossusvlei",
+  "destination": [
+   37
+  ],
+  "modified": "2026-11-12T07:13:49",
+  "featured_image": {
+   "id": 7865,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/01/Namibia-Safari-Deadvlei.jpg",
+   "alt": "5 day namibia celebration safari: desert scenery on a Namibia safari"
+  }
+ },
+ {
+  "id": 13092,
+  "slug": "8-day-kenya-golf-safari",
+  "url": "https://divulgeadventures.com/trip/8-day-kenya-golf-safari/",
+  "title": "8 Day Kenya Golf Safari: Karen, Muthaiga, Great Rift Valley, Masai Mara and Vipingo Ridge",
+  "destination": [
+   19
+  ],
+  "modified": "2026-11-12T07:11:39",
+  "featured_image": {
+   "id": 12247,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/divulge_adventures_masai_mara_safari-122.jpg",
+   "alt": "8 day kenya golf safari: friends celebrating on the savannah during a group safari"
+  }
+ },
+ {
+  "id": 13059,
+  "slug": "7-day-kenya-incentive-safari",
+  "url": "https://divulgeadventures.com/trip/7-day-kenya-incentive-safari/",
+  "title": "7 Day Kenya Incentive Safari: Fly-in to Samburu, Masai Mara and Amboseli",
+  "destination": [
+   19
+  ],
+  "modified": "2026-11-12T07:11:37",
+  "featured_image": {
+   "id": 12972,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/divulge-adventures-masai-mara-national-reserve-narok-county-kenya-africa-39_2_11zon.jpg",
+   "alt": "7 day kenya incentive safari: wildlife on the plains of the Masai Mara National Reserve"
+  }
+ },
+ {
+  "id": 13057,
+  "slug": "7-day-kenya-camera-club-safari",
+  "url": "https://divulgeadventures.com/trip/7-day-kenya-camera-club-safari/",
+  "title": "7 Day Kenya Camera Club Safari: Samburu, Ol Pejeta, Nakuru and Masai Mara",
+  "destination": [
+   19
+  ],
+  "modified": "2026-11-12T07:11:36",
+  "featured_image": {
+   "id": 7485,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2025/12/4527-x-2741divulge_adventures_1-49-scaled.jpg",
+   "alt": "7 day kenya camera club safari: wildlife in Ol Pejeta and Samburu, northern Kenya"
+  }
+ },
+ {
+  "id": 13055,
+  "slug": "6-day-kenya-family-safari",
+  "url": "https://divulgeadventures.com/trip/6-day-kenya-family-safari/",
+  "title": "6 Day Kenya Family Safari: Amboseli, Nakuru and the Masai Mara",
+  "destination": [
+   19
+  ],
+  "modified": "2026-11-12T07:11:34",
+  "featured_image": {
+   "id": 12975,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/divulge-adventures-masai-mara-national-reserve-narok-county-kenya-africa-81_5_11zon.jpg",
+   "alt": "6 day kenya family safari: game drive in the Masai Mara National Reserve"
+  }
+ },
+ {
+  "id": 13053,
+  "slug": "10-day-kenya-student-study-tour",
+  "url": "https://divulgeadventures.com/trip/10-day-kenya-student-study-tour/",
+  "title": "10 Day Kenya Student Study Tour: Nairobi, Amboseli, Rift Valley and Masai Mara",
+  "destination": [
+   19
+  ],
+  "modified": "2026-11-12T07:11:32",
+  "featured_image": {
+   "id": 7376,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_8_days_safari_edited-19-scaled.jpg",
+   "alt": "10 day kenya student study tour: the gorges of Hell's Gate National Park near Lake Naivasha"
+  }
+ },
+ {
+  "id": 13065,
+  "slug": "8-day-botswana-photography-club-safari",
+  "url": "https://divulgeadventures.com/trip/8-day-botswana-photography-club-safari/",
+  "title": "8 Day Botswana Photography Club Safari: Moremi, Khwai and Kaziikini",
+  "destination": [
+   49
+  ],
+  "modified": "2026-11-12T07:11:31",
+  "featured_image": {
+   "id": 9857,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-Khwai-and-Savuti.jpg",
+   "alt": "8 day botswana photography club safari: wildlife in the Moremi, Khwai and Savuti areas"
+  }
+ },
+ {
+  "id": 13063,
+  "slug": "7-day-botswana-family-camping-safari",
+  "url": "https://divulgeadventures.com/trip/7-day-botswana-family-camping-safari/",
+  "title": "7 Day Botswana Family Camping Safari: Moremi, Khwai and Savuti",
+  "destination": [
+   49
+  ],
+  "modified": "2026-11-12T07:11:29",
+  "featured_image": {
+   "id": 9855,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-Khwai.jpg",
+   "alt": "On safari in the Moremi and Khwai area of Botswana"
+  }
+ },
+ {
+  "id": 13061,
+  "slug": "7-day-botswana-celebration-safari",
+  "url": "https://divulgeadventures.com/trip/7-day-botswana-celebration-safari/",
+  "title": "7 Day Botswana Celebration Safari: Chobe, Moremi and Khwai",
+  "destination": [
+   49
+  ],
+  "modified": "2026-11-12T07:11:27",
+  "featured_image": {
+   "id": 12997,
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/herd-of-elephants-walking-across-open-ground-in-chobe-national-park-botswana.jpg",
+   "alt": "7 day botswana celebration safari: herd of elephants in Chobe National Park"
+  }
+ },
+ {
   "id": 12547,
   "slug": "10-days-rwenzori-margherita-peak-climb",
   "url": "https://divulgeadventures.com/trip/10-days-rwenzori-margherita-peak-climb/",
@@ -1213,11 +1528,11 @@
   "destination": [
    49
   ],
-  "modified": "2026-10-13T15:26:27",
+  "modified": "2026-11-12T08:44:46",
   "featured_image": {
    "id": 9798,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/Okavango-Delta.jpg",
-   "alt": "Okavango Exploration"
+   "alt": "3 day Okavango Delta mokoro safari: the Okavango Delta in Botswana"
   }
  },
  {
@@ -1243,11 +1558,11 @@
   "destination": [
    49
   ],
-  "modified": "2026-10-13T15:28:02",
+  "modified": "2026-11-12T08:41:53",
   "featured_image": {
    "id": 9776,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-and-Nothern-Exploration.jpg",
-   "alt": "Okavango Exploration"
+   "alt": "5 day Okavango Moremi and Khwai safari: on safari in Moremi Game Reserve, Botswana"
   }
  },
  {
@@ -1262,7 +1577,7 @@
   "featured_image": {
    "id": 9776,
    "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-and-Nothern-Exploration.jpg",
-   "alt": "Okavango Exploration"
+   "alt": "5 day Okavango Moremi and Khwai safari: on safari in Moremi Game Reserve, Botswana"
   }
  },
  {

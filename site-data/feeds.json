@@ -1,5 +1,5 @@
 {
- "checked_at_utc": "2026-11-11 18:13",
+ "checked_at_utc": "2026-11-12 10:29",
  "feeds": {
   "divulge": [
    {
@@ -10,32 +10,32 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Wed, 11 Nov 2026 15:00:00 +0000",
+    "newest": "Thu, 12 Nov 2026 10:24:24 +0000",
     "sample": [
+     {
+      "title": "Serengeti Field Trip for University Groups: Research Sites, Permits and Camp Logistics",
+      "date": "Thu, 12 Nov 2026 10:24:24 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/02/serengeti-wildebeest-migration-river-crossing-1024x683.jpg"
+     },
+     {
+      "title": "How to Run a Rwanda School Trip When Most of Your Pupils Are Too Young for Gorillas",
+      "date": "Thu, 12 Nov 2026 09:24:31 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/island-on-lake-kivu-a-highlight-of-this-rwanda-holiday-package-1024x683.jpg"
+     },
+     {
+      "title": "An East Africa DMC Turns Your Client’s Safari Brief Into a Trip That Runs Smoothly on the ",
+      "date": "Thu, 12 Nov 2026 09:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/01/Mara-Wildebeest-Migration-1024x575.jpg"
+     },
+     {
+      "title": "Driving Namibia as a Group? How a Self Drive Convoy Keeps Everyone Together",
+      "date": "Thu, 12 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/namibia-self-drive-convoy-1024x576.jpg"
+     },
      {
       "title": "Serengeti in February: Peak Calving, Green Plains and the Bases Worth Booking Early",
       "date": "Wed, 11 Nov 2026 15:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/02/neptune-serengeti-national-park-1024x537.jpg"
-     },
-     {
-      "title": "Planning an Okavango Delta Safari Around the Flood, the Camps and Your Budget",
-      "date": "Wed, 11 Nov 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/okavango-delta-safari-1024x683.jpg"
-     },
-     {
-      "title": "A Kenya School Trip Can Teach Geology, Ecology and Conservation Within a Day of Nairobi",
-      "date": "Wed, 11 Nov 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-school-trip-1024x683.jpg"
-     },
-     {
-      "title": "Gorilla Trekking vs Habituation: One Hour With a Settled Family or Four With a Wild One?",
-      "date": "Tue, 10 Nov 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/gorilla-trekking-vs-habituation-1024x683.jpg"
-     },
-     {
-      "title": "Can a Tanzania School Trip Cover Fossils, Volcanoes and Wildlife in One Week?",
-      "date": "Tue, 10 Nov 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/tanzania-school-trip-1024x683.jpg"
      }
     ]
    },
@@ -158,8 +158,18 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Thu, 05 Nov 2026 11:00:00 +0000",
+    "newest": "Thu, 12 Nov 2026 09:00:00 +0000",
     "sample": [
+     {
+      "title": "An East Africa DMC Turns Your Client’s Safari Brief Into a Trip That Runs Smoothly on the ",
+      "date": "Thu, 12 Nov 2026 09:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/01/Mara-Wildebeest-Migration-1024x575.jpg"
+     },
+     {
+      "title": "Driving Namibia as a Group? How a Self Drive Convoy Keeps Everyone Together",
+      "date": "Thu, 12 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/namibia-self-drive-convoy-1024x576.jpg"
+     },
      {
       "title": "How to Plan Your First Kenya Safari Without Trying to See Everything",
       "date": "Thu, 05 Nov 2026 11:00:00 +0000",
@@ -174,16 +184,6 @@
       "title": "When Is the Best Time to Visit Kenya for Safari? It Depends on the Park",
       "date": "Thu, 29 Oct 2026 15:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/01/Tsavo-West-National-Park-Leopard.jpg"
-     },
-     {
-      "title": "A Gorilla Trekking Packing List That Copes With Mud, Nettles and Rain",
-      "date": "Wed, 28 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-packing-list-1024x809.jpg"
-     },
-     {
-      "title": "A Kenya and Tanzania Safari Works Best When You Plan the Border First",
-      "date": "Fri, 23 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/male-lion-on-a-rock-in-the-serengeti-1024x683.jpg"
      }
     ]
    },
@@ -195,8 +195,18 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Wed, 11 Nov 2026 07:00:00 +0000",
+    "newest": "Thu, 12 Nov 2026 10:24:24 +0000",
     "sample": [
+     {
+      "title": "Serengeti Field Trip for University Groups: Research Sites, Permits and Camp Logistics",
+      "date": "Thu, 12 Nov 2026 10:24:24 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/02/serengeti-wildebeest-migration-river-crossing-1024x683.jpg"
+     },
+     {
+      "title": "How to Run a Rwanda School Trip When Most of Your Pupils Are Too Young for Gorillas",
+      "date": "Thu, 12 Nov 2026 09:24:31 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/island-on-lake-kivu-a-highlight-of-this-rwanda-holiday-package-1024x683.jpg"
+     },
      {
       "title": "A Kenya School Trip Can Teach Geology, Ecology and Conservation Within a Day of Nairobi",
       "date": "Wed, 11 Nov 2026 07:00:00 +0000",
@@ -211,16 +221,6 @@
       "title": "Rwanda Study Tours for Universities That Link Genocide History, Governance and Gorilla Sci",
       "date": "Sat, 07 Nov 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/rwanda-study-tour-1024x576.jpg"
-     },
-     {
-      "title": "Seeing Nairobi’s Baby Elephants and Giraffes in One Unhurried Morning",
-      "date": "Fri, 06 Nov 2026 15:25:51 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/elephant-orphanage-and-giraffe-centre-1024x716.jpg"
-     },
-     {
-      "title": "A Charity Kilimanjaro Climb That Raises More for the Cause Than It Spends Getting There",
-      "date": "Fri, 06 Nov 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/mt-kilimanjaro-machame-route-7-day-climb-1024x682.jpeg"
      }
     ]
    },
@@ -360,8 +360,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Wed, 11 Nov 2026 07:00:00 +0000",
+    "newest": "Thu, 12 Nov 2026 09:00:00 +0000",
     "sample": [
+     {
+      "title": "An East Africa DMC Turns Your Client’s Safari Brief Into a Trip That Runs Smoothly on the ",
+      "date": "Thu, 12 Nov 2026 09:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/01/Mara-Wildebeest-Migration-1024x575.jpg"
+     },
      {
       "title": "A Kenya School Trip Can Teach Geology, Ecology and Conservation Within a Day of Nairobi",
       "date": "Wed, 11 Nov 2026 07:00:00 +0000",
@@ -381,11 +386,6 @@
       "title": "How to Plan Your First Kenya Safari Without Trying to See Everything",
       "date": "Thu, 05 Nov 2026 11:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2025/11/divulge-adventures-1024x682.jpg"
-     },
-     {
-      "title": "How to Match a Naivasha Corporate Retreat Venue to Your Team, Agenda and Budget",
-      "date": "Wed, 04 Nov 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/naivasha-corporate-retreat-1024x684.jpg"
      }
     ]
    },
@@ -794,8 +794,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Fri, 06 Nov 2026 11:00:00 +0000",
+    "newest": "Thu, 12 Nov 2026 07:00:00 +0000",
     "sample": [
+     {
+      "title": "Driving Namibia as a Group? How a Self Drive Convoy Keeps Everyone Together",
+      "date": "Thu, 12 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/namibia-self-drive-convoy-1024x576.jpg"
+     },
      {
       "title": "Heading to Namibia in February? Plan Your Route Around Where the Rain Falls",
       "date": "Fri, 06 Nov 2026 11:00:00 +0000",
@@ -815,11 +820,23 @@
       "title": "Namibia in January Means Green Etosha, Dry Dunes and Afternoon Storms",
       "date": "Mon, 26 Oct 2026 11:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/namibia-in-january-1024x576.jpg"
-     },
+     }
+    ]
+   },
+   {
+    "url": "https://divulgeadventures.com/tag/namibia-road-trip/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Thu, 12 Nov 2026 07:00:00 +0000",
+    "sample": [
      {
-      "title": "Is Namibia Worth Visiting in December? Heat, First Rains and Quiet Waterholes",
-      "date": "Wed, 21 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/namibia-in-december-1024x237.jpg"
+      "title": "Driving Namibia as a Group? How a Self Drive Convoy Keeps Everyone Together",
+      "date": "Thu, 12 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/namibia-self-drive-convoy-1024x576.jpg"
      }
     ]
    },
@@ -857,6 +874,23 @@
       "title": "Is Namibia Worth Visiting in December? Heat, First Rains and Quiet Waterholes",
       "date": "Wed, 21 Oct 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/namibia-in-december-1024x237.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://divulgeadventures.com/tag/namibia-self-drive/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Thu, 12 Nov 2026 07:00:00 +0000",
+    "sample": [
+     {
+      "title": "Driving Namibia as a Group? How a Self Drive Convoy Keeps Everyone Together",
+      "date": "Thu, 12 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/namibia-self-drive-convoy-1024x576.jpg"
      }
     ]
    },
@@ -912,8 +946,18 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Sat, 07 Nov 2026 07:00:00 +0000",
+    "newest": "Thu, 12 Nov 2026 09:24:31 +0000",
     "sample": [
+     {
+      "title": "How to Run a Rwanda School Trip When Most of Your Pupils Are Too Young for Gorillas",
+      "date": "Thu, 12 Nov 2026 09:24:31 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/island-on-lake-kivu-a-highlight-of-this-rwanda-holiday-package-1024x683.jpg"
+     },
+     {
+      "title": "An East Africa DMC Turns Your Client’s Safari Brief Into a Trip That Runs Smoothly on the ",
+      "date": "Thu, 12 Nov 2026 09:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/01/Mara-Wildebeest-Migration-1024x575.jpg"
+     },
      {
       "title": "Rwanda Study Tours for Universities That Link Genocide History, Governance and Gorilla Sci",
       "date": "Sat, 07 Nov 2026 07:00:00 +0000",
@@ -928,16 +972,6 @@
       "title": "Rwanda in January Brings Drier Gorilla Trails and a Still-Discounted Permit",
       "date": "Fri, 30 Oct 2026 16:24:24 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-in-rwanda-875x1024.jpg"
-     },
-     {
-      "title": "A Gorilla Trekking Packing List That Copes With Mud, Nettles and Rain",
-      "date": "Wed, 28 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-packing-list-1024x809.jpg"
-     },
-     {
-      "title": "Is Rwanda in December Worth It? Gorillas, Short Rains and a Cheaper Permit",
-      "date": "Tue, 27 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park-1-1024x900.jpg"
      }
     ]
    },
@@ -996,6 +1030,23 @@
     ]
    },
    {
+    "url": "https://divulgeadventures.com/tag/rwanda-school-trip/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Thu, 12 Nov 2026 09:24:31 +0000",
+    "sample": [
+     {
+      "title": "How to Run a Rwanda School Trip When Most of Your Pupils Are Too Young for Gorillas",
+      "date": "Thu, 12 Nov 2026 09:24:31 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/island-on-lake-kivu-a-highlight-of-this-rwanda-holiday-package-1024x683.jpg"
+     }
+    ]
+   },
+   {
     "url": "https://divulgeadventures.com/tag/rwanda-study-tour/feed/",
     "status": 200,
     "content_type": "application/rss+xml; charset=UTF-8",
@@ -1020,8 +1071,18 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Wed, 11 Nov 2026 15:00:00 +0000",
+    "newest": "Thu, 12 Nov 2026 10:24:24 +0000",
     "sample": [
+     {
+      "title": "Serengeti Field Trip for University Groups: Research Sites, Permits and Camp Logistics",
+      "date": "Thu, 12 Nov 2026 10:24:24 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/02/serengeti-wildebeest-migration-river-crossing-1024x683.jpg"
+     },
+     {
+      "title": "An East Africa DMC Turns Your Client’s Safari Brief Into a Trip That Runs Smoothly on the ",
+      "date": "Thu, 12 Nov 2026 09:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/01/Mara-Wildebeest-Migration-1024x575.jpg"
+     },
      {
       "title": "Serengeti in February: Peak Calving, Green Plains and the Bases Worth Booking Early",
       "date": "Wed, 11 Nov 2026 15:00:00 +0000",
@@ -1036,16 +1097,6 @@
       "title": "A Charity Kilimanjaro Climb That Raises More for the Cause Than It Spends Getting There",
       "date": "Fri, 06 Nov 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/mt-kilimanjaro-machame-route-7-day-climb-1024x682.jpeg"
-     },
-     {
-      "title": "Organising a Kilimanjaro Group Climb? Build It Around Your Slowest Walker",
-      "date": "Wed, 04 Nov 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/Lemosho-Route-8-Day-Climb-1024x683.jpeg"
-     },
-     {
-      "title": "Serengeti Golf Course Brings 18 Holes of Savannah Golf to Fort Ikoma, on the Edge of the P",
-      "date": "Wed, 04 Nov 2026 06:24:31 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2025/12/Tanzania-Serengeti-safari-1024x576.jpg"
      }
     ]
    },
@@ -1179,8 +1230,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Tue, 10 Nov 2026 15:00:00 +0000",
+    "newest": "Thu, 12 Nov 2026 09:00:00 +0000",
     "sample": [
+     {
+      "title": "An East Africa DMC Turns Your Client’s Safari Brief Into a Trip That Runs Smoothly on the ",
+      "date": "Thu, 12 Nov 2026 09:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/01/Mara-Wildebeest-Migration-1024x575.jpg"
+     },
      {
       "title": "Gorilla Trekking vs Habituation: One Hour With a Settled Family or Four With a Wild One?",
       "date": "Tue, 10 Nov 2026 15:00:00 +0000",
@@ -1200,11 +1256,6 @@
       "title": "Bwindi vs Volcanoes National Park: Trade a Cheaper Permit for a Longer Drive, or Pay for S",
       "date": "Sun, 01 Nov 2026 16:25:07 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p-1-1024x750.jpg"
-     },
-     {
-      "title": "A Gorilla Trekking Packing List That Copes With Mud, Nettles and Rain",
-      "date": "Wed, 28 Oct 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-packing-list-1024x809.jpg"
      }
     ]
    },
@@ -1272,8 +1323,13 @@
     "xml_ok": true,
     "items": 10,
     "items_with_image": 9,
-    "newest": "Wed, 11 Nov 2026 04:00:40 +0000",
+    "newest": "Thu, 12 Nov 2026 04:00:36 +0000",
     "sample": [
+     {
+      "title": "The Tongue Label Tells the Story: How to Spot Fake Hiking Boots Before You Pay",
+      "date": "Thu, 12 Nov 2026 04:00:36 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/11/how-to-spot-fake-hiking-boots-1024x683.jpg"
+     },
      {
       "title": "Six Kilometres From the CBD: A Karura Forest Hike, Loop by Loop",
       "date": "Wed, 11 Nov 2026 04:00:40 +0000",
@@ -1293,11 +1349,6 @@
       "title": "Kathandeni Forest Walk and Waterfall Hike",
       "date": "Fri, 06 Nov 2026 16:21:40 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/two-wrapped-presents-stacked-on-top-of-each-other-ready-to-be-swapped--1024x691.jpg"
-     },
-     {
-      "title": "Eburru Forest Hike: Western Summit Trail",
-      "date": "Fri, 06 Nov 2026 16:03:44 +0000",
-      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/columbia-hiking-gear-nairobi-1024x683.jpg"
      }
     ]
    },
@@ -1309,8 +1360,13 @@
     "xml_ok": true,
     "items": 10,
     "items_with_image": 9,
-    "newest": "Tue, 10 Nov 2026 04:01:01 +0000",
+    "newest": "Thu, 12 Nov 2026 04:00:36 +0000",
     "sample": [
+     {
+      "title": "The Tongue Label Tells the Story: How to Spot Fake Hiking Boots Before You Pay",
+      "date": "Thu, 12 Nov 2026 04:00:36 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/11/how-to-spot-fake-hiking-boots-1024x683.jpg"
+     },
      {
       "title": "German Comfort or Italian Grip? How Lowa and Scarpa Boots Differ on Kenya’s Mountains",
       "date": "Tue, 10 Nov 2026 04:01:01 +0000",
@@ -1330,11 +1386,6 @@
       "title": "Where Quechua Hiking Gear Fits on Kenyan Trails, From Karura Forest to Point Lenana",
       "date": "Sat, 31 Oct 2026 04:00:24 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/quechua-hiking-gear-nairobi-1024x683.jpg"
-     },
-     {
-      "title": "Two American Jacket Giants on Kenyan Trails: North Face vs Columbia Compared",
-      "date": "Thu, 29 Oct 2026 04:00:35 +0000",
-      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/north-face-vs-columbia-jackets-1024x769.jpg"
      }
     ]
    },
@@ -1519,6 +1570,7 @@
  },
  "tags": {
   "divulge": [
+   "akagera",
    "amboseli",
    "amboseli-attractions",
    "amboseli-national-park",
@@ -1549,6 +1601,7 @@
    "diani",
    "dry-season-safari",
    "east-africa",
+   "east-africa-dmc",
    "east-africa-safa",
    "east-africa-safari",
    "east-africa-tourist-visa",
@@ -1649,7 +1702,9 @@
    "namanga-border",
    "namib-desert",
    "namibia",
+   "namibia-road-trip",
    "namibia-safari",
+   "namibia-self-drive",
    "namibia-travel-tips",
    "namibia-weather",
    "namugongo",
@@ -1678,6 +1733,7 @@
    "rwanda",
    "rwanda-gorilla-trekking",
    "rwanda-safari",
+   "rwanda-school-trip",
    "rwanda-study-tour",
    "safari-budget",
    "safari-camps",
@@ -1722,12 +1778,14 @@
    "the-safari-collection",
    "tigoni",
    "tipping-in-kenya",
+   "travel-agents",
    "travel-vaccinations",
    "tsavo-east",
    "tsavo-west",
    "uganda",
    "uganda-martyrs-day",
    "uganda-safari",
+   "university-field-trip",
    "university-study-tours",
    "victoria-falls",
    "volcanoes-national-park",
@@ -1767,6 +1825,7 @@
    "cold-weather-hiking",
    "columbia",
    "convertible-trousers",
+   "counterfeit-boots",
    "day-hike-kit",
    "day-hikes-from-nairobi",
    "day-hikes-near-nairobi",
@@ -1775,12 +1834,14 @@
    "down-jackets",
    "dragons-teeth",
    "elephant-hill",
+   "fake-hiking-boots",
    "first-hike",
    "fleece-jackets",
    "forest-walks-kenya",
    "gaiters",
    "gas-cartridges",
    "gear-care",
+   "gore-tex",
    "guided-hikes",
    "headlamps",
    "hells-gate-camping",
@@ -1905,6 +1966,7 @@
    "the-north-face",
    "thermal-wear",
    "thika-road",
+   "thrifted-boots-nairobi",
    "thrifted-gear",
    "thrifted-gear-nairobi",
    "thrifted-hiking-boots",
@@ -1917,6 +1979,7 @@
    "under-armour",
    "uv400-sunglasses",
    "waterproof-boots",
+   "waterproof-hiking-boots",
    "waterproof-hiking-gear",
    "waterproof-jackets",
    "waterproof-rain-pants",
