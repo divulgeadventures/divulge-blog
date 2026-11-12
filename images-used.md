@@ -496,3 +496,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-12 | https://images.unsplash.com/photo-1563973099335-2d6207996c96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8TmFtaWJpYSUyMGRlc2VydCUyMHJvYWR8ZW58MHwwfHx8MTc5NDQ1NTUzOHwy&ixlib=rb-4.1.0&q=80&w=1080 | namibia-self-drive-convoy
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/06/Etosha-national-park.webp | namibia-self-drive-convoy
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/01/Walvis-Bay-Pink-lake.jpg | namibia-self-drive-convoy
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/01/Mara-Wildebeest-Migration.jpg | east-africa-dmc
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/01/4160-x-1971divulge_adventures-scaled.jpg | east-africa-dmc
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2025/11/4527-x-2741divulge_adventures_1-19-scaled.jpg | east-africa-dmc
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p.jpg | east-africa-dmc
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge_adventures_safari-31-8-scaled.jpg | east-africa-dmc
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/elephants-grazing-below-mount-kilimanjaro-in-amboseli.jpg | east-africa-dmc

@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-12 11:05 | New post 2
+- "An East Africa DMC Turns Your Client's Safari Brief Into a Trip That Runs Smoothly on the Ground": https://divulgeadventures.com/east-africa-dmc/
+- Owner idea (today's one owner idea during the sprint), written for travel agents and tour operators; added to the bank as KE-391, Safari Planning Tips. Scheduled for 12 Nov 12:00 Nairobi time (11:00 slot had passed by commit time). Main link /group-safaris/safari-dmc/ in the second paragraph and Trip CTA, /group-safaris/ once, /b2b-agent-rates/, orange button "Become a Partner Agent" to the group inquiry form, trips: 12 Days Magical Kenya & Tanzania Safari and 9 Days Gorilla and Chimpanzee Trekking Safari.
+- Facts checked November 2026: Uganda Wildlife Authority tariff Jan 2027-Jun 2028 (gorilla permit US$800, habituation US$1,800, permits only via licensed tour operators; note it keeps US$800, despite some 2026 reports of US$1,000); TRA licence guidance (annual licence, verify with TRA). No licences, memberships, net rates or commission levels claimed. Visa/permit figures carried from earlier verified posts with their check dates.
+- Images: 6 from the owner's Media Library (featured Mara migration + 5 body: safari fleet, vehicle by aircraft, Rwanda gorilla, Mara game drive, Amboseli elephants), 0 Unsplash. No credits. Added dmc, dmcs, commissionable, inbox to spelling-allowlist.txt. Refresh still paused.
+- Could not open: https://divulgeadventures.com/group-safaris/safari-dmc/ (permission request timed out; site copy has no page text, so the post describes the service only in general terms); UWA purchase-guidelines PDF (not linked from the page text)
+
 ## 2026-11-12 08:36 Trip Optimiser
 - Done: 3-Day Okavango Delta Mokoro Tour (9793, "3 day okavango delta mokoro safari", botswana-9793-3-day-okavango-delta-mokoro-safari.json), 5 Days Into the Okavango Exploration (9769, "5 day okavango moremi and khwai safari", botswana-9769-5-day-okavango-moremi-and-khwai-safari.json)
 - Photos: 9793 = 2 owner + 3 Unsplash; 9769 = 4 owner + 2 Unsplash. No credits anywhere (no-credits rule was already in TRIP_GUIDE.md and validate_trip.py; nothing to remove).
@@ -930,5 +937,3 @@ Namibia (bank row NA-313), Safari Themes. Scheduled to publish 2026-10-11 18:00 
 Skipped topics: none.
 Could not open: https://divulgeadventures.com/trip-types/hiking-and-safari-combo/ (permission request timed out; linked as a listed money page), https://www.nwr.com.na/wp-content/uploads/2021/06/Hiking-Precautions.pdf (blocked by robots), images.unsplash.com image files (could not test-load from the sandbox; photo pages confirmed).
 
-## 2026-10-11 14:10 | Setup
-Run log started. Posts so far from the topic bank: Kenya Safari in December, Northern Circuit Tanzania Itinerary, Uganda Safari in December, Day Trips from Nairobi, Botswana in December, Ngorongoro Crater Lodges.
