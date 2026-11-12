@@ -514,3 +514,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/marabou-stork-and-vulture-at-a-wildebeest-carcass-by-the-mara-river.jpg | serengeti-field-trip
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2025/11/5563-x-3708divulge_adventures-scaled.jpg | serengeti-field-trip
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/great-migration-month-by-month.jpg | serengeti-field-trip
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/05/4-day-bwindi-gorilla-trekking-safari-endangered-mountain-gorilla-in-bwindi-impen.jpg | group-gorilla-trekking-uganda
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/05/mountain-gorilla-in-the-bwindi-impenetrable-forest-in-uganda.jpg | group-gorilla-trekking-uganda
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/05/9-day-gorilla-and-chimpanzee-trekking-safari-mountain-gorilla-in-bwindi-impenetr.jpg | group-gorilla-trekking-uganda
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/05/chimpanzee-holding-a-branch-in-the-forest-of-kibale-national-park-uganda.jpg | group-gorilla-trekking-uganda
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/05/hippo-swimming-in-the-kazinga-channel-queen-elizabeth-national-park.jpg | group-gorilla-trekking-uganda

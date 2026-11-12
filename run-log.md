@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-12 13:57 | New post 5
+- "Is Group Gorilla Trekking in Uganda Possible When Your Party Is Bigger Than Eight?" https://divulgeadventures.com/group-gorilla-trekking-uganda/
+- Uganda, Safari Planning Tips (group sprint row UG-313; focus keyword refined to "group gorilla trekking"). Scheduled for 14:00 Nairobi time today.
+- Images: 5 from the owner's Media Library (featured + 4 in the body), 0 from Unsplash. Permit figures checked against the UWA tariff for January 2027 to June 2028.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none.
+
 ## 2026-11-12 13:38 Trip Optimiser
 - Done: 7-Day Moremi Khwai and Savuti Special (9844, "7 day moremi khwai and savuti safari", botswana-9844-7-day-moremi-khwai-and-savuti-safari.json), 8 Days Moremi and Northern Exploration (9771, "8 day moremi and khwai camping safari", botswana-9771-8-day-moremi-and-khwai-camping-safari.json)
 - Photos: 9844 = 4 owner + 2 Unsplash; 9771 = 5 owner + 1 Unsplash. No credits anywhere (no-credits rule was already in TRIP_GUIDE.md and validate_trip.py; nothing to remove).
@@ -941,17 +948,3 @@ Best Serengeti Camps: Where to Stay by Area, Season and Budget — https://divul
 Tanzania (bank row TZ-003, core topic), Accommodation Guide, country tag: Tanzania. Scheduled to publish 2026-10-12 18:00 Nairobi time. Focus keyword refined to "serengeti camps". Camps described only from official sources (Four Seasons press fact sheet, Serena Hotels pages, Asilia's own camp comparison, Ndutu Safari Lodge site); no room rates quoted, cost tiers labelled as estimates. Fees (Serengeti US$82.60, NCAA US$70.80 + US$59 concession) checked October 2026.
 Skipped topics: none.
 Could not open: https://divulgeadventures.com/?s=serengeti+camps and https://divulgeadventures.com/destinations/tanzania-safari/ (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts), https://www.fourseasons.com/serengeti/, https://www.serenahotels.com/serengeti (first attempt), https://www.asiliaafrica.com/east-africa/camps-lodges/sayari/, https://www.ndutu.com/ (first attempt) (permission timeouts; official info then read via other official pages), one Unsplash safari-tent photo page (fetch error; not used).
-
-## 2026-10-12 11:20 | New post 2
-Golden Monkey Trekking in Rwanda: Permits, Costs and What to Expect — https://divulgeadventures.com/golden-monkey-trekking-rwanda/
-Rwanda (bank row RW-001, core topic), Destination Tips. Scheduled to publish 2026-10-12 14:00 Nairobi time. Focus keyword refined to "golden monkey trekking" (the exact phrase is too awkward to repeat at the required density). Permit rates (US$100 foreign adult, min age 12, 07:00 Kinigi, max 16 per group) checked October 2026 on the RDB booking portal. Links to the two Divulge golden monkey trip pages; Trip CTA goes to the quote form per the Rwanda rule.
-Images: no golden monkey photo found on Unsplash/Pexels, so both images are mountain gorillas in Volcanoes National Park, Rwanda (alt text says so). Owner may want to swap in a golden monkey photo.
-Skipped topics: none.
-Could not open: https://divulgeadventures.com/destinations/rwanda-gorilla-trek/, the media library search and https://visitrwandabookings.rdb.rw/rdbportal/golden-monkey-tracking (permission requests timed out), https://visitrwanda.com/interests/golden-monkey-trekking/ (fetch error), Pexels search (blocked by robots), two Unsplash pages (fetch error / permission timeout; not used).
-
-## 2026-10-12 07:13 | New post 1
-Kenya Safari in January: Weather, Wildlife, Costs and Where to Go — https://divulgeadventures.com/kenya-safari-in-january/
-Kenya (bank row KE-096, seasonal pick for January), Destination Tips. Scheduled to publish 2026-10-12 10:00 Nairobi time. Fees checked October 2026: Masai Mara US$100 Jan-Jun (Kenya Times, Aug 2026), KWS parks from the official KWS conservation fee sheet, eTA US$30.
-Skipped topics: none.
-Could not open: https://divulgeadventures.com/?s=kenya+safari+in+january, https://divulgeadventures.com/destinations/kenya-safari/, https://divulgeadventures.com/kenya-safari-in-december/ and the media library (permission requests timed out; used the repo's post files and CONTENT_MAP.md for overlap checks and links, and an already-linked Kenya birding trip page), https://fitfortravel.nhs.uk/destinations/africa/kenya (permission timed out; URL confirmed in search results), one Unsplash photo page (elephant herd; not used).
-
