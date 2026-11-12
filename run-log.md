@@ -3,6 +3,11 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-12 19:50 | Nothing to do
+- Today's work is complete: all 9 sprint posts for 12 Nov are already written and scheduled.
+- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows left as todo in REFRESH_QUEUE.md.
+- Could not open: none
+
 ## 2026-11-12 18:50 | Nothing to do
 - Today's work is complete: all 9 sprint posts for 12 Nov are already written and scheduled.
 - Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows left as todo in REFRESH_QUEUE.md.
@@ -945,11 +950,4 @@ Kenya (owner idea "Kenya eTA for tourists", bank row KE-018), Safari Planning Ti
 Images: 0 from the owner's Media Library (search could not be opened), 6 from Unsplash (featured passport with stamps, plus passports with boarding passes, stamped passport, Masai Mara zebras, safari vehicle in the Mara, elephants at a Mara waterhole).
 Skipped topics: none.
 Could not open: https://divulgeadventures.com/?s=kenya+eta, https://divulgeadventures.com/destinations/kenya-safari/ and the media library search (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts), https://www.fragomen.com/insights/kenya-travel-health-insurance-requirement-implemented.html (fetch error).
-
-## 2026-10-14 07:13 | New post 1
-Okavango Delta vs Chobe: Which Botswana Safari Is Right for You? — https://divulgeadventures.com/okavango-delta-vs-chobe/
-Botswana (bank row BW-056, BOOST comparison), Destination Tips. Scheduled to publish 2026-10-14 10:00 Nairobi time. Park fees: Botswana postponed its planned 1 April 2026 increase and kept existing rates (checked October 2026); no fee figures stated because published figures conflict. Links the Chobe-Khwai-Okavango and 8-day Moremi trip pages (trip links taken from earlier posts; destination page could not be opened).
-Images: 0 from the owner's Media Library (search could not be opened), 6 from Unsplash (featured elephant in the Okavango, plus Okavango River aerial, Chobe River elephants, elephants crossing water in the Okavango, big cat in the Okavango, elephants in Chobe NP).
-Skipped topics: none.
-Could not open: https://divulgeadventures.com/?s=okavango+chobe, https://divulgeadventures.com/destinations/botswana-safari/, the media library search and https://whc.unesco.org/en/list/1432 (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts).
 
