@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-12 06:56 | New post 1
+- "Driving Namibia as a Group? How a Self Drive Convoy Keeps Everyone Together": https://divulgeadventures.com/namibia-self-drive-convoy/
+- Namibia (NA-314, today's group post), Safari Planning Tips. Scheduled for 12 Nov 10:00 Nairobi time. Main link /group-safaris/organise-a-group-safari/ (first paragraph and Trip CTA), /group-safaris/ once, orange button to the group inquiry form, trips: 5 Days Namibia Adventure and 6-Day Namibian Culture and Scenery Tour.
+- Facts checked November 2026: N$280 park fee per international adult per day at Etosha/Namib-Naukluft from 1 April 2026 (namibian.org); licence/IDP, left-hand driving and seat-belt rules (Namibian embassy driving page); visa on arrival rules (Namibian embassy notice; it shows both N$1,600 and N$1,200, so the post gives N$1,600 as per recent notices and tells readers to confirm); speed limits; distances from a published Namibia distance chart. No vehicle-hire or lodge prices invented: the cost section lists what drives each cost.
+- Images: 3 from the owner's Media Library (Deadvlei, Etosha, Walvis Bay pink lake) + 3 Unsplash body images (4x4 off-road, southern Namibia road, north-west Namibia road) + Unsplash featured image (Namibia desert road). 6 body images, no credits. Refresh still paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none
+
 ## 2026-11-11 18:50 | Nothing to do
 - Today's work is complete: 3 new posts (Kenya school trip, Okavango Delta safari, Serengeti in February) and the Namibia safari guide refresh are all done.
 - Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows left as todo in REFRESH_QUEUE.md.

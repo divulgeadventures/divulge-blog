@@ -254,3 +254,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/kenya-school-trip/ (kenya school trip)
 - https://divulgeadventures.com/okavango-delta-safari/ (okavango delta safari)
 - https://divulgeadventures.com/serengeti-in-february/ (serengeti in february)
+- https://divulgeadventures.com/namibia-self-drive-convoy/ (namibia self drive convoy)

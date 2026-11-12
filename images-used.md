@@ -489,3 +489,10 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/10/best-time-to-visit-namibia.jpg | ultimate-namibia-safari-guide
 2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/01/Sandwich-Habour-Tours.jpg | ultimate-namibia-safari-guide
 2026-11-11 | https://divulgeadventures.com/wp-content/uploads/2026/10/namibia-hiking-safari.jpg | ultimate-namibia-safari-guide
+2026-11-12 | https://images.unsplash.com/photo-1639402477646-e88e811eef21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8TmFtaWJpYSUyMGRlc2VydCUyMHJvYWR8ZW58MHwwfHx8MTc5NDQ1NTUzOHwy&ixlib=rb-4.1.0&q=80&w=1080 | namibia-self-drive-convoy
+2026-11-12 | https://images.unsplash.com/photo-1639402479438-d74dc22cca28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8TmFtaWJpYSUyMGRlc2VydCUyMHJvYWR8ZW58MHwwfHx8MTc5NDQ1NTUzOHwy&ixlib=rb-4.1.0&q=80&w=1080 | namibia-self-drive-convoy
+2026-11-12 | https://images.unsplash.com/photo-1565204630921-bbafec59a229?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8TmFtaWJpYSUyMGRlc2VydCUyMHJvYWR8ZW58MHwwfHx8MTc5NDQ1NTUzOHwy&ixlib=rb-4.1.0&q=80&w=1080 | namibia-self-drive-convoy
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/01/Namibia-Safari-Deadvlei.jpg | namibia-self-drive-convoy
+2026-11-12 | https://images.unsplash.com/photo-1563973099335-2d6207996c96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8TmFtaWJpYSUyMGRlc2VydCUyMHJvYWR8ZW58MHwwfHx8MTc5NDQ1NTUzOHwy&ixlib=rb-4.1.0&q=80&w=1080 | namibia-self-drive-convoy
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/06/Etosha-national-park.webp | namibia-self-drive-convoy
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/01/Walvis-Bay-Pink-lake.jpg | namibia-self-drive-convoy
