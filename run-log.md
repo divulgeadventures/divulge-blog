@@ -3,6 +3,12 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-12 17:00 | New post 8
+- "How to Plan an Okavango Field Course for University Conservation Students" https://divulgeadventures.com/okavango-field-course/
+- Botswana, Safari Themes (group sprint row BW-311; focus keyword refined to "okavango field course"). Scheduled for 18:00 Nairobi time today (17:00 slot had passed).
+- Images: 3 from the owner's Media Library (body), 2 from Unsplash (1 body, 1 featured). No per-day Moremi fee stated: sources disagree (P270 on an unofficial fee site vs P380 in government news), so the post cites the official P380-to-P500 proposal on hold and tells readers to confirm.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: gov.uk Botswana entry requirements and UNESCO Okavango page (permission requests timed out); tourismupdate.com levy article (no article text).
 ## 2026-11-12 15:58 | New post 7
 - "Leading a University Study Tour in Kenya? Build It Around Field Stations, Not Game Drives" https://divulgeadventures.com/university-study-tour-kenya/
 - Kenya, Safari Themes (group sprint row KE-375; focus keyword refined to "university study tour in kenya"). Scheduled for 16:00 Nairobi time today.
@@ -942,10 +948,4 @@ Uganda (bank row UG-001, core topic), Destination Tips. Scheduled to publish 202
 Images: 0 from the owner's Media Library (search could not be opened), 6 stock (Unsplash: 5 mountain gorillas in Bwindi, 1 Lake Bunyonyi), featured image included.
 Skipped topics: none.
 Could not open: https://divulgeadventures.com/?s=bwindi+gorilla+trekking, https://divulgeadventures.com/destinations/uganda-safari/, the media library search and https://ugandawildlife.org/conservation-tariffs/ (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts, trip links taken from earlier posts).
-
-## 2026-10-13 07:18 | New post 1
-Serengeti in December: Where the Herds Are, Weather and Costs — https://divulgeadventures.com/serengeti-in-december/
-Tanzania (bank row TZ-047, seasonal pick for December), Great Migration & River Crossing, country tag: Tanzania. Scheduled to publish 2026-10-13 10:00 Nairobi time. Fees checked October 2026: Serengeti US$82.60 adult / US$23.60 child (high season July to mid-March), NCAA US$70.80 + US$59 concession. No Tanzania trip page could be opened, so the post links the Tanzania destination page and fly-in packages page.
-Skipped topics: none.
-Could not open: https://divulgeadventures.com/?s=serengeti+in+december, https://divulgeadventures.com/destinations/tanzania-safari/ and the media library search (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts), https://www.tanzaniaparks.go.tz/ (permission timed out; fees taken from a March 2026 published fee table matching earlier checks), three Unsplash photo pages (permission timeouts; not used).
 

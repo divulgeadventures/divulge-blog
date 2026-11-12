@@ -531,3 +531,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2025/12/6000-x-4000divulge_adventures-340-scaled.jpg | university-study-tour-kenya
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/09/kakamega-forest-3.jpg | university-study-tour-kenya
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2025/12/Divulge-Adventures-Copy2-116-scaled.jpg | university-study-tour-kenya
+2026-11-12 | https://images.unsplash.com/photo-1531208853003-c1ec1b8a81d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8T2thdmFuZ28lMjBkZWx0YXxlbnwwfDB8fHwxNzk0NDkxNDU2fDI&ixlib=rb-4.1.0&q=80&w=1080 | okavango-field-course
+2026-11-12 | https://images.unsplash.com/photo-1655458504153-b352f2f351bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8cmVkJTIwbGVjaHdlfGVufDB8MHx8fDE3OTQ0OTE4MjR8Mg&ixlib=rb-4.1.0&q=80&w=1080 | okavango-field-course
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/06/helmeted-guineafowl-in-the-khwai-area-of-the-okavango-delta.jpg | okavango-field-course
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/botswana-in-january.jpg | okavango-field-course
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/06/herd-of-elephants-walking-across-open-ground-in-chobe-national-park-botswana.jpg | okavango-field-course

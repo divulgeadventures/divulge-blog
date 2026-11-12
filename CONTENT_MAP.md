@@ -261,3 +261,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/group-gorilla-trekking-uganda/ (group gorilla trekking)
 - https://divulgeadventures.com/botswana-photography-safari-groups/ (botswana photography safari)
 - https://divulgeadventures.com/university-study-tour-kenya/ (university study tour in kenya)
+- https://divulgeadventures.com/okavango-field-course/ (okavango field course)

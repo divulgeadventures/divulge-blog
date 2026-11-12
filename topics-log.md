@@ -103,3 +103,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-12 | Uganda UG-313 | Safari Planning Tips | group gorilla trekking | group-gorilla-trekking-uganda
 2026-11-12 | Botswana BW-310 | Safari Themes | botswana photography safari | botswana-photography-safari-groups
 2026-11-12 | Kenya KE-375 | Safari Themes | university study tour in kenya | university-study-tour-kenya
+2026-11-12 | Botswana BW-311 | Safari Themes | okavango field course | okavango-field-course
