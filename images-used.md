@@ -519,3 +519,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/05/9-day-gorilla-and-chimpanzee-trekking-safari-mountain-gorilla-in-bwindi-impenetr.jpg | group-gorilla-trekking-uganda
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/05/chimpanzee-holding-a-branch-in-the-forest-of-kibale-national-park-uganda.jpg | group-gorilla-trekking-uganda
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/05/hippo-swimming-in-the-kazinga-channel-queen-elizabeth-national-park.jpg | group-gorilla-trekking-uganda
+2026-11-12 | https://images.unsplash.com/photo-1759252973832-617895b7ef4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8bW9rb3JvJTIwT2thdmFuZ298ZW58MHwwfHx8MTc5NDQ4NDI0N3wy&ixlib=rb-4.1.0&q=80&w=1080 | botswana-photography-safari-groups
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/06/elephant-standing-in-tall-grass-in-the-okavango-delta-botswana.jpg | botswana-photography-safari-groups
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/06/kudu-bull-beside-a-tree-in-moremi-game-reserve-botswana.jpg | botswana-photography-safari-groups
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/06/hippos-wading-through-shallow-water-in-the-okavango-delta-botswana.jpg | botswana-photography-safari-groups
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/06/african-wild-dogs-playing-in-afternoon-sun-in-the-okavango-delta-botswana.jpg | botswana-photography-safari-groups
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/06/sunset-over-trees-and-water-in-the-okavango-delta-botswana.jpg | botswana-photography-safari-groups

@@ -3,6 +3,12 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-12 14:55 | New post 6
+- "A Botswana Photography Safari Gives Your Camera Club Space, Water and Light Few Places Can Match" https://divulgeadventures.com/botswana-photography-safari-groups/
+- Botswana, Safari Themes (group sprint row BW-310; focus keyword refined to "botswana photography safari"). Scheduled for 15:00 Nairobi time today.
+- Images: 5 from the owner's Media Library (all in the body), 1 from Unsplash (featured). Park fee note: the proposed rise from P380 to P500 was postponed; no per-day fee stated.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: tourismupdate.com articles on Botswana park fees and the tourism levy (page loaded without article text).
 
 ## 2026-11-12 13:57 | New post 5
 - "Is Group Gorilla Trekking in Uganda Possible When Your Party Is Bigger Than Eight?" https://divulgeadventures.com/group-gorilla-trekking-uganda/
@@ -943,8 +949,3 @@ Kenya, moved from Safari Themes to Destination Tips, country tag: Kenya. Fully r
 Skipped topics: none.
 Could not open: https://divulgeadventures.com/lake-bogoria-geysers-flamingos-rift-valley/ and its wp-json version, https://divulgeadventures.com/destinations/kenya-safari/, the media library search (permission requests timed out; old post could not be read, so it was rewritten from fresh research and existing trip links in the repo), https://lakebogoria.org/entrance-fees/, /visitor-info/ and /plan-your-perfect-trip-to-lake-bogoria-national-reserve/ (fetch errors), https://whc.unesco.org/en/list/1060 and Unsplash/Pexels search pages (permission timeouts), Baringo County Finance Act 2023 PDF (unreadable binary).
 
-## 2026-10-12 15:20 | New post 3
-Best Serengeti Camps: Where to Stay by Area, Season and Budget — https://divulgeadventures.com/best-serengeti-camps/
-Tanzania (bank row TZ-003, core topic), Accommodation Guide, country tag: Tanzania. Scheduled to publish 2026-10-12 18:00 Nairobi time. Focus keyword refined to "serengeti camps". Camps described only from official sources (Four Seasons press fact sheet, Serena Hotels pages, Asilia's own camp comparison, Ndutu Safari Lodge site); no room rates quoted, cost tiers labelled as estimates. Fees (Serengeti US$82.60, NCAA US$70.80 + US$59 concession) checked October 2026.
-Skipped topics: none.
-Could not open: https://divulgeadventures.com/?s=serengeti+camps and https://divulgeadventures.com/destinations/tanzania-safari/ (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts), https://www.fourseasons.com/serengeti/, https://www.serenahotels.com/serengeti (first attempt), https://www.asiliaafrica.com/east-africa/camps-lodges/sayari/, https://www.ndutu.com/ (first attempt) (permission timeouts; official info then read via other official pages), one Unsplash safari-tent photo page (fetch error; not used).

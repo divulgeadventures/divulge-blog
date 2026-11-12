@@ -259,3 +259,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/rwanda-school-trip/ (rwanda school trip)
 - https://divulgeadventures.com/serengeti-field-trip/ (serengeti field trip)
 - https://divulgeadventures.com/group-gorilla-trekking-uganda/ (group gorilla trekking)
+- https://divulgeadventures.com/botswana-photography-safari-groups/ (botswana photography safari)
