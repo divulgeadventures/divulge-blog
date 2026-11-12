@@ -96,6 +96,32 @@
     "Family safari"
    ]
   },
-  "status": "draft"
+  "status": "draft",
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/green-hill-on-the-shore-of-lake-kivu-rwanda.jpg",
+   "alt": "6 day rwanda family safari: Lake Kivu shoreline in Rwanda"
+  },
+  "gallery": [
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/lake-and-savannah-landscape-in-akagera-national-park.jpg",
+    "alt": "Lake landscape in Akagera National Park, Rwanda"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/island-on-lake-kivu-a-highlight-of-this-rwanda-holiday-package.jpg",
+    "alt": "Island on Lake Kivu, Rwanda"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/kigali-city-skyline-at-sunset-rwanda.jpg",
+    "alt": "Kigali city at sunset, Rwanda"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/elephant-in-akagera-national-park-rwanda.jpg",
+    "alt": "Elephant in Akagera National Park on a safari"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/hippo-in-the-water-often-seen-on-akagera-boat-cruises.jpg",
+    "alt": "Hippo in the water, often seen on Akagera boat cruises"
+   }
+  ]
  }
 ]

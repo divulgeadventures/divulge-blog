@@ -105,6 +105,28 @@
     "Club safari"
    ]
   },
-  "status": "draft"
+  "status": "draft",
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-Khwai-and-Savuti.jpg",
+   "alt": "8 day botswana photography club safari: wildlife in the Moremi, Khwai and Savuti areas"
+  },
+  "gallery": [
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/helmeted-guineafowl-in-the-khwai-area-of-the-okavango-delta.jpg",
+    "alt": "Helmeted guineafowl in the Khwai area of the Okavango Delta"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-and-Nothern-Exploration.jpg",
+    "alt": "Okavango Exploration"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-Khwai-and-Savuti-2.jpg",
+    "alt": "Botswana safari"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/7-day-chobe-moremi-and-khwai-safari-herd-of-elephants-drinking-in-the-chobe-rive.jpg",
+    "alt": "7 day Chobe Moremi and Khwai safari: herd of elephants drinking in the Chobe River, Botswana"
+   }
+  ]
  }
 ]

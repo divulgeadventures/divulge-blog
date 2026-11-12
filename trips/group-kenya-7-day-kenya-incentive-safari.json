@@ -101,6 +101,32 @@
     "Corporate incentive safari"
    ]
   },
-  "status": "draft"
+  "status": "draft",
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/divulge-adventures-masai-mara-national-reserve-narok-county-kenya-africa-39_2_11zon.jpg",
+   "alt": "7 day kenya incentive safari: wildlife on the plains of the Masai Mara National Reserve"
+  },
+  "gallery": [
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/12/Divulge-Adventures-Copy2-116-scaled.jpg",
+    "alt": "10 day Amboseli Nakuru and Masai Mara safari: wildebeest migration herds in the Masai Mara"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-03-at-19.29.18.jpeg",
+    "alt": "7 day Amboseli Nakuru and Masai Mara safari: on safari in the Masai Mara, Kenya, with Divulge Adventures"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/divulge_adventures_masai_mara_safari-126.jpg",
+    "alt": "On safari in the Masai Mara National Reserve, Kenya"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/africa-group-safari-divulge-adventures.jpg",
+    "alt": "Large travel group posing at the Kimana Gate of Amboseli National Park"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/divulge_adventures_safari-169-scaled.jpg",
+    "alt": "masai mara safari"
+   }
+  ]
  }
 ]

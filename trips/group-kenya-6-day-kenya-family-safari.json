@@ -96,6 +96,32 @@
     "Family safari"
    ]
   },
-  "status": "draft"
+  "status": "draft",
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/divulge-adventures-masai-mara-national-reserve-narok-county-kenya-africa-81_5_11zon.jpg",
+   "alt": "6 day kenya family safari: game drive in the Masai Mara National Reserve"
+  },
+  "gallery": [
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/12/Divulge-Adventures-Copy2-116-scaled.jpg",
+    "alt": "10 day Amboseli Nakuru and Masai Mara safari: wildebeest migration herds in the Masai Mara"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-03-at-19.29.18.jpeg",
+    "alt": "7 day Amboseli Nakuru and Masai Mara safari: on safari in the Masai Mara, Kenya, with Divulge Adventures"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-340-scaled.jpg",
+    "alt": "Crescent Island on Lake Naivasha, Kenya"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/divulge-adventures-masai-mara-national-reserve-narok-county-kenya-africa-45_4_11zon.jpg",
+    "alt": "On safari in the Masai Mara National Reserve, Kenya"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/divulge-adventures-masai-mara-national-reserve-narok-county-kenya-africa-43_3_11zon.jpg",
+    "alt": "On safari in the Masai Mara National Reserve, Kenya"
+   }
+  ]
  }
 ]

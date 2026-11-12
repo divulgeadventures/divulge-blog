@@ -90,6 +90,32 @@
     "Special occasion safari"
    ]
   },
-  "status": "draft"
+  "status": "draft",
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/01/Namibia-Safari-Deadvlei.jpg",
+   "alt": "5 day namibia celebration safari: desert scenery on a Namibia safari"
+  },
+  "gallery": [
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-03-at-20.07.59.jpeg",
+    "alt": "Magical Namibia African Safari"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/4312-x-3324divulge_adventures-scaled.jpg",
+    "alt": "namibia adventure"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/Etosha-national-park.webp",
+    "alt": "Etosha national park-namibia safari tips"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/desert-walk-group-safari-namibia.jpeg",
+    "alt": "desert walk group safari namibia"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/guided-namibia-safaris.jpg",
+    "alt": "guided namibia safaris"
+   }
+  ]
  }
 ]

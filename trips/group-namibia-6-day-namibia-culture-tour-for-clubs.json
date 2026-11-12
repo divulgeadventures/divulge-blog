@@ -94,6 +94,24 @@
     "Club safari"
    ]
   },
-  "status": "draft"
+  "status": "draft",
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/first-time-namibia-safari.jpg",
+   "alt": "6 day namibia culture tour for clubs: travelling through Namibia's landscapes"
+  },
+  "gallery": [
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-03-at-20.07.59.jpeg",
+    "alt": "Magical Namibia African Safari"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/4312-x-3324divulge_adventures-scaled.jpg",
+    "alt": "namibia adventure"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/the-ultimate-namibia-safari-guide.jpg",
+    "alt": "the ultimate namibia safari guide"
+   }
+  ]
  }
 ]

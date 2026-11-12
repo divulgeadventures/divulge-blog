@@ -101,6 +101,32 @@
     "Family safari"
    ]
   },
-  "status": "draft"
+  "status": "draft",
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/chimpanzee-resting-in-a-tree-in-kibale-national-park-uganda.jpg",
+   "alt": "7 day uganda family gorilla safari: chimpanzee resting in a tree in Kibale National Park"
+  },
+  "gallery": [
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/9-day-gorilla-and-chimpanzee-trekking-safari-mountain-gorilla-in-bwindi-impenetr.jpg",
+    "alt": "9 day gorilla and chimpanzee trekking safari: mountain gorilla in Bwindi Impenetrable Forest, Uganda"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/mountain-gorilla-in-the-bwindi-impenetrable-forest-in-uganda.jpg",
+    "alt": "7 day Uganda gorilla and chimpanzee safari: mountain gorilla in Bwindi Impenetrable Forest, Uganda"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/chimpanzee-holding-a-branch-in-the-forest-of-kibale-national-park-uganda.jpg",
+    "alt": "Chimpanzee holding a branch in the forest of Kibale National Park, Uganda"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/mountain-gorilla-eating-leaves-in-bwindi-impenetrable-forest-uganda.jpg",
+    "alt": "Mountain gorilla eating leaves in Bwindi Impenetrable Forest, Uganda"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/04/young-nile-crocodile-on-a-mound-in-the-kazinga-channel.jpg",
+    "alt": "Young Nile crocodile on a mound in the Kazinga Channel"
+   }
+  ]
  }
 ]

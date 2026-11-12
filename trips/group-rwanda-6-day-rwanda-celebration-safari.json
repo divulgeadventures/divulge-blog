@@ -95,6 +95,32 @@
     "Special occasion safari"
    ]
   },
-  "status": "draft"
+  "status": "draft",
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p.jpg",
+   "alt": "6 day rwanda celebration safari: mountain gorilla in Volcanoes National Park"
+  },
+  "gallery": [
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/lake-and-savannah-landscape-in-akagera-national-park.jpg",
+    "alt": "Lake landscape in Akagera National Park, Rwanda"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-and-Golden-Monkey-Trekking-at-Volcanoes-National-Park-1.jpeg",
+    "alt": "Gorilla and Golden Monkey Trekking at Volcanoes National Park"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-and-Golden-Monkey-Trekking-at-Volcanoes-National-Park.jpeg",
+    "alt": "Golden Monkey and Bisoke Hike tour"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-and-Golden-Monkey-Trekking-at-Volcanoes-National-Park-Safari.jpeg",
+    "alt": "Gorilla and Golden Monkey Trekking at Volcanoes National Park Safari"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park-1.jpg",
+    "alt": "Mountain gorilla on an 8 days Rwanda safari"
+   }
+  ]
  }
 ]

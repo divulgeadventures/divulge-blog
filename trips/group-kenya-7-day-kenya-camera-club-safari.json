@@ -102,6 +102,36 @@
     "Photography safari"
    ]
   },
-  "status": "draft"
+  "status": "draft",
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2025/12/4527-x-2741divulge_adventures_1-49-scaled.jpg",
+   "alt": "7 day kenya camera club safari: wildlife in Ol Pejeta and Samburu, northern Kenya"
+  },
+  "gallery": [
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/12/4527-x-2741divulge_adventures_1-9-scaled.jpg",
+    "alt": "Divulge Adventures Ol Pejeta Meru and Samburu safari"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/12/4527-x-2741divulge_adventures_1-44-scaled.jpg",
+    "alt": "Divulge Adventures Ol Pejeta Meru and Samburu safari"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/12/4527-x-2741divulge_adventures_1-46-scaled.jpg",
+    "alt": "Safari scene photographed on a Divulge Adventures northern Kenya safari"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/12/4527-x-2741divulge_adventures_1-2-scaled.jpg",
+    "alt": "Northern Kenya game drive on the Ol Pejeta, Meru and Samburu safari"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/12/4527-x-2741divulge_adventures-scaled.jpg",
+    "alt": "Wildlife on a Divulge Adventures Ol Pejeta, Meru and Samburu safari"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/divulge_adventures_masai_mara_safari-126.jpg",
+    "alt": "On safari in the Masai Mara National Reserve, Kenya"
+   }
+  ]
  }
 ]

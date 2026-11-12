@@ -104,6 +104,28 @@
     "Student study tour"
    ]
   },
-  "status": "draft"
+  "status": "draft",
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/elephant-family-on-green-grass-in-serengeti-national-park.jpg",
+   "alt": "8 day tanzania student study tour: elephant family on green grass in Serengeti National Park"
+  },
+  "gallery": [
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/5563-x-3708divulge_adventures-scaled.jpg",
+    "alt": "5 day Lake Manyara Ngorongoro and Serengeti safari: northern Tanzania safari scenery"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/09/Tarangire-National-park-best-national-parks-in-Tanzania-Divulge-Adventures.jpeg",
+    "alt": "10 day Tanzania safari and Zanzibar beach trip: Tarangire National Park in northern Tanzania"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/6000-x-4000divulge_adventures-2-1-scaled.jpg",
+    "alt": "Ngorongoro Crater in northern Tanzania"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/Tanzania-Luxury-Safari.avif",
+    "alt": "8 day Serengeti Ngorongoro and Lake Eyasi safari: elephants in Tarangire National Park"
+   }
+  ]
  }
 ]

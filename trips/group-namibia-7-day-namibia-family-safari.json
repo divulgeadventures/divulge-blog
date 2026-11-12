@@ -99,6 +99,24 @@
     "Family safari"
    ]
   },
-  "status": "draft"
+  "status": "draft",
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/01/Namibia-safari-walvis-bay-flamingos.jpg",
+   "alt": "7 day namibia family safari: wildlife and landscapes of Namibia"
+  },
+  "gallery": [
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-03-at-20.07.59.jpeg",
+    "alt": "Magical Namibia African Safari"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/4312-x-3324divulge_adventures-scaled.jpg",
+    "alt": "namibia adventure"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/Etosha-national-park.webp",
+    "alt": "Etosha national park-namibia safari tips"
+   }
+  ]
  }
 ]

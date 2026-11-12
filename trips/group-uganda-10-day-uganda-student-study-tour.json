@@ -116,6 +116,32 @@
     "Student study tour"
    ]
   },
-  "status": "draft"
+  "status": "draft",
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/330px-015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+   "alt": "10 day uganda student study tour: gorilla and chimpanzee trekking in Uganda"
+  },
+  "gallery": [
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/9-day-gorilla-and-chimpanzee-trekking-safari-mountain-gorilla-in-bwindi-impenetr.jpg",
+    "alt": "9 day gorilla and chimpanzee trekking safari: mountain gorilla in Bwindi Impenetrable Forest, Uganda"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/mountain-gorilla-in-the-bwindi-impenetrable-forest-in-uganda.jpg",
+    "alt": "7 day Uganda gorilla and chimpanzee safari: mountain gorilla in Bwindi Impenetrable Forest, Uganda"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/04/young-nile-crocodile-on-a-mound-in-the-kazinga-channel.jpg",
+    "alt": "Young Nile crocodile on a mound in the Kazinga Channel"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/04/hippo-swimming-in-the-kazinga-channel-queen-elizabeth-national-park.jpg",
+    "alt": "Hippo swimming in the Kazinga Channel, Queen Elizabeth National Park"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/close-up-of-a-mountain-gorilla-face-in-bwindi-impenetrable-forest.jpg",
+    "alt": "Close-up of a mountain gorilla face in Bwindi Impenetrable Forest"
+   }
+  ]
  }
 ]

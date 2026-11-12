@@ -107,6 +107,32 @@
     "Golf safari"
    ]
   },
-  "status": "draft"
+  "status": "draft",
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/divulge_adventures_masai_mara_safari-122.jpg",
+   "alt": "8 day kenya golf safari: friends celebrating on the savannah during a group safari"
+  },
+  "gallery": [
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/04/6000-x-4000divulge_adventures-3-scaled.jpg",
+    "alt": "Mara Naboisho conservancy"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/02/6000-x-4000divulge_adventures-147-scaled.jpg",
+    "alt": "divulge adventures Masai Mara Kenya Safari"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/01/6000-x-4000divulge_adventures-39-scaled.jpg",
+    "alt": "Siana Conservancy Maasai Mara"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/divulge_adventures_safari-169-scaled.jpg",
+    "alt": "masai mara safari"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-340-scaled.jpg",
+    "alt": "Crescent Island on Lake Naivasha, Kenya"
+   }
+  ]
  }
 ]

@@ -100,6 +100,32 @@
     "Golf safari"
    ]
   },
-  "status": "draft"
+  "status": "draft",
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/divulge-adventures-kenya-safari-4-scaled.jpg",
+   "alt": "7 day tanzania golf safari: elephant herd walking in front of Mount Kilimanjaro"
+  },
+  "gallery": [
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/5563-x-3708divulge_adventures-scaled.jpg",
+    "alt": "5 day Lake Manyara Ngorongoro and Serengeti safari: northern Tanzania safari scenery"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/6000-x-4000divulge_adventures-2-1-scaled.jpg",
+    "alt": "Ngorongoro Crater in northern Tanzania"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/wildebeest-serengeti_11zon.jpg",
+    "alt": "wildebeest serengeti"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2025/11/4558-x-3248divulge_adventures-scaled.jpg",
+    "alt": "Photo from a Divulge Adventures Tanzania and Zanzibar safari"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/09/Tarangire-National-park-best-national-parks-in-Tanzania-Divulge-Adventures.jpeg",
+    "alt": "10 day Tanzania safari and Zanzibar beach trip: Tarangire National Park in northern Tanzania"
+   }
+  ]
  }
 ]

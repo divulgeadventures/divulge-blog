@@ -90,6 +90,32 @@
     "Corporate incentive safari"
    ]
   },
-  "status": "draft"
+  "status": "draft",
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/golden-monkey-in-the-bamboo-forest-of-volcanoes-national-park.jpg",
+   "alt": "5 day rwanda incentive safari: golden monkey in Volcanoes National Park"
+  },
+  "gallery": [
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/lake-and-savannah-landscape-in-akagera-national-park.jpg",
+    "alt": "Lake landscape in Akagera National Park, Rwanda"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park-1.jpg",
+    "alt": "Mountain gorilla on an 8 days Rwanda safari"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-eating-leaves-in-volcanoes-national-park-rwanda-1.jpg",
+    "alt": "Mountain gorilla on a budget Rwanda safari"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p-1.jpg",
+    "alt": "Mountain gorilla in the forest"
+   },
+   {
+    "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-eating-leaves-in-volcanoes-national-park-rwanda.jpg",
+    "alt": "Gorilla eating leaves in Volcanoes National Park, Rwanda"
+   }
+  ]
  }
 ]
