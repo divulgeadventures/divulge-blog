@@ -3,6 +3,12 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-12 17:56 | New post 9
+- "Namibia Photography Tour for Clubs: Deadvlei at Dawn, Etosha Waterholes and Gold-Tier Night Skies" https://divulgeadventures.com/namibia-photography-tour/
+- Namibia, Safari Themes (group sprint row NA-315; focus keyword refined to "namibia photography tour"). Scheduled for 18:00 Nairobi time today. Kenya skipped as it already had 2 posts today; Namibia had the most group rows left after Kenya.
+- Images: 2 from the owner's Media Library (body), 4 from Unsplash (3 body, 1 featured). Park fee N$280 per international adult per day stated (checked November 2026); Deadvlei shuttle price not stated (only a 2022 source found).
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Today's 9 sprint posts are complete.
+- Could not open: none (owner Media Library images could not be downloaded for a visual check, so alt text follows their titles).
 ## 2026-11-12 17:00 | New post 8
 - "How to Plan an Okavango Field Course for University Conservation Students" https://divulgeadventures.com/okavango-field-course/
 - Botswana, Safari Themes (group sprint row BW-311; focus keyword refined to "okavango field course"). Scheduled for 18:00 Nairobi time today (17:00 slot had passed).
@@ -941,11 +947,4 @@ Kenya (bank row KE-002, core pillar, about 2,700 words), Safari Themes. Schedule
 Images: 0 from the owner's Media Library (search could not be opened), 6 from Unsplash (featured Mara sunset, plus Mara plains, Mara tented camp, elephants below Kilimanjaro, Diani Beach, Lamu dhow).
 Skipped topics: none.
 Could not open: https://divulgeadventures.com/?s=kenya+honeymoon, https://divulgeadventures.com/destinations/kenya-safari/, the media library search and https://www.flysafarilink.com/baggage/ (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts).
-
-## 2026-10-13 11:20 | New post 2
-Bwindi Gorilla Trekking: Permits, Sectors, Costs and Tips — https://divulgeadventures.com/bwindi-gorilla-trekking/
-Uganda (bank row UG-001, core topic), Destination Tips. Scheduled to publish 2026-10-13 14:00 Nairobi time. Focus keyword refined to "bwindi gorilla trekking". Permit US$800, habituation US$1,500 (US$1,800 from 1 Jan 2027) and the reduced US$600 April/May/November permit taken from recent published summaries of the UWA 2026-2028 tariff (checked October 2026; readers told to confirm). Links the Bwindi, 9-day and 10-day Uganda trip pages.
-Images: 0 from the owner's Media Library (search could not be opened), 6 stock (Unsplash: 5 mountain gorillas in Bwindi, 1 Lake Bunyonyi), featured image included.
-Skipped topics: none.
-Could not open: https://divulgeadventures.com/?s=bwindi+gorilla+trekking, https://divulgeadventures.com/destinations/uganda-safari/, the media library search and https://ugandawildlife.org/conservation-tariffs/ (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts, trip links taken from earlier posts).
 

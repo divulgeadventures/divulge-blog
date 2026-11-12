@@ -536,3 +536,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/06/helmeted-guineafowl-in-the-khwai-area-of-the-okavango-delta.jpg | okavango-field-course
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/10/botswana-in-january.jpg | okavango-field-course
 2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/06/herd-of-elephants-walking-across-open-ground-in-chobe-national-park-botswana.jpg | okavango-field-course
+2026-11-12 | https://images.unsplash.com/photo-1587321174565-73cffc72e10a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8RGVhZHZsZWl8ZW58MHwwfHx8MTc5NDQ5NTA5MHwy&ixlib=rb-4.1.0&q=80&w=1080 | namibia-photography-tour
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2025/12/namibia-safari.jpg | namibia-photography-tour
+2026-11-12 | https://images.unsplash.com/photo-1604907610632-517dc8c0a0a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8S29sbWFuc2tvcHxlbnwwfDB8fHwxNzk0NDk1MDkyfDI&ixlib=rb-4.1.0&q=80&w=1080 | namibia-photography-tour
+2026-11-12 | https://images.unsplash.com/photo-1644219527937-28564ba100b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8RXRvc2hhJTIwd2F0ZXJob2xlfGVufDB8MHx8fDE3OTQ0OTUwOTJ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | namibia-photography-tour
+2026-11-12 | https://divulgeadventures.com/wp-content/uploads/2026/06/Namibian-Southern-Skeleton-Coast-Tour.jpg | namibia-photography-tour
+2026-11-12 | https://images.unsplash.com/photo-1566160996175-f08b9991c8a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8TmFtaWJpYSUyMG1pbGt5JTIwd2F5fGVufDB8MHx8fDE3OTQ0OTUwOTF8Mg&ixlib=rb-4.1.0&q=80&w=1080 | namibia-photography-tour
