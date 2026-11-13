@@ -3,6 +3,13 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-13 06:55 | New post 1
+- "Which Kenya Safari DMC Can You Trust With Your Clients? A Vetting Checklist for Tour Operators": https://divulgeadventures.com/kenya-safari-dmc/
+- Kenya, Safari Planning Tips (owner idea "kenya safari dmc", AGENT POST; added to the bank as KE-392). Scheduled for 13 Nov 10:00 Nairobi time.
+- Images: 5 from the owner's Media Library (featured + 4 in the body), 0 from Unsplash.
+- Please check: yesterday's post https://divulgeadventures.com/east-africa-dmc/ contains two broken links written as "{U}/trip/12-days-magical-kenya-tanzania-safari/" and "{U}/kenya-and-tanzania-safari/" (an unfilled placeholder). Fix them by hand in WordPress (replace {U} with https://divulgeadventures.com).
+- Could not open: dawan.africa article on open-sided cruisers (page not found); kenyalaw.org tourist service vehicle regulations (page came back empty).
+
 ## 2026-11-12 19:50 | Nothing to do
 - Today's work is complete: all 9 sprint posts for 12 Nov are already written and scheduled.
 - Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows left as todo in REFRESH_QUEUE.md.
@@ -933,21 +940,4 @@ Tanzania (owner idea "Tanzania visa for safari", bank row TZ-009), Safari Planni
 Images: 0 from the owner's Media Library (search could not be opened), 6 from Unsplash (featured giraffes in the Serengeti, plus Serengeti sunset, safari vehicle with buffalo, rhinos in Ngorongoro Crater, giraffes under a balloon, Zanzibar beach).
 Skipped topics: none.
 Could not open: https://divulgeadventures.com/?s=tanzania+visa, https://divulgeadventures.com/destinations/tanzania-safari/ and the media library search (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts).
-
-## 2026-10-14 11:45 | Trip Optimiser (first run, done in chat)
-- Done: 7-Day Luxury Mara River Crossing Safari (ID 8080, "7 day masai mara river crossing safari", kenya-8080-7-day-masai-mara-river-crossing-safari.json); 6-Day Best of Amboseli & Masai Mara Safari (ID 7364, "6 day amboseli and masai mara safari", kenya-7364-6-day-amboseli-and-masai-mara-safari.json).
-- Photos: 7 owner + 0 Unsplash per trip (featured + 6 gallery), wrong alt texts replaced.
-- Owner to fix by hand (the importer cannot change these):
-  - Mara River Crossing: lodge names conflict across days (Day 1-2 Praro Amboseli Safari Camp vs a Sopa link on Day 2; Days 5-6 Zebra River Luxury Camp vs PrideInn Mara Camp), so pick one per night. Typos: "Engligh", "Germany" (should be German), "Accomodation", "Fullboard" (Full board). Title says "Luxury" but lodges are 4-star (Sopa, PrideInn): rename to "7-Day Mara River Crossing Safari" or switch to luxury camps. Highlights/trip facts list Lake Naivasha as a park, but it is only a boat ride stop. A photo in the gallery is named "serengeti-wildebeest-migration-river-crossing" (fine for a Mara River crossing, but check it is not a Tanzania-only shot).
-  - Best of Amboseli & Mara: no price shown on the page (shows "Price on request" now; add a price if you have one). Typos: "Full Day at Amboseli national Park", "4 hours. drive.", "Germany", "Accomodation", "Prideinn" (PrideInn). Day 4 morning drive text says "an adventurous evening". Balloon price is USD 500 here but USD 480 on the Mara River Crossing page.
-  - Site-wide: Mt Kenya trip slug is "mout-kemya" (typo; fix with a 301 redirect).
-- Could not open: none.
-- Next: sopa-lodges-circuit-amboseli-to-mara, 9-day-hells-gate-to-masai-mara-safari.
-
-## 2026-10-14 11:20 | New post 2
-Kenya eTA for Tourists: Cost, Documents and How to Apply — https://divulgeadventures.com/kenya-eta/
-Kenya (owner idea "Kenya eTA for tourists", bank row KE-018), Safari Planning Tips. Scheduled to publish 2026-10-14 14:00 Nairobi time. Focus keyword refined to "kenya eta". Checked October 2026: eTA from US$30 (+US$100 expedited), ~3 working days; new mandatory Kenyan inbound travel health insurance (US$44 premium, from early October 2026, foreign policies not accepted per GOV.UK). eTA validity/single-entry terms not stated (could not confirm on an official source). Links the Kenya destination, travel insurance, Flying Doctors and yellow fever pages (no Kenya trip page could be opened).
-Images: 0 from the owner's Media Library (search could not be opened), 6 from Unsplash (featured passport with stamps, plus passports with boarding passes, stamped passport, Masai Mara zebras, safari vehicle in the Mara, elephants at a Mara waterhole).
-Skipped topics: none.
-Could not open: https://divulgeadventures.com/?s=kenya+eta, https://divulgeadventures.com/destinations/kenya-safari/ and the media library search (permission requests timed out; overlap checked against CONTENT_MAP.md and repo posts), https://www.fragomen.com/insights/kenya-travel-health-insurance-requirement-implemented.html (fetch error).
 

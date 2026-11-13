@@ -105,3 +105,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-12 | Kenya KE-375 | Safari Themes | university study tour in kenya | university-study-tour-kenya
 2026-11-12 | Botswana BW-311 | Safari Themes | okavango field course | okavango-field-course
 2026-11-12 | Namibia NA-315 | Safari Themes | namibia photography tour | namibia-photography-tour
+2026-11-13 | Kenya KE-392 | Safari Planning Tips | kenya safari dmc | kenya-safari-dmc

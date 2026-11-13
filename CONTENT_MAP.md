@@ -263,3 +263,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/university-study-tour-kenya/ (university study tour in kenya)
 - https://divulgeadventures.com/okavango-field-course/ (okavango field course)
 - https://divulgeadventures.com/namibia-photography-tour/ (namibia photography tour)
+- https://divulgeadventures.com/kenya-safari-dmc/ (kenya safari dmc)
