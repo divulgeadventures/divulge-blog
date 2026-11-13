@@ -112,3 +112,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-13 | Botswana BW-312 | Safari Themes | botswana family safari | botswana-family-safari
 2026-11-13 | Namibia NA-316 | Safari Themes | stargazing in namibia | stargazing-in-namibia
 2026-11-13 | Kenya KE-376 | Team Building | masai mara incentive trip | masai-mara-incentive-trip
+2026-11-13 | Botswana BW-313 | Safari Planning Tips | exclusive use safari | exclusive-use-safari-camp-botswana

@@ -581,3 +581,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/06/lion-standing-in-open-grassland-at-sunset.jpg | masai-mara-incentive-trip
 2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/10/leopard-on-a-tree-branch-in-the-masai-mara.jpg | masai-mara-incentive-trip
 2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/10/male-lion-walking-across-the-plains-of-the-masai-mara.jpg | masai-mara-incentive-trip
+2026-11-13 | https://images.unsplash.com/photo-1729809375845-f4e11774dffd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8Qm90c3dhbmElMjBzYWZhcmklMjBjYW1wfGVufDB8MHx8fDE3OTQ1NjcwNDh8Mg&ixlib=rb-4.1.0&q=80&w=1080 | exclusive-use-safari-camp-botswana
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/10/botswana-safari-guide.jpg | exclusive-use-safari-camp-botswana
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/11/etosha-vs-okavango.jpg | exclusive-use-safari-camp-botswana
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-and-Northern-Exploration.jpg | exclusive-use-safari-camp-botswana
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/10/best-time-to-visit-botswana.jpg | exclusive-use-safari-camp-botswana
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/06/herd-of-springbok-grazing-on-dry-grass-in-the-kalahari.jpg | exclusive-use-safari-camp-botswana
