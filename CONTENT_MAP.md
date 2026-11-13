@@ -30,6 +30,14 @@ All new-post topics live in TOPIC_BANK.csv (about 1,900 topics, 300+ per destina
 
 Status values: `todo`, `done YYYY-MM-DD <url>`, `skip (<reason>)`.
 
+### Search demand (re-scored 13 Nov 2026)
+
+Priorities and scores of `todo` rows were re-set from Google Keyword Planner (US + UK, the buyers' markets). Each re-scored row's notes end with "| Demand US+UK (Keyword Planner, Nov 2026): …" giving the measured or estimated monthly searches. What the sample showed:
+- Real demand (100–10,000 a month): park and place names (Arusha National Park, Moremi, Nyungwe, Queen Elizabeth, Lewa), named lodges and camps, Kigali and Windhoek hotels/restaurants, country money matters (currency, visa on arrival), Tanzania + Zanzibar combos. These are now P1/P2.
+- Almost no demand (under 10 a month): "how to get to X from Y", "X map and gates", "X 3 day itinerary", "N day X itinerary", "where to see <animal> in X", "X safari from <country>", park entrance fees and minor-place "best time / things to do / where to stay". These are now P3 and are written last.
+- Group, core, pillar, team, migration and day-trip rows and BOOST/DEMOTED rows were not changed.
+When you refine a focus keyword (step 4), prefer the phrase with real searches; when a P3 row's topic fits as a section of a P1/P2 post, cover it there instead and mark the P3 row `skip (covered by <url>)`.
+
 ## Images (4+ per post)
 
 - The owner's WordPress Media Library has a few hundred real Divulge photos. Use them first. Search `site-data/media.json` (see "Site data copy" above) using short words: the park or place (e.g. "Amboseli", "Okavango", "Nyungwe"), the animal ("lion", "elephant", "gorilla"), and the country or trip name ("Botswana safari", "Moremi").
