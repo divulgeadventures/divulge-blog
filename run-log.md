@@ -3,6 +3,12 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-13 11:25 | New post 5
+- "Is a Botswana Family Safari Right for Your Children? Ages, Areas and Camps Explained": https://divulgeadventures.com/botswana-family-safari/
+- Botswana, Safari Themes (group row BW-312). Scheduled for 13 Nov 14:00 Nairobi time.
+- Images: 4 from the owner's Media Library (featured + 3 in the body) and 2 from Unsplash in the body (5 body images in total). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Park fee stated as P380 per non-resident adult per day with the proposed rise to P500 noted (Botswana Daily News); no lodge rates or child park fees stated because none could be confirmed on official sources. Only Camp Kalahari is named (checked on its official site). Added "hoasi" (Zu/'hoasi) to spelling-allowlist.txt.
+- Could not open: none
 ## 2026-11-13 10:15 | New post 4
 - "A Teacher's Guide to a Uganda Educational Tour: Equator, Nile, Chimpanzees and Safety": https://divulgeadventures.com/uganda-educational-tour/
 - Uganda, Safari Themes (group row UG-314). Scheduled for 13 Nov 13:00 Nairobi time.

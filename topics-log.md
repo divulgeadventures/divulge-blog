@@ -109,3 +109,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-13 | Rwanda RW-308 | Team Building | kigali conference | kigali-conference-gorilla-trekking
 2026-11-13 | Tanzania TZ-325 | Team Building | tanzania incentive trip | tanzania-incentive-trip
 2026-11-13 | Uganda UG-314 | Safari Themes | uganda educational tour | uganda-educational-tour
+2026-11-13 | Botswana BW-312 | Safari Themes | botswana family safari | botswana-family-safari

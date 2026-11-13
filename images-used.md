@@ -564,3 +564,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/05/chimpanzee-resting-in-a-tree-in-kibale-national-park-uganda.jpg | uganda-educational-tour
 2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/04/young-nile-crocodile-on-a-mound-in-the-kazinga-channel.jpg | uganda-educational-tour
 2026-11-13 | https://images.unsplash.com/photo-1583140310426-9187b6489be3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8SmluamElMjBOaWxlJTIwVWdhbmRhfGVufDB8MHx8fDE3OTQ1NTMxMDB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | uganda-educational-tour
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/06/7-day-chobe-moremi-and-khwai-safari-herd-of-elephants-drinking-in-the-chobe-rive.jpg | botswana-family-safari
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/06/giraffe-feeding-from-the-ground-in-the-central-kalahari-botswana.jpg | botswana-family-safari
+2026-11-13 | https://images.unsplash.com/photo-1590214820030-5da5f4e7f94e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8Q2hvYmUlMjByaXZlciUyMGJvYXR8ZW58MHwwfHx8MTc5NDU1NjQwOXwy&ixlib=rb-4.1.0&q=80&w=1080 | botswana-family-safari
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/06/baobab-tree-silhouetted-at-sunset-in-botswana.jpg | botswana-family-safari
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/06/ground-squirrel-on-the-lookout-at-its-den-in-the-kalahari-botswana.jpg | botswana-family-safari
+2026-11-13 | https://images.unsplash.com/photo-1759212593797-632b3df61d7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8N3x8Q2hvYmUlMjByaXZlciUyMGJvYXR8ZW58MHwwfHx8MTc5NDU1NjQwOXwy&ixlib=rb-4.1.0&q=80&w=1080 | botswana-family-safari
