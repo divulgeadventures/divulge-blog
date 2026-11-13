@@ -576,3 +576,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-13 | https://images.unsplash.com/photo-1698677364363-50cfadf64be7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8dGVsZXNjb3BlJTIwbmlnaHQlMjBza3l8ZW58MHwwfHx8MTc5NDU2MDEyNnwy&ixlib=rb-4.1.0&q=80&w=1080 | stargazing-in-namibia
 2026-11-13 | https://images.unsplash.com/photo-1487621867583-13f330e366ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8cXVpdmVyJTIwdHJlZSUyMHN0YXJzfGVufDB8MHx8fDE3OTQ1NjAxMjV8Mg&ixlib=rb-4.1.0&q=80&w=1080 | stargazing-in-namibia
 2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/06/nambia-photos.jpg | stargazing-in-namibia
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/11/divulge-adventures-masai-mara-national-reserve-narok-county-kenya-africa-83_7_11zon.jpg | masai-mara-incentive-trip
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/11/divulge-adventures-masai-mara-national-reserve-narok-county-kenya-africa-45_4_11zon.jpg | masai-mara-incentive-trip
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/06/lion-standing-in-open-grassland-at-sunset.jpg | masai-mara-incentive-trip
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/10/leopard-on-a-tree-branch-in-the-masai-mara.jpg | masai-mara-incentive-trip
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/10/male-lion-walking-across-the-plains-of-the-masai-mara.jpg | masai-mara-incentive-trip

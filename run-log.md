@@ -3,6 +3,13 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-13 16:00 | New post 7
+- **A Masai Mara Incentive Trip That Rewards Your Top Team** — https://divulgeadventures.com/masai-mara-incentive-trip/
+- Kenya (Masai Mara), Team Building; group sprint row KE-376 (masai mara incentive trip). Scheduled to publish 16:00.
+- Images: 5 from the owner's Media Library (featured + 4 body, all Masai Mara), 0 from Unsplash.
+- Verified: Masai Mara reserve non-resident fee US$100/day Jan-Jun, US$200/day Jul-Dec (checked Nov 2026); conservancy fees ~US$100-120 pp/night.
+- Skipped topics: none. Could not open: none.
+
 ## 2026-11-13 12:20 | New post 6
 - "Stargazing in Namibia Works Best Around the New Moon, So Plan Your Astronomy Club's Trip From There": https://divulgeadventures.com/stargazing-in-namibia/
 - Namibia, Safari Themes (group row NA-316; focus keyword refined from "namibia stargazing tour" to "stargazing in namibia"). Scheduled for 13 Nov 15:00 Nairobi time.
