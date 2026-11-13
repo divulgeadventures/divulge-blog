@@ -558,3 +558,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-13 | https://images.unsplash.com/photo-1586584525758-f63cd62475a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MTB8fE5nb3Jvbmdvcm8lMjBjcmF0ZXJ8ZW58MHwwfHx8MTc5NDU0OTA3OHwy&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-incentive-trip
 2026-11-13 | https://images.unsplash.com/photo-1709403108621-66fe97132946?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8U2VyZW5nZXRpJTIwc2FmYXJpJTIwdmVoaWNsZXxlbnwwfDB8fHwxNzk0NTQ5MDc3fDI&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-incentive-trip
 2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/05/white-sand-beach-with-palm-trees-and-a-wooden-pier-in-zanzibar.jpg | tanzania-incentive-trip
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/05/waters-of-the-nile-at-murchison-falls-in-northern-uganda.jpg | uganda-educational-tour
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/05/rainbow-over-murchison-falls-on-the-nile-in-uganda.jpg | uganda-educational-tour
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/10/shoebill-stork-in-uganda.jpg | uganda-educational-tour
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/05/chimpanzee-resting-in-a-tree-in-kibale-national-park-uganda.jpg | uganda-educational-tour
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/04/young-nile-crocodile-on-a-mound-in-the-kazinga-channel.jpg | uganda-educational-tour
+2026-11-13 | https://images.unsplash.com/photo-1583140310426-9187b6489be3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8SmluamElMjBOaWxlJTIwVWdhbmRhfGVufDB8MHx8fDE3OTQ1NTMxMDB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | uganda-educational-tour

@@ -266,3 +266,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/kenya-safari-dmc/ (kenya safari dmc)
 - https://divulgeadventures.com/kigali-conference-gorilla-trekking/ (kigali conference)
 - https://divulgeadventures.com/tanzania-incentive-trip/ (tanzania incentive trip)
+- https://divulgeadventures.com/uganda-educational-tour/ (uganda educational tour)

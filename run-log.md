@@ -3,6 +3,12 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-13 10:15 | New post 4
+- "A Teacher's Guide to a Uganda Educational Tour: Equator, Nile, Chimpanzees and Safety": https://divulgeadventures.com/uganda-educational-tour/
+- Uganda, Safari Themes (group row UG-314). Scheduled for 13 Nov 13:00 Nairobi time.
+- Images: 5 from the owner's Media Library (featured + 4 in the body) and 1 from Unsplash in the body (5 body images in total). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Fees taken from the UWA tariff PDF on ugandawildlife.org (titled July 2024-June 2026 but uploaded October 2026); the post tells readers to confirm. UWA's reported low-season permit discounts were left out because no official page confirmed them. Yellow fever: Uganda no longer requires a certificate for entry (ATTA report of the Ministry of Internal Affairs statement, October 2026).
+- Could not open: chimpanzeetrust.org (Ngamba Island page; permission request timed out); theeastafrican.co.ke yellow fever article (site error)
 ## 2026-11-13 09:20 | New post 3
 - "Planning a Tanzania Incentive Trip? Build the Reward Around Three Serengeti Nights": https://divulgeadventures.com/tanzania-incentive-trip/
 - Tanzania, Team Building (group row TZ-325; focus keyword shortened to "tanzania incentive trip"). Scheduled for 13 Nov 12:00 Nairobi time.
@@ -946,11 +952,4 @@ Could not open: https://divulgeadventures.com/?s=malaria and the media library s
 - Owner to fix by hand (the importer cannot change these): nothing new this run; the items in the 2026-10-14 Trip Optimiser entry are still open (including the "mout-kemya" slug typo).
 - Could not open: https://divulgeadventures.com/wp-json/wp/v2/trip?slug=sopa-lodges-circuit-amboseli-to-mara, https://divulgeadventures.com/wp-json/wp/v2/trip?slug=9-day-hells-gate-to-masai-mara-safari, https://divulgeadventures.com/trip/sopa-lodges-circuit-amboseli-to-mara/, https://divulgeadventures.com/trip/9-day-hells-gate-to-masai-mara-safari/, https://divulgeadventures.com/trip/amboseli-nakuru-masai-mara-safari/, https://divulgeadventures.com/trip/4-day-naivasha-nakuru-masai-mara-safari/ (all permission requests timed out; not retried). All four rows stay todo. Fix: approve divulgeadventures.com for web fetches in the scheduled task, or the task will keep stopping here.
 - Next: sopa-lodges-circuit-amboseli-to-mara, 9-day-hells-gate-to-masai-mara-safari.
-
-## 2026-10-15 07:25 | New post 1
-East Africa Tourist Visa: Cost, Rules and How to Apply — https://divulgeadventures.com/east-africa-tourist-visa/
-Uganda (owner idea "East Africa Tourist Visa", bank row UG-305), Safari Planning Tips. Scheduled to publish 2026-10-15 10:00 Nairobi time. Checked October 2026 on official pages: US$100, 90 days, multiple entry, first-entry rule, no extensions (Uganda immigration), Rwanda IremboGov "V11 East Africa Visa", Rwanda US$50 cap with fee waiver for AU/Commonwealth/Francophonie, Uganda single-entry US$50. Post tells Kenya-first travellers to confirm with Kenya Immigration because Kenya's online system now issues eTAs. Trip link /trip/gorilla-and-chimpanzee-trekking-safari/ taken from TRIP_QUEUE.md (not opened).
-Images: 0 from the owner's Media Library (search could not be opened), 5 from Unsplash (featured Rwenzori hills, plus Kigali at sunset, Nyamirambo in Kigali, silverback gorilla, elephant herd).
-Skipped topics: none.
-Could not open: https://divulgeadventures.com/?s=east+africa+tourist+visa, the media library search (permission requests timed out; overlap checked against CONTENT_MAP.md), https://www.gov.uk/foreign-travel-advice/kenya/entry-requirements and https://www.gov.uk/foreign-travel-advice/uganda/entry-requirements (permission requests timed out).
 
