@@ -952,10 +952,3 @@ Botswana (bank row BW-200, BOOST comparison; focus keyword refined to "botswana 
 Images: 6 from the owner's Media Library (featured plus 5 in the body, chosen by title/filename only), 0 from Unsplash.
 Skipped topics: none.
 Could not open: NHS Fit for Travel Namibia malaria map and CDC Yellow Book Namibia page (robots blocked), TravelHealthPro Botswana (needs JavaScript), CDC Yellow Book via Relief Central (subscriber only).
-
-## 2026-10-16 11:20 | New post 2
-Kenya Park Fees: KWS, Masai Mara and Conservancy Rates Explained — https://divulgeadventures.com/kenya-park-fees/
-Kenya (owner idea "Kenya park fees (KWS parks and Masai Mara)", matched to existing bank row KE-279), Safari Planning Tips. Scheduled to publish 2026-10-16 14:00 Nairobi time. KWS rates taken from the official KWS conservation fee schedule (in force since 1 Oct 2025), Masai Mara rates from The Kenya Times (Aug 2026, matching our existing posts), Ol Pejeta from its official 2026 tariff, KWSPay payment details from The Kenya Times (Nov 2025); all marked "checked October 2026". Samburu/Buffalo Springs fees could not be found on an official source, so no figure is given. Post is about 2,600 words because of the fee tables.
-Images: 7 from the owner's Media Library (featured plus 6 in the body, via site-data/media.json, chosen by title only), 0 from Unsplash.
-Skipped topics: KE-254 (magical kenya etickets park fees) marked skip (covered by this post).
-Could not open: none.
