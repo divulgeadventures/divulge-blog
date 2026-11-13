@@ -3,6 +3,10 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-13 19:53 | Nothing to do
+- Today's work is complete: all 9 group sprint posts for 13 Nov are written and scheduled. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left as todo).
+- Could not open: none
+
 ## 2026-11-13 19:22 | Nothing to do
 - Today's work is complete: all 9 group sprint posts for 13 Nov are written and scheduled. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left as todo).
 - Could not open: none
@@ -936,11 +940,3 @@ Namibia (bank row NA-001, core topic), Destination Tips. Scheduled to publish 20
 Images: 2 from the owner's Media Library and 3 from Unsplash in the body, plus an Unsplash featured image (Namib dunes).
 Skipped topics: the owner idea "Tipping on safari in Kenya" was left again (today already has a Kenya post); it should be tomorrow's first post. Today's refresh (mara-naboisho-conservancy, LINK FIX) is still to do.
 Could not open: https://divulgeadventures.com/?s=best+time+to+visit+namibia (permission request timed out, not retried; overlap checked against site-data/posts.json instead).
-
-## 2026-10-17 10:54 | New post 2
-Serengeti in January: Calving Season, Weather, Where to Stay and Costs — https://divulgeadventures.com/serengeti-in-january/
-Tanzania (bank row TZ-049, seasonal), Great Migration & River Crossing. Scheduled to publish 2026-10-17 14:00 Nairobi time. About 2,600 words. Fees stated: Serengeti US$82.60 high season (16 May-14 March) and Ngorongoro Conservation Area US$70.80 per adult per 24 hours, checked October 2026 against a July 2026 fee summary (the TANAPA site shows no tariff page). No lodges are named, because their official sites were not checked. Trip links: 8-day Tarangire, Ngorongoro & Serengeti and 10-day Tanzania Safari & Zanzibar Beach (the two "migration" trip pages focus on the northern Serengeti river crossings, so they were not used for a January post).
-Images: 4 from the owner's Media Library and 1 from Unsplash in the body, plus an Unsplash featured image.
-Skipped topics: the owner idea "Tipping on safari in Kenya" was left for another day, because today's post 1 is already Kenya and the 3 daily posts must be for different destinations.
-Could not open: none (The Citizen fee article loaded without its body text).
-
