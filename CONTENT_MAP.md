@@ -264,3 +264,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/okavango-field-course/ (okavango field course)
 - https://divulgeadventures.com/namibia-photography-tour/ (namibia photography tour)
 - https://divulgeadventures.com/kenya-safari-dmc/ (kenya safari dmc)
+- https://divulgeadventures.com/kigali-conference-gorilla-trekking/ (kigali conference)

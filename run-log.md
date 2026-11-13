@@ -3,6 +3,12 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-13 07:48 | New post 2
+- "A Kigali Conference Leaves Room for Gorillas if You Plan the Extension Early": https://divulgeadventures.com/kigali-conference-gorilla-trekking/
+- Rwanda, Team Building (group row RW-308; focus keyword shortened to "kigali conference"). Scheduled for 13 Nov 11:00 Nairobi time.
+- Images: 3 from the owner's Media Library (featured + 2 in the body) and 3 from Unsplash in the body (5 body images in total).
+- Not stated: RDB's "conference discount" for gorilla permits, because its terms could not be checked (the post tells organisers to ask about it).
+- Could not open: visitrwandabookings.rdb.rw conference discount page (permission request timed out).
 ## 2026-11-13 06:55 | New post 1
 - "Which Kenya Safari DMC Can You Trust With Your Clients? A Vetting Checklist for Tour Operators": https://divulgeadventures.com/kenya-safari-dmc/
 - Kenya, Safari Planning Tips (owner idea "kenya safari dmc", AGENT POST; added to the bank as KE-392). Scheduled for 13 Nov 10:00 Nairobi time.

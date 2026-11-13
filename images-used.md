@@ -547,3 +547,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/11/masai-mara-elephant.jpeg | kenya-safari-dmc
 2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2025/11/beisa-oryx-at-lewa-conservancy-with-mount-kenya-in-the-background.jpg | kenya-safari-dmc
 2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/10/grey-crowned-crane-in-kenya-scaled.jpg | kenya-safari-dmc
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park.jpg | kigali-conference-gorilla-trekking
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-eating-leaves-in-volcanoes-national-park-rwanda.jpg | kigali-conference-gorilla-trekking
+2026-11-13 | https://images.unsplash.com/photo-1648708511872-5426c0f29c27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8S2lnYWxpJTIwY2l0eXxlbnwwfDB8fHwxNzk0NTQ1NzU0fDI&ixlib=rb-4.1.0&q=80&w=1080 | kigali-conference-gorilla-trekking
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/10/zebras-grazing-in-akagera-national-park-on-a-rwanda-safari.jpg | kigali-conference-gorilla-trekking
+2026-11-13 | https://images.unsplash.com/photo-1647891684895-15c5b831fde1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8UndhbmRhJTIwaGlsbHN8ZW58MHwwfHx8MTc5NDU0NTc1NXwy&ixlib=rb-4.1.0&q=80&w=1080 | kigali-conference-gorilla-trekking
+2026-11-13 | https://images.unsplash.com/photo-1786795468102-84cd1ac41cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8S2lnYWxpJTIwY2l0eXxlbnwwfDB8fHwxNzk0NTQ1NzU0fDI&ixlib=rb-4.1.0&q=80&w=1080 | kigali-conference-gorilla-trekking
