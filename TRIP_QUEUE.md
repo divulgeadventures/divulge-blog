@@ -57,7 +57,7 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 48 | Namibia | 5-day-sossusvlei-and-etosha-tour | 9704 | done 2026-11-13 | 5 day sossusvlei and etosha tour | namibia-9704-5-day-sossusvlei-and-etosha-tour.json |
 | 49 | Namibia | namib-desert-and-sossusvlei-experience | 9712 | done 2026-11-13 | 3 day sossusvlei tour from windhoek | namibia-9712-3-day-sossusvlei-tour-from-windhoek.json |
 | 50 | Namibia | 4-day-namibian-desert-dash-tour | 9655 | done 2026-11-13 | 4 day sossusvlei and swakopmund tour | namibia-9655-4-day-sossusvlei-and-swakopmund-tour.json |
-| 51 | Namibia | 4-days-magical-namibia-safari |  | todo |  |  |
-| 52 | Namibia | 5-days-namibia-adventure |  | todo |  |  |
+| 51 | Namibia | 4-days-magical-namibia-safari | 7859 | done 2026-11-13 | 4 day sossusvlei and walvis bay safari | namibia-7859-4-day-sossusvlei-and-walvis-bay-safari.json |
+| 52 | Namibia | 5-days-namibia-adventure | 9672 | done 2026-11-13 | 5 day sossusvlei and swakopmund tour | namibia-9672-5-day-sossusvlei-and-swakopmund-tour.json |
 | 53 | Namibia | 6-day-namibian-culture-and-scenery-tour |  | todo |  |  |
 | 54 | Namibia | namibian-southern-skeleton-coast-tour |  | todo |  |  |

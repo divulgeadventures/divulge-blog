@@ -3,6 +3,15 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-13 18:37 Trip Optimiser
+- Done: 4 Days Magical Namibia Safari (7859, "4 day sossusvlei and walvis bay safari", namibia-7859-4-day-sossusvlei-and-walvis-bay-safari.json), 5 Days Namibia Adventure (9672, "5 day sossusvlei and swakopmund tour", namibia-9672-5-day-sossusvlei-and-swakopmund-tour.json)
+- Photos: 7859: 5 owner + 1 Unsplash; 9672: 3 owner + 3 Unsplash (no credits added)
+- Owner to fix by hand (the importer cannot change these):
+  - 4 Days Magical Namibia Safari (7859): Safari Info says "Husea Kutako International Airport" (should be Hosea Kutako, as in the itinerary); includes list says "Pink Salt Lake at" / "Swapkomund" split over two lines (should be "Pink Salt Lake at Swakopmund"); includes list Sandwich Harbour as included, but Day 3 makes it an either/or with the Dolphin and Seal Cruise (and the cruise is not in the includes); includes list does not mention accommodation or meals, while Safari Info says full board; "Sandwich Harbor" (highlights) vs "Sandwich Harbour" (itinerary); stray spaces before commas in "Atlantic Villa Guest House , Swakopmund" and "The Weinberg Hotel , Windhoek"; "Accomodation" typo in Safari Info; no best months on the page; price USD 1,990 is far below the similar 4 day Sossusvlei and Swakopmund tour (9655, USD 4,500), so please confirm both; Day 4 ends with "signifying the end of safari" (redundant).
+  - 5 Days Namibia Adventure (9672): no accommodation named for the Day 3 night in Swakopmund; Day 2 does not name the lodge (only "return to the lodge"); "Ghaub" Pass should be "Gaub" Pass; includes say "Activities listed in BOLD" but nothing is bold, and "Meals: As indicated in tour description" but no meals are indicated; excludes say "Pre applications not required for Danish citizens" (looks copied from a supplier's itinerary); typos "Divulge adventures", "Namibia adventure majestic wildlife", "Namibia adventure diverse beauty", "the towns culture", Day 5 sentence missing a full stop; no best months and no Safari Info box (arrival/departure, accommodation class, meals); no sale price, unlike the 4-day trip.
+- Could not open: none (worked from the 13 Nov 10:08 UTC site copy)
+- Next: 6- Day Namibian Culture and Scenery Tour (6-day-namibian-culture-and-scenery-tour), Namibian Southern Skeleton Coast Tour (namibian-southern-skeleton-coast-tour)
+
 ## 2026-11-13 16:59 | Nothing to do
 - Today's work is complete: all 9 group sprint posts for 13 Nov are written and scheduled. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left as todo).
 - Could not open: none
