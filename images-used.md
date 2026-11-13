@@ -587,3 +587,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-and-Northern-Exploration.jpg | exclusive-use-safari-camp-botswana
 2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/10/best-time-to-visit-botswana.jpg | exclusive-use-safari-camp-botswana
 2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/06/herd-of-springbok-grazing-on-dry-grass-in-the-kalahari.jpg | exclusive-use-safari-camp-botswana
+2026-11-13 | https://images.unsplash.com/photo-1507087549419-3ec469e82d13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8VGFyYW5naXJlJTIwZWxlcGhhbnRzfGVufDB8MHx8fDE3OTQ1NzA3MjN8Mg&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-family-safari
+2026-11-13 | https://images.unsplash.com/photo-1580145575237-75fec2a0320b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8c2FmYXJpJTIwdmVoaWNsZSUyMFNlcmVuZ2V0aXxlbnwwfDB8fHwxNzk0NTcwNzI1fDI&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-family-safari
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/10/tanzania-spectacular-impala-scaled.jpg | tanzania-family-safari
+2026-11-13 | https://images.unsplash.com/photo-1528277342758-f1d7613953a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8VGFyYW5naXJlJTIwZWxlcGhhbnRzfGVufDB8MHx8fDE3OTQ1NzA3MjN8Mg&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-family-safari
+2026-11-13 | https://images.unsplash.com/photo-1600637468460-1fa84e8eddea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8Tmdvcm9uZ29ybyUyMGNyYXRlcnxlbnwwfDB8fHwxNzk0NTcwNzI0fDI&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-family-safari
+2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/05/silhouette-of-a-sailing-boat-at-sunset-off-zanzibar.jpg | tanzania-family-safari

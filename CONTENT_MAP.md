@@ -271,3 +271,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/stargazing-in-namibia/ (stargazing in namibia)
 - https://divulgeadventures.com/masai-mara-incentive-trip/ (masai mara incentive trip)
 - https://divulgeadventures.com/exclusive-use-safari-camp-botswana/ (exclusive use safari)
+- https://divulgeadventures.com/tanzania-family-safari/ (tanzania family safari)

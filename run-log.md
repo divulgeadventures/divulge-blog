@@ -3,6 +3,13 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-13 15:20 | New post 9
+- **Taking the Whole Clan? How a Tanzania Family Safari Works With Zanzibar at the End** — https://divulgeadventures.com/tanzania-family-safari/
+- Tanzania, Safari Themes; group sprint row TZ-326 (focus keyword refined from "tanzania family group safari" to "tanzania family safari"). Scheduled to publish 18:00. That completes today's 9 sprint posts.
+- Images: 2 from the owner's Media Library (impala, Zanzibar sailing boat), 4 from Unsplash (featured Tarangire elephants plus 3 body images). No credits.
+- Not stated: a child rate for Tanzania's new inbound travel insurance (the mainland insurer has not published one; post gives only US$44 per visitor), exact Arusha–Zanzibar flight time and balloon minimum ages (no reliable source).
+- Could not open: https://www.flightsfrom.com/ARK-ZNZ (site error); fitfortravel.nhs.uk Tanzania malaria map (page has no content, updates paused; used CDC instead); thecitizen.co.tz insurance article (body did not load).
+
 ## 2026-11-13 13:58 | New post 8
 - **How to Book an Exclusive Use Safari Camp in Botswana for Your Whole Group** — https://divulgeadventures.com/exclusive-use-safari-camp-botswana/
 - Botswana, Safari Planning Tips; group sprint row BW-313 (focus keyword refined to "exclusive use safari"). Scheduled to publish 17:00.
@@ -948,13 +955,3 @@ Kenya (owner idea "Kenya park fees (KWS parks and Masai Mara)", matched to exist
 Images: 7 from the owner's Media Library (featured plus 6 in the body, via site-data/media.json, chosen by title only), 0 from Unsplash.
 Skipped topics: KE-254 (magical kenya etickets park fees) marked skip (covered by this post).
 Could not open: none.
-
-## 2026-10-16 08:45 Trip Optimiser
-- Done: 7 Days Sopa Lodges Circuit: Amboseli to Mara (ID 7460, "7 day kenya sopa lodges safari", kenya-7460-7-day-kenya-sopa-lodges-safari.json); 9 Day Hells Gate to Masai Mara Safari (ID 7371, "9 day hells gate to masai mara safari", kenya-7371-9-day-hells-gate-to-masai-mara-safari.json). Both read from the site-data copy (snapshot 2026-10-16 03:12 UTC); the live site was not opened.
-- Photos: Sopa circuit 7 owner + 0 Unsplash (featured + 4 existing gallery photos kept, Amboseli elephant and Lake Nakuru giraffes added); Hells Gate 7 owner + 0 Unsplash (featured + 4 existing gallery photos kept, Hell's Gate gorges and Lake Naivasha added). Generic "divulge adventures ... wildebeest migration safari" alts replaced, including on the Hell's Gate and Crescent Island photos. Alts are written from file names/titles only (photos could not be viewed), so a quick visual check is worthwhile.
-- Owner to fix by hand (the importer cannot change these):
-  - Sopa circuit (7460): Safari Highlights list Lake Elementaita, but no day in the itinerary visits it (remove it or add the stop). Days 4 and 7 say "check-in at the camp" / "breakfast at your camp" but every night is at Masai Mara Sopa Lodge. Typos: "andyour" (Day 1), "set exit Lake Nakuru National Park with and enroute game drive" (Day 4), "Masai Village Visit" (Maasai), "Complementary" (Complimentary) Lake Naivasha boat ride, "Accomodation", "Germany" (German). Page overview and day-by-day intro call it "7 Days Wildebeest Migration Safari Sopa Lodge Circuit", which doesn't match the title "7 Days Sopa Lodges Circuit: Amboseli to Mara". Overview says the trip "guarantees" migration encounters; better to say crossings are never guaranteed. Slug has no duration (sopa-lodges-circuit-amboseli-to-mara): not a typo, so leave it as it is (changing it would need a 301 redirect).
-  - Hells Gate (7371): no price on the page (the file says "Price on request"; add a price in WP Travel Engine if you have one) and no Safari Map tab. Lodges are mixed: Lake Naivasha Sopa Resort, Lake Nakuru Sopa Lodge, Mara Leisure Camp, Argyle Grand Hotel; the "4 Star Rated Accommodations" fact should be checked against Mara Leisure Camp and Argyle Grand. Day 8 says "check out from the hotel" after nights at Mara Leisure Camp. Bicycle hire in Hell's Gate and the Crescent Island walk fee are not in the includes or excludes; say whether they are included. Typos: "Wildife" (tour type), "set exit Lake Nakuru National Park" (Day 4), "arriving by lunchtime approximately" (Day 3), "Masai mara" (Day 8), "Crescent Island ." (stray space), "Complementary", "Accomodation", "Germany". The day-by-day intro calls it "9 Days Best of Kenya Wildebeest Migration Safari", which doesn't match the title. The "Inclusive/Exclusive" heading differs from "Includes/Excludes" on other trips.
-  - Prices across trips: balloon safari is USD 500 on both pages, but USD 480 on the 7-Day Mara River Crossing page (still open from 2026-10-14).
-- Could not open: none (the live site was not needed; the copy was fresh).
-- Next: amboseli-nakuru-masai-mara-safari, 4-day-naivasha-nakuru-masai-mara-safari.
