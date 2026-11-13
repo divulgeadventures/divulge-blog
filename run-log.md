@@ -3,6 +3,12 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-13 12:20 | New post 6
+- "Stargazing in Namibia Works Best Around the New Moon, So Plan Your Astronomy Club's Trip From There": https://divulgeadventures.com/stargazing-in-namibia/
+- Namibia, Safari Themes (group row NA-316; focus keyword refined from "namibia stargazing tour" to "stargazing in namibia"). Scheduled for 13 Nov 15:00 Nairobi time.
+- Images: 1 from the owner's Media Library (in the body) and 5 from Unsplash (featured Deadvlei at night + 4 in the body; 5 body images in total). No credits. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Facts from namibrand.org (Gold tier Dark Sky Reserve, May 2012), the H.E.S.S. site page (about 100 km SW of Windhoek, 1,800 m) and the IAS Hakos observatory page (1,852 m). Only Wolwedans (NamibRand) and Hakos Astrofarm are named; no lodge rates or park fees stated. Added "gamsberg" to spelling-allowlist.txt.
+- Could not open: travelnam.com Tivoli Southern Sky Guest Farm article (permission request timed out), so Tivoli is not mentioned
 ## 2026-11-13 11:25 | New post 5
 - "Is a Botswana Family Safari Right for Your Children? Ages, Areas and Camps Explained": https://divulgeadventures.com/botswana-family-safari/
 - Botswana, Safari Themes (group row BW-312). Scheduled for 13 Nov 14:00 Nairobi time.
@@ -938,16 +944,3 @@ Images: 0 from the owner's Media Library (search could not be opened), 5 from Un
 Skipped topics: none. Next eligible refresh: night-game-drives-in-kenya (LINK FIX).
 Could not open: the media library search, https://kws.go.ke/park/tsavo-east-national-park/, https://savetheelephants.org/our-work/science/monitoring/sgr-underpass-monitoring/ and https://metickets.krc.co.ke/ (permission requests timed out; not retried).
 
-## 2026-10-15 15:09 | New post 3
-Tanzania Park Fees: Serengeti, Ngorongoro, Tarangire and Manyara Costs Explained — https://divulgeadventures.com/tanzania-park-fees/
-Tanzania (owner idea "Tanzania park fees", bank row TZ-231), Safari Planning Tips. Scheduled to publish 2026-10-15 18:00 Nairobi time. Fees (checked October 2026) taken from recently updated fee summaries (March and July 2026) that match TANAPA's July 2021 schedule: Serengeti US$82.60 high / US$70.80 low, Ngorongoro US$70.80 + US$295 crater fee per vehicle, Tarangire/Manyara US$59 / US$53.10, all incl. 18% VAT; the post tells readers to confirm with TANAPA/NCAA. The official TANAPA site could not be opened, so please spot-check the figures. Worked 7-day example labelled as an estimate (about US$730-810 per adult). Trip link /trip/tarangire-ngorongoro-serengeti-safari/ is not used; the Trip CTA points to the Tanzania safaris page.
-Images: 0 from the owner's Media Library (search could not be opened), 6 from Unsplash (featured Serengeti cheetah, plus wildebeest herd, Serengeti elephants, Ngorongoro Crater view, Tarangire elephants, Lake Manyara wildebeest).
-Skipped topics: none.
-Could not open: https://divulgeadventures.com/?s=tanzania+park+fees, the media library search, https://divulgeadventures.com/destinations/tanzania-safari/ and https://www.tanzaniaparks.go.tz/ (permission requests timed out; overlap checked against CONTENT_MAP.md); The Citizen fee articles loaded headline/summary only.
-
-## 2026-10-15 11:09 | New post 2
-Kenya Safari Vaccinations and Malaria: What You Really Need — https://divulgeadventures.com/kenya-safari-vaccinations/
-Kenya (owner idea "Kenya safari vaccinations and malaria advice", bank row KE-019), Safari Planning Tips. Scheduled to publish 2026-10-15 14:00 Nairobi time. Focus keyword refined to "kenya safari vaccinations". Checked October 2026: NHS Fit for Travel Kenya page (note: that site paused updates in July 2025), CDC malaria table for Kenya (all areas below 2,500 m incl. game parks and Nairobi), US State Dept Kenya page (updated July 2026), Air Tanzania yellow fever guidance (Kenya on Tanzania's list). The post states CDC and NHS disagree on Nairobi and tells readers to confirm with a travel clinic. Trip link /trip/best-of-amboseli-masai-mara-safari/ taken from the repo's trips/ file (not opened live).
-Images: 0 from the owner's Media Library (search could not be opened), 5 from Unsplash (featured Masai Mara plains, plus mosquito-net bed, waterbuck in the Masai Mara, Nairobi skyline, Diani Beach).
-Skipped topics: none.
-Could not open: https://divulgeadventures.com/?s=malaria and the media library search (permission requests timed out; overlap checked against CONTENT_MAP.md), https://travelhealthpro.org.uk/country/115/kenya (permission request timed out), CDC Yellow Book country selector (Kenya entry not in page text).

@@ -110,3 +110,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-13 | Tanzania TZ-325 | Team Building | tanzania incentive trip | tanzania-incentive-trip
 2026-11-13 | Uganda UG-314 | Safari Themes | uganda educational tour | uganda-educational-tour
 2026-11-13 | Botswana BW-312 | Safari Themes | botswana family safari | botswana-family-safari
+2026-11-13 | Namibia NA-316 | Safari Themes | stargazing in namibia | stargazing-in-namibia
