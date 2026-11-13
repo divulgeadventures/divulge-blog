@@ -951,11 +951,3 @@ Kenya (owner idea "Kenya safari vaccinations and malaria advice", bank row KE-01
 Images: 0 from the owner's Media Library (search could not be opened), 5 from Unsplash (featured Masai Mara plains, plus mosquito-net bed, waterbuck in the Masai Mara, Nairobi skyline, Diani Beach).
 Skipped topics: none.
 Could not open: https://divulgeadventures.com/?s=malaria and the media library search (permission requests timed out; overlap checked against CONTENT_MAP.md), https://travelhealthpro.org.uk/country/115/kenya (permission request timed out), CDC Yellow Book country selector (Kenya entry not in page text).
-
-## 2026-10-15 08:47 Trip Optimiser
-- Done: none. No trip page could be opened, so no trip files were written (the guide forbids writing trips from memory).
-- Photos: none (no trips written).
-- Owner to fix by hand (the importer cannot change these): nothing new this run; the items in the 2026-10-14 Trip Optimiser entry are still open (including the "mout-kemya" slug typo).
-- Could not open: https://divulgeadventures.com/wp-json/wp/v2/trip?slug=sopa-lodges-circuit-amboseli-to-mara, https://divulgeadventures.com/wp-json/wp/v2/trip?slug=9-day-hells-gate-to-masai-mara-safari, https://divulgeadventures.com/trip/sopa-lodges-circuit-amboseli-to-mara/, https://divulgeadventures.com/trip/9-day-hells-gate-to-masai-mara-safari/, https://divulgeadventures.com/trip/amboseli-nakuru-masai-mara-safari/, https://divulgeadventures.com/trip/4-day-naivasha-nakuru-masai-mara-safari/ (all permission requests timed out; not retried). All four rows stay todo. Fix: approve divulgeadventures.com for web fetches in the scheduled task, or the task will keep stopping here.
-- Next: sopa-lodges-circuit-amboseli-to-mara, 9-day-hells-gate-to-masai-mara-safari.
-
