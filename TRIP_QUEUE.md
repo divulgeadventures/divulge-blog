@@ -55,8 +55,8 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 46 | Botswana | 5-day-boteti-tented-safari-logde | 9846 | done 2026-11-12 | 5 day boteti and okavango delta safari | botswana-9846-5-day-boteti-and-okavango-delta-safari.json |
 | 47 | Namibia | 7-day-classic-etosha-national-park | 9703 | done 2026-11-13 | 7 day etosha national park safari | namibia-9703-7-day-etosha-national-park-safari.json |
 | 48 | Namibia | 5-day-sossusvlei-and-etosha-tour | 9704 | done 2026-11-13 | 5 day sossusvlei and etosha tour | namibia-9704-5-day-sossusvlei-and-etosha-tour.json |
-| 49 | Namibia | namib-desert-and-sossusvlei-experience |  | todo |  |  |
-| 50 | Namibia | 4-day-namibian-desert-dash-tour |  | todo |  |  |
+| 49 | Namibia | namib-desert-and-sossusvlei-experience | 9712 | done 2026-11-13 | 3 day sossusvlei tour from windhoek | namibia-9712-3-day-sossusvlei-tour-from-windhoek.json |
+| 50 | Namibia | 4-day-namibian-desert-dash-tour | 9655 | done 2026-11-13 | 4 day sossusvlei and swakopmund tour | namibia-9655-4-day-sossusvlei-and-swakopmund-tour.json |
 | 51 | Namibia | 4-days-magical-namibia-safari |  | todo |  |  |
 | 52 | Namibia | 5-days-namibia-adventure |  | todo |  |  |
 | 53 | Namibia | 6-day-namibian-culture-and-scenery-tour |  | todo |  |  |
