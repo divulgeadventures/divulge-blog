@@ -3,6 +3,10 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-13 18:41 | Nothing to do
+- Today's work is complete: all 9 group sprint posts for 13 Nov are written and scheduled. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left as todo).
+- Could not open: none
+
 ## 2026-11-13 18:37 Trip Optimiser
 - Done: 4 Days Magical Namibia Safari (7859, "4 day sossusvlei and walvis bay safari", namibia-7859-4-day-sossusvlei-and-walvis-bay-safari.json), 5 Days Namibia Adventure (9672, "5 day sossusvlei and swakopmund tour", namibia-9672-5-day-sossusvlei-and-swakopmund-tour.json)
 - Photos: 7859: 5 owner + 1 Unsplash; 9672: 3 owner + 3 Unsplash (no credits added)
@@ -945,16 +949,3 @@ Could not open: none (The Citizen fee article loaded without its body text).
   - Prices across trips: balloon safari is USD 480 on the 4-day and 7-Day Mara River Crossing pages but USD 500 on the 10-day, Sopa circuit and Hells Gate pages; pick one price.
 - Could not open: none.
 - Next: 7-day-best-of-solio-game-reserve-naivasha-and-masai-mara-triangle (row 7), 12-days-magical-kenya-tanzania-safari (row 8).
-
-## 2026-10-17 06:59 | New post 1
-Is Kenya Safe for Safari? An Honest Guide From Nairobi — https://divulgeadventures.com/is-kenya-safe-for-safari/
-Kenya (owner idea "Is Kenya safe for safari", matched to existing bank row KE-016), Safari Planning Tips. Scheduled to publish 2026-10-17 10:00 Nairobi time. Checked October 2026: US advisory Level 2 (issued 28 July 2026) and its Level 4 areas from travel.state.gov; UK FCDO warning areas (7 October 2026 update) taken from Capital FM's report because gov.uk could not be opened; Ebola facts (first imported Bundibugyo case in Nairobi 3-5 October, third case in a quarantined relative 16 October, no community spread, WHO advises no travel restrictions) from WHO Africa and Al Jazeera; KWS visitor rules from The Standard (Dec 2025). The Ebola situation is moving: worth a quick re-check of that section in a week or two. About 2,600 words.
-Images: 6 from the owner's Media Library (featured plus 5 in the body, via site-data/media.json, chosen by title only), 0 from Unsplash.
-Skipped topics: none.
-Could not open: https://www.gov.uk/foreign-travel-advice/kenya (permission request timed out, not retried); https://news.un.org/en/story/2026/10/1168602 (fetch error).
-
-## 2026-10-16 18:58 | Refresh
-Night Game Drives in Kenya: Where They Are Allowed, What You See and Cost — https://divulgeadventures.com/night-game-drives-in-kenya/
-Kenya, Safari Themes (REFRESH_QUEUE LINK FIX row). The two bare URLs are gone: KWS and the Ol Pejeta 2026 tariff are now proper links with descriptive anchor text. The live post could not be read (permission request timed out), so the post was rewritten from fresh research: Ol Pejeta night drive USD 70 adult / USD 35 child, 7-9pm and 9-11pm slots, book a day ahead, min. 4 people (official 2026 tariff, checked October 2026); no night drives in the Mara reserve, allowed in the conservancies; KWS asks day visitors to leave by about 6pm. Note: the 11 Day Special Five and Big Five trip page lists a night game drive in Tsavo West National Park; the post says night drives are not a routine activity in KWS parks and only by special arrangement, so please confirm that day of the trip is still right. Post is about 2,280 words, 4 body images, all from the owner's Media Library (0 Unsplash).
-Skipped topics: none. Three LINK FIX/TEXT FIX rows remain (mara-naboisho-conservancy, kenya-safari-packing-list, luxury-safari-lodges), so the refresh continues tomorrow.
-Could not open: https://divulgeadventures.com/night-game-drives-in-kenya/ (permission request timed out, not retried).
