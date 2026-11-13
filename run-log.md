@@ -3,7 +3,7 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
-## 2026-11-13 15:20 | New post 9
+## 2026-11-13 14:54 | New post 9
 - **Taking the Whole Clan? How a Tanzania Family Safari Works With Zanzibar at the End** — https://divulgeadventures.com/tanzania-family-safari/
 - Tanzania, Safari Themes; group sprint row TZ-326 (focus keyword refined from "tanzania family group safari" to "tanzania family safari"). Scheduled to publish 18:00. That completes today's 9 sprint posts.
 - Images: 2 from the owner's Media Library (impala, Zanzibar sailing boat), 4 from Unsplash (featured Tarangire elephants plus 3 body images). No credits.
