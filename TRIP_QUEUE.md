@@ -53,8 +53,8 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 44 | Botswana | 8-days-moremi-and-northern-exploration | 9771 | done 2026-11-12 | 8 day moremi and khwai camping safari | botswana-9771-8-day-moremi-and-khwai-camping-safari.json |
 | 45 | Botswana | 7-days-kalahari-expeditions | 9772 | done 2026-11-12 | 7 day central kalahari and nxai pan safari | botswana-9772-7-day-central-kalahari-and-nxai-pan-safari.json |
 | 46 | Botswana | 5-day-boteti-tented-safari-logde | 9846 | done 2026-11-12 | 5 day boteti and okavango delta safari | botswana-9846-5-day-boteti-and-okavango-delta-safari.json |
-| 47 | Namibia | 7-day-classic-etosha-national-park |  | todo |  |  |
-| 48 | Namibia | 5-day-sossusvlei-and-etosha-tour |  | todo |  |  |
+| 47 | Namibia | 7-day-classic-etosha-national-park | 9703 | done 2026-11-13 | 7 day etosha national park safari | namibia-9703-7-day-etosha-national-park-safari.json |
+| 48 | Namibia | 5-day-sossusvlei-and-etosha-tour | 9704 | done 2026-11-13 | 5 day sossusvlei and etosha tour | namibia-9704-5-day-sossusvlei-and-etosha-tour.json |
 | 49 | Namibia | namib-desert-and-sossusvlei-experience |  | todo |  |  |
 | 50 | Namibia | 4-day-namibian-desert-dash-tour |  | todo |  |  |
 | 51 | Namibia | 4-days-magical-namibia-safari |  | todo |  |  |
