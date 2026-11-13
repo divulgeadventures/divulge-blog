@@ -107,3 +107,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-12 | Namibia NA-315 | Safari Themes | namibia photography tour | namibia-photography-tour
 2026-11-13 | Kenya KE-392 | Safari Planning Tips | kenya safari dmc | kenya-safari-dmc
 2026-11-13 | Rwanda RW-308 | Team Building | kigali conference | kigali-conference-gorilla-trekking
+2026-11-13 | Tanzania TZ-325 | Team Building | tanzania incentive trip | tanzania-incentive-trip
