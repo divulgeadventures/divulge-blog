@@ -4,6 +4,10 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-14 15:49 | Nothing to do
+- Today's 9 group-sprint posts are already written and scheduled; refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none
+
 ## 2026-11-14 14:49 | New post 9
 - **How to Fit a Safari Into Your Tanzania Mission Trip Without Losing the Point of Going**: https://divulgeadventures.com/tanzania-mission-trip/
 - Tanzania, Safari Themes; group sprint row TZ-327 (focus keyword refined from "tanzania mission trip and safari" to "tanzania mission trip" so it reads naturally). Scheduled to publish 14 Nov 2026 at 18:00 Nairobi time. Today's 9 sprint posts are now done.
@@ -938,8 +942,3 @@ Could not open: https://weatherspark.com/countries/m/BW/1 (no usable Maun figure
 - Could not open: none (live site not needed; snapshot was fresh).
 - Next: 5 Day Black Leopard Rhino Photo Safari (5-day-black-leopard-rhino-photo-safari), 5 Day Best of Kenya Birding Safari (5-day-best-of-kenya-birding-safari)
 
-## 2026-10-20 07:20 | New post 1
-Masai Mara vs Amboseli: 7 Honest Differences to Help You Choose — https://divulgeadventures.com/masai-mara-vs-amboseli/
-Kenya, Destination Tips (bank row KE-114, BOOST comparison). Scheduled for 20 October 2026 at 10:00 Nairobi time. Compares wildlife, seasons, park fees (checked October 2026), travel time, crowds and who each park suits; links the Kenya safaris page, the 6-day Amboseli and Masai Mara trip, both photography safaris, fly-in safaris and 7 Divulge Diaries posts.
-Images: 5 in the body plus the featured image, all from the owner's Media Library; none from Unsplash. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-Could not open: https://www.kws.go.ke/amboseli-national-park and https://en.wikipedia.org/wiki/Maasai_Mara (permission requests timed out, not retried; fees confirmed from Tourism Update and Nation instead).
