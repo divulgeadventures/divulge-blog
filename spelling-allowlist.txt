@@ -89,3 +89,6 @@ kayabwe
 hoasi
 gamsberg
 makerere
+brandberg
+interdune
+geosite

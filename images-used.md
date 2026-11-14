@@ -617,3 +617,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-14 | https://images.unsplash.com/photo-1742328114651-f4dbd710cd5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8Y2hpbXBhbnplZSUyMFVnYW5kYXxlbnwwfDB8fHwxNzk0NjM5MDU0fDI&ixlib=rb-4.1.0&q=80&w=1080 | uganda-primate-field-course
 2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/04/sasa.jpg | uganda-primate-field-course
 2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/east-africa-tourist-visa.jpg | uganda-primate-field-course
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/06/the-deadvlei-clay-pan-surrounded-by-tall-red-dunes-in-namib-naukluft-national-pa.jpg | namibia-geology-field-trip
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/06/aerial-view-of-the-namib-sand-sea-dunes-at-sunrise-on-the-road-to-deadvlei.jpg | namibia-geology-field-trip
+2026-11-14 | https://images.unsplash.com/photo-1711092047480-4382d9626abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8U3BpdHprb3BwZXxlbnwwfDB8fHwxNzk0NjQyNjM0fDI&ixlib=rb-4.1.0&q=80&w=1080 | namibia-geology-field-trip
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/06/deadvlei-seen-from-above-a-white-clay-pan-among-the-sossusvlei-dunes.jpg | namibia-geology-field-trip
+2026-11-14 | https://images.unsplash.com/photo-1691961017425-1f10b99109c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8RmlzaCUyMFJpdmVyJTIwQ2FueW9ufGVufDB8MHx8fDE3OTQ2NDI2MzV8Mg&ixlib=rb-4.1.0&q=80&w=1080 | namibia-geology-field-trip
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/06/swakopmund-seafront-and-atlantic-waves-in-the-evening-light.jpg | namibia-geology-field-trip

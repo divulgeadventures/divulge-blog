@@ -3,6 +3,12 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-14 10:56 | New post 5
+- **Planning a Namibia Geology Field Trip Around Granite, Dunes and Ancient Rock Engravings**: https://divulgeadventures.com/namibia-geology-field-trip/
+- Namibia, Safari Themes; group sprint row NA-317. Scheduled to publish 14 Nov 2026 at 14:00 Nairobi time.
+- Images: 4 from the owner's Media Library (featured Deadvlei clay pan, plus Namib Sand Sea aerial, Deadvlei from above and Swakopmund seafront in the body), 2 from Unsplash (Spitzkoppe, Fish River Canyon); no credits. Namibia park fees (reported January 2026, effective 1 April 2026) and visa rules checked November 2026; visa fee not stated because sources disagree.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left)
+- Could not open: https://mme.gov.na/files/publications/c2a_A4_Fish River Canyon_en.pdf (blocked by the site's robots rules; used the Namibia Tourism Board page instead)
 ## 2026-11-14 09:55 | New post 4
 - **Where Should a Primate Field Course in Uganda Be Based? Kibale, Budongo and Bwindi Compared**: https://divulgeadventures.com/uganda-primate-field-course/
 - Uganda, Safari Themes; group sprint row UG-315 (focus keyword refined to "primate field course"). Scheduled to publish 14 Nov 2026 at 13:00 Nairobi time.
