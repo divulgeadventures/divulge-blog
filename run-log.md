@@ -4,6 +4,10 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-14 18:49 | Nothing to do
+- Today's 9 group-sprint posts are already written and scheduled; refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none
+
 ## 2026-11-14 18:33 Trip Optimiser
 - Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
 
@@ -926,14 +930,4 @@ Is Namibia Worth Visiting in December? Heat, First Rains and Quiet Waterholes â€
 Namibia, Destination Tips (bank row NA-051, seasonal). Scheduled for 21 October 2026 at 10:00 Nairobi time. Covers December weather by region, Etosha early vs late December, Sossusvlei gate times and shuttle, the festive coast, new park fees (N$280/day) and visa (N$1,600), malaria (CDC) and a 10-day December route. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
 Images: 2 from the owner's Media Library (Sandwich Harbour, Walvis Bay pink lake; alts based on their file names, as the titles only say "Magical Namibia Safari") and 4 from Unsplash in the body, plus an Unsplash featured image.
 Could not open: https://www.weather2travel.com/namibia/sossusvlei/december/ (permission request timed out; used the site's Sossuvlei page instead).
-
-## 2026-10-20 18:49 | Nothing to do
-Today's work is complete: 3 new posts already exist for 20 October 2026, and the refresh is paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). No post changes.
-Could not open: none
-
-## 2026-10-20 15:06 | New post 3
-Best Time to Climb Kilimanjaro: Month-by-Month Weather Guide â€” https://divulgeadventures.com/best-time-to-climb-kilimanjaro/
-Tanzania, Destination Tips (bank row TZ-004, core topic). Scheduled for 20 October 2026 at 18:00 Nairobi time. Covers both dry and rainy seasons, a 12-month weather table, crowds, 2027 full-moon dates, climate zones, wet-season route choice (Rongai), acclimatisation (CDC) and pairing the climb with the migration, calving season, Zanzibar or Amboseli; conservation fee US$82.60 (checked October 2026). No Kilimanjaro trip pages exist in the site copy, so it links the Mountain Climbing page, the 5 Days 4 Nights Northern Tanzania Safari, the Mt Kenya traverse and 10 Divulge Diaries posts. About 2,600 words.
-Images: 1 from the owner's Media Library and 4 from Unsplash in the body, plus an Unsplash featured image. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Today's work (3 new posts) is complete.
-Could not open: https://divulgeadventures.com/mountain-climbing-safari-packages/ and https://en.wikipedia.org/wiki/Moshi (permission requests timed out, not retried).
 
