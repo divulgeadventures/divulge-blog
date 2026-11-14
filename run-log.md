@@ -937,11 +937,3 @@ Kenya, Safari Planning Tips (REFRESH_QUEUE TEXT FIX row). The raw formula code i
 Images: 5 from the owner's Media Library and 1 from Unsplash in the body (featured image kept).
 One fix row remains: luxury-safari-lodges (LINK FIX) is tomorrow's refresh; after that the daily refresh pauses.
 Could not open: https://divulgeadventures.com/kenya-safari-packing-list/ (permission request timed out, not retried). Safarilink's allowance was not stated because only a third-party copy of its terms was found.
-
-## 2026-10-18 14:58 | New post 3
-Tanzania Safari in December: Weather, Migration, Costs and Where to Go — https://divulgeadventures.com/tanzania-safari-in-december/
-Tanzania (bank row TZ-059, seasonal: December), Destination Tips. Scheduled to publish 2026-10-18 18:00 Nairobi time. Written country-wide (weather by region, northern and southern parks, Zanzibar, Kilimanjaro, festive dates, new US$44 inbound insurance) so it does not compete with the Serengeti in December post, which it links. Park fees from the Tanzania park fees post cross-checked with a July 2026 fee summary; cost tiers are labelled estimates, not Divulge prices. About 2,400 words.
-Images: 6 from the owner's Media Library in the body (Serengeti, Ngorongoro Crater clouds, Tarangire, Ruaha, Zanzibar beach, Kilimanjaro) plus an owner featured image (Ngorongoro & Serengeti safari); 0 from Unsplash.
-Skipped topics: none. Today's refresh (kenya-safari-packing-list, TEXT FIX) is still to do (after 18:00 run).
-Could not open: https://www.tanzaniaparks.go.tz/ (permission request timed out; fees taken from the existing fees post and a recent fee summary, readers told to confirm on TANAPA).
-
