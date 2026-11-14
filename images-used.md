@@ -635,3 +635,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-14 | https://images.unsplash.com/photo-1535940587896-3a4e0ce292f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8c2FmYXJpJTIwdmVoaWNsZSUyMEtlbnlhfGVufDB8MHx8fDE3OTQ2NTAyMDl8Mg&ixlib=rb-4.1.0&q=80&w=1080 | church-group-trip-to-kenya
 2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/flamingos-wading-in-a-rift-valley-lake.jpg | church-group-trip-to-kenya
 2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/11/divulge-adventures-masai-mara-national-reserve-narok-county-kenya-africa-39_2_11zon.jpg | church-group-trip-to-kenya
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/shoebill-resting-in-the-grass.jpg | birding-in-uganda-for-groups
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/05/grey-crowned-cranes-700x450-1.jpg | birding-in-uganda-for-groups
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/green-and-blue-turaco-perched-in-a-tree.jpg | birding-in-uganda-for-groups
+2026-11-14 | https://images.unsplash.com/photo-1672172672923-6910a8c55539?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8QndpbmRpJTIwZm9yZXN0fGVufDB8MHx8fDE3OTQ2NTM0ODV8Mg&ixlib=rb-4.1.0&q=80&w=1080 | birding-in-uganda-for-groups
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/sunbird-feeding-on-nectar-from-blossoms.jpg | birding-in-uganda-for-groups
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/05/rural-landscape-in-uganda-seen-on-the-road-north.jpg | birding-in-uganda-for-groups

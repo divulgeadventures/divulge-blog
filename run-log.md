@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-14 14:15 | New post 8
+- **Birding in Uganda With Your Club, From the Shoebill Canoe to Bwindi's Rift Endemics**: https://divulgeadventures.com/birding-in-uganda-for-groups/
+- Uganda, Safari Themes; group sprint row UG-316 (focus keyword refined to "birding in uganda" because the row's five-word phrase could not reach the keyword density naturally). Scheduled to publish 14 Nov 2026 at 17:00 Nairobi time.
+- Images: 5 from the owner's Media Library (featured shoebill, plus grey crowned cranes in Uganda, turaco, sunbird and the road north in the body), 1 from Unsplash (lodge on a hill in Bwindi); no credits. UWA tariff for January 2027 to June 2028, Uganda eVisa fee, Bwindi bird figures and Mabamba Ramsar details checked November 2026.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left)
+- Could not open: https://datazone.birdlife.org/site/factsheet/bwindi-impenetrable-national-park-iba-uganda (page data did not load; used the Uganda Wildlife Authority Bwindi page instead)
+
 ## 2026-11-14 10:33 Trip Optimiser
 - Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
 
@@ -923,11 +930,3 @@ Kenya, Accommodation Guide (REFRESH_QUEUE LINK FIX row). The Four Seasons link w
 Images: 4 from the owner's Media Library and 1 from Unsplash in the body (featured image kept).
 All broken-link fixes are done; the daily refresh is now paused.
 Could not open: https://divulgeadventures.com/luxury-safari-lodges/ (permission request timed out, not retried); official pages for Great Plains (greatplainsconservation.com/mara-plains-camp/), Elewana Tortilis Camp, Segera and The Safari Collection Giraffe Manor (permission requests timed out; Tortilis, Segera and Giraffe Manor left out of the post).
-
-## 2026-10-19 11:20 | New post 2
-Chimpanzee Trekking in Kibale: Permits, Costs and Best Time — https://divulgeadventures.com/chimpanzee-trekking-in-kibale/
-Uganda (bank row UG-002, core topic), Destination Tips. Scheduled to publish 2026-10-19 14:00 Nairobi time. Trek times, group size (6), minimum age (16), 2-5 hour duration, >90% success, distances and rainfall from Uganda Wildlife Authority's Kibale page and park guide. Permit prices (US$250 tracking / US$300 habituation now; US$300 / US$400 announced from January 2027; US$200 low season Apr/May/Nov) from recent 2026 Uganda reports, as UWA's current tariff PDF was not found; labelled "checked October 2026" with readers told to confirm. Links the 6-day Kibale + Murchison and 7-day primate trips and the Mahale chimp post (differentiated). About 2,400 words.
-Images: 3 from the owner's Media Library in the body (Rwenzori foothills, colobus monkey, Queen Elizabeth game drive) and 3 from Unsplash in the body (Kibale chimps), plus an Unsplash Kibale chimp featured image. Skipped the owner photo "Chimpanzee at Kibale ... Photo by Giles Laurent" (330px and credited to another photographer).
-Skipped topics: none. Today's refresh (luxury-safari-lodges, LINK FIX) is still to do.
-Could not open: UWA's 2024-2026 tariff PDF was not located (only the 2022-2024 and 2020-2022 PDFs appear in search); no fetch errors.
-
