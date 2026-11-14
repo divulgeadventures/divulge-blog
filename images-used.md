@@ -641,3 +641,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-14 | https://images.unsplash.com/photo-1672172672923-6910a8c55539?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8QndpbmRpJTIwZm9yZXN0fGVufDB8MHx8fDE3OTQ2NTM0ODV8Mg&ixlib=rb-4.1.0&q=80&w=1080 | birding-in-uganda-for-groups
 2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/sunbird-feeding-on-nectar-from-blossoms.jpg | birding-in-uganda-for-groups
 2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/05/rural-landscape-in-uganda-seen-on-the-road-north.jpg | birding-in-uganda-for-groups
+2026-11-14 | https://images.unsplash.com/photo-1624805539790-5baa0b8c66a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8QXJ1c2hhJTIwVGFuemFuaWF8ZW58MHwwfHx8MTc5NDY1NzA4Nnwy&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-mission-trip
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/09/Tanzania-Serengeti-safari-best-national-parks-in-Tanzania.jpg | tanzania-mission-trip
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/tanzania-northern-circuit-itinerary.jpg | tanzania-mission-trip
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/05/old-building-with-a-palm-tree-in-stone-town-zanzibar.jpg | tanzania-mission-trip
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/07/images-2.jpg | tanzania-mission-trip

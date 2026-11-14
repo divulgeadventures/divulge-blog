@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-14 14:49 | New post 9
+- **How to Fit a Safari Into Your Tanzania Mission Trip Without Losing the Point of Going**: https://divulgeadventures.com/tanzania-mission-trip/
+- Tanzania, Safari Themes; group sprint row TZ-327 (focus keyword refined from "tanzania mission trip and safari" to "tanzania mission trip" so it reads naturally). Scheduled to publish 14 Nov 2026 at 18:00 Nairobi time. Today's 9 sprint posts are now done.
+- Images: 4 from the owner's Media Library in the body (Serengeti plains, Ngorongoro Crater walls, Stone Town building, Tarangire elephants), 1 from Unsplash as the featured image (Mount Meru at sunset, Arusha); no credits. Class C permit rule (Tanzanian Embassy), Bagamoyo mission 1868 (Tanzania Tourist Board) and Christ Church Cathedral 1873-1880 (Anglican Diocese of Zanzibar) checked November 2026; permit fees left out because the only official schedule found is from 2011.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: https://immigration.go.tz/index.php/residence-permit-class-c?showall=1 (page needs JavaScript; used the Tanzanian Embassy permits page instead)
+
 ## 2026-11-14 13:54 | New post 8
 - **Birding in Uganda With Your Club, From the Shoebill Canoe to Bwindi's Rift Endemics**: https://divulgeadventures.com/birding-in-uganda-for-groups/
 - Uganda, Safari Themes; group sprint row UG-316 (focus keyword refined to "birding in uganda" because the row's five-word phrase could not reach the keyword density naturally). Scheduled to publish 14 Nov 2026 at 17:00 Nairobi time.
@@ -20,30 +27,35 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 3 from the owner's Media Library (two Masai Mara photos and Rift Valley flamingos in the body), 3 from Unsplash (featured Nairobi skyline from Nairobi National Park, plus Nairobi city skyline and a Mara safari vehicle in the body); no credits. KWS and Mara fees, eTA processing time, volunteering authorisation rule and Kenya's children's-home phase-out checked November 2026.
 - Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left)
 - Could not open: https://www.kws.go.ke/sites/default/files/2025-09/KWS%20Conservation%20Fee%20October%20%202025.pdf (permission request timed out; fees confirmed from The Star's report of the KWS schedule)
+
 ## 2026-11-14 12:10 | New post 6
 - **A Botswana Incentive Trip Works Best With Small Camps, Shared Flights and an Early Plan**: https://divulgeadventures.com/botswana-incentive-trip/
 - Botswana, Team Building; group sprint row BW-314. Scheduled to publish 14 Nov 2026 at 15:00 Nairobi time.
 - Images: 2 from the owner's Media Library (featured Moremi/Khwai/Savuti photo, Boteti Tented Safari Lodge in the body), 4 from Unsplash (Chobe elephants, Okavango aerial, Victoria Falls, Chobe River sunset); no credits. Visa processing time, light-aircraft luggage rule and yellow fever/malaria advice checked November 2026; no park fee figures stated because the 2026 increase was postponed and official figures could not be confirmed.
 - Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left)
 - Could not open: https://www.tourismupdate.com/article/botswana-increases-park-and-licence-fees and https://www.tourismupdate.com/article/botswana-cancels-tourism-development-levy (pages returned only site navigation)
+
 ## 2026-11-14 10:56 | New post 5
 - **Planning a Namibia Geology Field Trip Around Granite, Dunes and Ancient Rock Engravings**: https://divulgeadventures.com/namibia-geology-field-trip/
 - Namibia, Safari Themes; group sprint row NA-317. Scheduled to publish 14 Nov 2026 at 14:00 Nairobi time.
 - Images: 4 from the owner's Media Library (featured Deadvlei clay pan, plus Namib Sand Sea aerial, Deadvlei from above and Swakopmund seafront in the body), 2 from Unsplash (Spitzkoppe, Fish River Canyon); no credits. Namibia park fees (reported January 2026, effective 1 April 2026) and visa rules checked November 2026; visa fee not stated because sources disagree.
 - Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left)
 - Could not open: https://mme.gov.na/files/publications/c2a_A4_Fish River Canyon_en.pdf (blocked by the site's robots rules; used the Namibia Tourism Board page instead)
+
 ## 2026-11-14 09:55 | New post 4
 - **Where Should a Primate Field Course in Uganda Be Based? Kibale, Budongo and Bwindi Compared**: https://divulgeadventures.com/uganda-primate-field-course/
 - Uganda, Safari Themes; group sprint row UG-315 (focus keyword refined to "primate field course"). Scheduled to publish 14 Nov 2026 at 13:00 Nairobi time.
 - Images: 5 from the owner's Media Library (featured + 4 in the body), 2 from Unsplash; no credits. UWA fees and the student field-course discount checked November 2026.
 - Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left)
 - Could not open: none
+
 ## 2026-11-14 09:30 | New post 3
 - "Gorillas, a Lake and a Gala Night: How a Rwanda Corporate Incentive Trip Fits Into Five Days": https://divulgeadventures.com/rwanda-corporate-incentive-trip/
 - Rwanda (group row RW-309), Team Building; scheduled for 14 Nov 2026 at 12:00 Nairobi time
 - Images: 5 from the owner's Media Library (featured + 4 in the body), 0 from Unsplash; no credits
 - Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left)
 - Could not open: none
+
 ## 2026-11-14 08:36 Trip Optimiser
 - Done: 6- Day Namibian Culture and Scenery Tour (9658, "6 day damaraland and kaokoland culture tour", namibia-9658-6-day-damaraland-and-kaokoland-culture-tour.json), 5-Day Namibian Southern Skeleton Coast Tour (9670, "5 day southern skeleton coast tour", namibia-9670-5-day-southern-skeleton-coast-tour.json)
 - Photos: 9658: 3 owner + 3 Unsplash; 9670: 5 owner + 2 Unsplash (no credits added; guide, model file and validator already enforce the no-credits rule, so no change needed there)
@@ -138,24 +150,28 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 1 from the owner's Media Library (in the body) and 5 from Unsplash (featured Deadvlei at night + 4 in the body; 5 body images in total). No credits. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
 - Facts from namibrand.org (Gold tier Dark Sky Reserve, May 2012), the H.E.S.S. site page (about 100 km SW of Windhoek, 1,800 m) and the IAS Hakos observatory page (1,852 m). Only Wolwedans (NamibRand) and Hakos Astrofarm are named; no lodge rates or park fees stated. Added "gamsberg" to spelling-allowlist.txt.
 - Could not open: travelnam.com Tivoli Southern Sky Guest Farm article (permission request timed out), so Tivoli is not mentioned
+
 ## 2026-11-13 11:25 | New post 5
 - "Is a Botswana Family Safari Right for Your Children? Ages, Areas and Camps Explained": https://divulgeadventures.com/botswana-family-safari/
 - Botswana, Safari Themes (group row BW-312). Scheduled for 13 Nov 14:00 Nairobi time.
 - Images: 4 from the owner's Media Library (featured + 3 in the body) and 2 from Unsplash in the body (5 body images in total). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
 - Park fee stated as P380 per non-resident adult per day with the proposed rise to P500 noted (Botswana Daily News); no lodge rates or child park fees stated because none could be confirmed on official sources. Only Camp Kalahari is named (checked on its official site). Added "hoasi" (Zu/'hoasi) to spelling-allowlist.txt.
 - Could not open: none
+
 ## 2026-11-13 10:15 | New post 4
 - "A Teacher's Guide to a Uganda Educational Tour: Equator, Nile, Chimpanzees and Safety": https://divulgeadventures.com/uganda-educational-tour/
 - Uganda, Safari Themes (group row UG-314). Scheduled for 13 Nov 13:00 Nairobi time.
 - Images: 5 from the owner's Media Library (featured + 4 in the body) and 1 from Unsplash in the body (5 body images in total). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
 - Fees taken from the UWA tariff PDF on ugandawildlife.org (titled July 2024-June 2026 but uploaded October 2026); the post tells readers to confirm. UWA's reported low-season permit discounts were left out because no official page confirmed them. Yellow fever: Uganda no longer requires a certificate for entry (ATTA report of the Ministry of Internal Affairs statement, October 2026).
 - Could not open: chimpanzeetrust.org (Ngamba Island page; permission request timed out); theeastafrican.co.ke yellow fever article (site error)
+
 ## 2026-11-13 09:20 | New post 3
 - "Planning a Tanzania Incentive Trip? Build the Reward Around Three Serengeti Nights": https://divulgeadventures.com/tanzania-incentive-trip/
 - Tanzania, Team Building (group row TZ-325; focus keyword shortened to "tanzania incentive trip"). Scheduled for 13 Nov 12:00 Nairobi time.
 - Images: 2 from the owner's Media Library (featured + 1 Zanzibar beach in the body) and 3 from Unsplash in the body (4 body images in total). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
 - New fact used: Tanzania's mandatory government inbound travel insurance (US$44 per adult, from 1 Oct 2026), from an ATTA update; the post tells readers to confirm it.
 - Could not open: immigration.go.tz visa tips page (loads only with JavaScript, so no visa fee is stated)
+
 ## 2026-11-13 05:35 Trip Optimiser
 - Done: 7- Day Classic Etosha National Park (9703, "7 day etosha national park safari", namibia-9703-7-day-etosha-national-park-safari.json), 5- Day Sossusvlei and Etosha Tour (9704, "5 day sossusvlei and etosha tour", namibia-9704-5-day-sossusvlei-and-etosha-tour.json)
 - Photos: 9703 = 2 owner + 3 Unsplash (all three described by their photographers as Etosha); 9704 = 4 owner + 2 Unsplash (Namib dunes). No credits anywhere; TRIP_GUIDE.md, validate_trip.py and the model file already follow the no-credits rule, so nothing needed removing.
@@ -177,6 +193,7 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 3 from the owner's Media Library (featured + 2 in the body) and 3 from Unsplash in the body (5 body images in total).
 - Not stated: RDB's "conference discount" for gorilla permits, because its terms could not be checked (the post tells organisers to ask about it).
 - Could not open: visitrwandabookings.rdb.rw conference discount page (permission request timed out).
+
 ## 2026-11-13 06:55 | New post 1
 - "Which Kenya Safari DMC Can You Trust With Your Clients? A Vetting Checklist for Tour Operators": https://divulgeadventures.com/kenya-safari-dmc/
 - Kenya, Safari Planning Tips (owner idea "kenya safari dmc", AGENT POST; added to the bank as KE-392). Scheduled for 13 Nov 10:00 Nairobi time.
@@ -214,18 +231,21 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 2 from the owner's Media Library (body), 4 from Unsplash (3 body, 1 featured). Park fee N$280 per international adult per day stated (checked November 2026); Deadvlei shuttle price not stated (only a 2022 source found).
 - Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Today's 9 sprint posts are complete.
 - Could not open: none (owner Media Library images could not be downloaded for a visual check, so alt text follows their titles).
+
 ## 2026-11-12 17:00 | New post 8
 - "How to Plan an Okavango Field Course for University Conservation Students" https://divulgeadventures.com/okavango-field-course/
 - Botswana, Safari Themes (group sprint row BW-311; focus keyword refined to "okavango field course"). Scheduled for 18:00 Nairobi time today (17:00 slot had passed).
 - Images: 3 from the owner's Media Library (body), 2 from Unsplash (1 body, 1 featured). No per-day Moremi fee stated: sources disagree (P270 on an unofficial fee site vs P380 in government news), so the post cites the official P380-to-P500 proposal on hold and tells readers to confirm.
 - Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
 - Could not open: gov.uk Botswana entry requirements and UNESCO Okavango page (permission requests timed out); tourismupdate.com levy article (no article text).
+
 ## 2026-11-12 15:58 | New post 7
 - "Leading a University Study Tour in Kenya? Build It Around Field Stations, Not Game Drives" https://divulgeadventures.com/university-study-tour-kenya/
 - Kenya, Safari Themes (group sprint row KE-375; focus keyword refined to "university study tour in kenya"). Scheduled for 16:00 Nairobi time today.
 - Images: 5 from the owner's Media Library (all in the body), 1 from Unsplash (featured). NACOSTI licence fee not stated (new schedule from 1 Oct 2026 only confirmed in press, readers told to check the portal).
 - Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
 - Could not open: nation.africa article on NACOSTI fees (blocked to automated fetch).
+
 ## 2026-11-12 14:55 | New post 6
 - "A Botswana Photography Safari Gives Your Camera Club Space, Water and Light Few Places Can Match" https://divulgeadventures.com/botswana-photography-safari-groups/
 - Botswana, Safari Themes (group sprint row BW-310; focus keyword refined to "botswana photography safari"). Scheduled for 15:00 Nairobi time today.
@@ -923,10 +943,3 @@ Masai Mara vs Amboseli: 7 Honest Differences to Help You Choose — https://divu
 Kenya, Destination Tips (bank row KE-114, BOOST comparison). Scheduled for 20 October 2026 at 10:00 Nairobi time. Compares wildlife, seasons, park fees (checked October 2026), travel time, crowds and who each park suits; links the Kenya safaris page, the 6-day Amboseli and Masai Mara trip, both photography safaris, fly-in safaris and 7 Divulge Diaries posts.
 Images: 5 in the body plus the featured image, all from the owner's Media Library; none from Unsplash. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
 Could not open: https://www.kws.go.ke/amboseli-national-park and https://en.wikipedia.org/wiki/Maasai_Mara (permission requests timed out, not retried; fees confirmed from Tourism Update and Nation instead).
-
-## 2026-10-19 19:03 | Refresh
-Luxury Safari Lodges in Kenya: 6 Exceptional Camps and How to Choose — https://divulgeadventures.com/luxury-safari-lodges/
-Kenya, Accommodation Guide (REFRESH_QUEUE LINK FIX row). The Four Seasons link with "utm_source=google" is gone (the rewrite covers Kenya camps described from their official sites only, with no tracking parameters on any link) and the "luxury safari"/"lodges" run-together text no longer exists. The live post could not be read, so it was rewritten from fresh research: Angama Mara, Mara Plains Camp, Mahali Mzuri, Cottar's 1920s Camp, Loisaba Tented Camp and Lewa Safari Camp, each described only from its official website (tent counts checked October 2026, no room rates quoted). Links the Kenya safaris page, fly-in safaris, the 7-day luxury Mara river crossing trip and 10 Divulge Diaries posts. About 2,270 words.
-Images: 4 from the owner's Media Library and 1 from Unsplash in the body (featured image kept).
-All broken-link fixes are done; the daily refresh is now paused.
-Could not open: https://divulgeadventures.com/luxury-safari-lodges/ (permission request timed out, not retried); official pages for Great Plains (greatplainsconservation.com/mara-plains-camp/), Elewana Tortilis Camp, Segera and The Safari Collection Giraffe Manor (permission requests timed out; Tortilis, Segera and Giraffe Manor left out of the post).

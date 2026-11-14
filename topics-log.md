@@ -122,3 +122,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-14 | Botswana BW-314 | Team Building | botswana incentive trip | botswana-incentive-trip
 2026-11-14 | Kenya KE-378 | Safari Themes | church group trip | church-group-trip-to-kenya
 2026-11-14 | Uganda UG-316 | Safari Themes | birding in uganda | birding-in-uganda-for-groups
+2026-11-14 | Tanzania TZ-327 | Safari Themes | tanzania mission trip | tanzania-mission-trip
