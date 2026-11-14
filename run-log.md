@@ -3,6 +3,12 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-14 12:10 | New post 6
+- **A Botswana Incentive Trip Works Best With Small Camps, Shared Flights and an Early Plan**: https://divulgeadventures.com/botswana-incentive-trip/
+- Botswana, Team Building; group sprint row BW-314. Scheduled to publish 14 Nov 2026 at 15:00 Nairobi time.
+- Images: 2 from the owner's Media Library (featured Moremi/Khwai/Savuti photo, Boteti Tented Safari Lodge in the body), 4 from Unsplash (Chobe elephants, Okavango aerial, Victoria Falls, Chobe River sunset); no credits. Visa processing time, light-aircraft luggage rule and yellow fever/malaria advice checked November 2026; no park fee figures stated because the 2026 increase was postponed and official figures could not be confirmed.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left)
+- Could not open: https://www.tourismupdate.com/article/botswana-increases-park-and-licence-fees and https://www.tourismupdate.com/article/botswana-cancels-tourism-development-levy (pages returned only site navigation)
 ## 2026-11-14 10:56 | New post 5
 - **Planning a Namibia Geology Field Trip Around Granite, Dunes and Ancient Rock Engravings**: https://divulgeadventures.com/namibia-geology-field-trip/
 - Namibia, Safari Themes; group sprint row NA-317. Scheduled to publish 14 Nov 2026 at 14:00 Nairobi time.
@@ -931,9 +937,3 @@ Images: 5 from the owner's Media Library (featured Serengeti photo plus Zanzibar
 Skipped topics: none. Today's refresh (luxury-safari-lodges, LINK FIX) is still to do.
 Could not open: https://www.tanzaniaparks.go.tz/ was not opened (it timed out on earlier runs); fees taken from the existing fees post, readers told to confirm on TANAPA.
 
-## 2026-10-18 19:10 | Refresh
-Kenya Safari Packing List: What to Bring, Wear and Leave at Home — https://divulgeadventures.com/kenya-safari-packing-list/
-Kenya, Safari Planning Tips (REFRESH_QUEUE TEXT FIX row). The raw formula code is gone ("300mm" and "15 kg" are now plain text). The live post could not be read, so it was rewritten from fresh research: Airkenya baggage policy (15 kg incl. hand luggage, soft bags, 60 x 45 x 33 cm, US$5/kg excess; checked October 2026), CDC tsetse clothing advice and UNEP on Kenya's 2017 plastic bag ban and June 2020 single-use plastics ban in parks (both external links). Includes a 16-item checklist table and a season/region table; links the Tanzania packing checklist, vaccinations, eTA, tipping and best-time-to-visit-Masai-Mara posts, Kenya safaris, fly-in, photography and two Mara trips. About 2,600 words.
-Images: 5 from the owner's Media Library and 1 from Unsplash in the body (featured image kept).
-One fix row remains: luxury-safari-lodges (LINK FIX) is tomorrow's refresh; after that the daily refresh pauses.
-Could not open: https://divulgeadventures.com/kenya-safari-packing-list/ (permission request timed out, not retried). Safarilink's allowance was not stated because only a third-party copy of its terms was found.

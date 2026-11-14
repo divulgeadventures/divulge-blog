@@ -623,3 +623,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/06/deadvlei-seen-from-above-a-white-clay-pan-among-the-sossusvlei-dunes.jpg | namibia-geology-field-trip
 2026-11-14 | https://images.unsplash.com/photo-1691961017425-1f10b99109c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8RmlzaCUyMFJpdmVyJTIwQ2FueW9ufGVufDB8MHx8fDE3OTQ2NDI2MzV8Mg&ixlib=rb-4.1.0&q=80&w=1080 | namibia-geology-field-trip
 2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/06/swakopmund-seafront-and-atlantic-waves-in-the-evening-light.jpg | namibia-geology-field-trip
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-Khwai-and-Savuti-2.jpg | botswana-incentive-trip
+2026-11-14 | https://images.unsplash.com/photo-1708886196391-0ed2efac7fcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8Q2hvYmUlMjByaXZlcnxlbnwwfDB8fHwxNzk0NjQ2MjgwfDI&ixlib=rb-4.1.0&q=80&w=1080 | botswana-incentive-trip
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/06/Boteti-Tented-Safari-Lodge.jpg | botswana-incentive-trip
+2026-11-14 | https://images.unsplash.com/photo-1722645148077-a7f99c8bcef2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8T2thdmFuZ28lMjBkZWx0YSUyMGFlcmlhbHxlbnwwfDB8fHwxNzk0NjQ2MjgxfDI&ixlib=rb-4.1.0&q=80&w=1080 | botswana-incentive-trip
+2026-11-14 | https://images.unsplash.com/photo-1627347456206-d3df7d8484b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8VmljdG9yaWElMjBGYWxsc3xlbnwwfDB8fHwxNzk0NjQ2MjgwfDI&ixlib=rb-4.1.0&q=80&w=1080 | botswana-incentive-trip
+2026-11-14 | https://images.unsplash.com/photo-1634308985328-d3457e1f04af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8Q2hvYmUlMjByaXZlcnxlbnwwfDB8fHwxNzk0NjQ2MjgwfDI&ixlib=rb-4.1.0&q=80&w=1080 | botswana-incentive-trip

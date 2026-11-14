@@ -285,3 +285,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/rwanda-corporate-incentive-trip/ (rwanda corporate incentive trip)
 - https://divulgeadventures.com/uganda-primate-field-course/ (primate field course)
 - https://divulgeadventures.com/namibia-geology-field-trip/ (namibia geology field trip)
+- https://divulgeadventures.com/botswana-incentive-trip/ (botswana incentive trip)

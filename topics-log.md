@@ -119,3 +119,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-14 | Rwanda RW-309 | Team Building | rwanda corporate incentive trip | rwanda-corporate-incentive-trip
 2026-11-14 | Uganda UG-315 | Safari Themes | primate field course | uganda-primate-field-course
 2026-11-14 | Namibia NA-317 | Safari Themes | namibia geology field trip | namibia-geology-field-trip
+2026-11-14 | Botswana BW-314 | Team Building | botswana incentive trip | botswana-incentive-trip
