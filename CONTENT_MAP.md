@@ -82,6 +82,8 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 
 ## Rules
 
+- Categories for group posts: "Team Building" is only for team building days, venues and retreats built around activities (mostly in and around Nairobi). Incentive trips, conference add-ons and other group safaris go under "Safari Themes" (or "Safari Planning Tips" for logistics and organiser how-tos), even when the row says Team Building.
+
 - Older posts are rewritten in place from REFRESH_QUEUE.md (one a day). Never write a new post on a topic that a REFRESH_QUEUE.md row targets; those rows' focus keywords are taken.
 - Rwanda: the Rwanda destination page currently lists no Rwanda trips, so Rwanda posts send readers to the quote form (https://divulgeadventures.com/safari-proposal-request/) and WhatsApp in the Trip CTA instead of a trip page, until Rwanda trips appear on that page.
 
