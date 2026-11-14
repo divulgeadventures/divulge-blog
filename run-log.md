@@ -4,7 +4,7 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
-## 2026-11-14 14:15 | New post 8
+## 2026-11-14 13:54 | New post 8
 - **Birding in Uganda With Your Club, From the Shoebill Canoe to Bwindi's Rift Endemics**: https://divulgeadventures.com/birding-in-uganda-for-groups/
 - Uganda, Safari Themes; group sprint row UG-316 (focus keyword refined to "birding in uganda" because the row's five-word phrase could not reach the keyword density naturally). Scheduled to publish 14 Nov 2026 at 17:00 Nairobi time.
 - Images: 5 from the owner's Media Library (featured shoebill, plus grey crowned cranes in Uganda, turaco, sunbird and the road north in the body), 1 from Unsplash (lodge on a hill in Bwindi); no credits. UWA tariff for January 2027 to June 2028, Uganda eVisa fee, Bwindi bird figures and Mabamba Ramsar details checked November 2026.
