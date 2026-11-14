@@ -157,6 +157,8 @@ def check(path):
     kw = p["focus_keyword"].lower().strip()
     if p["category"] not in CATEGORIES:
         errs.append(f"bad category: {p['category']}")
+    if p["category"] == "Team Building" and re.search(r"incentive|conference|gorilla|safari|tanzania|uganda|rwanda|botswana|namibia|zanzibar|serengeti|masai mara", kw + " " + p["title"].lower()) and not re.search(r"team building|team retreat|team-building", kw + " " + p["title"].lower()):
+        errs.append('category "Team Building" (shown as Team Building Venues) is only for team building days, venues and activity retreats: use "Safari Themes" for incentive trips and group safaris')
     if not 3 <= len(p["tags"]) <= 6:
         errs.append("tags must be 3-6")
     # Pinterest boards read one RSS feed per plain country tag (/tag/kenya/feed/ etc.),
