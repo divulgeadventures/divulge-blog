@@ -3,6 +3,13 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-14 06:53 | New post 1
+- **Tanzania Ground Handler Contracts: What to Settle Before Your First Client Lands** — https://divulgeadventures.com/tanzania-ground-handler/
+- Tanzania, Safari Planning Tips; owner idea from TOPIC_IDEAS.md (agent post, added to the bank as TZ-334). Scheduled to publish 10:00.
+- Images: 3 from the owner's Media Library (wildebeest herds, Kilimanjaro Lemosho route, impala), 3 from Unsplash (featured wildebeest herd with safari vehicles, plus a safari vehicle among buffalo and the Ngorongoro Crater road in the body). No credits.
+- Not stated: exact TALA licence fees and Tanzania park fee figures (post links the Tanzania park fees post instead); new inbound insurance figures checked November 2026.
+- Could not open: https://www.tourismupdate.com/article/tanzania-reduces-tourism-licence-fee (no article text loaded).
+
 ## 2026-11-13 19:53 | Nothing to do
 - Today's work is complete: all 9 group sprint posts for 13 Nov are written and scheduled. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left as todo).
 - Could not open: none
@@ -934,9 +941,3 @@ Images: 2 from the owner's Media Library and 3 from Unsplash in the body (featur
 Skipped topics: none. Two eligible rows remain (kenya-safari-packing-list TEXT FIX, luxury-safari-lodges LINK FIX), so the refresh continues tomorrow.
 Could not open: https://divulgeadventures.com/mara-naboisho-conservancy/ (permission request timed out, not retried).
 
-## 2026-10-17 15:20 | New post 3
-Best Time to Visit Namibia: A Month-by-Month Safari Guide — https://divulgeadventures.com/best-time-to-visit-namibia/
-Namibia (bank row NA-001, core topic), Destination Tips. Scheduled to publish 2026-10-17 18:00 Nairobi time. About 2,550 words. Weather figures from Rough Guides (Etosha) and Responsible Travel (regional climate tables); Etosha park and pan size from Wikipedia; Fish River Canyon hike season (1 May-15 September, about 86 km) from Namibia Wildlife Resorts (a 2022 notice, so readers are told to confirm dates). No fees or lodge rates stated. Trip links: 5-day Sossusvlei and Etosha, 7-day Classic Etosha, 5-day Southern Skeleton Coast.
-Images: 2 from the owner's Media Library and 3 from Unsplash in the body, plus an Unsplash featured image (Namib dunes).
-Skipped topics: the owner idea "Tipping on safari in Kenya" was left again (today already has a Kenya post); it should be tomorrow's first post. Today's refresh (mara-naboisho-conservancy, LINK FIX) is still to do.
-Could not open: https://divulgeadventures.com/?s=best+time+to+visit+namibia (permission request timed out, not retried; overlap checked against site-data/posts.json instead).

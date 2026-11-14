@@ -593,3 +593,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-13 | https://images.unsplash.com/photo-1528277342758-f1d7613953a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8VGFyYW5naXJlJTIwZWxlcGhhbnRzfGVufDB8MHx8fDE3OTQ1NzA3MjN8Mg&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-family-safari
 2026-11-13 | https://images.unsplash.com/photo-1600637468460-1fa84e8eddea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8Tmdvcm9uZ29ybyUyMGNyYXRlcnxlbnwwfDB8fHwxNzk0NTcwNzI0fDI&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-family-safari
 2026-11-13 | https://divulgeadventures.com/wp-content/uploads/2026/05/silhouette-of-a-sailing-boat-at-sunset-off-zanzibar.jpg | tanzania-family-safari
+2026-11-14 | https://images.unsplash.com/photo-1580145575237-75fec2a0320b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8c2FmYXJpJTIwamVlcCUyMFNlcmVuZ2V0aXxlbnwwfDB8fHwxNzk0NjI4MjUwfDI&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-ground-handler
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/02/mara-wildebeest-migration-1.jpg | tanzania-ground-handler
+2026-11-14 | https://images.unsplash.com/photo-1516497084411-042e90c17be1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8c2FmYXJpJTIwamVlcCUyMFNlcmVuZ2V0aXxlbnwwfDB8fHwxNzk0NjI4MjUwfDI&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-ground-handler
+2026-11-14 | https://images.unsplash.com/photo-1600637468460-1fa84e8eddea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8Tmdvcm9uZ29ybyUyMGNyYXRlcnxlbnwwfDB8fHwxNzk0NjI4MjUxfDI&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-ground-handler
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/11/mt-kilimanjaro-Lemosho-Route-8-Day-Climb.jpeg | tanzania-ground-handler
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/tanzania-spectacular-impala-2-scaled.jpg | tanzania-ground-handler

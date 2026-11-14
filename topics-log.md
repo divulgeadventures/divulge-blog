@@ -114,3 +114,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-13 | Kenya KE-376 | Team Building | masai mara incentive trip | masai-mara-incentive-trip
 2026-11-13 | Botswana BW-313 | Safari Planning Tips | exclusive use safari | exclusive-use-safari-camp-botswana
 2026-11-13 | Tanzania TZ-326 | Safari Themes | tanzania family safari | tanzania-family-safari
+2026-11-14 | Tanzania TZ-334 | Safari Planning Tips | tanzania ground handler | tanzania-ground-handler
