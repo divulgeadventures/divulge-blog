@@ -4,6 +4,10 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-14 19:48 | Nothing to do
+- Today's 9 group-sprint posts are already written and scheduled; refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none
+
 ## 2026-11-14 18:49 | Nothing to do
 - Today's 9 group-sprint posts are already written and scheduled; refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
 - Could not open: none
@@ -924,10 +928,3 @@ Could not open: none
   - 7883 (5 Day Best of Kenya Birding Safari): the itinerary stops at Day 04, so there is no Day 5 (return to Nairobi) for a 5-day trip; please add it. Safari Highlights list "Nairobi National Park", which is not in the itinerary; remove it or add a visit. Day 1 (Lake Naivasha) has a sub-heading "Key Avian Targets in the Mara"; it should say Naivasha. Lodge spelling differs across days: "Prideinn Mara Camp" (Day 3) vs "PrideInn Mara Camp" (Day 4); pick one. The Mara is said to have "470 recorded bird species" on Day 3 and "450" on Day 4; pick one. "Maasai Mara" and "Masai Mara" are mixed. Includes list a "Masai Village" visit, but no day mentions it; add it to a day or drop it. Balloon safari is USD 450 here but USD 480 on 8080 and USD 500 on 2762; pick one price. Typos: "Complementary" (Complimentary), "Germany" (German), "Accomodation", "Fullboard Accommodation" (Full board meals), empty bullet at the end of both the includes and excludes lists. The old overview's "millions of flamingos" claim was dropped (Nakuru numbers vary). This trip overlaps with "5 Day Lakes and Masai Mara Birding Safari" (5-day-masai-mara-birding-safari, keyword "Masai Mara birding safari"); consider making the differences clear so they don't compete in Google. Old gallery alts were generic ("birding safaris", "divulge adventures Kenya birding safari") and have been replaced.
 - Could not open: none (live site not needed; snapshot was fresh). Owner photos could not be viewed (image download blocked from this environment), hence the alt check above.
 - Next: 2 Days Tsavo West National Park from Diani (2-days-tsavo-west-national-park-from-diani), 4-Day Serengeti Wildebeest Migration Safari (4-day-wildebeest-migration-safari; title says Serengeti, so confirm whether it is a Tanzania trip before writing)
-
-## 2026-10-21 06:58 | New post 1
-Is Namibia Worth Visiting in December? Heat, First Rains and Quiet Waterholes — https://divulgeadventures.com/namibia-in-december/
-Namibia, Destination Tips (bank row NA-051, seasonal). Scheduled for 21 October 2026 at 10:00 Nairobi time. Covers December weather by region, Etosha early vs late December, Sossusvlei gate times and shuttle, the festive coast, new park fees (N$280/day) and visa (N$1,600), malaria (CDC) and a 10-day December route. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-Images: 2 from the owner's Media Library (Sandwich Harbour, Walvis Bay pink lake; alts based on their file names, as the titles only say "Magical Namibia Safari") and 4 from Unsplash in the body, plus an Unsplash featured image.
-Could not open: https://www.weather2travel.com/namibia/sossusvlei/december/ (permission request timed out; used the site's Sossuvlei page instead).
-
