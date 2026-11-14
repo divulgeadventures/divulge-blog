@@ -59,5 +59,5 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 50 | Namibia | 4-day-namibian-desert-dash-tour | 9655 | done 2026-11-13 | 4 day sossusvlei and swakopmund tour | namibia-9655-4-day-sossusvlei-and-swakopmund-tour.json |
 | 51 | Namibia | 4-days-magical-namibia-safari | 7859 | done 2026-11-13 | 4 day sossusvlei and walvis bay safari | namibia-7859-4-day-sossusvlei-and-walvis-bay-safari.json |
 | 52 | Namibia | 5-days-namibia-adventure | 9672 | done 2026-11-13 | 5 day sossusvlei and swakopmund tour | namibia-9672-5-day-sossusvlei-and-swakopmund-tour.json |
-| 53 | Namibia | 6-day-namibian-culture-and-scenery-tour |  | todo |  |  |
-| 54 | Namibia | namibian-southern-skeleton-coast-tour |  | todo |  |  |
+| 53 | Namibia | 6-day-namibian-culture-and-scenery-tour | 9658 | done 2026-11-14 | 6 day damaraland and kaokoland culture tour | namibia-9658-6-day-damaraland-and-kaokoland-culture-tour.json |
+| 54 | Namibia | namibian-southern-skeleton-coast-tour | 9670 | done 2026-11-14 | 5 day southern skeleton coast tour | namibia-9670-5-day-southern-skeleton-coast-tour.json |
