@@ -1,5 +1,5 @@
 {
- "checked_at_utc": "2026-11-13 18:11",
+ "checked_at_utc": "2026-11-14 09:35",
  "feeds": {
   "divulge": [
    {
@@ -10,8 +10,23 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Fri, 13 Nov 2026 15:00:00 +0000",
+    "newest": "Sat, 14 Nov 2026 09:00:00 +0000",
     "sample": [
+     {
+      "title": "Gorillas, a Lake and a Gala Night: How a Rwanda Corporate Incentive Trip Fits Into Five Da",
+      "date": "Sat, 14 Nov 2026 09:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park-1-1024x900.jpg"
+     },
+     {
+      "title": "A Family Reunion Safari in Kenya That Works for Grandparents, Parents and Toddlers Alike",
+      "date": "Sat, 14 Nov 2026 08:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-family-reunion-safari-1024x415.jpg"
+     },
+     {
+      "title": "Tanzania Ground Handler Contracts: What to Settle Before Your First Client Lands",
+      "date": "Sat, 14 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/tanzania-ground-handler-1024x682.jpg"
+     },
      {
       "title": "Taking the Whole Clan? How a Tanzania Family Safari Works With Zanzibar at the End",
       "date": "Fri, 13 Nov 2026 15:00:00 +0000",
@@ -21,21 +36,6 @@
       "title": "How to Book an Exclusive Use Safari Camp in Botswana for Your Whole Group",
       "date": "Fri, 13 Nov 2026 14:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/exclusive-use-safari-camp-botswana-1024x683.jpg"
-     },
-     {
-      "title": "A Masai Mara Incentive Trip That Rewards Your Top Team, From Flights to the Awards Night",
-      "date": "Fri, 13 Nov 2026 13:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/divulge-adventures-masai-mara-national-reserve-narok-county-kenya-africa-83_7_11zon-1024x683.jpg"
-     },
-     {
-      "title": "Stargazing in Namibia Works Best Around the New Moon, So Plan Your Astronomy Club’s Trip F",
-      "date": "Fri, 13 Nov 2026 12:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/stargazing-in-namibia-1024x678.jpg"
-     },
-     {
-      "title": "Is a Botswana Family Safari Right for Your Children? Ages, Areas and Camps Explained",
-      "date": "Fri, 13 Nov 2026 11:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/06/7-day-chobe-moremi-and-khwai-safari-herd-of-elephants-drinking-in-the-chobe-rive-1024x686.jpg"
      }
     ]
    },
@@ -158,8 +158,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Fri, 13 Nov 2026 14:00:00 +0000",
+    "newest": "Sat, 14 Nov 2026 07:00:00 +0000",
     "sample": [
+     {
+      "title": "Tanzania Ground Handler Contracts: What to Settle Before Your First Client Lands",
+      "date": "Sat, 14 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/tanzania-ground-handler-1024x682.jpg"
+     },
      {
       "title": "How to Book an Exclusive Use Safari Camp in Botswana for Your Whole Group",
       "date": "Fri, 13 Nov 2026 14:00:00 +0000",
@@ -179,11 +184,6 @@
       "title": "An East Africa DMC Turns Your Client’s Safari Brief Into a Trip That Runs Smoothly on the ",
       "date": "Thu, 12 Nov 2026 09:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/01/Mara-Wildebeest-Migration-1024x575.jpg"
-     },
-     {
-      "title": "Driving Namibia as a Group? How a Self Drive Convoy Keeps Everyone Together",
-      "date": "Thu, 12 Nov 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/namibia-self-drive-convoy-1024x576.jpg"
      }
     ]
    },
@@ -195,8 +195,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Fri, 13 Nov 2026 15:00:00 +0000",
+    "newest": "Sat, 14 Nov 2026 08:00:00 +0000",
     "sample": [
+     {
+      "title": "A Family Reunion Safari in Kenya That Works for Grandparents, Parents and Toddlers Alike",
+      "date": "Sat, 14 Nov 2026 08:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-family-reunion-safari-1024x415.jpg"
+     },
      {
       "title": "Taking the Whole Clan? How a Tanzania Family Safari Works With Zanzibar at the End",
       "date": "Fri, 13 Nov 2026 15:00:00 +0000",
@@ -216,11 +221,6 @@
       "title": "A Teacher’s Guide to a Uganda Educational Tour: Equator, Nile, Chimpanzees and Safety",
       "date": "Fri, 13 Nov 2026 10:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/05/waters-of-the-nile-at-murchison-falls-in-northern-uganda-1024x683.jpg"
-     },
-     {
-      "title": "Namibia Photography Tour for Clubs: Deadvlei at Dawn, Etosha Waterholes and Gold-Tier Nigh",
-      "date": "Thu, 12 Nov 2026 15:24:48 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/namibia-photography-tour-1024x684.jpg"
      }
     ]
    },
@@ -232,8 +232,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Fri, 13 Nov 2026 13:00:00 +0000",
+    "newest": "Sat, 14 Nov 2026 09:00:00 +0000",
     "sample": [
+     {
+      "title": "Gorillas, a Lake and a Gala Night: How a Rwanda Corporate Incentive Trip Fits Into Five Da",
+      "date": "Sat, 14 Nov 2026 09:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park-1-1024x900.jpg"
+     },
      {
       "title": "A Masai Mara Incentive Trip That Rewards Your Top Team, From Flights to the Awards Night",
       "date": "Fri, 13 Nov 2026 13:00:00 +0000",
@@ -253,11 +258,6 @@
       "title": "Twin Rivers Tigoni for Team Building: What Each Activity Costs and How to Run the Day",
       "date": "Tue, 10 Nov 2026 08:11:12 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/twin-rivers-tigoni-team-building-1024x683.jpg"
-     },
-     {
-      "title": "How to Match a Naivasha Corporate Retreat Venue to Your Team, Agenda and Budget",
-      "date": "Wed, 04 Nov 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/naivasha-corporate-retreat-1024x684.jpg"
      }
     ]
    },
@@ -377,8 +377,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Fri, 13 Nov 2026 13:00:00 +0000",
+    "newest": "Sat, 14 Nov 2026 08:00:00 +0000",
     "sample": [
+     {
+      "title": "A Family Reunion Safari in Kenya That Works for Grandparents, Parents and Toddlers Alike",
+      "date": "Sat, 14 Nov 2026 08:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-family-reunion-safari-1024x415.jpg"
+     },
      {
       "title": "A Masai Mara Incentive Trip That Rewards Your Top Team, From Flights to the Awards Night",
       "date": "Fri, 13 Nov 2026 13:00:00 +0000",
@@ -398,11 +403,6 @@
       "title": "An East Africa DMC Turns Your Client’s Safari Brief Into a Trip That Runs Smoothly on the ",
       "date": "Thu, 12 Nov 2026 09:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/01/Mara-Wildebeest-Migration-1024x575.jpg"
-     },
-     {
-      "title": "A Kenya School Trip Can Teach Geology, Ecology and Conservation Within a Day of Nairobi",
-      "date": "Wed, 11 Nov 2026 07:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-school-trip-1024x683.jpg"
      }
     ]
    },
@@ -505,6 +505,23 @@
       "title": "Kenya eTA for Tourists: Cost, Documents and How to Apply",
       "date": "Wed, 14 Oct 2026 11:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-eta-1024x683.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://divulgeadventures.com/tag/kenya-family-safari/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Sat, 14 Nov 2026 08:00:00 +0000",
+    "sample": [
+     {
+      "title": "A Family Reunion Safari in Kenya That Works for Grandparents, Parents and Toddlers Alike",
+      "date": "Sat, 14 Nov 2026 08:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-family-reunion-safari-1024x415.jpg"
      }
     ]
    },
@@ -997,8 +1014,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Fri, 13 Nov 2026 08:00:00 +0000",
+    "newest": "Sat, 14 Nov 2026 09:00:00 +0000",
     "sample": [
+     {
+      "title": "Gorillas, a Lake and a Gala Night: How a Rwanda Corporate Incentive Trip Fits Into Five Da",
+      "date": "Sat, 14 Nov 2026 09:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park-1-1024x900.jpg"
+     },
      {
       "title": "A Kigali Conference Leaves Room for Gorillas if You Plan the Extension Early",
       "date": "Fri, 13 Nov 2026 08:00:00 +0000",
@@ -1018,11 +1040,6 @@
       "title": "Rwanda Study Tours for Universities That Link Genocide History, Governance and Gorilla Sci",
       "date": "Sat, 07 Nov 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/rwanda-study-tour-1024x576.jpg"
-     },
-     {
-      "title": "Bwindi vs Volcanoes National Park: Trade a Cheaper Permit for a Longer Drive, or Pay for S",
-      "date": "Sun, 01 Nov 2026 16:25:07 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p-1-1024x750.jpg"
      }
     ]
    },
@@ -1122,8 +1139,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Fri, 13 Nov 2026 15:00:00 +0000",
+    "newest": "Sat, 14 Nov 2026 07:00:00 +0000",
     "sample": [
+     {
+      "title": "Tanzania Ground Handler Contracts: What to Settle Before Your First Client Lands",
+      "date": "Sat, 14 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/tanzania-ground-handler-1024x682.jpg"
+     },
      {
       "title": "Taking the Whole Clan? How a Tanzania Family Safari Works With Zanzibar at the End",
       "date": "Fri, 13 Nov 2026 15:00:00 +0000",
@@ -1143,11 +1165,6 @@
       "title": "An East Africa DMC Turns Your Client’s Safari Brief Into a Trip That Runs Smoothly on the ",
       "date": "Thu, 12 Nov 2026 09:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/01/Mara-Wildebeest-Migration-1024x575.jpg"
-     },
-     {
-      "title": "Serengeti in February: Peak Calving, Green Plains and the Bases Worth Booking Early",
-      "date": "Wed, 11 Nov 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/02/neptune-serengeti-national-park-1024x537.jpg"
      }
     ]
    },
@@ -1182,6 +1199,23 @@
       "title": "Taking the Whole Clan? How a Tanzania Family Safari Works With Zanzibar at the End",
       "date": "Fri, 13 Nov 2026 15:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/tanzania-family-safari-1024x520.jpg"
+     }
+    ]
+   },
+   {
+    "url": "https://divulgeadventures.com/tag/tanzania-ground-handler/feed/",
+    "status": 200,
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "starts_with": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmln",
+    "xml_ok": true,
+    "items": 1,
+    "items_with_image": 1,
+    "newest": "Sat, 14 Nov 2026 07:00:00 +0000",
+    "sample": [
+     {
+      "title": "Tanzania Ground Handler Contracts: What to Settle Before Your First Client Lands",
+      "date": "Sat, 14 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/tanzania-ground-handler-1024x682.jpg"
      }
     ]
    },
@@ -1408,8 +1442,13 @@
     "xml_ok": true,
     "items": 10,
     "items_with_image": 9,
-    "newest": "Fri, 13 Nov 2026 04:00:19 +0000",
+    "newest": "Sat, 14 Nov 2026 04:00:54 +0000",
     "sample": [
+     {
+      "title": "The Rock Island Beside Mombasa Road: How to Hike Lukenya Hills",
+      "date": "Sat, 14 Nov 2026 04:00:54 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/11/lukenya-hills-hike-1024x683.jpg"
+     },
      {
       "title": "Climbing the Warrior’s Nose: A Sleeping Warrior Hike Above Lake Elementaita",
       "date": "Fri, 13 Nov 2026 04:00:19 +0000",
@@ -1429,11 +1468,6 @@
       "title": "German Comfort or Italian Grip? How Lowa and Scarpa Boots Differ on Kenya’s Mountains",
       "date": "Tue, 10 Nov 2026 04:01:01 +0000",
       "image": null
-     },
-     {
-      "title": "Salomon vs Merrell Hiking Shoes: Why Your Foot Shape Decides It",
-      "date": "Sat, 07 Nov 2026 06:00:45 +0000",
-      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/11/salomon-vs-merrell-hiking-shoes-1024x683.jpg"
      }
     ]
    },
@@ -1519,8 +1553,13 @@
     "xml_ok": true,
     "items": 10,
     "items_with_image": 10,
-    "newest": "Fri, 13 Nov 2026 04:00:19 +0000",
+    "newest": "Sat, 14 Nov 2026 04:00:54 +0000",
     "sample": [
+     {
+      "title": "The Rock Island Beside Mombasa Road: How to Hike Lukenya Hills",
+      "date": "Sat, 14 Nov 2026 04:00:54 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/11/lukenya-hills-hike-1024x683.jpg"
+     },
      {
       "title": "Climbing the Warrior’s Nose: A Sleeping Warrior Hike Above Lake Elementaita",
       "date": "Fri, 13 Nov 2026 04:00:19 +0000",
@@ -1540,11 +1579,6 @@
       "title": "Hiking Hells Gate in a Day: Fischer’s Tower, the Gorge and the Road From Nairobi",
       "date": "Wed, 04 Nov 2026 06:00:58 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/11/hells-gate-hike-683x1024.jpg"
-     },
-     {
-      "title": "Seven Knuckles Above the Rift: Hiking the Ngong Hills From Nairobi",
-      "date": "Tue, 27 Oct 2026 04:30:57 +0000",
-      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/10/ngong-hills-hike-1024x683.jpg"
      }
     ]
    },
@@ -1702,6 +1736,7 @@
    "etosha-safari",
    "exclusive-use-safari",
    "faith-travel",
+   "family-reunion-safari",
    "family-safari",
    "february-safari",
    "first-safari",
@@ -1739,6 +1774,7 @@
    "kenya-day-trips",
    "kenya-entry-requirements",
    "kenya-eta",
+   "kenya-family-safari",
    "kenya-park-fees",
    "kenya-primates",
    "kenya-safari",
@@ -1790,6 +1826,7 @@
    "mountain-climbing",
    "mountain-gorillas",
    "mt-kilimanjaro",
+   "multigenerational-travel",
    "naboisho",
    "nairobi",
    "nairobi-national-park",
@@ -1870,6 +1907,7 @@
    "tanzania",
    "tanzania-evisa",
    "tanzania-family-safari",
+   "tanzania-ground-handler",
    "tanzania-lodges",
    "tanzania-safari",
    "tanzania-safari-cost",
@@ -1907,6 +1945,7 @@
    "aberdare-hiking",
    "aberdares",
    "adidas-terrex",
+   "athi-plains",
    "backpack-fitting",
    "balaclava",
    "base-layers",
@@ -2009,19 +2048,23 @@
    "leg-gaiters",
    "lightning-safety",
    "lowa",
+   "lukenya",
    "machakos",
+   "machakos-hikes",
    "mammut",
    "mens-hiking-boots",
    "merino-wool",
    "merino-wool-socks",
    "merrell",
    "mittens",
+   "mountain-club-of-kenya",
    "mountain-mall",
    "mt-kenya",
    "mt-kenya-gear",
    "mt-longonot",
    "mt-satima",
    "mt-suswa",
+   "mummy-sleeping-bag",
    "nairobi",
    "nairobi-day-hikes",
    "nairobi-gear-shop",
