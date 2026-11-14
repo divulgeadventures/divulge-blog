@@ -92,3 +92,4 @@ makerere
 brandberg
 interdune
 geosite
+asante
