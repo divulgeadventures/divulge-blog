@@ -116,3 +116,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-13 | Tanzania TZ-326 | Safari Themes | tanzania family safari | tanzania-family-safari
 2026-11-14 | Tanzania TZ-334 | Safari Planning Tips | tanzania ground handler | tanzania-ground-handler
 2026-11-14 | Kenya KE-377 | Safari Themes | family reunion safari | kenya-family-reunion-safari
+2026-11-14 | Rwanda RW-309 | Team Building | rwanda corporate incentive trip | rwanda-corporate-incentive-trip

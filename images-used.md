@@ -605,3 +605,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/flamingos-taking-flight-over-lake-nakuru-kenya.jpg | kenya-family-reunion-safari
 2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2025/12/6000-x-4000divulge_adventures-25-scaled.jpg | kenya-family-reunion-safari
 2026-11-14 | https://images.unsplash.com/photo-1554490679-5b6a0a7eeab3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8N3x8ZWxlcGhhbnQlMjBmYW1pbHklMjBLZW55YXxlbnwwfDB8fHwxNzk0NjMyMTIzfDI&ixlib=rb-4.1.0&q=80&w=1080 | kenya-family-reunion-safari
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park-1.jpg | rwanda-corporate-incentive-trip
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/11/rwanda-study-tour.jpg | rwanda-corporate-incentive-trip
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-eating-leaves-in-volcanoes-national-park-rwanda-1.jpg | rwanda-corporate-incentive-trip
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/Lake-Kivu-in-Rwanda.jpeg | rwanda-corporate-incentive-trip
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/elephant-in-akagera-national-park-rwanda.jpg | rwanda-corporate-incentive-trip
