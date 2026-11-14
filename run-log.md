@@ -3,6 +3,12 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-14 09:55 | New post 4
+- **Where Should a Primate Field Course in Uganda Be Based? Kibale, Budongo and Bwindi Compared**: https://divulgeadventures.com/uganda-primate-field-course/
+- Uganda, Safari Themes; group sprint row UG-315 (focus keyword refined to "primate field course"). Scheduled to publish 14 Nov 2026 at 13:00 Nairobi time.
+- Images: 5 from the owner's Media Library (featured + 4 in the body), 2 from Unsplash; no credits. UWA fees and the student field-course discount checked November 2026.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left)
+- Could not open: none
 ## 2026-11-14 09:30 | New post 3
 - "Gorillas, a Lake and a Gala Night: How a Rwanda Corporate Incentive Trip Fits Into Five Days": https://divulgeadventures.com/rwanda-corporate-incentive-trip/
 - Rwanda (group row RW-309), Team Building; scheduled for 14 Nov 2026 at 12:00 Nairobi time
@@ -932,11 +938,4 @@ Tanzania (bank row TZ-059, seasonal: December), Destination Tips. Scheduled to p
 Images: 6 from the owner's Media Library in the body (Serengeti, Ngorongoro Crater clouds, Tarangire, Ruaha, Zanzibar beach, Kilimanjaro) plus an owner featured image (Ngorongoro & Serengeti safari); 0 from Unsplash.
 Skipped topics: none. Today's refresh (kenya-safari-packing-list, TEXT FIX) is still to do (after 18:00 run).
 Could not open: https://www.tanzaniaparks.go.tz/ (permission request timed out; fees taken from the existing fees post and a recent fee summary, readers told to confirm on TANAPA).
-
-## 2026-10-18 11:15 | New post 2
-Rwanda vs Tanzania Safari: Which Is Better for Your Trip? — https://divulgeadventures.com/rwanda-vs-tanzania-safari/
-Rwanda (bank row RW-085, BOOST comparison), Destination Tips. Scheduled to publish 2026-10-18 14:00 Nairobi time. Fees checked October 2026: Rwanda gorilla permit US$1,500; Akagera entry US$100 (1 day/night) / US$150 (2 nights) from African Parks' published price list (labelled 2025, the latest official sheet found); Tanzania park fees from the existing Tanzania park fees post; Rwanda visa from GOV.UK (free 30 days for Commonwealth) and the US State Department (US$50). Cost tiers are labelled estimates, not Divulge prices. About 2,600 words.
-Images: 5 from the owner's Media Library in the body (Rwanda gorilla, Serengeti wildebeest, Akagera zebras, Ngorongoro Crater, Lake Kivu) plus an owner featured image (gorilla-in-rwanda); 0 from Unsplash.
-Skipped topics: none. Today's refresh (kenya-safari-packing-list, TEXT FIX) is still to do.
-Could not open: none (Kigali–Kilimanjaro flight time of about 1h45 taken from a flight-schedule site, as RwandAir's own page was not checked; the post tells readers to confirm flight days).
 

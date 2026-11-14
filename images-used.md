@@ -610,3 +610,10 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-eating-leaves-in-volcanoes-national-park-rwanda-1.jpg | rwanda-corporate-incentive-trip
 2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/Lake-Kivu-in-Rwanda.jpeg | rwanda-corporate-incentive-trip
 2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/elephant-in-akagera-national-park-rwanda.jpg | rwanda-corporate-incentive-trip
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-resting-in-the-rainforest-canopy.jpg | uganda-primate-field-course
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-in-the-dense-forest-of-kibale.jpg | uganda-primate-field-course
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/black-and-white-colobus-monkey-in-the-forest.jpg | uganda-primate-field-course
+2026-11-14 | https://images.unsplash.com/photo-1614528767034-70de9fe166e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8VWdhbmRhJTIwcmFpbmZvcmVzdHxlbnwwfDB8fHwxNzk0NjM5MDU1fDI&ixlib=rb-4.1.0&q=80&w=1080 | uganda-primate-field-course
+2026-11-14 | https://images.unsplash.com/photo-1742328114651-f4dbd710cd5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8Y2hpbXBhbnplZSUyMFVnYW5kYXxlbnwwfDB8fHwxNzk0NjM5MDU0fDI&ixlib=rb-4.1.0&q=80&w=1080 | uganda-primate-field-course
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/04/sasa.jpg | uganda-primate-field-course
+2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/east-africa-tourist-visa.jpg | uganda-primate-field-course
