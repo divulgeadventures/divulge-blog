@@ -3,6 +3,13 @@
 Every run of the Divulge daily blog task adds a short entry at the TOP of this list (newest first): when it ran, what it did, the post title and link, and any links or pages it could not open. A day with fewer than 4 entries means some runs did not finish.
 
 ---
+## 2026-11-14 08:20 | New post 2
+- **A Family Reunion Safari in Kenya That Works for Grandparents, Parents and Toddlers Alike** — https://divulgeadventures.com/kenya-family-reunion-safari/
+- Kenya, Safari Themes; group sprint row KE-377 (focus keyword refined to "family reunion safari"). Scheduled to publish 11:00.
+- Images: 4 from the owner's Media Library (Amboseli elephants below Kilimanjaro, Lake Naivasha, Lake Nakuru flamingos, Mara wildebeest herds), 2 from Unsplash (featured Amboseli elephant family, plus Maasai Mara elephants in the body). No credits.
+- Fees checked November 2026 (KWS fee schedule, Mara reserve tariff, balloon minimum age, eTA rules); the eTA fee itself is left to the Kenya eTA post.
+- Could not open: https://wwwnc.cdc.gov/travel/destinations/traveler/none/kenya (permission request timed out).
+
 ## 2026-11-14 06:53 | New post 1
 - **Tanzania Ground Handler Contracts: What to Settle Before Your First Client Lands** — https://divulgeadventures.com/tanzania-ground-handler/
 - Tanzania, Safari Planning Tips; owner idea from TOPIC_IDEAS.md (agent post, added to the bank as TZ-334). Scheduled to publish 10:00.
@@ -933,11 +940,4 @@ Kenya (owner idea "Tipping on safari in Kenya", matched to existing bank row KE-
 Images: 4 from the owner's Media Library and 1 from Unsplash in the body, plus an Unsplash featured image (safari vehicle with a lion).
 Skipped topics: none. TOPIC_IDEAS.md has no unchecked owner ideas left. Today's refresh (kenya-safari-packing-list, TEXT FIX) is still to do.
 Could not open: https://divulgeadventures.com/?s=tipping (permission request timed out, not retried; overlap checked against site-data/posts.json instead).
-
-## 2026-10-17 19:15 | Refresh
-Mara Naboisho Conservancy: Lions, Night Drives and Where to Stay — https://divulgeadventures.com/mara-naboisho-conservancy/
-Kenya, Destination Tips (REFRESH_QUEUE LINK FIX row). The raw "[https://...](...)" link text is gone; the post now links the Reserve vs Conservancy guide properly, plus Olare Motorogi, Ol Kinyei, camps by budget, night drives, migration, park fees and Mara cost posts, the Kenya safaris page, fly-in safaris and the 7-Day Luxury Mara River Crossing Safari. The live post could not be read, so it was rewritten from fresh research (checked October 2026): about 200 km², founded 2010, 609 landowners, 46 rangers, 8 camps / about 130 beds (Conservation International, used as the external link); Encounter Mara and Ol Seki Hemingways Mara described from their official sites. No conservancy fee figure stated (could not verify). About 2,450 words.
-Images: 2 from the owner's Media Library and 3 from Unsplash in the body (featured image kept). Mara-Naboisho-Conservancy.jpg was left out because yesterday's post used it.
-Skipped topics: none. Two eligible rows remain (kenya-safari-packing-list TEXT FIX, luxury-safari-lodges LINK FIX), so the refresh continues tomorrow.
-Could not open: https://divulgeadventures.com/mara-naboisho-conservancy/ (permission request timed out, not retried).
 

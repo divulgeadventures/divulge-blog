@@ -115,3 +115,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-13 | Botswana BW-313 | Safari Planning Tips | exclusive use safari | exclusive-use-safari-camp-botswana
 2026-11-13 | Tanzania TZ-326 | Safari Themes | tanzania family safari | tanzania-family-safari
 2026-11-14 | Tanzania TZ-334 | Safari Planning Tips | tanzania ground handler | tanzania-ground-handler
+2026-11-14 | Kenya KE-377 | Safari Themes | family reunion safari | kenya-family-reunion-safari

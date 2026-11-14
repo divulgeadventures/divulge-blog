@@ -281,3 +281,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/exclusive-use-safari-camp-botswana/ (exclusive use safari)
 - https://divulgeadventures.com/tanzania-family-safari/ (tanzania family safari)
 - https://divulgeadventures.com/tanzania-ground-handler/ (tanzania ground handler)
+- https://divulgeadventures.com/kenya-family-reunion-safari/ (family reunion safari)
