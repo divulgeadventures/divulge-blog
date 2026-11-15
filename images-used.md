@@ -657,3 +657,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-15 | https://images.unsplash.com/photo-1647891684895-15c5b831fde1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8UndhbmRhJTIwaGlsbHN8ZW58MHwwfHx8MTc5NDcxODU3MXwy&ixlib=rb-4.1.0&q=80&w=1080 | rwanda-golf-trip
 2026-11-15 | https://images.unsplash.com/photo-1667504319000-8133f9021cf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8Vm9sY2Fub2VzJTIwTmF0aW9uYWwlMjBQYXJrJTIwUndhbmRhfGVufDB8MHx8fDE3OTQ3MTg1NzB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | rwanda-golf-trip
 2026-11-15 | https://images.unsplash.com/photo-1756245994917-7fef9d2df7a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8Vm9sY2Fub2VzJTIwTmF0aW9uYWwlMjBQYXJrJTIwUndhbmRhfGVufDB8MHx8fDE3OTQ3MTg1NzB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | rwanda-golf-trip
+2026-11-15 | https://images.unsplash.com/photo-1575999502951-4ab25b5ca889?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8WmFuemliYXIlMjBiZWFjaHxlbnwwfDB8fHwxNzk0NzIxODcyfDI&ixlib=rb-4.1.0&q=80&w=1080 | zanzibar-yoga-retreat-safari
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/07/zanzibar-beach-holidays-1.jpg | zanzibar-yoga-retreat-safari
+2026-11-15 | https://images.unsplash.com/photo-1646668072507-b2215b873c70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8WmFuemliYXIlMjBiZWFjaHxlbnwwfDB8fHwxNzk0NzIxODcyfDI&ixlib=rb-4.1.0&q=80&w=1080 | zanzibar-yoga-retreat-safari
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/05/zanzibar_island_boat.jpg | zanzibar-yoga-retreat-safari
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/07/serengeti-migration.jpg | zanzibar-yoga-retreat-safari
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/07/ngorongoro-crater.jpg | zanzibar-yoga-retreat-safari

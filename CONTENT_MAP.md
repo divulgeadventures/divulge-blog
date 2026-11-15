@@ -293,3 +293,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/tanzania-mission-trip/ (tanzania mission trip)
 - https://divulgeadventures.com/safari-net-rates-for-travel-agents/ (safari net rates)
 - https://divulgeadventures.com/rwanda-golf-trip/ (rwanda golf trip)
+- https://divulgeadventures.com/zanzibar-yoga-retreat-safari/ (zanzibar yoga retreat)

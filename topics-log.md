@@ -125,3 +125,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-14 | Tanzania TZ-327 | Safari Themes | tanzania mission trip | tanzania-mission-trip
 2026-11-15 | Kenya KE-393 | Safari Planning Tips | safari net rates | safari-net-rates-for-travel-agents
 2026-11-15 | Rwanda RW-310 | Safari Themes | rwanda golf trip | rwanda-golf-trip
+2026-11-15 | Tanzania TZ-328 | Safari Themes | zanzibar yoga retreat | zanzibar-yoga-retreat-safari

@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-15 08:55 | New post 3
+- "A Zanzibar Yoga Retreat Works Best After a Few Days in the Serengeti": https://divulgeadventures.com/zanzibar-yoga-retreat-safari/ (Tanzania, Safari Themes, group sprint row TZ-328; focus keyword refined from "zanzibar yoga retreat and safari" to "zanzibar yoga retreat"). Scheduled for 15 Nov 12:00 Nairobi time.
+- Group links: /group-safaris/club-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 8 Days Tanzania and Zanzibar Safari and Beach and 9 Day Tanzania Celebration Safari with Zanzibar. Insurance (Zanzibar US$44 + mainland US$44 from 1 Oct 2026) and park fees dated; no retreat or lodge prices stated.
+- Images: 4 from the owner's Media Library and 1 from Unsplash in the body, featured image from Unsplash. No credits. Added yoga/wind words (vinyasa, breathwork, kusi, kaskazi, shala, kitesurfers) to spelling-allowlist.txt.
+- Skipped topics: none (Kenya and Rwanda already written today, so the cycle moved to Tanzania).
+- Could not open: none.
+
 ## 2026-11-15 08:33 Trip Optimiser
 - Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
 
@@ -916,16 +923,4 @@ A Kenya and Tanzania Safari Works Best When You Plan the Border First — https:
 Tanzania, Safari Planning Tips (bank row TZ-005, core topic; focus keyword refined from "kenya and tanzania combined safari" to the searched phrase "kenya and tanzania safari"). Scheduled for 23 October 2026 at 10:00 Nairobi time. Covers the Namanga and Isebania crossings (no tourist crossing straight from the Mara into the Serengeti; vehicle and guide change at the border), the 1-hour Nairobi-Kilimanjaro flight, a month-by-month table, three routes, park fees (checked October 2026), cost estimates, eTA re-entry from Tanzania, insurance and yellow fever. Links the 12-day Kenya and Tanzania and 15-day birding trips, Tanzania/Kenya safari and fly-in pages, and 8 Divulge Diaries posts.
 Images: 4 from the owner's Media Library (featured Serengeti lion plus 3 Serengeti/migration photos in the body) and 2 from Unsplash (light aircraft at a Tanzanian airstrip, rhinos in Ngorongoro Crater). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
 Could not open: lca.logcluster.org Namanga border page (permission request timed out).
-
-## 2026-10-22 18:55 | New post 1
-Samburu or the Masai Mara? Pick by the Animals, the Season and the Crowds — https://divulgeadventures.com/samburu-vs-masai-mara/
-Kenya, Destination Tips (bank row KE-118, BOOST comparison). Scheduled for 22 October 2026 at 19:00 Nairobi time (10:00 had already passed when this run started). Compares wildlife (Special Five vs big cats and migration), month-by-month seasons, park fees (Mara US$200 Jul-Dec / US$100 Jan-Jun, checked October 2026), lodge cost estimates by tier, road and air travel, crowds, who each suits and how to combine them. Samburu's county fee is not stated as a figure (only non-official sources found; post says we confirm it in the quote). Links the 6 day Samburu and Mara fly-in, 3 day Samburu fly-in and 7 day Ol Pejeta, Meru and Samburu trips, Kenya safaris and fly-in pages, and 8 Divulge Diaries posts.
-Images: 5 from the owner's Media Library (featured Grevy's zebra plus gerenuk, reticulated giraffe, Mara wildebeest and Somali ostrich in the body; alts from their titles) and 1 from Unsplash (Samburu hills from Lewa). Please check the Somali ostrich photo (a WhatsApp image) shows the bird, not guests. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-Could not open: none
-
-## 2026-10-21 15:20 | New post 3
-How Hard Is Gorilla Trekking, Really? Fitness, Altitude and Trek Times Explained — https://divulgeadventures.com/how-hard-is-gorilla-trekking/
-Rwanda, Safari Planning Tips (bank row RW-002, core topic). Scheduled for 21 October 2026 at 18:00 Nairobi time. Covers trek times by type of day, the rainy season, Rwanda vs Uganda terrain and altitude, CDC altitude guidance, asking for an easier family, porters (lodge guidance: at least US$25), a six-week training table, and who should think twice. Permit prices (US$1,500 Rwanda, US$800 Uganda) checked October 2026. Trip CTA goes to the quote form (Rwanda rule); links the 1-day and double gorilla trekking trips, the Rwanda gorilla trek and gorilla trekking safari pages and 5 Divulge Diaries posts. Not stated: Uganda's 2027 permit price (only a non-official source reports US$1,000 from January 2027; worth confirming with UWA).
-Images: 4 from the owner's Media Library (featured young gorilla plus 3 Volcanoes National Park gorilla photos in the body; alts from their titles) and 1 from Unsplash (muddy hiking boots). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-Could not open: none
 
