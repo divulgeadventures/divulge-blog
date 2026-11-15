@@ -669,3 +669,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-15 | https://images.unsplash.com/photo-1768700203107-aeccfcc4447c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8dHJvcGljYWwlMjBmb3Jlc3QlMjBjYW5vcHl8ZW58MHwwfHx8MTc5NDcyNTQ3NHwy&ixlib=rb-4.1.0&q=80&w=1080 | jinja-team-building
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/11/namugongo-pilgrimage.jpg | jinja-team-building
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/05/black-and-white-colobus-monkey-at-karuma-falls-uganda.jpg | jinja-team-building
+2026-11-15 | https://images.unsplash.com/photo-1653656846542-720546d3df16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8T2thdmFuZ28lMjBkZWx0YSUyMGJpcmRzfGVufDB8MHx8fDE3OTQ3NDM0NjR8Mg&ixlib=rb-4.1.0&q=80&w=1080 | botswana-birding-tour-for-groups
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/06/helmeted-guineafowl-in-the-khwai-area-of-the-okavango-delta.jpg | botswana-birding-tour-for-groups
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-Khwai.jpg | botswana-birding-tour-for-groups
+2026-11-15 | https://images.unsplash.com/photo-1507823160955-056fcbf921c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8Q2hvYmUlMjByaXZlciUyMGtpbmdmaXNoZXJ8ZW58MHwwfHx8MTc5NDc0MzQ2NXwy&ixlib=rb-4.1.0&q=80&w=1080 | botswana-birding-tour-for-groups
+2026-11-15 | https://images.unsplash.com/photo-1655981651220-0c66c8032040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8T2thdmFuZ28lMjBkZWx0YSUyMGJpcmRzfGVufDB8MHx8fDE3OTQ3NDM0NjR8Mg&ixlib=rb-4.1.0&q=80&w=1080 | botswana-birding-tour-for-groups

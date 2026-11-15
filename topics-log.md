@@ -127,3 +127,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-15 | Rwanda RW-310 | Safari Themes | rwanda golf trip | rwanda-golf-trip
 2026-11-15 | Tanzania TZ-328 | Safari Themes | zanzibar yoga retreat | zanzibar-yoga-retreat-safari
 2026-11-15 | Uganda UG-317 | Team Building | jinja team building | jinja-team-building
+2026-11-15 | Botswana BW-315 | Safari Themes | botswana birding | botswana-birding-tour-for-groups

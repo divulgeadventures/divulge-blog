@@ -295,3 +295,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/rwanda-golf-trip/ (rwanda golf trip)
 - https://divulgeadventures.com/zanzibar-yoga-retreat-safari/ (zanzibar yoga retreat)
 - https://divulgeadventures.com/jinja-team-building/ (jinja team building)
+- https://divulgeadventures.com/botswana-birding-tour-for-groups/ (botswana birding)
