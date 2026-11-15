@@ -4,6 +4,9 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-15 08:33 Trip Optimiser
+- Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
+
 ## 2026-11-15 08:15 | New post 2
 - "Taking Your Club on a Rwanda Golf Trip? Play Kigali's 18 Holes, Then Meet the Gorillas": https://divulgeadventures.com/rwanda-golf-trip/ (Rwanda, Safari Themes, group sprint row RW-310; focus keyword refined from "golf and gorilla trip rwanda" to "rwanda golf trip"). Scheduled for 15 Nov 11:00 Nairobi time.
 - Group links: /group-safaris/club-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 5 Days Luxury Rwanda Golf and Gorilla Trekking Tour and 6 Day Rwanda Celebration Safari. No green fees stated (no official source found); costs given as labelled estimates.
