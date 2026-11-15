@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-15 17:58 | New post 8
+- "Rewarding Your Top Performers With a Namibia Incentive Trip, From Dune Sunrises to Etosha's Waterholes": https://divulgeadventures.com/namibia-incentive-trip/ (Namibia, Safari Themes, group sprint row NA-319). Scheduled for 15 Nov 18:00 Nairobi time (17:00 had already passed).
+- Group links: /group-safaris/corporate-incentive-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 4 Day Sossusvlei and Walvis Bay safari (from USD 1,990, from the trip page) and 5 Day Namibia Celebration Safari. Park and vehicle fees from Government Notice 115 of 2026, visa fee from the Ministry of Home Affairs fact sheet, both dated November 2026; Namibia Convention Bureau and Windhoek flight facts from December 2025 and June 2026 news.
+- Images: 4 from the owner's Media Library (Damaraland hills, Cape Cross seal, young zebra in Etosha, Spitzkoppe) and 1 from Unsplash in the body, featured image from Unsplash. No credits.
+- Skipped topics: none (every destination already had a post today; Kenya has 2 already, so the run took Namibia, joint second for group rows left). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: GOV.UK Namibia entry requirements page (permission request timed out).
+
 ## 2026-11-15 16:58 | New post 7
 - "A Girls Trip to Kenya, Planned Around the Mara, the Coast and One Good Night in Nairobi": https://divulgeadventures.com/girls-trip-to-kenya/ (Kenya, Safari Themes, group sprint row KE-379; focus keyword refined from "girls trip kenya safari" to "girls trip to kenya"). Scheduled for 15 Nov 17:00 Nairobi time.
 - Group links: /group-safaris/special-occasion-safaris/ (intro area and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 5 Day Diani to Amboseli and Masai Mara Fly-in Safari and 6-Day Best of Amboseli & Masai Mara Safari. Mara fee (Narok County rates), Safarilink Diani flight time and baggage, and GOV.UK safety/eTA advice dated November 2026; only price quoted is the USD 500 balloon flight from the trip page.
@@ -917,10 +924,4 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Compares all seven routes (days, distance, acclimatisation, crowds, summit night, getting there from Nairobi) with a park-fee estimate table by climb length. Fees from the 2026 TANAPA tariff as reported in April 2026 (US$70/day conservation, US$50/night camping, US$60/night huts, US$20 rescue, all plus 18% VAT; checked October 2026), and readers are told to confirm. Success-rate percentages were left out because only operator claims were found. Links the mountain climbing page, Mt Kenya traverse and 5-day northern Tanzania trips and 6 Divulge Diaries posts.
 - Images: 1 from the owner's Media Library (mount-kilimanjaro.jpg, also used on 18 Oct as the only Kilimanjaro summit photo), 4 from Unsplash (featured Kilimanjaro from Amboseli, plus plateau above clouds, tent at sunrise and high rocky ground). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none (no Tanzania seasonal rows for December/January left; no BOOST, as yesterday used one).
 - Could not open: none (TANAPA's own tariff page did not come up in search, so fees rely on a recent summary of it).
-
-## 2026-10-25 18:56 | New post 2
-- "A Botswana Safari Guide for First-Timers, From the Okavango to the Kalahari": https://divulgeadventures.com/botswana-safari-guide/ (Botswana BW-001, pillar, Destination Tips). Focus keyword refined to "botswana safari". Scheduled for 2026-10-25 19:00 Nairobi time (14:00 had already passed when this run started).
-- Covers regions (Okavango, Moremi/Khwai, Chobe/Savuti/Linyanti, Makgadikgadi, Central Kalahari), a month-by-month table, cost estimates by tier, flights and light aircraft, visas and malaria. Chobe/Moremi fee BWP 270 per international adult per day (checked October 2026); the planned 1 April 2026 fee rise is on hold with no new date, so the post tells readers to confirm. Links the 3-day mokoro, 7-day Chobe/Khwai/Okavango and 8-day Moremi trips.
-- Images: 4 from the owner's Media Library (Moremi/Okavango trip photos in the body), 4 from Unsplash (featured Chobe elephants, plus Okavango elephant, canoes by a river and a meerkat on a salt pan). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none (no Botswana seasonal rows for December/January left; no BOOST, as post 1 today was one).
-- Could not open: none.
 

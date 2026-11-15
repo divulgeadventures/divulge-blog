@@ -130,3 +130,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-15 | Botswana BW-315 | Safari Themes | botswana birding | botswana-birding-tour-for-groups
 2026-11-15 | Namibia NA-318 | Safari Themes | namibia with kids | namibia-with-kids
 2026-11-15 | Kenya KE-379 | Safari Themes | girls trip to kenya | girls-trip-to-kenya
+2026-11-15 | Namibia NA-319 | Safari Themes | namibia incentive trip | namibia-incentive-trip

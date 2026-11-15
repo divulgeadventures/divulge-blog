@@ -298,3 +298,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/botswana-birding-tour-for-groups/ (botswana birding)
 - https://divulgeadventures.com/namibia-with-kids/ (namibia with kids)
 - https://divulgeadventures.com/girls-trip-to-kenya/ (girls trip to kenya)
+- https://divulgeadventures.com/namibia-incentive-trip/ (namibia incentive trip)

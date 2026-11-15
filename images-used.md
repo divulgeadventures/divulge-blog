@@ -686,3 +686,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/11/elephant-orphanage-and-giraffe-centre.jpg | girls-trip-to-kenya
 2026-11-15 | https://images.unsplash.com/photo-1651860282131-e3257674ccd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8RGlhbmklMjBiZWFjaCUyMEtlbnlhfGVufDB8MHx8fDE3OTQ3NTA3MjB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | girls-trip-to-kenya
 2026-11-15 | https://images.unsplash.com/photo-1667935837291-1dc178866251?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8RGlhbmklMjBiZWFjaCUyMEtlbnlhfGVufDB8MHx8fDE3OTQ3NTA3MjB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | girls-trip-to-kenya
+2026-11-15 | https://images.unsplash.com/photo-1696894134220-cfc38c3bf7a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8U29zc3VzdmxlaSUyMGR1bmVzfGVufDB8MHx8fDE3OTQ3NTQ2MTN8Mg&ixlib=rb-4.1.0&q=80&w=1080 | namibia-incentive-trip
+2026-11-15 | https://images.unsplash.com/photo-1506710507565-203b9f24669b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8U29zc3VzdmxlaSUyMGR1bmVzfGVufDB8MHx8fDE3OTQ3NTQ2MTN8Mg&ixlib=rb-4.1.0&q=80&w=1080 | namibia-incentive-trip
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/06/rocky-hills-of-damaraland-namibia-under-a-clear-blue-sky.jpg | namibia-incentive-trip
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/06/cape-fur-seal-on-the-beach-at-cape-cross-namibia.jpg | namibia-incentive-trip
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/06/young-zebra-standing-on-open-ground-in-etosha-national-park.jpg | namibia-incentive-trip
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/06/granite-peaks-of-spitzkoppe-rising-above-the-desert-plains-namibia.jpg | namibia-incentive-trip
