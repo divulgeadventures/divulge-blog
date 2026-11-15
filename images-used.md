@@ -663,3 +663,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/05/zanzibar_island_boat.jpg | zanzibar-yoga-retreat-safari
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/07/serengeti-migration.jpg | zanzibar-yoga-retreat-safari
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/07/ngorongoro-crater.jpg | zanzibar-yoga-retreat-safari
+2026-11-15 | https://images.unsplash.com/photo-1760904591523-b70b6bceeb1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8d2hpdGUlMjB3YXRlciUyMHJhZnRpbmd8ZW58MHwwfHx8MTc5NDcyNTQ2Nnwy&ixlib=rb-4.1.0&q=80&w=1080 | jinja-team-building
+2026-11-15 | https://images.unsplash.com/photo-1570053279529-9f2b1003c57c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8TGFrZSUyMFZpY3RvcmlhJTIwVWdhbmRhfGVufDB8MHx8fDE3OTQ3MjU0NjZ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | jinja-team-building
+2026-11-15 | https://images.unsplash.com/photo-1760904652241-36ad6b4e752f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8d2hpdGUlMjB3YXRlciUyMHJhZnRpbmd8ZW58MHwwfHx8MTc5NDcyNTQ2Nnwy&ixlib=rb-4.1.0&q=80&w=1080 | jinja-team-building
+2026-11-15 | https://images.unsplash.com/photo-1768700203107-aeccfcc4447c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8dHJvcGljYWwlMjBmb3Jlc3QlMjBjYW5vcHl8ZW58MHwwfHx8MTc5NDcyNTQ3NHwy&ixlib=rb-4.1.0&q=80&w=1080 | jinja-team-building
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/11/namugongo-pilgrimage.jpg | jinja-team-building
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/05/black-and-white-colobus-monkey-at-karuma-falls-uganda.jpg | jinja-team-building
