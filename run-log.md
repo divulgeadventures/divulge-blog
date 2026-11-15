@@ -4,6 +4,9 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-15 18:33 Trip Optimiser
+- Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
+
 ## 2026-11-15 17:58 | New post 8
 - "Rewarding Your Top Performers With a Namibia Incentive Trip, From Dune Sunrises to Etosha's Waterholes": https://divulgeadventures.com/namibia-incentive-trip/ (Namibia, Safari Themes, group sprint row NA-319). Scheduled for 15 Nov 18:00 Nairobi time (17:00 had already passed).
 - Group links: /group-safaris/corporate-incentive-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 4 Day Sossusvlei and Walvis Bay safari (from USD 1,990, from the trip page) and 5 Day Namibia Celebration Safari. Park and vehicle fees from Government Notice 115 of 2026, visa fee from the Ministry of Home Affairs fact sheet, both dated November 2026; Namibia Convention Bureau and Windhoek flight facts from December 2025 and June 2026 news.
