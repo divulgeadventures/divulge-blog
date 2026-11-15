@@ -4,6 +4,10 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-15 19:49 | Nothing to do
+- Today's 9 group sprint posts are already written and scheduled; refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none.
+
 ## 2026-11-15 19:05 | New post 9
 - "A Serengeti Photography Tour for Your Club Comes Down to Three Choices: Season, Seats and Camp": https://divulgeadventures.com/serengeti-photography-tour/ (Tanzania, Safari Themes, group sprint row TZ-329; focus keyword refined to "serengeti photography tour"). Scheduled for 15 Nov 19:00 Nairobi time (18:00 had already passed).
 - Group links: /group-safaris/club-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 8 Day Tanzania Calving Season Photo Safari and 8 Day Great Migration Northern Tanzania. Park fees checked November 2026; drone rules from the TCAA FAQ; 15 kg soft-bag rule from Coastal Aviation's baggage policy. No Divulge prices quoted.
@@ -913,10 +917,4 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Compares six properties by zone, each described from its own website only: Ol Tukai Lodge and Amboseli Serena Safari Lodge (inside the park), Amboseli Sopa Lodge (park edge), Tortilis Camp, Tawi Lodge and Angama Amboseli (conservancies). No room rates quoted; KWS park fee US$90 adult / US$45 child per 24 hours (checked October 2026). Links the 3 day Amboseli fly-in and 6-day Best of Amboseli & Masai Mara trips, the Kenya safari page and 4 Divulge Diaries posts.
 - Images: 4 from the owner's Media Library (featured elephant herd in front of Kilimanjaro, plus Amboseli plains, dry lake bed and birdlife in the body), 2 from Unsplash (safari tents, Amboseli road towards Kilimanjaro). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none (no BOOST, as yesterday used one; post 2 today was already the seasonal one). Kibo Safari Camp left out because its site could not confirm it is currently operating.
 - Could not open: elewanacollection.com/tortilis-camp-amboseli, angama.com/amboseli and serenahotels.com/amboseli on first try (permission requests timed out; the same sites were then read through search-result links).
-
-## 2026-10-26 11:10 | New post 2
-- "Namibia in January Means Green Etosha, Dry Dunes and Afternoon Storms": https://divulgeadventures.com/namibia-in-january/ (Namibia NA-053, seasonal, Destination Tips). Scheduled for 2026-10-26 14:00 Nairobi time.
-- Covers weather by region (Etosha 33°C/95 mm on 14 days, Sossusvlei 30°C/9 mm, Swakopmund 22°C; long-term averages from weather2travel), Etosha in the green season (young animals, birding, Etosha Pan flooding in good years), Sossusvlei gate times, the coast and Zambezi Region, fixed costs (N$280/day top-tier park fee since 1 April 2026, N$60 vehicle fee, N$1,600 visa; checked October 2026), a 10-day south-to-north route, entry rules and malaria. Links the 7-Day Classic Etosha and 5-Day Sossusvlei and Etosha trips, the Namibia safari page and 5 Divulge Diaries posts.
-- Images: 2 from the owner's Media Library (Etosha-national-park.webp and Namibia-Safari-Deadvlei.jpg, both last used 16 Oct, so within 14 days; no other unused owner photo clearly named a Namibia place), 4 from Unsplash (featured Etosha zebras on a road, plus Etosha mother and foal zebra, storm clouds over a plain, Swakopmund coast). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none (no BOOST, as yesterday used one; one seasonal row allowed today and post 1 was not seasonal).
-- Could not open: BirdLife DataZone Etosha factsheet (page loaded empty); owner Media Library photos could not be downloaded for a visual check (proxy blocked), so their alt text comes from the titles only.
 
