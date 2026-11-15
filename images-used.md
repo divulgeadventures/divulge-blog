@@ -646,3 +646,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/10/tanzania-northern-circuit-itinerary.jpg | tanzania-mission-trip
 2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/05/old-building-with-a-palm-tree-in-stone-town-zanzibar.jpg | tanzania-mission-trip
 2026-11-14 | https://divulgeadventures.com/wp-content/uploads/2026/07/images-2.jpg | tanzania-mission-trip
+2026-11-15 | https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8TWFzYWklMjBNYXJhJTIwYWNhY2lhJTIwc3Vuc2V0fGVufDB8MHx8fDE3OTQ3MTQ5Mjd8Mg&ixlib=rb-4.1.0&q=80&w=1080 | safari-net-rates-for-travel-agents
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/10/luxury-kenya-fly-in-safari.jpg | safari-net-rates-for-travel-agents
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/11/vulture-on-a-tree-in-masai-mara-divulge-adventures.jpeg | safari-net-rates-for-travel-agents
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/05/elephant-walking-through-green-grassland-on-safari.jpg | safari-net-rates-for-travel-agents
+2026-11-15 | https://images.unsplash.com/photo-1709420838688-ccd0517d6a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8c2FmYXJpJTIwdGVudCUyMGNhbXB8ZW58MHwwfHx8MTc5NDcxNDkxNnwy&ixlib=rb-4.1.0&q=80&w=1080 | safari-net-rates-for-travel-agents
