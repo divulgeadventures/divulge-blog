@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-15 15:58 | New post 6
+- "Is Namibia With Kids Too Much Driving? A Family Road Trip That Works": https://divulgeadventures.com/namibia-with-kids/ (Namibia, Safari Themes, group sprint row NA-318; focus keyword refined from "namibia family road trip" to "namibia with kids", the phrase families search). Scheduled for 15 Nov 16:00 Nairobi time (15:00 had already passed).
+- Group links: /group-safaris/family-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trip: 7 Day Namibia Family Safari. Visa fees (UK gov advice), park fees from 1 April 2026 and CDC malaria regions dated November 2026; no package or lodge prices stated.
+- Images: 5 from the owner's Media Library in the body (Etosha zebras x2, oryx near Deadvlei, Sossusvlei dune, Walvis Bay seals), featured image from Unsplash. No credits.
+- Skipped topics: none (Namibia was the only destination not yet written today). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none.
+
 ## 2026-11-15 14:55 | New post 5
 - "Botswana Birding With Your Own Group Means Skimmers, Slaty Egrets and a Shot at Pel's Owl": https://divulgeadventures.com/botswana-birding-tour-for-groups/ (Botswana, Safari Themes, group sprint row BW-315; focus keyword refined from "botswana birding tour for groups" to "botswana birding"). Scheduled for 15 Nov 15:00 Nairobi time (14:00 had already passed).
 - Group links: /group-safaris/club-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 8 Day Botswana Photography Club Safari and 7 Day Chobe, Moremi and Khwai Safari. Species facts from HATAB and Botswana Tourism; no park fee figures or prices stated (could not confirm current Botswana park fees this run).
@@ -915,11 +922,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Covers wildlife, gorillas and chimps, month-by-month seasons, cost estimates by tier, travel times, the East Africa Tourist Visa and yellow fever. Gorilla permit US$800 and Kibale chimps US$250 (checked October 2026); the reported 2027 rises (US$1,000 / US$300) come from non-UWA sources, so the post tells readers to confirm. Links the 7 day Uganda primate safari and 6 day Amboseli and Masai Mara trips, Kenya and Uganda safari pages and 9 Divulge Diaries posts.
 - Images: 6 from the owner's Media Library (featured Uganda gorilla, plus Masai Mara scenery, Queen Elizabeth lion, Kibale chimpanzee, Kenya wildebeest and shoebill in the body), 0 from Unsplash. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). No posts were written on 2026-10-24. Skipped topics: none.
 - Could not open: https://www.flightsfrom.com/NBO-EBB (site error).
-
-## 2026-10-23 11:00 | New post 2
-- "Uganda in January: Dry Forest Trails, Busy Permits and Hot Savannah Days": https://divulgeadventures.com/uganda-in-january/ (Uganda UG-042, Destination Tips; focus keyword refined to "uganda in january"). Scheduled for 2026-10-23 14:00 Nairobi time.
-- Images: 3 from the owner's Media Library (grey crowned cranes, Kibale chimpanzee, shoebill) + 3 Unsplash in the body, plus an Unsplash featured image (Bwindi gorilla).
-- Fees checked October 2026: gorilla permit US$800 and park fees from the UWA tariff; Kibale chimp US$250 now, widely reported (not seen on UWA itself) as US$300 from 1 Jan 2027. Reports disagree on whether the gorilla permit rises for 2027, so the post tells readers to confirm; owner may want to check UWA's "Tariff changes 2026-2027" PDF and update. Uganda dropped the yellow fever certificate entry rule in October 2026 (the Dec post still says a certificate is expected; worth a TEXT FIX).
-- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none.
-- Could not open: https://ugandawildlife.org/wp-content/uploads/2026/03/Tariff-changes-2026-2027.pdf (permission request timed out).
-

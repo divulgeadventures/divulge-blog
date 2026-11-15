@@ -674,3 +674,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-Khwai.jpg | botswana-birding-tour-for-groups
 2026-11-15 | https://images.unsplash.com/photo-1507823160955-056fcbf921c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8Q2hvYmUlMjByaXZlciUyMGtpbmdmaXNoZXJ8ZW58MHwwfHx8MTc5NDc0MzQ2NXwy&ixlib=rb-4.1.0&q=80&w=1080 | botswana-birding-tour-for-groups
 2026-11-15 | https://images.unsplash.com/photo-1655981651220-0c66c8032040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8T2thdmFuZ28lMjBkZWx0YSUyMGJpcmRzfGVufDB8MHx8fDE3OTQ3NDM0NjR8Mg&ixlib=rb-4.1.0&q=80&w=1080 | botswana-birding-tour-for-groups
+2026-11-15 | https://images.unsplash.com/photo-1739036177683-47c806ab4761?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8RXRvc2hhJTIwZ2lyYWZmZXxlbnwwfDB8fHwxNzk0NzQ3MTY5fDI&ixlib=rb-4.1.0&q=80&w=1080 | namibia-with-kids
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/06/zebras-on-a-gravel-road-in-etosha-national-park-namibia.jpg | namibia-with-kids
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/06/oryx-crossing-the-sand-on-the-road-to-deadvlei-in-namib-naukluft.jpg | namibia-with-kids
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/01/cape-fur-seals-on-the-shore-near-walvis-bay-namibia.jpg | namibia-with-kids
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/06/mother-and-young-zebra-on-dry-grass-in-the-early-morning-in-etosha-national-park.jpg | namibia-with-kids
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/06/orange-sand-dune-in-the-namib-desert-near-sossusvlei.jpg | namibia-with-kids
