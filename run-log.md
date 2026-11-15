@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-15 16:58 | New post 7
+- "A Girls Trip to Kenya, Planned Around the Mara, the Coast and One Good Night in Nairobi": https://divulgeadventures.com/girls-trip-to-kenya/ (Kenya, Safari Themes, group sprint row KE-379; focus keyword refined from "girls trip kenya safari" to "girls trip to kenya"). Scheduled for 15 Nov 17:00 Nairobi time.
+- Group links: /group-safaris/special-occasion-safaris/ (intro area and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 5 Day Diani to Amboseli and Masai Mara Fly-in Safari and 6-Day Best of Amboseli & Masai Mara Safari. Mara fee (Narok County rates), Safarilink Diani flight time and baggage, and GOV.UK safety/eTA advice dated November 2026; only price quoted is the USD 500 balloon flight from the trip page.
+- Images: 4 from the owner's Media Library and 1 from Unsplash in the body, featured image from Unsplash. No credits.
+- Skipped topics: none (all six destinations already had a post today; Kenya has the most group rows left). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none.
+
 ## 2026-11-15 15:58 | New post 6
 - "Is Namibia With Kids Too Much Driving? A Family Road Trip That Works": https://divulgeadventures.com/namibia-with-kids/ (Namibia, Safari Themes, group sprint row NA-318; focus keyword refined from "namibia family road trip" to "namibia with kids", the phrase families search). Scheduled for 15 Nov 16:00 Nairobi time (15:00 had already passed).
 - Group links: /group-safaris/family-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trip: 7 Day Namibia Family Safari. Visa fees (UK gov advice), park fees from 1 April 2026 and CDC malaria regions dated November 2026; no package or lodge prices stated.
@@ -917,8 +924,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 4 from the owner's Media Library (Moremi/Okavango trip photos in the body), 4 from Unsplash (featured Chobe elephants, plus Okavango elephant, canoes by a river and a meerkat on a salt pan). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none (no Botswana seasonal rows for December/January left; no BOOST, as post 1 today was one).
 - Could not open: none.
 
-## 2026-10-25 15:05 | New post 1
-- "Weighing Up Kenya vs Uganda Safari Options? Start With the Animals on Your List": https://divulgeadventures.com/kenya-vs-uganda-safari/ (Kenya KE-262, BOOST comparison, Destination Tips). Scheduled for 2026-10-25 15:00 Nairobi time (10:00 had already passed when this run started).
-- Covers wildlife, gorillas and chimps, month-by-month seasons, cost estimates by tier, travel times, the East Africa Tourist Visa and yellow fever. Gorilla permit US$800 and Kibale chimps US$250 (checked October 2026); the reported 2027 rises (US$1,000 / US$300) come from non-UWA sources, so the post tells readers to confirm. Links the 7 day Uganda primate safari and 6 day Amboseli and Masai Mara trips, Kenya and Uganda safari pages and 9 Divulge Diaries posts.
-- Images: 6 from the owner's Media Library (featured Uganda gorilla, plus Masai Mara scenery, Queen Elizabeth lion, Kibale chimpanzee, Kenya wildebeest and shoebill in the body), 0 from Unsplash. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). No posts were written on 2026-10-24. Skipped topics: none.
-- Could not open: https://www.flightsfrom.com/NBO-EBB (site error).

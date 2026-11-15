@@ -680,3 +680,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/01/cape-fur-seals-on-the-shore-near-walvis-bay-namibia.jpg | namibia-with-kids
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/06/mother-and-young-zebra-on-dry-grass-in-the-early-morning-in-etosha-national-park.jpg | namibia-with-kids
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/06/orange-sand-dune-in-the-namib-desert-near-sossusvlei.jpg | namibia-with-kids
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/10/best-masai-mara-camps-by-budget.jpg | girls-trip-to-kenya
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-safari-in-december.jpg | girls-trip-to-kenya
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/10/tipping-in-kenya.jpg | girls-trip-to-kenya
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/11/elephant-orphanage-and-giraffe-centre.jpg | girls-trip-to-kenya
+2026-11-15 | https://images.unsplash.com/photo-1651860282131-e3257674ccd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8RGlhbmklMjBiZWFjaCUyMEtlbnlhfGVufDB8MHx8fDE3OTQ3NTA3MjB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | girls-trip-to-kenya
+2026-11-15 | https://images.unsplash.com/photo-1667935837291-1dc178866251?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8RGlhbmklMjBiZWFjaCUyMEtlbnlhfGVufDB8MHx8fDE3OTQ3NTA3MjB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | girls-trip-to-kenya
