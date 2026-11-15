@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-15 08:15 | New post 2
+- "Taking Your Club on a Rwanda Golf Trip? Play Kigali's 18 Holes, Then Meet the Gorillas": https://divulgeadventures.com/rwanda-golf-trip/ (Rwanda, Safari Themes, group sprint row RW-310; focus keyword refined from "golf and gorilla trip rwanda" to "rwanda golf trip"). Scheduled for 15 Nov 11:00 Nairobi time.
+- Group links: /group-safaris/club-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 5 Days Luxury Rwanda Golf and Gorilla Trekking Tour and 6 Day Rwanda Celebration Safari. No green fees stated (no official source found); costs given as labelled estimates.
+- Images: 3 from the owner's Media Library (featured + 2 body), 3 from Unsplash (body), no credits. Added "muhazi" to the spelling allowlist.
+- Could not open: https://visitrwandabookings.rdb.rw/rdbportal/low-season-discount (permission request timed out, so the discount percentage was left out); https://www.1golf.eu/en/club/kigali-golf-resort/ (site error).
+
 ## 2026-11-15 06:48 | New post 1
 - "Safari Net Rates, Explained for Travel Agents Who Sell East Africa": https://divulgeadventures.com/safari-net-rates-for-travel-agents/ (owner idea, today's one owner idea during the sprint; added to the bank as KE-393, Safari Planning Tips, focus keyword refined to "safari net rates"). Scheduled for 15 Nov 10:00 Nairobi time.
 - Agent post: main link /group-safaris/safari-dmc/ (intro and Trip CTA), /group-safaris/ once, /b2b-agent-rates/, orange "Become a Partner Agent" button to the group inquiry form; trips: 7 Day Kenya Incentive Safari and 9 Day Uganda Gorilla Safari for Clubs. No real net rates or commission levels given; fee figures reused from the October/November verified fee posts with check dates. Uganda permit price not stated (sources conflict on the January 2027 change).
@@ -920,8 +926,3 @@ Rwanda, Safari Planning Tips (bank row RW-002, core topic). Scheduled for 21 Oct
 Images: 4 from the owner's Media Library (featured young gorilla plus 3 Volcanoes National Park gorilla photos in the body; alts from their titles) and 1 from Unsplash (muddy hiking boots). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
 Could not open: none
 
-## 2026-10-21 11:20 | New post 2
-How to Plan a Kenya Safari Itinerary for One Week, With Four Routes Compared — https://divulgeadventures.com/7-day-kenya-safari-itinerary/
-Kenya, Safari Planning Tips (bank row KE-003, core topic; focus keyword refined to "kenya safari itinerary" because the bank phrase starts with a digit and 5 of the last 6 SEO titles already have a number). Scheduled for 21 October 2026 at 14:00 Nairobi time. Compares four week-long routes (classic Amboseli-lakes-Mara, northern Ol Pejeta-Meru-Samburu, Solio-Naivasha-Mara Triangle, Mara plus Diani) with day-by-day timings from the trip pages, KWS and Mara fees (checked October 2026) and trip prices from the site copy; links 4 trip pages, the Kenya safaris, bush & beach and fly-in pages and 8 Divulge Diaries posts.
-Images: 6 from the owner's Media Library (featured Mara wildebeest plus 5 in the body; alts from their titles) and 1 from Unsplash (Diani Beach). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-Could not open: none

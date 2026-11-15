@@ -651,3 +651,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/11/vulture-on-a-tree-in-masai-mara-divulge-adventures.jpeg | safari-net-rates-for-travel-agents
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/05/elephant-walking-through-green-grassland-on-safari.jpg | safari-net-rates-for-travel-agents
 2026-11-15 | https://images.unsplash.com/photo-1709420838688-ccd0517d6a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8c2FmYXJpJTIwdGVudCUyMGNhbXB8ZW58MHwwfHx8MTc5NDcxNDkxNnwy&ixlib=rb-4.1.0&q=80&w=1080 | safari-net-rates-for-travel-agents
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorillas-feeding-during-1-day-gorilla-trekking-in-rwanda.jpg | rwanda-golf-trip
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/10/green-golf-fairway-part-of-a-rwanda-golf-and-gorilla-safari.jpg | rwanda-golf-trip
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/10/kigali-city-skyline-at-sunset-rwanda.jpg | rwanda-golf-trip
+2026-11-15 | https://images.unsplash.com/photo-1647891684895-15c5b831fde1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8UndhbmRhJTIwaGlsbHN8ZW58MHwwfHx8MTc5NDcxODU3MXwy&ixlib=rb-4.1.0&q=80&w=1080 | rwanda-golf-trip
+2026-11-15 | https://images.unsplash.com/photo-1667504319000-8133f9021cf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8Vm9sY2Fub2VzJTIwTmF0aW9uYWwlMjBQYXJrJTIwUndhbmRhfGVufDB8MHx8fDE3OTQ3MTg1NzB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | rwanda-golf-trip
+2026-11-15 | https://images.unsplash.com/photo-1756245994917-7fef9d2df7a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8Vm9sY2Fub2VzJTIwTmF0aW9uYWwlMjBQYXJrJTIwUndhbmRhfGVufDB8MHx8fDE3OTQ3MTg1NzB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | rwanda-golf-trip

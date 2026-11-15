@@ -93,3 +93,4 @@ brandberg
 interdune
 geosite
 asante
+muhazi
