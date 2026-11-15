@@ -692,3 +692,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/06/cape-fur-seal-on-the-beach-at-cape-cross-namibia.jpg | namibia-incentive-trip
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/06/young-zebra-standing-on-open-ground-in-etosha-national-park.jpg | namibia-incentive-trip
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/06/granite-peaks-of-spitzkoppe-rising-above-the-desert-plains-namibia.jpg | namibia-incentive-trip
+2026-11-15 | https://images.unsplash.com/photo-1694694897985-d21a578d0463?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8U2VyZW5nZXRpJTIwc3Vuc2V0fGVufDB8MHx8fDE3OTQ3NTc4Mjl8Mg&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-photography-tour
+2026-11-15 | https://images.unsplash.com/photo-1695787841714-bc5acb2b23c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MTB8fFNlcmVuZ2V0aSUyMHN1bnNldHxlbnwwfDB8fHwxNzk0NzU3ODI5fDI&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-photography-tour
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/10/wildebeest-herd-kicking-up-dust-on-the-dry-savanna.jpg | serengeti-photography-tour
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/10/large-herd-of-wildebeest-crossing-a-river-during-the-migration.jpg | serengeti-photography-tour
+2026-11-15 | https://images.unsplash.com/photo-1702494335276-422c606e50ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8Y2hlZXRhaCUyMFNlcmVuZ2V0aXxlbnwwfDB8fHwxNzk0NzU3ODkyfDI&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-photography-tour
+2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/10/crocodiles-on-the-riverbank-as-wildebeest-cross-the-river-behind-them.jpg | serengeti-photography-tour
