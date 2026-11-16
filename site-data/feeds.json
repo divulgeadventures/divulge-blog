@@ -1,5 +1,5 @@
 {
- "checked_at_utc": "2026-11-15 17:33",
+ "checked_at_utc": "2026-11-16 10:19",
  "feeds": {
   "divulge": [
    {
@@ -10,32 +10,32 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Sun, 15 Nov 2026 16:24:32 +0000",
+    "newest": "Mon, 16 Nov 2026 10:00:00 +0000",
     "sample": [
+     {
+      "title": "A Botswana Mobile Safari With Friends: Crew, Campsites and How the Costs Split",
+      "date": "Mon, 16 Nov 2026 10:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/botswana-mobile-safari-1024x683.jpg"
+     },
+     {
+      "title": "Is a Lake Kivu Retreat Right for Your Yoga Group? What Rwanda’s Quiet Shore Offers",
+      "date": "Mon, 16 Nov 2026 09:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/lake-kivu-retreat-1024x683.jpg"
+     },
+     {
+      "title": "Kenya Golf Safari for Your Club, With Four Great Courses, Two Mara Days and an Ocean Finis",
+      "date": "Mon, 16 Nov 2026 08:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-golf-safari-1024x678.jpg"
+     },
+     {
+      "title": "How Tour Operators Book Gorilla Permits for Clients in Uganda and Rwanda",
+      "date": "Mon, 16 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/gorilla-permits-for-tour-operators-1024x683.jpg"
+     },
      {
       "title": "A Serengeti Photography Tour for Your Club Comes Down to Three Choices: Season, Seats and ",
       "date": "Sun, 15 Nov 2026 16:24:32 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/serengeti-photography-tour-1024x576.jpg"
-     },
-     {
-      "title": "Rewarding Your Top Performers With a Namibia Incentive Trip, From Dune Sunrises to Etosha’",
-      "date": "Sun, 15 Nov 2026 15:28:09 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/namibia-incentive-trip-1024x683.jpg"
-     },
-     {
-      "title": "A Girls Trip to Kenya, Planned Around the Mara, the Coast and One Good Night in Nairobi",
-      "date": "Sun, 15 Nov 2026 14:27:19 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/girls-trip-to-kenya-1024x769.jpg"
-     },
-     {
-      "title": "Is Namibia With Kids Too Much Driving? A Family Road Trip That Works",
-      "date": "Sun, 15 Nov 2026 13:25:37 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/namibia-with-kids-1024x683.jpg"
-     },
-     {
-      "title": "Botswana Birding With Your Own Group Means Skimmers, Slaty Egrets and a Shot at Pel’s Owl",
-      "date": "Sun, 15 Nov 2026 12:24:37 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/botswana-birding-tour-for-groups-1024x576.jpg"
      }
     ]
    },
@@ -158,8 +158,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Sun, 15 Nov 2026 07:00:00 +0000",
+    "newest": "Mon, 16 Nov 2026 07:00:00 +0000",
     "sample": [
+     {
+      "title": "How Tour Operators Book Gorilla Permits for Clients in Uganda and Rwanda",
+      "date": "Mon, 16 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/gorilla-permits-for-tour-operators-1024x683.jpg"
+     },
      {
       "title": "Safari Net Rates, Explained for Travel Agents Who Sell East Africa",
       "date": "Sun, 15 Nov 2026 07:00:00 +0000",
@@ -179,11 +184,6 @@
       "title": "Which Kenya Safari DMC Can You Trust With Your Clients? A Vetting Checklist for Tour Opera",
       "date": "Fri, 13 Nov 2026 07:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/divulge-adventures-masai-mara-national-reserve-narok-county-kenya-africa-1024x683.jpg"
-     },
-     {
-      "title": "Is Group Gorilla Trekking in Uganda Possible When Your Party Is Bigger Than Eight?",
-      "date": "Thu, 12 Nov 2026 11:24:40 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/05/4-day-bwindi-gorilla-trekking-safari-endangered-mountain-gorilla-in-bwindi-impen-1024x683.jpg"
      }
     ]
    },
@@ -195,8 +195,23 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Sun, 15 Nov 2026 16:24:32 +0000",
+    "newest": "Mon, 16 Nov 2026 10:00:00 +0000",
     "sample": [
+     {
+      "title": "A Botswana Mobile Safari With Friends: Crew, Campsites and How the Costs Split",
+      "date": "Mon, 16 Nov 2026 10:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/botswana-mobile-safari-1024x683.jpg"
+     },
+     {
+      "title": "Is a Lake Kivu Retreat Right for Your Yoga Group? What Rwanda’s Quiet Shore Offers",
+      "date": "Mon, 16 Nov 2026 09:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/lake-kivu-retreat-1024x683.jpg"
+     },
+     {
+      "title": "Kenya Golf Safari for Your Club, With Four Great Courses, Two Mara Days and an Ocean Finis",
+      "date": "Mon, 16 Nov 2026 08:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-golf-safari-1024x678.jpg"
+     },
      {
       "title": "A Serengeti Photography Tour for Your Club Comes Down to Three Choices: Season, Seats and ",
       "date": "Sun, 15 Nov 2026 16:24:32 +0000",
@@ -206,21 +221,6 @@
       "title": "Rewarding Your Top Performers With a Namibia Incentive Trip, From Dune Sunrises to Etosha’",
       "date": "Sun, 15 Nov 2026 15:28:09 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/namibia-incentive-trip-1024x683.jpg"
-     },
-     {
-      "title": "A Girls Trip to Kenya, Planned Around the Mara, the Coast and One Good Night in Nairobi",
-      "date": "Sun, 15 Nov 2026 14:27:19 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/girls-trip-to-kenya-1024x769.jpg"
-     },
-     {
-      "title": "Is Namibia With Kids Too Much Driving? A Family Road Trip That Works",
-      "date": "Sun, 15 Nov 2026 13:25:37 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/namibia-with-kids-1024x683.jpg"
-     },
-     {
-      "title": "Botswana Birding With Your Own Group Means Skimmers, Slaty Egrets and a Shot at Pel’s Owl",
-      "date": "Sun, 15 Nov 2026 12:24:37 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/botswana-birding-tour-for-groups-1024x576.jpg"
      }
     ]
    },
@@ -269,8 +269,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Sun, 15 Nov 2026 12:24:37 +0000",
+    "newest": "Mon, 16 Nov 2026 10:00:00 +0000",
     "sample": [
+     {
+      "title": "A Botswana Mobile Safari With Friends: Crew, Campsites and How the Costs Split",
+      "date": "Mon, 16 Nov 2026 10:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/botswana-mobile-safari-1024x683.jpg"
+     },
      {
       "title": "Botswana Birding With Your Own Group Means Skimmers, Slaty Egrets and a Shot at Pel’s Owl",
       "date": "Sun, 15 Nov 2026 12:24:37 +0000",
@@ -290,11 +295,6 @@
       "title": "Is a Botswana Family Safari Right for Your Children? Ages, Areas and Camps Explained",
       "date": "Fri, 13 Nov 2026 11:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/06/7-day-chobe-moremi-and-khwai-safari-herd-of-elephants-drinking-in-the-chobe-rive-1024x686.jpg"
-     },
-     {
-      "title": "How to Plan an Okavango Field Course for University Conservation Students",
-      "date": "Thu, 12 Nov 2026 15:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/okavango-field-course-1024x637.jpg"
      }
     ]
    },
@@ -323,8 +323,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Sun, 15 Nov 2026 12:24:37 +0000",
+    "newest": "Mon, 16 Nov 2026 10:00:00 +0000",
     "sample": [
+     {
+      "title": "A Botswana Mobile Safari With Friends: Crew, Campsites and How the Costs Split",
+      "date": "Mon, 16 Nov 2026 10:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/botswana-mobile-safari-1024x683.jpg"
+     },
      {
       "title": "Botswana Birding With Your Own Group Means Skimmers, Slaty Egrets and a Shot at Pel’s Owl",
       "date": "Sun, 15 Nov 2026 12:24:37 +0000",
@@ -344,11 +349,6 @@
       "title": "Planning an Okavango Delta Safari Around the Flood, the Camps and Your Budget",
       "date": "Wed, 11 Nov 2026 11:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/okavango-delta-safari-1024x683.jpg"
-     },
-     {
-      "title": "Is Botswana in February Worth It for Zebra Herds, Green Pans and Quieter Camps?",
-      "date": "Thu, 05 Nov 2026 16:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/06/BOTSWANA-SAFARI.jpg"
      }
     ]
    },
@@ -377,8 +377,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Sun, 15 Nov 2026 14:27:19 +0000",
+    "newest": "Mon, 16 Nov 2026 08:00:00 +0000",
     "sample": [
+     {
+      "title": "Kenya Golf Safari for Your Club, With Four Great Courses, Two Mara Days and an Ocean Finis",
+      "date": "Mon, 16 Nov 2026 08:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-golf-safari-1024x678.jpg"
+     },
      {
       "title": "A Girls Trip to Kenya, Planned Around the Mara, the Coast and One Good Night in Nairobi",
       "date": "Sun, 15 Nov 2026 14:27:19 +0000",
@@ -398,11 +403,6 @@
       "title": "A Family Reunion Safari in Kenya That Works for Grandparents, Parents and Toddlers Alike",
       "date": "Sat, 14 Nov 2026 08:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-family-reunion-safari-1024x415.jpg"
-     },
-     {
-      "title": "A Masai Mara Incentive Trip That Rewards Your Top Team, From Flights to the Awards Night",
-      "date": "Fri, 13 Nov 2026 13:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/divulge-adventures-masai-mara-national-reserve-narok-county-kenya-africa-83_7_11zon-1024x683.jpg"
      }
     ]
    },
@@ -601,8 +601,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Thu, 05 Nov 2026 11:00:00 +0000",
+    "newest": "Mon, 16 Nov 2026 08:00:00 +0000",
     "sample": [
+     {
+      "title": "Kenya Golf Safari for Your Club, With Four Great Courses, Two Mara Days and an Ocean Finis",
+      "date": "Mon, 16 Nov 2026 08:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-golf-safari-1024x678.jpg"
+     },
      {
       "title": "How to Plan Your First Kenya Safari Without Trying to See Everything",
       "date": "Thu, 05 Nov 2026 11:00:00 +0000",
@@ -622,11 +627,6 @@
       "title": "When Is the Best Time to Visit Kenya for Safari? It Depends on the Park",
       "date": "Thu, 29 Oct 2026 15:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/01/Tsavo-West-National-Park-Leopard.jpg"
-     },
-     {
-      "title": "Weighing Up Kenya vs Uganda Safari Options? Start With the Animals on Your List",
-      "date": "Sun, 25 Oct 2026 12:33:09 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/05/uganda-gorillas-best-attractions-in-Uganda-1024x683.jpg"
      }
     ]
    },
@@ -1048,8 +1048,18 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Sun, 15 Nov 2026 08:00:00 +0000",
+    "newest": "Mon, 16 Nov 2026 09:00:00 +0000",
     "sample": [
+     {
+      "title": "Is a Lake Kivu Retreat Right for Your Yoga Group? What Rwanda’s Quiet Shore Offers",
+      "date": "Mon, 16 Nov 2026 09:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/lake-kivu-retreat-1024x683.jpg"
+     },
+     {
+      "title": "How Tour Operators Book Gorilla Permits for Clients in Uganda and Rwanda",
+      "date": "Mon, 16 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/gorilla-permits-for-tour-operators-1024x683.jpg"
+     },
      {
       "title": "Taking Your Club on a Rwanda Golf Trip? Play Kigali’s 18 Holes, Then Meet the Gorillas",
       "date": "Sun, 15 Nov 2026 08:00:00 +0000",
@@ -1064,16 +1074,6 @@
       "title": "Gorillas, a Lake and a Gala Night: How a Rwanda Corporate Incentive Trip Fits Into Five Da",
       "date": "Sat, 14 Nov 2026 09:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park-1-1024x900.jpg"
-     },
-     {
-      "title": "A Kigali Conference Leaves Room for Gorillas if You Plan the Extension Early",
-      "date": "Fri, 13 Nov 2026 08:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-resting-in-the-forest-of-volcanoes-national-park-1024x900.jpg"
-     },
-     {
-      "title": "How to Run a Rwanda School Trip When Most of Your Pupils Are Too Young for Gorillas",
-      "date": "Thu, 12 Nov 2026 09:24:31 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/island-on-lake-kivu-a-highlight-of-this-rwanda-holiday-package-1024x683.jpg"
      }
     ]
    },
@@ -1383,8 +1383,13 @@
     "xml_ok": true,
     "items": 9,
     "items_with_image": 9,
-    "newest": "Sun, 15 Nov 2026 10:00:00 +0000",
+    "newest": "Mon, 16 Nov 2026 07:00:00 +0000",
     "sample": [
+     {
+      "title": "How Tour Operators Book Gorilla Permits for Clients in Uganda and Rwanda",
+      "date": "Mon, 16 Nov 2026 07:00:00 +0000",
+      "image": "https://divulgeadventures.com/wp-content/uploads/2026/11/gorilla-permits-for-tour-operators-1024x683.jpg"
+     },
      {
       "title": "How to Plan Jinja Team Building Around the Nile, From Rafting Day to Boardroom",
       "date": "Sun, 15 Nov 2026 10:00:00 +0000",
@@ -1404,11 +1409,6 @@
       "title": "Where Should a Primate Field Course in Uganda Be Based? Kibale, Budongo and Bwindi Compare",
       "date": "Sat, 14 Nov 2026 10:00:00 +0000",
       "image": "https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-resting-in-the-rainforest-canopy-1024x683.jpg"
-     },
-     {
-      "title": "A Teacher’s Guide to a Uganda Educational Tour: Equator, Nile, Chimpanzees and Safety",
-      "date": "Fri, 13 Nov 2026 10:00:00 +0000",
-      "image": "https://divulgeadventures.com/wp-content/uploads/2026/05/waters-of-the-nile-at-murchison-falls-in-northern-uganda-1024x683.jpg"
      }
     ]
    },
@@ -1510,8 +1510,13 @@
     "xml_ok": true,
     "items": 10,
     "items_with_image": 8,
-    "newest": "Sun, 15 Nov 2026 05:01:09 +0000",
+    "newest": "Mon, 16 Nov 2026 04:00:20 +0000",
     "sample": [
+     {
+      "title": "Into Kenya’s Biggest Caldera and Back Out: How a Menengai Crater Hike Works",
+      "date": "Mon, 16 Nov 2026 04:00:20 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/11/menengai-crater-hike-1024x485.jpg"
+     },
      {
       "title": "Is the Ngare Ndare Forest Hike Worth the Long Drive From Nairobi?",
       "date": "Sun, 15 Nov 2026 05:01:09 +0000",
@@ -1531,11 +1536,6 @@
       "title": "The Tongue Label Tells the Story: How to Spot Fake Hiking Boots Before You Pay",
       "date": "Thu, 12 Nov 2026 04:00:36 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/11/how-to-spot-fake-hiking-boots-1024x683.jpg"
-     },
-     {
-      "title": "Six Kilometres From the CBD: A Karura Forest Hike, Loop by Loop",
-      "date": "Wed, 11 Nov 2026 04:00:40 +0000",
-      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/11/karura-forest-hike-768x1024.jpg"
      }
     ]
    },
@@ -1621,8 +1621,13 @@
     "xml_ok": true,
     "items": 10,
     "items_with_image": 9,
-    "newest": "Sun, 15 Nov 2026 05:01:09 +0000",
+    "newest": "Mon, 16 Nov 2026 04:00:20 +0000",
     "sample": [
+     {
+      "title": "Into Kenya’s Biggest Caldera and Back Out: How a Menengai Crater Hike Works",
+      "date": "Mon, 16 Nov 2026 04:00:20 +0000",
+      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/11/menengai-crater-hike-1024x485.jpg"
+     },
      {
       "title": "Is the Ngare Ndare Forest Hike Worth the Long Drive From Nairobi?",
       "date": "Sun, 15 Nov 2026 05:01:09 +0000",
@@ -1642,11 +1647,6 @@
       "title": "Six Kilometres From the CBD: A Karura Forest Hike, Loop by Loop",
       "date": "Wed, 11 Nov 2026 04:00:40 +0000",
       "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/11/karura-forest-hike-768x1024.jpg"
-     },
-     {
-      "title": "Can You Hike Mt Suswa in a Day? Crater Rim, Lava Caves and the Road From Nairobi",
-      "date": "Fri, 06 Nov 2026 07:01:58 +0000",
-      "image": "https://hikingoutdoorhub.com/wp-content/uploads/2026/11/mt-suswa-hike-1024x576.jpg"
      }
     ]
    },
@@ -1781,6 +1781,7 @@
    "bwindi-impenetrable-national-park",
    "calving-season",
    "camera-club-safari",
+   "camping-safari",
    "charity-challenge",
    "chimpanzee-trekking",
    "chimpanzees",
@@ -1882,6 +1883,7 @@
    "kilimanjaro-weather",
    "laikipia",
    "lake-bogoria",
+   "lake-kivu",
    "lake-naivasha",
    "lake-nakuru",
    "lemosho-route",
@@ -1900,6 +1902,7 @@
    "masai-mara-national-reserve",
    "mice",
    "mokoro",
+   "moremi",
    "moremi-game-reserve",
    "mount-kenya-climb",
    "mount-kilimanjaro",
@@ -2020,12 +2023,14 @@
    "victoria-falls",
    "volcanoes-national-park",
    "walking-safari",
+   "wellness-retreat",
    "wellness-travel",
    "western-kenya",
    "when-to-go",
    "where-to-stay-in-kenya",
    "white-water-rafting",
    "yellow-fever",
+   "yoga-retreat",
    "zanzibar",
    "zanzibar-yoga-retreat",
    "zebra-migration"
@@ -2057,7 +2062,9 @@
    "chogoria-route",
    "christmas-gifts-kenya",
    "cold-weather-gear",
+   "cold-weather-headwear",
    "cold-weather-hiking",
+   "coleman",
    "columbia",
    "convertible-trousers",
    "counterfeit-boots",
@@ -2103,6 +2110,7 @@
    "hiking-gifts",
    "hiking-gloves",
    "hiking-hats",
+   "hiking-hats-kenya",
    "hiking-in-kenya",
    "hiking-jackets",
    "hiking-layers",
@@ -2143,6 +2151,7 @@
    "machakos-hikes",
    "mammut",
    "mens-hiking-boots",
+   "menengai-crater",
    "merino-wool",
    "merino-wool-socks",
    "merrell",
@@ -2164,6 +2173,7 @@
    "nairobi-hiking-gear",
    "nairobi-outdoor-shop",
    "naivasha",
+   "nakuru-hikes",
    "naro-moru-route",
    "ngare-ndare",
    "ngong-hills",
@@ -2192,6 +2202,7 @@
    "regatta",
    "rift-valley-hikes",
    "rift-valley-hiking",
+   "rift-valley-volcanoes",
    "salomon",
    "scarpa",
    "second-hand-hiking-boots",
@@ -2231,6 +2242,7 @@
    "waterproof-jackets",
    "waterproof-rain-pants",
    "weekend-trips-from-nairobi",
+   "winter-trapper-hat",
    "womens-hiking-shoes",
    "zip-off-hiking-pants"
   ]
