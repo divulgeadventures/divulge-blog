@@ -4,6 +4,10 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-16 15:53 | Nothing to do
+- Today's 9 group-sprint posts are already written and scheduled; refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). No changes made.
+- Could not open: none.
+
 ## 2026-11-16 15:20 | New post 9
 - "Congo Nile Trail Cycling With Your Club, Stage by Stage Along Lake Kivu": https://divulgeadventures.com/congo-nile-trail-cycling/ (Rwanda, Safari Themes, group sprint row RW-312; focus keyword refined from "congo nile trail cycling group" to "congo nile trail cycling", the phrase people search). Scheduled for 16 Nov 18:00 Nairobi time.
 - Destination: cycle gave Tanzania (already 2 today); Rwanda and Uganda had the most group rows left (6 each) and Rwanda comes first in the cycle. Group links: /group-safaris/club-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 3 Day Nyungwe and Lake Kivu adventure and 8 Day Rwanda Primates and Lake Kivu (no prices quoted). Facts checked November 2026: 227 km / about 5 days (Visit Rwanda), Rwanda visa on arrival (visitrwanda.com), UK FCDO advice against all but essential travel to parts of Rusizi within 10 km of the DRC border, US State Department "do not travel" for Rubavu and Rusizi within 10 km of the border. Owner note: the post is honest that both ends of the trail sit in warning zones and recommends Karongi-centred routes; please keep this in mind when quoting.
@@ -892,7 +896,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows left as todo.
 - Could not open: whc.unesco.org/en/list/403 (permission request timed out); divulgeadventures.com image download blocked by the session proxy (used the Media Library title for alt text).
 
-## 2026-10-28 18:50 | Nothing to do
-- Today's work is complete: all 3 new posts for 2026-10-28 are already written and scheduled.
-- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
-- Could not open: none.
