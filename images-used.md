@@ -716,3 +716,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-Trekking-Rwanda-volcanoes-national-park-safari.jpeg | lake-kivu-retreat
 2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/Nyungwe-Forest-National-Park-tour-canopy-walk-and-chimpanzee-trek.jpeg | lake-kivu-retreat
 2026-11-16 | https://images.unsplash.com/photo-1706977570024-fefa419c48c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8TGFrZSUyMEtpdnV8ZW58MHwwfHx8MTc5NDgwODIzNnwy&ixlib=rb-4.1.0&q=80&w=1080 | lake-kivu-retreat
+2026-11-16 | https://images.unsplash.com/photo-1619025005045-c91b0f7d879d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8c2FmYXJpJTIwY2FtcGluZyUyMHRlbnQlMjBCb3Rzd2FuYXxlbnwwfDB8fHwxNzk0ODEyMDE0fDI&ixlib=rb-4.1.0&q=80&w=1080 | botswana-mobile-safari
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-and-Nothern-Exploration-1.jpg | botswana-mobile-safari
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/06/african-wild-dogs-playing-in-afternoon-sun-in-the-okavango-delta-botswana-1.jpg | botswana-mobile-safari
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/06/kudu-bull-beside-a-tree-in-moremi-game-reserve-botswana-1.jpg | botswana-mobile-safari
+2026-11-16 | https://images.unsplash.com/photo-1759129669328-66a1aeafec7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8c2FmYXJpJTIwY2FtcGluZyUyMHRlbnQlMjBCb3Rzd2FuYXxlbnwwfDB8fHwxNzk0ODEyMDE0fDI&ixlib=rb-4.1.0&q=80&w=1080 | botswana-mobile-safari
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/06/hippos-wading-through-shallow-water-in-the-okavango-delta-botswana-1.jpg | botswana-mobile-safari
