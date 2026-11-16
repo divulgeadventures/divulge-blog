@@ -734,3 +734,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/01/Namibia-safari-walvis-bay-flamingos.jpg | namibia-tour-for-seniors
 2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/06/green-trees-on-red-sand-in-the-dry-damaraland-landscape-namibia.jpg | namibia-tour-for-seniors
 2026-11-16 | https://images.unsplash.com/photo-1785511924294-e6997cb71166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8TmFtaWJpYSUyMGxvZGdlfGVufDB8MHx8fDE3OTQ4MTkwODZ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | namibia-tour-for-seniors
+2026-11-16 | https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8U2VyZW5nZXRpJTIwYWNhY2lhJTIwc3VucmlzZXxlbnwwfDB8fHwxNzk0ODIzMDEzfDI&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-safari-for-seniors
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/05/Tanzania-Luxury-Safari.avif | tanzania-safari-for-seniors
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/ngorongoro-crater-lodges.jpg | tanzania-safari-for-seniors
+2026-11-16 | https://images.unsplash.com/photo-1695302938665-1853a2c35994?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8c21hbGwlMjBwbGFuZSUyMGFpcnN0cmlwJTIwVGFuemFuaWF8ZW58MHwwfHx8MTc5NDgyMzAxMXwy&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-safari-for-seniors
+2026-11-16 | https://images.unsplash.com/photo-1740830591119-39f11bbb99ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8c2FmYXJpJTIwbG9kZ2UlMjB0ZW50JTIwdmVyYW5kYXxlbnwwfDB8fHwxNzk0ODIzMDEyfDI&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-safari-for-seniors
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/tanzania-park-fees.jpg | tanzania-safari-for-seniors

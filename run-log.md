@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-16 13:00 | New post 7
+- "Is a Tanzania Safari for Seniors Too Tiring? How to Plan One Your Group Will Enjoy": https://divulgeadventures.com/tanzania-safari-for-seniors/ (Tanzania, Safari Themes, group sprint row TZ-331). Scheduled for 16 Nov 16:00 Nairobi time.
+- Group links: /group-safaris/family-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 8 Day Tanzania Safari (premium parks) and Tanzania Luxury Safari (their "from" prices quoted from the trip pages). Facts checked November 2026: park fees and US$295 crater fee, Coastal Aviation 15 kg soft-bag rule and free mobility aids, Tanzania Tourist Board crater altitude, CDC yellow fever advice for over-60s, Tanzania inbound insurance (US$44, 10% group discount from 10 adults, ATTA). Park-fee totals labelled as estimates.
+- Images: 3 from the owner's Media Library in the body (Tarangire elephants, road above the Ngorongoro Crater, Serengeti cheetah) and 2 from Unsplash in the body (light aircraft on a Tanzania airstrip, safari tent porch); featured image from Unsplash (Serengeti sunset). No credits.
+- Skipped topics: none (cycle gave Tanzania; all six destinations already had a post today, so this is Tanzania's second). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: whc.unesco.org Ngorongoro page (permission request timed out).
+
 ## 2026-11-16 11:56 | New post 6
 - "A Namibia Tour for Seniors Works Best With Short Drives, Two-Night Stops and a Guide at the Wheel": https://divulgeadventures.com/namibia-tour-for-seniors/ (Namibia, Safari Themes, group sprint row NA-320; focus keyword refined from "guided namibia tour for seniors" to "namibia tour for seniors", the shorter phrase people search). Scheduled for 16 Nov 15:00 Nairobi time.
 - Group links: /group-safaris/family-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 7 Day Namibia Family Safari and 5 Day Namibia Celebration Safari. Facts: Namibia visa N$1,600 for 33 nationalities (Namibian embassy notice), Etosha/Namib-Naukluft N$280 per foreign adult per day from 1 April 2026 (Namibian.org report), CDC malaria regions, NWR directions and Sossusvlei distances, all checked November 2026; no package prices quoted. Review-stars line left out because the validator fails bold text inside a paragraph (same as today's other posts).
@@ -903,10 +910,4 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
   - Prices: 9481 (USD 6,180) is more than double 9539 (USD 2,526) for the same 8 days and parks; fine if lodge level explains it, but 9481 offers two lodge options per night with one price. 9539's related-trip card for "8 Days Tanzania & Zanzibar Safari & Beach" shows no price.
 - Could not open: none (live site not needed; divulgeadventures.com image downloads blocked by proxy).
 - Next: northern-tanzania-safari, 5-days-northern-tanzania-safari
-
-## 2026-10-28 06:53 | New post 1
-- "A Gorilla Trekking Packing List That Copes With Mud, Nettles and Rain": https://divulgeadventures.com/gorilla-trekking-packing-list/ (Uganda UG-003, core topic, Safari Planning Tips; focus keyword refined from "what to pack for gorilla trekking" to "gorilla trekking packing list"). Scheduled for 2026-10-28 10:00 Nairobi time.
-- Covers clothing, daypack, rain/altitude (Bwindi 1,190-2,600 m, 1,000-2,000 mm rain, wet seasons Mar-May and Sep-Nov, from ITFC research records), photography, Uganda vs Rwanda differences (Rwanda plastic bag ban, from Visit Rwanda) and what to leave at home. No permit prices quoted (UWA's online tariff PDF is the old 2022-2024 one, so readers are sent to the Bwindi and Rwanda permit posts). Links the Uganda safari page, the 4-day Bwindi trip, the gorilla trekking activity page and 7 Divulge Diaries posts.
-- Images: 3 from the owner's Media Library (Bwindi gorilla, mother and juvenile gorilla in Bwindi, gorilla from the Bwindi trip gallery), 3 from Unsplash (featured gear flat lay, hiking boots, forest). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none.
-- Could not open: no official Aerolink baggage page found (light-aircraft weight limit left unstated); acrossafrica blog page redirected and was not fetched.
 
