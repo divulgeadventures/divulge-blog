@@ -4,6 +4,9 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-16 13:33 Trip Optimiser
+- Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
+
 ## 2026-11-16 13:00 | New post 7
 - "Is a Tanzania Safari for Seniors Too Tiring? How to Plan One Your Group Will Enjoy": https://divulgeadventures.com/tanzania-safari-for-seniors/ (Tanzania, Safari Themes, group sprint row TZ-331). Scheduled for 16 Nov 16:00 Nairobi time.
 - Group links: /group-safaris/family-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 8 Day Tanzania Safari (premium parks) and Tanzania Luxury Safari (their "from" prices quoted from the trip pages). Facts checked November 2026: park fees and US$295 crater fee, Coastal Aviation 15 kg soft-bag rule and free mobility aids, Tanzania Tourist Board crater altitude, CDC yellow fever advice for over-60s, Tanzania inbound insurance (US$44, 10% group discount from 10 adults, ATTA). Park-fee totals labelled as estimates.
