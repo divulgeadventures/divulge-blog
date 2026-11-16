@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-16 14:30 | New post 8
+- "A Kenya Yoga Retreat for Your Group, From Highland Mornings to Mara Sunrises": https://divulgeadventures.com/kenya-yoga-retreat/ (Kenya, Safari Themes, group sprint row KE-381; focus keyword refined from "yoga retreat kenya safari" to "kenya yoga retreat", the phrase people search). Scheduled for 16 Nov 17:00 Nairobi time.
+- Destination: every country already had a post today, so Kenya took its second slot because it has the most group rows left (9 before this post). Group links: /group-safaris/club-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 5 Day Diani to Amboseli and Masai Mara Fly-in Safari and 7 Day Solio, Naivasha and Masai Mara Triangle (no prices quoted). Facts checked November 2026: Kenya eTA from US$30 and 3 working days (official eTA FAQs), mandatory Kenyan travel health insurance from 5 Oct 2026 (GOV.UK), Travel Health Pro malaria and yellow fever advice, Mara fees US$100/US$200 by season, Nanyuki altitude.
+- Images: 3 from the owner's Media Library in the body (Mount Kenya above the clouds, Laikipia wild dogs, Mara acacia sunset) and 2 from Unsplash in the body (Kenya south coast, deck over green hills); featured image from Unsplash (Diani Beach sunrise). No credits.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: etakenya.go.ke home page (permission request timed out; the FAQ page opened), flysafarilink.com Diani page (bot protection).
+
 ## 2026-11-16 13:33 Trip Optimiser
 - Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
 
@@ -889,28 +896,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 3 from the owner's Media Library + 2 Unsplash in the body (5 total); featured image from Unsplash (elephants drinking in the Chobe River).
 - Skipped: no BOOST row (a BOOST post ran yesterday) and no December/January Botswana seasonal row left.
 - Could not open: fitfortravel.nhs.uk/destinations/africa/botswana and wwwnc.cdc.gov/travel/destinations/traveler/none/botswana (permission requests timed out), so malaria advice is kept general.
-
-## 2026-10-28 11:00 | New post 2
-- "Which Samburu Lodges Suit Your Trip? Riverbank Tents, Shaba Springs and Conservancy Hideaways" https://divulgeadventures.com/samburu-lodges/ (Kenya KE-006, Accommodation Guide; focus keyword refined from "best samburu lodges" to "samburu lodges"). Scheduled for 2026-10-28 14:00 Nairobi time.
-- Lodges covered only from their official sites: Samburu Sopa, Samburu Intrepids, Ashnil Samburu Camp, Surana Buffalo Springs, Sarova Shaba, Sasaab. Elephant Watch Camp left out (its site shows no current dates, so could not confirm it is operating) and Saruni Samburu left out (official site could not be opened). No room rates or county reserve fee quoted (not verifiable on an official source); readers are told fees are confirmed in the quote.
-- Images: 3 from the owner's Media Library + 2 Unsplash in the body (5 total); featured image from Unsplash (zebra in Samburu National Reserve).
-- Could not open: sarunibasecamp.com/our-properties/saruni-samburu/ (permission request timed out).
-
-## 2026-10-28 05:36 Trip Optimiser
-- Done: 8 Days Great Migration Northern Tanzania (ID 9539, "8 day northern tanzania great migration safari", tanzania-9539-8-day-northern-tanzania-great-migration-safari.json); 8-Day Tarangire, Ngorongoro & Serengeti Safari (ID 9481, "8 day tarangire ngorongoro and serengeti safari", tanzania-9481-8-day-tarangire-ngorongoro-and-serengeti-safari.json). Both read from the site-data copy (snapshot 2026-10-28 03:27 UTC); the live site was not opened. 9539 uses "From USD 2,526 per adult"; 9481 uses "From USD 6,180 per adult (USD 4,368 per child)" (each page shows one price, no regular/sale pair).
-- Photos: 9539 6 owner/Media Library + 1 Unsplash (Elizabeth Morgan, elephants and baobabs in Tanzania; credited); 9481 7 owner/Media Library + 0 Unsplash. Owner photos could not be downloaded for a visual check (proxy blocked divulgeadventures.com), so they were chosen by file name/title; please check none has a person as the main subject (especially divulge_adventures_safari-167 and divulge_adventures_safari-27, whose content is not described anywhere).
-- Owner to fix by hand (the importer cannot change these):
-  - 9539: the overview says the trip is "designed to maximize your chances of witnessing the dramatic Mara River crossings" and the highlights say "Northern Serengeti ... Mara River", but the itinerary never goes to the northern Serengeti: day 5 is the Western Corridor / Grumeti River. Either change the overview/highlights or add northern Serengeti days. The new overview describes the real itinerary only.
-  - 9539 title has a double space ("8 Days  Great Migration Northern Tanzania"); suggest "8 Days Great Migration Northern Tanzania Safari".
-  - 9539 itinerary typos: "picinic" (day 2), "Farm of dream Lodge Karatu" (real name Farm of Dreams Lodge), "Moyo tented Camp" / "Moyo Tented Camp" capitalisation varies across days 3-5, day 3 lodge line just says "Moyo tented Camp" with no "Dinner and overnight at", "Nyasarori plains" (day 5, please check the name), "lots and lots of bird life", "Serengeti`s" (backtick), day 8 "Bushmen ... who sleep in groups", "vary much an equivalent way", "purchasable by maker himself".
-  - 9539: day 3 offers Olduvai Gorge as "optional" while Excludes lists "Olduvai Gorge" with no price; the Excludes list also starts with an empty bullet. Day 8 Hadzabe/Datoga visit is not listed under Includes; please confirm it is included.
-  - 9539 trip facts: "Accomodation" (spelling) shows "3 Star, 4 Star, 5 Star" though only one lodge per night is named; Language "Germany" should be "German". No best months are given anywhere on the page.
-  - 9539 alt text: featured image divulge_adventures_safari-167 (ID 7384) has alt/title "What to Pack for Tanzania Safari Checklist", which does not describe the photo. Media ID 7638 (masai-mara-lions.jpg) has alt/title "Tarangire National Park" although the file name says Masai Mara; it shows on the 8 Day Midrange Tanzania Safari card.
-  - 9481: lodge names conflict across days: day 4 "Gran Melia Serengeti Lodge" vs days 5-6 "Melia Serengeti Lodge" (the new copy uses "Melia Serengeti Lodge"; please confirm). "Manyara Secrete Lodge" should be "Manyara Secret Lodge".
-  - 9481: the overview says the trip ends "with a scenic charter flight back to Arusha", but day 8 is a 4-hour drive to Kilimanjaro Airport (and the day 8 title says "to Arusha"). Includes says "1 Night Accommodation at Tarangire National Park", but the day 2 lodges are at Lake Manyara.
-  - 9481 itinerary errors/typos: day 3 "Canoe Ride the deepest lake in Africa" (Lake Manyara is not; Lake Tanganyika is), day 3 title "TARANGIRE NATIONAL PARK to MTO WA MBU" though you already left Tarangire on day 2, "Dinner and Overnight and Manyara..." (should be "at"), "breakfast,begin" (missing spaces, days 3-4), "Complementary sundowner" (Complimentary), Includes merges the Ngorongoro night with "All Park Entry and Conservation Fee." on one line. Highlights list has "Tanzania Wildebeest Migration Safari" as a highlight.
-  - 9481: no featured image is set; the new file sets divulge_adventures_safari-27 (ID 7385). The old gallery photo great-migration-masai-mara-national-reserve-luxury-safari (2026/05) was dropped as it is named after the Masai Mara (Kenya) and is not in the Media Library copy; crocodiles-on-the-riverbank (11839) and wildebeest-and-zebras-grazing (11849) were dropped to keep the gallery at 6. Media ID 10095 (serengeti-migration.jpg) has alt "Ngorongoro Crater & Serengeti National park Safari", which describes the trip, not the photo. Media ID 11852 file/title say flamingos "in the Serengeti" (flamingos are more likely Lake Manyara/Ngorongoro); alt kept as "northern Tanzania".
-  - Prices: 9481 (USD 6,180) is more than double 9539 (USD 2,526) for the same 8 days and parks; fine if lodge level explains it, but 9481 offers two lodge options per night with one price. 9539's related-trip card for "8 Days Tanzania & Zanzibar Safari & Beach" shows no price.
-- Could not open: none (live site not needed; divulgeadventures.com image downloads blocked by proxy).
-- Next: northern-tanzania-safari, 5-days-northern-tanzania-safari
-

@@ -139,3 +139,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-16 | Tanzania TZ-330 | Safari Themes | tanzania birthday safari | tanzania-birthday-safari
 2026-11-16 | Namibia NA-320 | Safari Themes | namibia tour for seniors | namibia-tour-for-seniors
 2026-11-16 | Tanzania TZ-331 | Safari Themes | tanzania safari for seniors | tanzania-safari-for-seniors
+2026-11-16 | Kenya KE-381 | Safari Themes | kenya yoga retreat | kenya-yoga-retreat

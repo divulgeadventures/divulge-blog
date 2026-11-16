@@ -740,3 +740,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-16 | https://images.unsplash.com/photo-1695302938665-1853a2c35994?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8c21hbGwlMjBwbGFuZSUyMGFpcnN0cmlwJTIwVGFuemFuaWF8ZW58MHwwfHx8MTc5NDgyMzAxMXwy&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-safari-for-seniors
 2026-11-16 | https://images.unsplash.com/photo-1740830591119-39f11bbb99ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8c2FmYXJpJTIwbG9kZ2UlMjB0ZW50JTIwdmVyYW5kYXxlbnwwfDB8fHwxNzk0ODIzMDEyfDI&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-safari-for-seniors
 2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/tanzania-park-fees.jpg | tanzania-safari-for-seniors
+2026-11-16 | https://images.unsplash.com/photo-1691161510065-298039a5b51b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8RGlhbmklMjBiZWFjaHxlbnwwfDB8fHwxNzk0ODI2NTg1fDI&ixlib=rb-4.1.0&q=80&w=1080 | kenya-yoga-retreat
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2025/11/mount-kenya-range-rising-above-the-clouds.jpg | kenya-yoga-retreat
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/02/Laikipia-Wilderness-Wild-Dogs.jpg | kenya-yoga-retreat
+2026-11-16 | https://images.unsplash.com/photo-1667935837291-1dc178866251?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8RGlhbmklMjBiZWFjaHxlbnwwfDB8fHwxNzk0ODI2NTg1fDI&ixlib=rb-4.1.0&q=80&w=1080 | kenya-yoga-retreat
+2026-11-16 | https://images.unsplash.com/photo-1768413292571-1c94e275d6bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8eW9nYSUyMG1hdCUyMG91dGRvb3IlMjBkZWNrfGVufDB8MHx8fDE3OTQ4MjY1ODZ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | kenya-yoga-retreat
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-honeymoon-safari.jpg | kenya-yoga-retreat
