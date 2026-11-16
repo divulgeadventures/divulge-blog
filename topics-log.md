@@ -133,3 +133,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-15 | Namibia NA-319 | Safari Themes | namibia incentive trip | namibia-incentive-trip
 2026-11-15 | Tanzania TZ-329 | Safari Themes | serengeti photography tour | serengeti-photography-tour
 2026-11-16 | Uganda UG-324 | Safari Planning Tips | gorilla permits for tour operators | gorilla-permits-for-tour-operators
+2026-11-16 | Kenya KE-380 | Safari Themes | kenya golf safari | kenya-golf-safari

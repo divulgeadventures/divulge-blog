@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-16 07:53 | New post 2
+- "Kenya Golf Safari for Your Club, With Four Great Courses, Two Mara Days and an Ocean Finish": https://divulgeadventures.com/kenya-golf-safari/ (Kenya, Safari Themes, group sprint row KE-380; focus keyword refined from "golf safari kenya" to "kenya golf safari"). Scheduled for 16 Nov 11:00 Nairobi time.
+- Group links: /group-safaris/club-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 8 Day Kenya Golf Safari and 2 Day Masai Mara Flying Safari. Course facts from Karen Country Club and Vipingo Ridge official sites and the Great Rift Valley Lodge golf page; 2027 Magical Kenya Open dates (18-21 Feb, Karen) from DP World Tour news, September 2026; Vipingo buggy prices checked November 2026. Group terms from the golf trip page; no package prices quoted.
+- Images: 3 from the owner's Media Library (Naivasha pelican, Mara leopard, Nairobi NP giraffe) and 2 from Unsplash in the body (misty fairway, aerial beach); featured image from Unsplash (golf club on fairway). No credits.
+- Skipped topics: none (cycle gave Kenya). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none.
+
 ## 2026-11-16 06:54 | New post 1
 - "How Tour Operators Book Gorilla Permits for Clients in Uganda and Rwanda": https://divulgeadventures.com/gorilla-permits-for-tour-operators/ (Uganda and Rwanda, Safari Planning Tips, AGENT POST). Owner idea from TOPIC_IDEAS.md (today's one owner idea during the group sprint), added to the bank as UG-324. Scheduled for 16 Nov 10:00 Nairobi time.
 - Links: /group-safaris/safari-dmc/ (intro and Trip CTA), /group-safaris/ once, orange button to the group inquiry form (Become a Partner Agent); trips: 4 Day Gorilla Trekking Safari to Bwindi and 4 Days Rwanda Double Gorilla Trekking; links the Rwanda gorilla permit post. Uganda prices and rules from the UWA January 2027-June 2028 tariff, Rwanda advance-booking and rescheduling terms from the RDB booking portal (checked November 2026). No Divulge prices quoted.
@@ -915,6 +922,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 5 from the owner's Media Library (featured gorilla resting, plus gorilla eating leaves, golden monkey, Akagera giraffe, Lake Kivu island), 1 from Unsplash (Kigali wetland). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none (Rwanda has no BOOST rows; this is today's one seasonal post). Nyungwe activity fees left out because no official current price list could be confirmed.
 - Could not open: africanparks.org/the-parks/nyungwe (permission request timed out); gov.uk Rwanda entry requirements timed out on the first try, then opened.
 
-## 2026-10-26 18:50 | Nothing to do
-- Today's 3 new posts are already written (Kilimanjaro routes, Namibia in January, Amboseli lodges). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left), so no post changes.
-- Could not open: none.

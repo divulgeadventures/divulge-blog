@@ -704,3 +704,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorillas-feeding-during-1-day-gorilla-trekking-in-rwanda-1.jpg | gorilla-permits-for-tour-operators
 2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/golden-monkey-trekking-rwanda.jpg | gorilla-permits-for-tour-operators
 2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/uganda-in-january.jpg | gorilla-permits-for-tour-operators
+2026-11-16 | https://images.unsplash.com/photo-1593111774240-d529f12cf4bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8Z29sZiUyMGZhaXJ3YXl8ZW58MHwwfHx8MTc5NDgwNDYzNXwy&ixlib=rb-4.1.0&q=80&w=1080 | kenya-golf-safari
+2026-11-16 | https://images.unsplash.com/photo-1742498626081-a64f9677f468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8Z29sZiUyMGZhaXJ3YXl8ZW58MHwwfHx8MTc5NDgwNDYzNXwy&ixlib=rb-4.1.0&q=80&w=1080 | kenya-golf-safari
+2026-11-16 | https://images.unsplash.com/photo-1733128174420-78f4514aded1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8N3x8S2VueWElMjBjb2FzdCUyMGJlYWNofGVufDB8MHx8fDE3OTQ4MDQ2MzV8Mg&ixlib=rb-4.1.0&q=80&w=1080 | kenya-golf-safari
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/lake-naivasha-lodges.jpg | kenya-golf-safari
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/leopard-in-the-long-grass-of-the-masai-mara-national-reserve.jpg | kenya-golf-safari
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/day-trips-from-nairobi.jpg | kenya-golf-safari

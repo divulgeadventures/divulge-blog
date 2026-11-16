@@ -301,3 +301,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/namibia-incentive-trip/ (namibia incentive trip)
 - https://divulgeadventures.com/serengeti-photography-tour/ (serengeti photography tour)
 - https://divulgeadventures.com/gorilla-permits-for-tour-operators/ (gorilla permits for tour operators)
+- https://divulgeadventures.com/kenya-golf-safari/ (kenya golf safari)
