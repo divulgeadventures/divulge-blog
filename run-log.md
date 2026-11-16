@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-16 08:58 | New post 3
+- "Is a Lake Kivu Retreat Right for Your Yoga Group? What Rwanda's Quiet Shore Offers": https://divulgeadventures.com/lake-kivu-retreat/ (Rwanda, Safari Themes, group sprint row RW-311; focus keyword refined from "lake kivu wellness retreat" to "lake kivu retreat"). Scheduled for 16 Nov 12:00 Nairobi time.
+- Group links: /group-safaris/club-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 8 Days Rwanda Primates and Lake Kivu Experience and 6 Days Rwanda Wildlife, Culture and Lake Kivu Holiday. Facts from Visit Rwanda (towns, Congo Nile Trail), Rwanda Convention Bureau (Lake Kivu Serena facilities), Rwanda embassy visa page (US$50, checked November 2026) and CDC (freshwater/bilharzia advice); retreat costs are labelled estimates, no package prices quoted.
+- Images: 2 from the owner's Media Library (gorilla in Volcanoes NP, Nyungwe canopy walk) and 3 from Unsplash in the body (hamerkop on Napoleon Island, boat on calm water, road above a lake); featured image from Unsplash (island on Lake Kivu). No credits. Kivu owner photos were all used in the last 14 days, so Unsplash was used for the lake.
+- Skipped topics: none (cycle gave Rwanda). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none.
+
 ## 2026-11-16 08:34 Trip Optimiser
 - Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
 
@@ -897,31 +904,4 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Compares Loldia House, Enashipai Resort & Spa and The Great Rift Valley Lodge & Golf Resort (each from its own website) plus Lake Naivasha Sopa Resort (described only from our own trip pages). No room rates quoted. Hell's Gate / Longonot fees from KWS Legal Notice 160 of 2025 (US$50 adult / US$25 child non-resident, checked October 2026); Ramsar facts from the Ramsar site record. Links the 4-day and 9-day Naivasha trips, the Kenya safari page and 5 Divulge Diaries posts.
 - Images: 3 from the owner's Media Library (Lake Naivasha, Crescent Island, Hell's Gate), 2 from Unsplash (featured pelican on a Lake Naivasha boat ride, hippos in Lake Naivasha). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none. Added "loldia" and "enashipai" to spelling-allowlist.txt.
 - Could not open: sopalodges.com Lake Naivasha Sopa Resort page (permission request timed out); no official website found for Chui Lodge, Camp Carnelley's or Elsamere, so they were left out. Owner photos could not be downloaded for a visual check (proxy blocked), so they were chosen by title.
-
-## 2026-10-27 08:36 Trip Optimiser
-- Done: A Day Corporate Team Building at Burudani Adventure Park (ID 6861, "full day corporate team building at burudani adventure park", kenya-6861-full-day-corporate-team-building-at-burudani-adventure-park.json); 4-Day Serengeti Wildebeest Migration Safari (ID 9518, "4 day serengeti wildebeest migration safari", tanzania-9518-4-day-serengeti-wildebeest-migration-safari.json). Both read from the site-data copy (snapshot 2026-10-27 03:19 UTC); the live site was not opened. Burudani shows no price, so it uses the "Price on request" box; the Serengeti trip uses "From USD 3,392 per adult" (the page shows one price only, no regular/sale pair).
-- Photos: Burudani 2 owner + 0 Unsplash (featured + 1 gallery photo only, see below); Serengeti 6 owner + 0 Unsplash.
-- Owner to fix by hand (the importer cannot change these):
-  - Burudani (6861): the current gallery is 4 Chaka Ranch photos (divulge-adventures-chaka-ranch-team-building-*), i.e. the wrong venue, so the new file drops them and the gallery shrinks to 1 photo. Please upload more Burudani Adventure Park photos (ideally the course, zipline or grounds, not close-ups of people) and add them to the gallery. I could not view the two Burudani owner photos used (…burudani-adventure-park-276 and -294), so please check neither has a person as the main subject.
-  - Burudani: Media Library alt text is wrong on divulge-adventure-nkasiri-adventure-park-279-scaled.jpg (ID 11003): file is Nkasiri but alt/title say "Burudani Adventure Park". Old alt "team building" (6864) and "divulge adventures team buidling events" (6197) are too vague / misspelt.
-  - Burudani typos: "Team Buidling Highlights" heading; "Sly Cycling" in Cost Excludes (should be Sky Cycling).
-  - Burudani title "A Day Corporate Team Building…" does not match the slug "full-day-…"; suggest "Full Day Corporate Team Building at Burudani Adventure Park".
-  - Burudani prices missing: no package price, and the 7 optional extras (high ropes levels 1-3, zipline, sky cycling and the two combos) are listed under Excludes with no prices.
-  - Burudani itinerary inconsistencies: 14:30 "Optional Activities" lists ziplining and high ropes as "light engagement" although they are paid extras; 16:30 says "Optional Evening Tea" while Includes lists evening tea; the recap block says "Finalize the day with icebreakers".
-  - Burudani: Related Trips shows unrelated birding/fly-in safaris; better to show the Nkasiri / Chaka Ranch team building trips.
-  - Serengeti (9518): lodge name conflicts across days: day 1 "Mara mara Tented Lodge", days 2 and 3 "Mara Tented Lodge". The new copy uses "Mara Mara Tented Lodge"; please confirm the real lodge and fix all 3 days.
-  - Serengeti typos: "Willdebeest" (day 1), "Wildbeest" (day 4), "Great Migration,perfect" and "bush breakfast in the wild,an" (missing spaces), "the Great Wildebeest Migration Safari as herds" (day 2 wording).
-  - Serengeti logistics unclear: day 4 is titled "Departure to Arusha" and the morning drive ends at Kogatende airstrip, then a separate line says "Pickup at Arusha airport and drop off Kilimanjaro International Airport". Includes lists the flight Arusha to Serengeti only; please state whether the return flight Kogatende to Arusha is included.
-  - Serengeti: Includes says "Park fees and crater service fees" but the itinerary never visits the Ngorongoro Crater.
-  - Serengeti: day 3 has a hot air balloon flight but Includes/Excludes don't say whether it is included (balloons are usually extra); the new copy says it is confirmed in the quote.
-  - Serengeti: the page gives no best months; the new copy says river crossings usually happen about July to October. Day 1 also claims "a lion population exceeding 3,000" (unsourced; left out of the new copy).
-  - Serengeti: featured image file is mara-wildebeest-migration-1.jpg with alt "Magical Tanzania Wildebeest Migration Safari"; if the photo was taken in Kenya's Masai Mara, swap it for a Serengeti photo.
-- Could not open: none.
-- Next: 8-day-great-migration-northern-tanzania, tarangire-ngorongoro-serengeti-safari
-
-## 2026-10-27 07:25 | New post 1
-- "Is Rwanda in December Worth It? Gorillas, Short Rains and a Cheaper Permit": https://divulgeadventures.com/rwanda-in-december/ (Rwanda RW-054, seasonal, Destination Tips). Scheduled for 2026-10-27 10:00 Nairobi time.
-- Covers December weather (Kigali 25°C/13°C, 101 mm on about 20 days vs 140 mm in November and 75 mm in January; long-term averages from Weather2Travel; Meteo Rwanda outlooks for Musanze), trekking conditions, the gorilla permit (US$1,500, or US$1,050 with the RDB 30% November-May low-season discount; checked October 2026), golden monkeys (US$100), Akagera (2025 African Parks price list, readers told to confirm), Nyungwe, Lake Kivu, a 7-day discount-qualifying route, festive-season booking, Umuganda and GOV.UK visa rules. Links the quote form (Rwanda rule), 2 trip pages (Akagera night game drive, 6-day gorilla and Akagera), the Rwanda gorilla trek page and 6 Divulge Diaries posts.
-- Images: 5 from the owner's Media Library (featured gorilla resting, plus gorilla eating leaves, golden monkey, Akagera giraffe, Lake Kivu island), 1 from Unsplash (Kigali wetland). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none (Rwanda has no BOOST rows; this is today's one seasonal post). Nyungwe activity fees left out because no official current price list could be confirmed.
-- Could not open: africanparks.org/the-parks/nyungwe (permission request timed out); gov.uk Rwanda entry requirements timed out on the first try, then opened.
 

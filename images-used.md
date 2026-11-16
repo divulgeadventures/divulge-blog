@@ -710,3 +710,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/lake-naivasha-lodges.jpg | kenya-golf-safari
 2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/leopard-in-the-long-grass-of-the-masai-mara-national-reserve.jpg | kenya-golf-safari
 2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/day-trips-from-nairobi.jpg | kenya-golf-safari
+2026-11-16 | https://images.unsplash.com/photo-1514548383638-cef9251a73ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8TGFrZSUyMEtpdnV8ZW58MHwwfHx8MTc5NDgwODIzNnwy&ixlib=rb-4.1.0&q=80&w=1080 | lake-kivu-retreat
+2026-11-16 | https://images.unsplash.com/photo-1688326009438-bf79bd2913e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MTB8fExha2UlMjBLaXZ1fGVufDB8MHx8fDE3OTQ4MDgyMzZ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | lake-kivu-retreat
+2026-11-16 | https://images.unsplash.com/photo-1647849975193-bf78bd1cbf4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8N3x8TGFrZSUyMEtpdnV8ZW58MHwwfHx8MTc5NDgwODIzNnwy&ixlib=rb-4.1.0&q=80&w=1080 | lake-kivu-retreat
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-Trekking-Rwanda-volcanoes-national-park-safari.jpeg | lake-kivu-retreat
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/Nyungwe-Forest-National-Park-tour-canopy-walk-and-chimpanzee-trek.jpeg | lake-kivu-retreat
+2026-11-16 | https://images.unsplash.com/photo-1706977570024-fefa419c48c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8TGFrZSUyMEtpdnV8ZW58MHwwfHx8MTc5NDgwODIzNnwy&ixlib=rb-4.1.0&q=80&w=1080 | lake-kivu-retreat
