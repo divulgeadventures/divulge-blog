@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-16 06:54 | New post 1
+- "How Tour Operators Book Gorilla Permits for Clients in Uganda and Rwanda": https://divulgeadventures.com/gorilla-permits-for-tour-operators/ (Uganda and Rwanda, Safari Planning Tips, AGENT POST). Owner idea from TOPIC_IDEAS.md (today's one owner idea during the group sprint), added to the bank as UG-324. Scheduled for 16 Nov 10:00 Nairobi time.
+- Links: /group-safaris/safari-dmc/ (intro and Trip CTA), /group-safaris/ once, orange button to the group inquiry form (Become a Partner Agent); trips: 4 Day Gorilla Trekking Safari to Bwindi and 4 Days Rwanda Double Gorilla Trekking; links the Rwanda gorilla permit post. Uganda prices and rules from the UWA January 2027-June 2028 tariff, Rwanda advance-booking and rescheduling terms from the RDB booking portal (checked November 2026). No Divulge prices quoted.
+- Images: 5 from the owner's Media Library in the body (Bwindi and Volcanoes gorillas), featured image from Unsplash (Bwindi silverback). No credits.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none.
+
 ## 2026-11-15 19:49 | Nothing to do
 - Today's 9 group sprint posts are already written and scheduled; refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
 - Could not open: none.
@@ -911,10 +918,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 ## 2026-10-26 18:50 | Nothing to do
 - Today's 3 new posts are already written (Kilimanjaro routes, Namibia in January, Amboseli lodges). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left), so no post changes.
 - Could not open: none.
-
-## 2026-10-26 15:20 | New post 3
-- "How to Pick Between Amboseli Lodges for Kilimanjaro Views, Elephants and Budget": https://divulgeadventures.com/amboseli-lodges/ (Kenya KE-004, core topic, Accommodation Guide; focus keyword refined from "best amboseli lodges" to "amboseli lodges"). Scheduled for 2026-10-26 18:00 Nairobi time.
-- Compares six properties by zone, each described from its own website only: Ol Tukai Lodge and Amboseli Serena Safari Lodge (inside the park), Amboseli Sopa Lodge (park edge), Tortilis Camp, Tawi Lodge and Angama Amboseli (conservancies). No room rates quoted; KWS park fee US$90 adult / US$45 child per 24 hours (checked October 2026). Links the 3 day Amboseli fly-in and 6-day Best of Amboseli & Masai Mara trips, the Kenya safari page and 4 Divulge Diaries posts.
-- Images: 4 from the owner's Media Library (featured elephant herd in front of Kilimanjaro, plus Amboseli plains, dry lake bed and birdlife in the body), 2 from Unsplash (safari tents, Amboseli road towards Kilimanjaro). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none (no BOOST, as yesterday used one; post 2 today was already the seasonal one). Kibo Safari Camp left out because its site could not confirm it is currently operating.
-- Could not open: elewanacollection.com/tortilis-camp-amboseli, angama.com/amboseli and serenahotels.com/amboseli on first try (permission requests timed out; the same sites were then read through search-result links).
-

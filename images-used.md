@@ -698,3 +698,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/10/large-herd-of-wildebeest-crossing-a-river-during-the-migration.jpg | serengeti-photography-tour
 2026-11-15 | https://images.unsplash.com/photo-1702494335276-422c606e50ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8Y2hlZXRhaCUyMFNlcmVuZ2V0aXxlbnwwfDB8fHwxNzk0NzU3ODkyfDI&ixlib=rb-4.1.0&q=80&w=1080 | serengeti-photography-tour
 2026-11-15 | https://divulgeadventures.com/wp-content/uploads/2026/10/crocodiles-on-the-riverbank-as-wildebeest-cross-the-river-behind-them.jpg | serengeti-photography-tour
+2026-11-16 | https://images.unsplash.com/photo-1711198583409-b3dba6a7e144?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8N3x8QndpbmRpJTIwZm9yZXN0fGVufDB8MHx8fDE3OTQ4MDEwNTd8Mg&ixlib=rb-4.1.0&q=80&w=1080 | gorilla-permits-for-tour-operators
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/bwindi-gorilla-trekking.jpg | gorilla-permits-for-tour-operators
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorilla-on-a-1-day-gorilla-trekking-rwanda-tour-in-volcanoes-national-p-1.jpg | gorilla-permits-for-tour-operators
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/mountain-gorillas-feeding-during-1-day-gorilla-trekking-in-rwanda-1.jpg | gorilla-permits-for-tour-operators
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/golden-monkey-trekking-rwanda.jpg | gorilla-permits-for-tour-operators
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/uganda-in-january.jpg | gorilla-permits-for-tour-operators
