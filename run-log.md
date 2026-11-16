@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-16 11:56 | New post 6
+- "A Namibia Tour for Seniors Works Best With Short Drives, Two-Night Stops and a Guide at the Wheel": https://divulgeadventures.com/namibia-tour-for-seniors/ (Namibia, Safari Themes, group sprint row NA-320; focus keyword refined from "guided namibia tour for seniors" to "namibia tour for seniors", the shorter phrase people search). Scheduled for 16 Nov 15:00 Nairobi time.
+- Group links: /group-safaris/family-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 7 Day Namibia Family Safari and 5 Day Namibia Celebration Safari. Facts: Namibia visa N$1,600 for 33 nationalities (Namibian embassy notice), Etosha/Namib-Naukluft N$280 per foreign adult per day from 1 April 2026 (Namibian.org report), CDC malaria regions, NWR directions and Sossusvlei distances, all checked November 2026; no package prices quoted. Review-stars line left out because the validator fails bold text inside a paragraph (same as today's other posts).
+- Images: 2 from the owner's Media Library in the body (Walvis Bay flamingos, Damaraland trees) and 3 from Unsplash in the body (Etosha elephants, Dead Vlei, lodge lounge by red rocks); featured image from Unsplash (Etosha elephants). No credits.
+- Skipped topics: none (cycle gave Uganda, already written today, then Kenya, Botswana and Tanzania also written, so Namibia). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none.
+
 ## 2026-11-16 10:56 | New post 5
 - "How to Plan a Tanzania Birthday Safari for a Milestone Year With Friends": https://divulgeadventures.com/tanzania-birthday-safari/ (Tanzania, Safari Themes, group sprint row TZ-330; focus keyword refined from "milestone birthday safari tanzania" to "tanzania birthday safari", a shorter phrase that reads naturally). Scheduled for 16 Nov 14:00 Nairobi time.
 - Group links: /group-safaris/special-occasion-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 9 Day Tanzania Celebration Safari with Zanzibar and 8 Days Tanzania & Zanzibar Safari & Beach. Facts: park fees (US$82.60 Serengeti, US$70.80 Ngorongoro, US$295 crater fee per vehicle), Serengeti Balloon Safaris price and launch areas (US$599), eVisa fees, mainland US$44 inbound insurance from 1 Oct 2026, all checked November 2026; park-fee total labelled as an estimate, no package prices quoted.
@@ -903,6 +910,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 3 from the owner's Media Library (Bwindi gorilla, mother and juvenile gorilla in Bwindi, gorilla from the Bwindi trip gallery), 3 from Unsplash (featured gear flat lay, hiking boots, forest). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none.
 - Could not open: no official Aerolink baggage page found (light-aircraft weight limit left unstated); acrossafrica blog page redirected and was not fetched.
 
-## 2026-10-27 18:50 | Nothing to do
-- Today's work is complete: all 3 new posts for 2026-10-27 already exist (Rwanda in December, Lake Naivasha lodges, Serengeti vs Ngorongoro). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left in REFRESH_QUEUE.md). No post changes made.
-- Could not open: none.
