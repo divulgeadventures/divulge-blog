@@ -722,3 +722,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/06/kudu-bull-beside-a-tree-in-moremi-game-reserve-botswana-1.jpg | botswana-mobile-safari
 2026-11-16 | https://images.unsplash.com/photo-1759129669328-66a1aeafec7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8c2FmYXJpJTIwY2FtcGluZyUyMHRlbnQlMjBCb3Rzd2FuYXxlbnwwfDB8fHwxNzk0ODEyMDE0fDI&ixlib=rb-4.1.0&q=80&w=1080 | botswana-mobile-safari
 2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/06/hippos-wading-through-shallow-water-in-the-okavango-delta-botswana-1.jpg | botswana-mobile-safari
+2026-11-16 | https://images.unsplash.com/photo-1560440293-855922f9cc7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8U2VyZW5nZXRpJTIwc3Vuc2V0fGVufDB8MHx8fDE3OTQ4MTU1NzJ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-birthday-safari
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2025/12/Tanzania-Serengeti-safari.jpg | tanzania-birthday-safari
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2025/11/6000-x-4000divulge_adventures-2-1-scaled.jpg | tanzania-birthday-safari
+2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/05/hot-air-baloon-safari.jpg | tanzania-birthday-safari
+2026-11-16 | https://images.unsplash.com/photo-1673667617558-91300594284c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8U2VyZW5nZXRpJTIwc3Vuc2V0fGVufDB8MHx8fDE3OTQ4MTU1NzJ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-birthday-safari
+2026-11-16 | https://images.unsplash.com/photo-1511684633137-6b5fc88b3dbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8WmFuemliYXIlMjBkaG93fGVufDB8MHx8fDE3OTQ4MTU1NzF8Mg&ixlib=rb-4.1.0&q=80&w=1080 | tanzania-birthday-safari

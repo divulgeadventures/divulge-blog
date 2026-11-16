@@ -136,3 +136,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-16 | Kenya KE-380 | Safari Themes | kenya golf safari | kenya-golf-safari
 2026-11-16 | Rwanda RW-311 | Safari Themes | lake kivu retreat | lake-kivu-retreat
 2026-11-16 | Botswana BW-316 | Safari Themes | botswana mobile safari | botswana-mobile-safari
+2026-11-16 | Tanzania TZ-330 | Safari Themes | tanzania birthday safari | tanzania-birthday-safari

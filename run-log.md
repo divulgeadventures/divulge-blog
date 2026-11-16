@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-16 10:56 | New post 5
+- "How to Plan a Tanzania Birthday Safari for a Milestone Year With Friends": https://divulgeadventures.com/tanzania-birthday-safari/ (Tanzania, Safari Themes, group sprint row TZ-330; focus keyword refined from "milestone birthday safari tanzania" to "tanzania birthday safari", a shorter phrase that reads naturally). Scheduled for 16 Nov 14:00 Nairobi time.
+- Group links: /group-safaris/special-occasion-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 9 Day Tanzania Celebration Safari with Zanzibar and 8 Days Tanzania & Zanzibar Safari & Beach. Facts: park fees (US$82.60 Serengeti, US$70.80 Ngorongoro, US$295 crater fee per vehicle), Serengeti Balloon Safaris price and launch areas (US$599), eVisa fees, mainland US$44 inbound insurance from 1 Oct 2026, all checked November 2026; park-fee total labelled as an estimate, no package prices quoted.
+- Images: 3 from the owner's Media Library in the body (Serengeti plains, Ngorongoro Crater, balloon safari) and 2 from Unsplash in the body (Serengeti sunset, Zanzibar sailing boat); featured image from Unsplash (Serengeti sunset). No credits.
+- Skipped topics: none (cycle gave Tanzania). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: norway.no page on Tanzania's mandatory travel insurance (site error).
+
 ## 2026-11-16 09:57 | New post 4
 - "A Botswana Mobile Safari With Friends: Crew, Campsites and How the Costs Split": https://divulgeadventures.com/botswana-mobile-safari/ (Botswana, Safari Themes, group sprint row BW-316; focus keyword refined from "botswana mobile camping safari for groups" to "botswana mobile safari"). Scheduled for 16 Nov 13:00 Nairobi time.
 - Group links: /group-safaris/special-occasion-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 7 Day Botswana Family Camping Safari and 7 Day Botswana Celebration Safari. Facts: campsite operators and fee-payment order (Getaway), drive distances, NHS Fit for Travel malaria advice, Botswana government visa page, proposed P380 to P500 park fee rise (Botswana Daily News, Feb 2026; reported postponed) — no fee stated as confirmed and no package prices quoted.
@@ -899,9 +906,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 ## 2026-10-27 18:50 | Nothing to do
 - Today's work is complete: all 3 new posts for 2026-10-27 already exist (Rwanda in December, Lake Naivasha lodges, Serengeti vs Ngorongoro). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left in REFRESH_QUEUE.md). No post changes made.
 - Could not open: none.
-
-## 2026-10-27 14:58 | New post 3
-- "Serengeti vs Ngorongoro Is Rarely an Either-Or, So Here Is How to Split Your Days": https://divulgeadventures.com/serengeti-vs-ngorongoro/ (Tanzania TZ-081, BOOST comparison, Destination Tips). Scheduled for 2026-10-27 18:00 Nairobi time.
-- Compares the two on size, wildlife (crater rhino and missing giraffe/impala/topi), seasons, fees and days needed, with a trip-length split table. Fees (Serengeti US$82.60/US$70.80, Ngorongoro US$70.80, crater fee US$295 per vehicle, concession US$59) checked October 2026; size and UNESCO facts from UNESCO and park records. Links the Tanzania safari page, the 8-day Tarangire/Ngorongoro/Serengeti and 5-day northern Tanzania trips, and 7 Divulge Diaries posts.
-- Images: 3 from the owner's Media Library (Ngorongoro and Serengeti safari, Serengeti wildebeest, Ngorongoro Crater), 3 from Unsplash (featured giraffe under an umbrella thorn tree in the Serengeti, rhinos and elephants in the Ngorongoro Crater). The owner photos were last used 9-10 days ago (no fresher Tanzania matches). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none.
-- Could not open: TANAPA tariff page figures (shown only behind a PDF link; fees taken from our October 2026 check and a recent consistent source). No official source found for a crater time limit, so none is stated.

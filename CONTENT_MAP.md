@@ -304,3 +304,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/kenya-golf-safari/ (kenya golf safari)
 - https://divulgeadventures.com/lake-kivu-retreat/ (lake kivu retreat)
 - https://divulgeadventures.com/botswana-mobile-safari/ (botswana mobile safari)
+- https://divulgeadventures.com/tanzania-birthday-safari/ (tanzania birthday safari)
