@@ -4,6 +4,9 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-16 08:34 Trip Optimiser
+- Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
+
 ## 2026-11-16 07:53 | New post 2
 - "Kenya Golf Safari for Your Club, With Four Great Courses, Two Mara Days and an Ocean Finish": https://divulgeadventures.com/kenya-golf-safari/ (Kenya, Safari Themes, group sprint row KE-380; focus keyword refined from "golf safari kenya" to "kenya golf safari"). Scheduled for 16 Nov 11:00 Nairobi time.
 - Group links: /group-safaris/club-safaris/ (intro and Trip CTA), /group-safaris/ once, /group-safaris/organise-a-group-safari/, orange button to the group inquiry form; trips: 8 Day Kenya Golf Safari and 2 Day Masai Mara Flying Safari. Course facts from Karen Country Club and Vipingo Ridge official sites and the Great Rift Valley Lodge golf page; 2027 Magical Kenya Open dates (18-21 Feb, Karen) from DP World Tour news, September 2026; Vipingo buggy prices checked November 2026. Group terms from the golf trip page; no package prices quoted.
