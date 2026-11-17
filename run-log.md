@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-17 10:20 | New post 4
+- "Jinja Rafting With a Group, From Grade 5 Thrill-Seekers to Nervous Swimmers" – https://divulgeadventures.com/jinja-rafting-for-groups/
+- Uganda, Safari Themes; group sprint row UG-318 (keyword refined to "jinja rafting"; written for clubs and friends, differentiated from the corporate Jinja team building post, which it links). Scheduled for 13:00 Nairobi time today.
+- Images: 1 from the owner's Media Library (lion in Queen Elizabeth National Park) and 4 from Unsplash in the body; featured image from Unsplash (raft on a river). No credits. Rafting prices left out because no recent official rate could be confirmed.
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none.
+- Could not open: none.
+
 ## 2026-11-17 08:55 | New post 3
 - "Zanzibar Destination Wedding Plans That Begin With a Few Days in the Serengeti" – https://divulgeadventures.com/zanzibar-destination-wedding/
 - Tanzania (Zanzibar), Safari Themes; group sprint row TZ-332 (Tanzania's last group row). Scheduled for 12:00 Nairobi time today.
@@ -850,9 +857,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
 - Could not open: thekenyatimes.com Masai Mara fees article (site error), nation.africa Masai Mara planning guide (blocked to robots)
 
-## 2026-11-01 18:58 | New post 2
-- "Bwindi vs Volcanoes National Park: Trade a Cheaper Permit for a Longer Drive, or Pay for Speed": https://divulgeadventures.com/bwindi-vs-volcanoes/
-- Uganda (with Rwanda), Destination Tips (bank row UG-029, BOOST comparison; focus keyword refined to "bwindi vs volcanoes"). Scheduled for 1 Nov 19:00 Nairobi time (14:00 had already passed when this run started at 18:49).
-- Images: 4 from the owner's Media Library (featured + 3 in the body), 2 from Unsplash (Bwindi gorilla, Bwindi hillside lodge). Fees checked October 2026: Uganda permit US$800 (US$600 Apr/May/Nov), habituation US$1,500 (US$1,800 from Jan 2027), Rwanda US$1,500 (US$1,050 with the Nov-May discount). Cost tables are labelled estimates.
-- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-- Could not open: none

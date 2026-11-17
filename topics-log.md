@@ -144,3 +144,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-17 | Kenya KE-394 | Safari Planning Tips | kenya incentive travel dmc | kenya-incentive-travel-dmc
 2026-11-17 | Rwanda RW-313 | Safari Themes | girls trip to rwanda | girls-trip-to-rwanda
 2026-11-17 | Tanzania TZ-332 | Safari Themes | zanzibar destination wedding | zanzibar-destination-wedding
+2026-11-17 | Uganda UG-318 | Safari Themes | jinja rafting | jinja-rafting-for-groups
