@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-17 06:49 | New post 1
+- "What a Kenya Incentive Travel DMC Handles When Your Winners Land in Nairobi, and Again in Kigali" – https://divulgeadventures.com/kenya-incentive-travel-dmc/
+- Kenya (with Rwanda leg), Safari Planning Tips; owner idea from TOPIC_IDEAS.md (agent post, added to the bank as KE-394). Scheduled for 10:00 Nairobi time today.
+- Images: 4 from the owner's Media Library and 1 from Unsplash in the body; featured image from Unsplash (Nairobi skyline). No credits.
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none.
+- Could not open: flightsfrom.com Nairobi–Kigali route page (site error); used other sources.
+
 ## 2026-11-16 19:49 | Nothing to do
 - Today's 9 group-sprint posts are already written and scheduled; refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). No changes made.
 - Could not open: none.
@@ -865,9 +872,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
 - Could not open: none
 
-## 2026-10-30 18:55 | New post 1
-- "Rwanda in January Brings Drier Gorilla Trails and a Still-Discounted Permit": https://divulgeadventures.com/rwanda-in-january/
-- Rwanda, Destination Tips (bank row RW-056, seasonal). Scheduled for 30 Oct 19:00 Nairobi time (10:00 had already passed when this run started at 18:48).
-- Images: 4 from the owner's Media Library (featured + 3 in the body), 3 from Unsplash. Fees checked October 2026 on the RDB low-season discount page, African Parks' Akagera 2025 price list and Nyungwe's 2025-2026 pricing scheme; visa rules from GOV.UK.
-- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Owner photos could not be checked visually (download blocked), so they were chosen by title.
-- Could not open: none

@@ -753,3 +753,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-16 | https://images.unsplash.com/photo-1534150034764-046bf225d3fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8bW91bnRhaW4lMjBiaWtlJTIwcGFya2VkfGVufDB8MHx8fDE3OTQ4MzAwNDJ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | congo-nile-trail-cycling
 2026-11-16 | https://images.unsplash.com/photo-1655397043474-c90eaeb1a7fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8bW91bnRhaW4lMjBiaWtlJTIwZGlydCUyMHJvYWQlMjBBZnJpY2F8ZW58MHwwfHx8MTc5NDgzMDAzNnwy&ixlib=rb-4.1.0&q=80&w=1080 | congo-nile-trail-cycling
 2026-11-16 | https://divulgeadventures.com/wp-content/uploads/2026/10/nyungwe-forest-and-lake-kivu-canopy-walk-1.jpeg | congo-nile-trail-cycling
+2026-11-17 | https://images.unsplash.com/photo-1741991109902-98bf764fb35d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8TmFpcm9iaSUyMHNreWxpbmV8ZW58MHwwfHx8MTc5NDg4NzQ5MXwy&ixlib=rb-4.1.0&q=80&w=1080 | kenya-incentive-travel-dmc
+2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2026/07/nairobi-national-park-photography-scaled.jpg | kenya-incentive-travel-dmc
+2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2026/01/6000-x-4000divulge_adventures-39-scaled.jpg | kenya-incentive-travel-dmc
+2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2026/10/masai-mara-and-amboseli-fly-in-safari-2.jpg | kenya-incentive-travel-dmc
+2026-11-17 | https://images.unsplash.com/photo-1648708511872-5426c0f29c27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8S2lnYWxpJTIwY2l0eXxlbnwwfDB8fHwxNzk0ODg3NDkyfDI&ixlib=rb-4.1.0&q=80&w=1080 | kenya-incentive-travel-dmc
+2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-Trekking-Rwanda-luxury-safari.jpeg | kenya-incentive-travel-dmc

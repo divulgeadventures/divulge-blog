@@ -309,3 +309,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/tanzania-safari-for-seniors/ (tanzania safari for seniors)
 - https://divulgeadventures.com/kenya-yoga-retreat/ (kenya yoga retreat)
 - https://divulgeadventures.com/congo-nile-trail-cycling/ (congo nile trail cycling)
+- https://divulgeadventures.com/kenya-incentive-travel-dmc/ (kenya incentive travel dmc)
