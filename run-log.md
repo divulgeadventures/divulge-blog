@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-17 14:20 | New post 8
+- "An Okavango Horse Riding Safari Lets Your Riding Club Canter Through the Floods With Zebra" – https://divulgeadventures.com/okavango-horse-riding-safari/
+- Botswana, Safari Themes; group sprint row BW-318 (focus keyword refined to "okavango horse riding safari", written for riding club organisers). Scheduled for 17:00 Nairobi time today.
+- Images: 1 from the owner's Media Library (Botswana Horse Safari) and 4 from Unsplash in the body; featured image from Unsplash (zebras running across a Botswana savanna). No credits. Camp rates left out; rider rules taken from the two riding camps' own published information.
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none.
+- Could not open: none.
+
 ## 2026-11-17 13:33 Trip Optimiser
 - Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
 
@@ -834,15 +841,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 1 from the owner's Media Library (etosha-safari.jpg, elephant at the Etosha pan) and 5 from Unsplash (featured aerial of the Delta; Etosha elephants and zebras; Okavango hippos; Okavango elephant from the air). Other Namibia/Botswana owner photos were left out because they were used in the last 14 days.
 - Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
 - Could not open: UNESCO Okavango Delta page (permission request timed out); airmilescalculator.com Windhoek-Maun page (site error).
-
-## 2026-11-02 19:08 | Nothing to do
-- Today's work is complete: all 3 new posts for 2 November are in (Kenya safari in February, Chobe safari, Serengeti safari cost).
-- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
-- Could not open: none.
-
-## 2026-11-02 14:55 | New post 3
-- "How Much Does a Serengeti Safari Cost Once Fees, Camps and Flights Are Counted?": https://divulgeadventures.com/serengeti-safari-cost/
-- Tanzania (TZ-008, core topic), Safari Planning Tips. Scheduled for 2 Nov 18:00 Nairobi time. Park, concession and Ngorongoro fees re-checked November 2026 (unchanged from the 2021 schedule; a rumoured future increase is unconfirmed, so readers are told to confirm). Divulge prices quoted only from five trip pages; daily tier ranges labelled as estimates; flight fares left out (not verifiable on an official source).
-- Images: 4 from the owner's Media Library (featured tanzania-park-fees.jpg, plus serengeti-in-december.jpg, ngorongoro-crater-lodges.jpg, elephants with baobabs in the body) and 2 from Unsplash (elephants on a game drive; safari vehicle at a Serengeti lodge).
-- Today's work is complete (3 new posts); the daily refresh stays paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-- Could not open: dumaexplorer.com Tanzania safari cost guide (site error); tourismupdate.com "Tanzania freezes fees" article (no article text); peakplanet.com 2026 park fee changes page (no fee details).
