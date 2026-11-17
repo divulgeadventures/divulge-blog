@@ -781,3 +781,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2026/06/Moremi-Khwai-and-Savuti.jpg | botswana-safari-for-seniors
 2026-11-17 | https://images.unsplash.com/photo-1543055131-ac87bf2f6ac1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MTF8fEJvdHN3YW5hJTIwZWxlcGhhbnRzfGVufDB8MHx8fDE3OTQ5MDE4NjJ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | botswana-safari-for-seniors
 2026-11-17 | https://images.unsplash.com/photo-1759164882609-58b00ec3b09a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8VmljdG9yaWElMjBGYWxsc3xlbnwwfDB8fHwxNzk0OTAxODUxfDI&ixlib=rb-4.1.0&q=80&w=1080 | botswana-safari-for-seniors
+2026-11-17 | https://images.unsplash.com/photo-1594137833275-ff977562796a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8U3dha29wbXVuZHxlbnwwfDB8fHwxNzk0OTA1NDc5fDI&ixlib=rb-4.1.0&q=80&w=1080 | swakopmund-adventure-activities
+2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2025/11/4312-x-3324divulge_adventures-scaled.jpg | swakopmund-adventure-activities
+2026-11-17 | https://images.unsplash.com/photo-1782187859791-8d79c2b2d121?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8cXVhZCUyMGJpa2UlMjBkZXNlcnQlMjBkdW5lc3xlbnwwfDB8fHwxNzk0OTA1NDc5fDI&ixlib=rb-4.1.0&q=80&w=1080 | swakopmund-adventure-activities
+2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2026/01/Sandwich-Habour-Tours.jpg | swakopmund-adventure-activities
+2026-11-17 | https://images.unsplash.com/photo-1693837996567-1ed7f5138cb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8U3dha29wbXVuZHxlbnwwfDB8fHwxNzk0OTA1NDc5fDI&ixlib=rb-4.1.0&q=80&w=1080 | swakopmund-adventure-activities
+2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-03-at-20.07.59.jpeg | swakopmund-adventure-activities
