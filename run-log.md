@@ -4,6 +4,10 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-17 17:50 | Nothing to do
+- Today's 9 sprint posts are already written and scheduled; refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). No post changes.
+- Could not open: none.
+
 ## 2026-11-17 16:50 | Nothing to do
 - Today's 9 sprint posts are already written and scheduled; refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). No post changes.
 - Could not open: none.
@@ -820,8 +824,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
 - Could not open: enashipai.com home page and sopalodges.com resort page (permission requests timed out; used their meetings/events pages instead).
 
-## 2026-11-04 08:45 | Failed (duplicate discarded)
-- This run wrote the owner's Serengeti Golf Course idea as 4 November's post 1, but while it was working an earlier interrupted run pushed the same topic (https://divulgeadventures.com/serengeti-golf-course/, filed as 3 November's post 2). The duplicate was discarded before pushing; nothing else was changed.
-- No new post for 4 November yet: the next run will write post 1 (the owner's ideas list now has no unchecked items, so it goes back to the destination cycle and the day's group row).
-- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
-- Could not open: booking.flightlink.co.tz Serengeti destinations page (bot-protection page, no content).
