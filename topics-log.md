@@ -145,3 +145,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-17 | Rwanda RW-313 | Safari Themes | girls trip to rwanda | girls-trip-to-rwanda
 2026-11-17 | Tanzania TZ-332 | Safari Themes | zanzibar destination wedding | zanzibar-destination-wedding
 2026-11-17 | Uganda UG-318 | Safari Themes | jinja rafting | jinja-rafting-for-groups
+2026-11-17 | Botswana BW-317 | Safari Themes | botswana safari for seniors | botswana-safari-for-seniors

@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-17 11:20 | New post 5
+- "Botswana Safari for Seniors: How a Fly-In Trip Keeps Every Day Comfortable" – https://divulgeadventures.com/botswana-safari-for-seniors/
+- Botswana, Safari Themes; group sprint row BW-317 (written for organisers of senior and multi-generation groups; differentiated from the Namibia and Tanzania seniors posts, which it links). Scheduled for 14:00 Nairobi time today.
+- Images: 2 from the owner's Media Library (Chobe; Moremi, Khwai and Savuti) and 3 from Unsplash in the body; featured image from Unsplash (elephants crossing the Chobe River). No credits. Park fees and the tourism levy left out (levy status unclear in sources).
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none.
+- Could not open: tourismupdate.com "Botswana cancels tourism development levy" article (page loaded without article text).
+
 ## 2026-11-17 09:55 | New post 4
 - "Jinja Rafting With a Group, From Grade 5 Thrill-Seekers to Nervous Swimmers" – https://divulgeadventures.com/jinja-rafting-for-groups/
 - Uganda, Safari Themes; group sprint row UG-318 (keyword refined to "jinja rafting"; written for clubs and friends, differentiated from the corporate Jinja team building post, which it links). Scheduled for 13:00 Nairobi time today.
@@ -849,11 +856,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
   - Slugs: no typos.
 - Could not open: none (live site not needed; snapshot was fresh).
 - Next: 8 Days Tanzania & Zanzibar Safari & Beach (8-days-tanzania-zanzibar-classic-safari-beach, ID 6840), Family Tanzania and Zanzibar Safari (tanzania-and-zanzibar-safari, ID 9511)
-
-## 2026-11-02 06:53 | New post 1
-- "A Kenya Safari in February Means Dry Plains, Clear Mountain Views and the Lower Mara Fee": https://divulgeadventures.com/kenya-safari-in-february/
-- Kenya, Destination Tips (bank row KE-095, seasonal). Scheduled for 2 Nov 10:00 Nairobi time.
-- Images: 5 from the owner's Media Library (featured + 4 in the body), 0 from Unsplash. KWS fees checked on the KWS conservation fee schedule (Amboseli/Nakuru US$90 etc.) and Mara US$100 Jan-Jun (checked November 2026). eTA cost left out (not re-checked today); post links the Kenya eTA guide instead.
-- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-- Could not open: thekenyatimes.com Masai Mara fees article (site error), nation.africa Masai Mara planning guide (blocked to robots)
-
