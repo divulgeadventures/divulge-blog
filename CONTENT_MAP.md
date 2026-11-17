@@ -311,3 +311,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/congo-nile-trail-cycling/ (congo nile trail cycling)
 - https://divulgeadventures.com/kenya-incentive-travel-dmc/ (kenya incentive travel dmc)
 - https://divulgeadventures.com/girls-trip-to-rwanda/ (girls trip to rwanda)
+- https://divulgeadventures.com/zanzibar-destination-wedding/ (zanzibar destination wedding)
