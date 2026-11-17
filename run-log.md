@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-17 07:58 | New post 2
+- "Planning a Girls Trip to Rwanda? Gorillas, Kigali Cafés and a Lazy Lake Kivu Finish" – https://divulgeadventures.com/girls-trip-to-rwanda/
+- Rwanda, Safari Themes; group sprint row RW-313. Scheduled for 11:00 Nairobi time today.
+- Images: 2 from the owner's Media Library and 2 from Unsplash in the body; featured image from Unsplash (Kigali at sunset). No credits.
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none.
+- Could not open: none.
+
 ## 2026-11-17 06:49 | New post 1
 - "What a Kenya Incentive Travel DMC Handles When Your Winners Land in Nairobi, and Again in Kigali" – https://divulgeadventures.com/kenya-incentive-travel-dmc/
 - Kenya (with Rwanda leg), Safari Planning Tips; owner idea from TOPIC_IDEAS.md (agent post, added to the bank as KE-394). Scheduled for 10:00 Nairobi time today.
@@ -864,11 +871,4 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
   - Slugs: no typos. 8068's slug "8-day-tanzania-safari-premium-parks" doesn't match the "mid-range" lodges; change it only if you accept the redirect.
 - Could not open: none (live site not needed; snapshot was fresh).
 - Next: Tanzania Luxury Safari (tanzania-luxury-safari, ID 9538), Tanzania Honeymoon Itinerary (tanzania-honeymoon-itinerary, ID 9499)
-
-## 2026-10-31 07:10 | New post 1
-- "Kenya Birding Safari Routes Across Soda Lakes, Rainforest and Dry Northern Bush": https://divulgeadventures.com/kenya-birding-safari/
-- Kenya, Safari Themes (bank row KE-008, core topic; focus keyword refined from "birding safari in kenya" to "kenya birding safari"). Scheduled for 31 Oct 10:00 Nairobi time.
-- Images: 6 from the owner's Media Library (featured + 5 in the body), 0 from Unsplash. Fees from the KWS regulations in force since 1 October 2025 and Mara rates (checked October 2026); Arabuko-Sokoke fee left out (no recent official source).
-- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-- Could not open: none
 

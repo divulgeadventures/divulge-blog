@@ -142,3 +142,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-16 | Kenya KE-381 | Safari Themes | kenya yoga retreat | kenya-yoga-retreat
 2026-11-16 | Rwanda RW-312 | Safari Themes | congo nile trail cycling | congo-nile-trail-cycling
 2026-11-17 | Kenya KE-394 | Safari Planning Tips | kenya incentive travel dmc | kenya-incentive-travel-dmc
+2026-11-17 | Rwanda RW-313 | Safari Themes | girls trip to rwanda | girls-trip-to-rwanda

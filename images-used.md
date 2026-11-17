@@ -759,3 +759,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2026/10/masai-mara-and-amboseli-fly-in-safari-2.jpg | kenya-incentive-travel-dmc
 2026-11-17 | https://images.unsplash.com/photo-1648708511872-5426c0f29c27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8S2lnYWxpJTIwY2l0eXxlbnwwfDB8fHwxNzk0ODg3NDkyfDI&ixlib=rb-4.1.0&q=80&w=1080 | kenya-incentive-travel-dmc
 2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-Trekking-Rwanda-luxury-safari.jpeg | kenya-incentive-travel-dmc
+2026-11-17 | https://images.unsplash.com/photo-1687986261123-b17f08f2796c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8S2lnYWxpJTIwUndhbmRhfGVufDB8MHx8fDE3OTQ4OTEwNzV8Mg&ixlib=rb-4.1.0&q=80&w=1080 | girls-trip-to-rwanda
+2026-11-17 | https://images.unsplash.com/photo-1779900275257-aaadab6d9285?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8UndhbmRhJTIwaGlsbHN8ZW58MHwwfHx8MTc5NDg5MTA4N3wy&ixlib=rb-4.1.0&q=80&w=1080 | girls-trip-to-rwanda
+2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-and-Golden-Monkey-Trekking-at-Volcanoes-National-Park-1.jpeg | girls-trip-to-rwanda
+2026-11-17 | https://images.unsplash.com/photo-1647891684895-15c5b831fde1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8UndhbmRhJTIwaGlsbHN8ZW58MHwwfHx8MTc5NDg5MTA4N3wy&ixlib=rb-4.1.0&q=80&w=1080 | girls-trip-to-rwanda
+2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2026/10/nyungwe-forest-and-lake-kivu-canopy-walk-rwanda.jpeg | girls-trip-to-rwanda
