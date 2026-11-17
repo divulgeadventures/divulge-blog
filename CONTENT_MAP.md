@@ -315,3 +315,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/jinja-rafting-for-groups/ (jinja rafting)
 - https://divulgeadventures.com/botswana-safari-for-seniors/ (botswana safari for seniors)
 - https://divulgeadventures.com/swakopmund-adventure-activities/ (swakopmund adventure activities)
+- https://divulgeadventures.com/iten-running-camp/ (iten running camp)

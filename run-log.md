@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-17 12:53 | New post 7
+- "How to Plan an Iten Running Camp for Your Club, Then Finish on Safari" – https://divulgeadventures.com/iten-running-camp/
+- Kenya, Safari Themes; group sprint row KE-382 (Kenya has the most group rows left; focus keyword refined to "iten running camp", written for running club organisers). Scheduled for 16:00 Nairobi time today.
+- Images: 1 from the owner's Media Library (Lake Naivasha) and 3 from Unsplash in the body; featured image from Unsplash (Masai Mara wildlife). No credits. No camp or guesthouse prices quoted (none verified); safari price taken from the 4-day Naivasha, Nakuru and Masai Mara trip page.
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Skipped topics: none.
+- Could not open: Standard Media "Athletics and stunning views pride of Iten" (paywalled, no article text).
+
 ## 2026-11-17 11:54 | New post 6
 - "Which Swakopmund Adventure Activities Work for a Whole Group of Friends?" – https://divulgeadventures.com/swakopmund-adventure-activities/
 - Namibia, Safari Themes; group sprint row NA-321 (focus keyword refined to "swakopmund adventure activities", written for organisers of friends' groups). Scheduled for 15:00 Nairobi time today.
@@ -836,11 +843,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 4 from the owner's Media Library (featured tanzania-park-fees.jpg, plus serengeti-in-december.jpg, ngorongoro-crater-lodges.jpg, elephants with baobabs in the body) and 2 from Unsplash (elephants on a game drive; safari vehicle at a Serengeti lodge).
 - Today's work is complete (3 new posts); the daily refresh stays paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
 - Could not open: dumaexplorer.com Tanzania safari cost guide (site error); tourismupdate.com "Tanzania freezes fees" article (no article text); peakplanet.com 2026 park fee changes page (no fee details).
-
-## 2026-11-02 11:00 | New post 2
-- Chobe Safari Planning, From Riverfront Boat Cruises to Savuti's Lion Country: https://divulgeadventures.com/chobe-safari/
-- Botswana (BW-003, core topic), Destination Tips; focus keyword refined from "chobe national park safari" to "chobe safari". Scheduled for 2026-11-02 14:00 Nairobi time.
-- Images: 2 from the owner's Media Library (featured botswanasafarichobe.webp, Moremi-Khwai-and-Savuti.jpg in the body) and 4 from Unsplash (all described as Chobe). Other Chobe owner photos were left out because they were used in the last 14 days.
-- No refresh today: no FIX FIRST / LINK FIX / TEXT FIX rows left, so the daily refresh stays paused.
-- Could not open: tourismupdate.com article on Botswana park fees (page had no article text). Chobe park fee confirmed from other sources instead.
-

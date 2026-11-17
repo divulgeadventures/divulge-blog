@@ -787,3 +787,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2026/01/Sandwich-Habour-Tours.jpg | swakopmund-adventure-activities
 2026-11-17 | https://images.unsplash.com/photo-1693837996567-1ed7f5138cb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8U3dha29wbXVuZHxlbnwwfDB8fHwxNzk0OTA1NDc5fDI&ixlib=rb-4.1.0&q=80&w=1080 | swakopmund-adventure-activities
 2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-03-at-20.07.59.jpeg | swakopmund-adventure-activities
+2026-11-17 | https://images.unsplash.com/photo-1786181321837-4fe85242d17c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8cnVubmluZyUyMHNob2VzJTIwZGlydCUyMHJvYWR8ZW58MHwwfHx8MTc5NDkwOTA2MHwy&ixlib=rb-4.1.0&q=80&w=1080 | iten-running-camp
+2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2025/12/6000-x-4000divulge_adventures-4-scaled.jpg | iten-running-camp
+2026-11-17 | https://images.unsplash.com/photo-1554490594-0e5b97120099?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8TGFrZSUyME5ha3VydSUyMHJoaW5vfGVufDB8MHx8fDE3OTQ5MDkwNTZ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | iten-running-camp
+2026-11-17 | https://images.unsplash.com/photo-1721990251282-973d6004beb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8TWFzYWklMjBNYXJhJTIwc2F2YW5uYXxlbnwwfDB8fHwxNzk0OTA5MDYxfDI&ixlib=rb-4.1.0&q=80&w=1080 | iten-running-camp
+2026-11-17 | https://images.unsplash.com/photo-1571567009295-edc3206e7cce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8TWFzYWklMjBNYXJhJTIwc2F2YW5uYXxlbnwwfDB8fHwxNzk0OTA5MDYxfDI&ixlib=rb-4.1.0&q=80&w=1080 | iten-running-camp
