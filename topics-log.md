@@ -149,3 +149,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-17 | Namibia NA-321 | Safari Themes | swakopmund adventure activities | swakopmund-adventure-activities
 2026-11-17 | Kenya KE-382 | Safari Themes | iten running camp | iten-running-camp
 2026-11-17 | Botswana BW-318 | Safari Themes | okavango horse riding safari | okavango-horse-riding-safari
+2026-11-17 | Uganda UG-319 | Safari Themes | uganda volunteer trip | uganda-volunteer-trip

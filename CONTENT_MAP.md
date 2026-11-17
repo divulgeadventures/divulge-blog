@@ -317,3 +317,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/swakopmund-adventure-activities/ (swakopmund adventure activities)
 - https://divulgeadventures.com/iten-running-camp/ (iten running camp)
 - https://divulgeadventures.com/okavango-horse-riding-safari/ (okavango horse riding safari)
+- https://divulgeadventures.com/uganda-volunteer-trip/ (uganda volunteer trip)

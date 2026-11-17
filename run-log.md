@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-17 15:20 | New post 9
+- "A Uganda Volunteer Trip That Ends on Safari, Planned From the Group Leader's Side" – https://divulgeadventures.com/uganda-volunteer-trip/
+- Uganda, Safari Themes; group sprint row UG-319 (focus keyword refined to "uganda volunteer trip", written for school, university, church and charity group leaders; differentiated from the Tanzania mission trip post). Scheduled for 18:00 Nairobi time today.
+- Images: 2 from the owner's Media Library (Kazinga Channel hippo, Bwindi gorillas) and 2 from Unsplash in the body; featured image from Unsplash (rainbow at Murchison Falls). No credits. Special Pass fee and tourist visa taken from the Uganda immigration portal; permits from published UWA July 2026 rates; no package prices quoted.
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Today's 9 posts are done. Skipped topics: none.
+- Could not open: ugandawildlife.org/uwa-rates/ (permission request timed out); The EastAfrican yellow fever article (site error).
+
 ## 2026-11-17 14:20 | New post 8
 - "An Okavango Horse Riding Safari Lets Your Riding Club Canter Through the Floods With Zebra" – https://divulgeadventures.com/okavango-horse-riding-safari/
 - Botswana, Safari Themes; group sprint row BW-318 (focus keyword refined to "okavango horse riding safari", written for riding club organisers). Scheduled for 17:00 Nairobi time today.
@@ -834,10 +841,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
   - No "Luxury" titles or slug typos in this batch.
 - Could not open: none.
 - Next: tanzania-safari-zanzibar-beach-holiday (row 31), tanzania-safari-zanzibar-beach-safari (row 32).
-
-## 2026-11-03 06:59 | New post 1
-- "Etosha vs Okavango: Waterhole Drives in Namibia or Mokoro Channels in Botswana?": https://divulgeadventures.com/etosha-vs-okavango/
-- Namibia (NA-066, BOOST comparison), Destination Tips; focus keyword refined from "etosha vs okavango delta" to "etosha vs okavango". Kept distinct from the country-level Botswana vs Namibia post (linked). Scheduled for 3 Nov 10:00 Nairobi time. Etosha fee re-checked on the April 2026 Government Gazette; Moremi BWP 270 confirmed; daily cost tiers labelled as estimates.
-- Images: 1 from the owner's Media Library (etosha-safari.jpg, elephant at the Etosha pan) and 5 from Unsplash (featured aerial of the Delta; Etosha elephants and zebras; Okavango hippos; Okavango elephant from the air). Other Namibia/Botswana owner photos were left out because they were used in the last 14 days.
-- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
-- Could not open: UNESCO Okavango Delta page (permission request timed out); airmilescalculator.com Windhoek-Maun page (site error).
