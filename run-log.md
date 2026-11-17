@@ -4,6 +4,10 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-17 18:49 | Nothing to do
+- Today's 9 sprint posts are already written and scheduled; refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). No post changes.
+- Could not open: none.
+
 ## 2026-11-17 18:33 Trip Optimiser
 - Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
 
@@ -814,16 +818,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 4 from the owner's Media Library (featured Lemosho route photo; Uhuru Peak, Machame route and Kilimanjaro climb in the body) and 2 from Unsplash (high-camp tents, rocky mountain cliff).
 - Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
 - Could not open: none (owner photos could not be previewed from the cloud workspace, so they were chosen from their Media Library titles only).
-
-## 2026-11-04 09:05 | Failed (duplicate discarded)
-- This run wrote a Naivasha corporate retreat post (KE-009) on 3 Nov, but it paused overnight before pushing. When it resumed, another run had already published the same topic as 4 November's post 1 (https://divulgeadventures.com/naivasha-corporate-retreat/), so this copy was discarded to avoid two competing posts. No post or planning-file changes from this run.
-- Could not open: enashipai.com (permission request timed out); GitHub push briefly returned HTTP 403 while other runs were pushing.
-
-## 2026-11-04 08:46 | New post 1
-- "How to Match a Naivasha Corporate Retreat Venue to Your Team, Agenda and Budget": https://divulgeadventures.com/naivasha-corporate-retreat/
-- Kenya (KE-009, core topic), Team Building; focus keyword refined from "corporate retreat venues in naivasha" to "naivasha corporate retreat". Kept distinct from the Lake Naivasha lodges post (leisure stays) and the team building venues near Nairobi post (both linked). Venue capacities taken from each venue's own meetings page; KWS Hell's Gate fees and MICE group discounts checked on the KWS fee schedule (November 2026); no venue rates quoted.
-- Written on 3 Nov as new post 2, but the session paused before the push and only resumed at 08:44 on 4 Nov, after its 14:00 slot had passed. Filed instead as 4 Nov new post 1, scheduled for 4 Nov 10:00 Nairobi time (3 Nov's post 2 slot was filled meanwhile by the Serengeti golf course post).
-- Images: 2 from the owner's Media Library (Lake Naivasha pelican, Hell's Gate) and 3 from Unsplash (featured Naivasha valley; boardroom; Lake Oloidien sunset). Team-building owner photos were left out because people are the main subject.
-- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
-- Could not open: enashipai.com home page and sopalodges.com resort page (permission requests timed out; used their meetings/events pages instead).
-
