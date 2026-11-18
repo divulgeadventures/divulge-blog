@@ -849,3 +849,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/11/rwenzori-magherita-peak-climb-3.jpg | rwenzori-group-trek
 2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/11/rwenzori-magherita-peak-climb-4.jpg | rwenzori-group-trek
 2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/11/rwenzori-magherita-peak-climb-5.jpg | rwenzori-group-trek
+2026-11-18 | https://images.unsplash.com/photo-1505598872760-6090aa9ed603?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8U29zc3VzdmxlaSUyMGR1bmVzfGVufDB8MHx8fDE3OTUwMDI2Nzh8Mg&ixlib=rb-4.1.0&q=80&w=1080 | womens-trip-to-namibia
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/06/deadvlei-seen-from-above-a-white-clay-pan-among-the-sossusvlei-dunes.jpg | womens-trip-to-namibia
+2026-11-18 | https://images.unsplash.com/photo-1540994017759-c5ca0a2bbbd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8ZGVzZXJ0JTIwZWxlcGhhbnQlMjBOYW1pYmlhfGVufDB8MHx8fDE3OTUwMDI2Nzl8Mg&ixlib=rb-4.1.0&q=80&w=1080 | womens-trip-to-namibia
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/06/Etosha-national-park.webp | womens-trip-to-namibia
+2026-11-18 | https://images.unsplash.com/photo-1579885487896-abc1a9ebb77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8U29zc3VzdmxlaSUyMGR1bmVzfGVufDB8MHx8fDE3OTUwMDI2Nzh8Mg&ixlib=rb-4.1.0&q=80&w=1080 | womens-trip-to-namibia
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/06/swakopmund-seafront-and-atlantic-waves-in-the-evening-light.jpg | womens-trip-to-namibia

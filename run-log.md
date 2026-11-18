@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-18 14:54 | New post 9
+- "How to Plan a Women's Trip to Namibia, From Dune Sunrises to Desert Elephants" – https://divulgeadventures.com/womens-trip-to-namibia/
+- Namibia, Safari Themes; group sprint row NA-323 (focus keyword "womens trip to namibia" written with its apostrophe, "women's trip to namibia"; Tanzania has no group rows left, and Kenya, Rwanda and Uganda already had 2 posts today). Scheduled for 18:00 Nairobi time today. This completes today's 9 sprint posts.
+- Images: featured image from Unsplash; 5 body images (3 from the owner's Media Library: Deadvlei from above, Etosha, Swakopmund seafront; 2 from Unsplash: desert elephant bull, Deadvlei at night). No credits. Fees from the Government Gazette notice of 1 April 2026 (N$280 per foreign adult for parks such as Etosha and Namib-Naukluft) and the UK visa rules on gov.uk (N$1,600), both checked November 2026. No package prices quoted.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none (the NWR Sesriem page still shows the old pre-April 2026 fees, so the official gazette figures were used instead).
+
 ## 2026-11-18 13:54 | New post 8
 - "A Rwenzori Trek Your Whole Club Can Finish, With or Without the Summit" – https://divulgeadventures.com/rwenzori-group-trek/
 - Uganda, Safari Themes; group sprint row UG-321 (focus keyword refined from "rwenzori group trek" to "rwenzori trek", the phrase people search, still written for club and group organisers; Tanzania has no group rows left and Kenya already had 2 posts today). Scheduled for 17:00 Nairobi time today.
@@ -784,9 +791,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Skipped topics: none. Refresh still needed today (ultimate-namibia-safari-guide FIX FIRST row); left for a later run.
 - Could not open: none (no fixed hours or fees found for the Campaign Against Genocide Museum or the Ellen DeGeneres Campus, so none were given).
 
-## 2026-11-06 17:36 | New post 3
-- "Seeing Nairobi's Baby Elephants and Giraffes in One Unhurried Morning": https://divulgeadventures.com/elephant-orphanage-and-giraffe-centre/
-- Kenya (KE-011, core topic), Safari Themes. Scheduled for 6 Nov 18:00 Nairobi time. Focus keyword refined from "giraffe centre and sheldrick elephant orphanage" to "elephant orphanage and giraffe centre" (the phrase people search). Facts from the Sheldrick Wildlife Trust nursery page and FAQs (11am-12 noon, email booking, US$20/US$5 cash donation, KWS park ticket needed via Mbagathi Gate) and the Giraffe Centre FAQs and About page (9am-5pm, KES 1,500/750, 60-acre sanctuary, founded 1979); KWS US$80 Nairobi NP fee, all checked November 2026. No Divulge prices quoted.
-- Images: 3 from the owner's Media Library (Nairobi National Park x2, Rothschild's giraffes at Lake Nakuru) and 4 from Unsplash (featured Rothschild's giraffe at the Giraffe Centre; Sheldrick baby elephant bottle feed, giraffe feeding at the Nairobi sanctuary, warthog at the sanctuary in the body). 6 body images, no photo credits. Added "mbagathi" and "vaping" to spelling-allowlist.txt.
-- Skipped topics: none. Refresh still needed today: the owner re-opened the ultimate-namibia-safari-guide FIX FIRST row; it is left for the next run.
-- Could not open: visit.sheldrickwildlifetrust.org (redirects to the nursery page, used that); tourismupdate.com fee article (no article text loaded). No official Karen Blixen Museum page found, so no hours or fees were given for it.
