@@ -151,3 +151,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-17 | Botswana BW-318 | Safari Themes | okavango horse riding safari | okavango-horse-riding-safari
 2026-11-17 | Uganda UG-319 | Safari Themes | uganda volunteer trip | uganda-volunteer-trip
 2026-11-18 | Namibia NA-322 | Safari Themes | namibia motorbike tour | namibia-motorbike-tour
+2026-11-18 | Kenya KE-383 | Safari Themes | masai mara photography tour | masai-mara-photography-tour

@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-18 08:05 | New post 2
+- "Masai Mara Photography Tour for a Camera Club: Conservancy Rules, Vehicle Seats and the Months That Shoot Best" – https://divulgeadventures.com/masai-mara-photography-tour/
+- Kenya, Safari Themes; group sprint row KE-383 (focus keyword refined to "masai mara photography tour", written for camera club organisers; differentiated from the Serengeti, Botswana and Namibia photography posts). Scheduled for 11:00 Nairobi time today.
+- Images: 5 from the owner's Media Library in the body (lion on golden grass, leopard in a tree, Mara River crossing, pair of lions, lion at sunset) plus an owner photo as featured image; 0 from Unsplash. No credits. Reserve fee (US$100/US$200) confirmed from an August 2026 K24 report; off-road, Triangle five-vehicle limit and conservancy rules from Africa Geographic; drone rules from KCAA regulations and a September 2026 guide. Camp costs given only as labelled estimates; no package prices quoted.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: nation.africa Masai Mara planning guide (blocked), thekenyatimes.com KCAA drone explainer (error), flysafarilink.com terms (bot protection; luggage weight not stated in the post).
+
 ## 2026-11-18 06:54 | New post 1
 - "Taking Your Riding Club on a Namibia Motorbike Tour? Plan Around the Parks Bikes Cannot Enter" – https://divulgeadventures.com/namibia-motorbike-tour/
 - Namibia, Safari Themes; group sprint row NA-322 (written for motorcycle club organisers). Scheduled for 10:00 Nairobi time today.
@@ -810,9 +817,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 2 from the owner's Media Library (Kibale chimpanzee, Queen Elizabeth lion) and 4 from Unsplash (featured Kampala from Nsambya; Kampala city view, Ggaba beach on Lake Victoria, Muyenga Hill in the body).
 - Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
 - Could not open: gov.uk FCDO Uganda travel advice (permission request timed out).
-
-## 2026-11-04 19:10 | Failed (duplicate discarded)
-- This run (started 18:49) wrote a Uganda safari in February post (UG-041) as 4 November's post 3, but at push time another run had already published the same row as https://divulgeadventures.com/uganda-in-february/. This copy was discarded; no post or planning-file changes from this run. Today's 3 new posts are done; refresh paused.
-- Accuracy note for the owner: the published Uganda in February post gives the gorilla permit as US$1,000 from 1 January 2027. The UWA 2024-2026 tariff shows US$800, and most recent reports (and a March 2026 Capital Times report on the UWA tariff) say US$800 continues; only some sources say US$1,000. Worth checking that figure with UWA.
-- Could not open: UWA "Tariff changes 2026-2027" PDF (no readable text); theeastafrican.co.ke yellow fever article (site error).
-
