@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-18 12:55 | New post 7
+- "Rwanda Family Gorilla Trekking When Not Everyone Is Old Enough to Go" – https://divulgeadventures.com/rwanda-family-gorilla-trekking/
+- Rwanda, Safari Themes; group sprint row RW-315 (focus keyword refined to "family gorilla trekking", written for parents organising a one- or multi-family trip; Kenya already had 2 posts today and Tanzania has no group rows left). Scheduled for 16:00 Nairobi time today.
+- Images: 2 from the owner's Media Library in the body (lion in Akagera, colobus monkey in Nyungwe) and 3 from Unsplash in the body (mountain gorilla in Volcanoes NP, Virunga-area peak in cloud, Akagera landscape); featured image from Unsplash (mountain gorilla in Rwanda). No credits. Gorilla, golden monkey and Dian Fossey tomb fees and age limits from the RDB booking portal; Nyungwe fees from the park's 2025-2026 price sheet; Akagera fees from its 2025 price list; group terms from Divulge's 6 day Rwanda family safari page. No package prices quoted.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: divulgeadventures.com image files (blocked from this workspace, so owner photos were chosen by title only).
+
 ## 2026-11-18 12:25 | New post 6
 - "Kenya Birding Tours for Groups, Planned Around Scopes, Seats and the Migrant Months" – https://divulgeadventures.com/kenya-birding-tours-for-groups/
 - Kenya, Safari Themes; group sprint row KE-384 (focus keyword refined to "kenya birding tours", written for bird club organisers; differentiated from the /kenya-birding-safari/ site guide, which it links). Scheduled for 15:00 Nairobi time today.
@@ -796,10 +803,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
   - Best months: neither page states best months; the new text uses the usual drier months (June-September, December-February) with "usually". Please add months to the pages if you prefer different ones.
 - Could not open: none.
 - Next: chimpanzee-trekking-and-wildlife-safari (Uganda), 4-day-queen-elizabeth-national-park (Uganda).
-
-## 2026-11-06 09:20 | New post 1
-- "A Charity Kilimanjaro Climb That Raises More for the Cause Than It Spends Getting There": https://divulgeadventures.com/charity-kilimanjaro-climb/
-- Tanzania (TZ-322, today's group post: charity), Safari Themes. Scheduled for 6 Nov 10:00 Nairobi time. Covers self-funded vs minimum sponsorship, UK Gift Aid connected-person rule (gov.uk), Fundraising Regulator advice, KINAPA fees (checked November 2026) and KPAP porter standards; differentiated from /kilimanjaro-group-climb/ and linked to it. No Divulge prices quoted.
-- Images: 4 from the owner's Media Library (featured Machame route; Machame, Kilimanjaro hike and Marangu route in the body) and 2 from Unsplash (Kilimanjaro glacier; Rongai route view to Mawenzi). 5 body images. No photo credits (owner's rule); removed the credit requirement from CONTENT_MAP.md.
-- Skipped topics: none. Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
-- Could not open: peakplanet.com 2026 fee page gave no figures (used another source); owner Media Library files could not be downloaded for a visual check (used title-based selection).
