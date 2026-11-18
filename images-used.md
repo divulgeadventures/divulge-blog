@@ -826,3 +826,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/04/game-drive-queen.jpg | uganda-family-safari
 2026-11-18 | https://images.unsplash.com/photo-1672172672923-6910a8c55539?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8QndpbmRpJTIwZm9yZXN0JTIwVWdhbmRhfGVufDB8MHx8fDE3OTQ5ODQ3NTJ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | uganda-family-safari
 2026-11-18 | https://images.unsplash.com/photo-1711198617874-e86cedbf3707?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8QndpbmRpJTIwZm9yZXN0JTIwVWdhbmRhfGVufDB8MHx8fDE3OTQ5ODQ3NTJ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | uganda-family-safari
+2026-11-18 | https://images.unsplash.com/photo-1627758758236-e4c9496b9f35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8d2F0ZXIlMjBsaWx5JTIwT2thdmFuZ28lMjBEZWx0YXxlbnwwfDB8fHwxNzk0OTg4MjY4fDI&ixlib=rb-4.1.0&q=80&w=1080 | okavango-mokoro-trip-for-groups
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/06/Okavango-Delta.jpg | okavango-mokoro-trip-for-groups
+2026-11-18 | https://images.unsplash.com/photo-1627760107072-8286a6814873?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8d2F0ZXIlMjBsaWx5JTIwT2thdmFuZ28lMjBEZWx0YXxlbnwwfDB8fHwxNzk0OTg4MjY4fDI&ixlib=rb-4.1.0&q=80&w=1080 | okavango-mokoro-trip-for-groups
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/06/okavango-delta-1.jpg | okavango-mokoro-trip-for-groups
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/06/sunset-over-trees-and-water-in-the-okavango-delta-botswana.jpg | okavango-mokoro-trip-for-groups
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/06/hippos-wading-through-shallow-water-in-the-okavango-delta-botswana.jpg | okavango-mokoro-trip-for-groups

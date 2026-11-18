@@ -154,3 +154,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-18 | Kenya KE-383 | Safari Themes | masai mara photography tour | masai-mara-photography-tour
 2026-11-18 | Rwanda RW-314 | Safari Themes | kibeho pilgrimage | kibeho-pilgrimage
 2026-11-18 | Uganda UG-320 | Safari Themes | uganda family safari | uganda-family-safari
+2026-11-18 | Botswana BW-319 | Safari Themes | mokoro trip | okavango-mokoro-trip-for-groups
