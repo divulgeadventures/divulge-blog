@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-18 06:54 | New post 1
+- "Taking Your Riding Club on a Namibia Motorbike Tour? Plan Around the Parks Bikes Cannot Enter" – https://divulgeadventures.com/namibia-motorbike-tour/
+- Namibia, Safari Themes; group sprint row NA-322 (written for motorcycle club organisers). Scheduled for 10:00 Nairobi time today.
+- Images: 3 from the owner's Media Library (Namibia scenery, Deadvlei, Southern Skeleton Coast) and 2 from Unsplash in the body; featured image from Unsplash (gravel road in Namibia). No credits. Motorcycle ban in all national parks taken from the Ministry of Environment, Forestry and Tourism FAQ; visa fee from GOV.UK; Etosha fee (N$280 from April 2026) from a Namibian news report. No bike hire prices quoted.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: tourismupdate.com park fee article (page had no article text).
+
 ## 2026-11-17 19:49 | Nothing to do
 - Today's 9 sprint posts are already written and scheduled; refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). No post changes.
 - Could not open: none.
@@ -808,11 +815,4 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - This run (started 18:49) wrote a Uganda safari in February post (UG-041) as 4 November's post 3, but at push time another run had already published the same row as https://divulgeadventures.com/uganda-in-february/. This copy was discarded; no post or planning-file changes from this run. Today's 3 new posts are done; refresh paused.
 - Accuracy note for the owner: the published Uganda in February post gives the gorilla permit as US$1,000 from 1 January 2027. The UWA 2024-2026 tariff shows US$800, and most recent reports (and a March 2026 Capital Times report on the UWA tariff) say US$800 continues; only some sources say US$1,000. Worth checking that figure with UWA.
 - Could not open: UWA "Tariff changes 2026-2027" PDF (no readable text); theeastafrican.co.ke yellow fever article (site error).
-
-## 2026-11-04 15:10 | New post 3
-- "Uganda in February: Dry Trails, Quieter Lodges and the Last Weeks Before the Rains": https://divulgeadventures.com/uganda-in-february/
-- Uganda (UG-041, seasonal row), Destination Tips; focus keyword refined from "uganda safari in february" to "uganda in february" (matches the January post). Scheduled for 4 Nov 18:00 Nairobi time. Kept distinct from the Uganda in January post (end of dry season, calmer than the holiday rush, Rwenzori window, 2027 permit budgeting). Gorilla US$1,000 and Kibale chimp US$300 from 1 Jan 2027 are stated as reported figures (UWA's 2026-2027 tariff-change PDF could not be opened), with readers told to confirm on the UWA rates page; Bwindi temperatures from the ITFC/MUST weather report.
-- Images: 4 from the owner's Media Library (young gorilla, Kibale chimpanzee, Queen Elizabeth game drive, shoebill) and 2 from Unsplash (featured Murchison Falls rainbow; Rwenzori slopes in the body).
-- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md. Today's 3 new posts are now done.
-- Could not open: ugandawildlife.org home page, UWA "Tariff changes 2026-2027" PDF and UWA conservation tariff PDF (permission requests timed out); climate-data.org February page (site error).
 

@@ -803,3 +803,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-17 | https://images.unsplash.com/photo-1551357141-f73a8402ceb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8VWdhbmRhJTIwbGFuZHNjYXBlfGVufDB8MHx8fDE3OTQ5MTY1NzR8Mg&ixlib=rb-4.1.0&q=80&w=1080 | uganda-volunteer-trip
 2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2026/04/hippo-swimming-in-the-kazinga-channel-queen-elizabeth-national-park.jpg | uganda-volunteer-trip
 2026-11-17 | https://divulgeadventures.com/wp-content/uploads/2026/10/uganda-safari-in-december.jpg | uganda-volunteer-trip
+2026-11-18 | https://images.unsplash.com/photo-1637336659714-50c42464957a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8N3x8bW90b3JjeWNsZSUyME5hbWliaWF8ZW58MHwwfHx8MTc5NDk3Mzg2Mnwy&ixlib=rb-4.1.0&q=80&w=1080 | namibia-motorbike-tour
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2025/12/namibia-safari.jpg | namibia-motorbike-tour
+2026-11-18 | https://images.unsplash.com/photo-1565203701122-db699d8c0a09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8bW90b3JjeWNsZSUyME5hbWliaWF8ZW58MHwwfHx8MTc5NDk3Mzg2Mnwy&ixlib=rb-4.1.0&q=80&w=1080 | namibia-motorbike-tour
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/01/Namibia-Safari-Deadvlei.jpg | namibia-motorbike-tour
+2026-11-18 | https://images.unsplash.com/photo-1654136682764-53e08ef6ac95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8YWR2ZW50dXJlJTIwbW90b3JjeWNsZSUyMGdyYXZlbCUyMHJvYWQlMjBkZXNlcnR8ZW58MHwwfHx8MTc5NDk3Mzg2Mnwy&ixlib=rb-4.1.0&q=80&w=1080 | namibia-motorbike-tour
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/06/Namibian-Southern-Skeleton-Coast.jpg | namibia-motorbike-tour
