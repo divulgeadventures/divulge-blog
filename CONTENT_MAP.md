@@ -325,3 +325,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/okavango-mokoro-trip-for-groups/ (mokoro trip)
 - https://divulgeadventures.com/kenya-birding-tours-for-groups/ (kenya birding tours)
 - https://divulgeadventures.com/rwanda-family-gorilla-trekking/ (family gorilla trekking)
+- https://divulgeadventures.com/rwenzori-group-trek/ (rwenzori trek)

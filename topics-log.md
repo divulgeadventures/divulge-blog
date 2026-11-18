@@ -157,3 +157,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-18 | Botswana BW-319 | Safari Themes | mokoro trip | okavango-mokoro-trip-for-groups
 2026-11-18 | Kenya KE-384 | Safari Themes | kenya birding tours | kenya-birding-tours-for-groups
 2026-11-18 | Rwanda RW-315 | Safari Themes | family gorilla trekking | rwanda-family-gorilla-trekking
+2026-11-18 | Uganda UG-321 | Safari Themes | rwenzori trek | rwenzori-group-trek

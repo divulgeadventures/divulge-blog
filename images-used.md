@@ -844,3 +844,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/lion-at-Akagera-National-Park.jpg | rwanda-family-gorilla-trekking
 2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/Nyungwe-Forest-National-Park-tour-colombus-monkey.jpeg | rwanda-family-gorilla-trekking
 2026-11-18 | https://images.unsplash.com/photo-1651860282296-47055c68580e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8Vm9sY2Fub2VzJTIwTmF0aW9uYWwlMjBQYXJrJTIwUndhbmRhfGVufDB8MHx8fDE3OTQ5OTU1Mjl8Mg&ixlib=rb-4.1.0&q=80&w=1080 | rwanda-family-gorilla-trekking
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/11/rwenzori-magherita-peak-climb-1.jpg | rwenzori-group-trek
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/11/rwenzori-magherita-peak-climb-2.jpg | rwenzori-group-trek
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/11/rwenzori-magherita-peak-climb-3.jpg | rwenzori-group-trek
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/11/rwenzori-magherita-peak-climb-4.jpg | rwenzori-group-trek
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/11/rwenzori-magherita-peak-climb-5.jpg | rwenzori-group-trek
