@@ -815,3 +815,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/wildebeest-crossing-the-mara-river-during-the-great-migration.jpg | masai-mara-photography-tour
 2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/pair-of-lions-lying-in-the-savannah-grass.jpg | masai-mara-photography-tour
 2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/lion-resting-in-the-grass-at-sunset-on-a-photography-safari.jpg | masai-mara-photography-tour
+2026-11-18 | https://images.unsplash.com/photo-1647891684895-15c5b831fde1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8UndhbmRhJTIwaGlsbHN8ZW58MHwwfHx8MTc5NDk4MTM2Mnwy&ixlib=rb-4.1.0&q=80&w=1080 | kibeho-pilgrimage
+2026-11-18 | https://images.unsplash.com/photo-1779900275257-aaadab6d9285?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8UndhbmRhJTIwaGlsbHN8ZW58MHwwfHx8MTc5NDk4MTM2Mnwy&ixlib=rb-4.1.0&q=80&w=1080 | kibeho-pilgrimage
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/11/girls-trip-to-rwanda.jpg | kibeho-pilgrimage
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/Nyungwe-Forest-National-Park-tour-colobus-mokey-safari.jpeg | kibeho-pilgrimage
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-and-Golden-Monkey-Trekking.jpeg | kibeho-pilgrimage

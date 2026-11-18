@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-18 09:20 | New post 3
+- "How to Lead a Parish Group on a Kibeho Pilgrimage in Rwanda" – https://divulgeadventures.com/kibeho-pilgrimage/
+- Rwanda, Safari Themes; group sprint row RW-314 (focus keyword refined to "kibeho pilgrimage", written for parish and faith group leaders). Scheduled for 12:00 Nairobi time today.
+- Images: 3 from the owner's Media Library in the body (Kigali at sunset, colobus monkey in Nyungwe, gorilla and golden monkey trekking) and 1 from Unsplash in the body (Kigali wetlands); featured image from Unsplash (hill on Lake Kivu). No credits. Feast-day programme and shrine rules from the Diocese of Butare; visa fees from Irembo; Murambi UNESCO listing from KT Press; gorilla permit figure as checked October 2026. No package prices quoted.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: en.wikipedia.org Our Lady of Kibeho (permission request timed out).
+
 ## 2026-11-18 08:33 Trip Optimiser
 - Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
 
@@ -807,16 +814,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Could not open: none.
 - Next: gorilla-trekking-safari-to-bwindi (row 33), gorilla-and-chimpanzee-trekking-safari (row 34).
 
-## 2026-11-05 11:02 | New post 2
-- "How to Plan Your First Kenya Safari Without Trying to See Everything": https://divulgeadventures.com/first-kenya-safari/
-- Kenya (KE-010, core topic), Safari Planning Tips; focus keyword refined from "first time kenya safari tips" to "first kenya safari". Scheduled for 5 Nov 14:00 Nairobi time. Mara fee (US$200 Jul-Dec / US$100 Jan-Jun) checked November 2026 (Nation, July 2026); eTA insurance US$44 checked November 2026; CDC malaria guidance checked November 2026; KWS, eTA fee and Airkenya 15 kg figures as verified in October 2026. Quotes the 7-day Kenya trip's listed "from US$2,711 per adult" from its trip page.
-- Images: 5 from the owner's Media Library (featured Masai Mara game drive; Amboseli, Lake Nakuru flamingos, Mara migration, Nairobi NP game drive in the body) and 1 from Unsplash (tented camp, Encounter Mara).
-- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
-- Could not open: flysafarilink.com terms and baggage pages (bot protection, no content).
-
-## 2026-11-05 07:00 | New post 1
-- "Namugongo Pilgrimage Planning Starts With Where Your Church Group Sleeps on 2 June": https://divulgeadventures.com/namugongo-pilgrimage/
-- Uganda (UG-312, today's group post, faith), Safari Themes; focus keyword refined from "namugongo martyrs day pilgrimage" to "namugongo pilgrimage". Scheduled for 5 Nov 10:00 Nairobi time. Covers the 2026 postponement (Ebola) and the 28 Oct 2026 US Embassy health alert honestly, tells readers to check official advice; visa US$50 checked on immigration.go.ug (November 2026). No gorilla permit price stated. Links /group-safaris/, organise-a-group-safari, the group inquiry button and the 7-day primate and 4-day Bwindi trips.
-- Images: 2 from the owner's Media Library (Kibale chimpanzee, Queen Elizabeth lion) and 4 from Unsplash (featured Kampala from Nsambya; Kampala city view, Ggaba beach on Lake Victoria, Muyenga Hill in the body).
-- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
-- Could not open: gov.uk FCDO Uganda travel advice (permission request timed out).

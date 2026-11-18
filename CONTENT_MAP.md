@@ -320,3 +320,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/uganda-volunteer-trip/ (uganda volunteer trip)
 - https://divulgeadventures.com/namibia-motorbike-tour/ (namibia motorbike tour)
 - https://divulgeadventures.com/masai-mara-photography-tour/ (masai mara photography tour)
+- https://divulgeadventures.com/kibeho-pilgrimage/ (kibeho pilgrimage)
