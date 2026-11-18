@@ -820,3 +820,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/11/girls-trip-to-rwanda.jpg | kibeho-pilgrimage
 2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/Nyungwe-Forest-National-Park-tour-colobus-mokey-safari.jpeg | kibeho-pilgrimage
 2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/Gorilla-and-Golden-Monkey-Trekking.jpeg | kibeho-pilgrimage
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/04/queen-elizabeth.jpg | uganda-family-safari
+2026-11-18 | https://images.unsplash.com/photo-1660987551044-91855cd8ef62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8dHJlZSUyMGNsaW1iaW5nJTIwbGlvbiUyMFVnYW5kYXxlbnwwfDB8fHwxNzk0OTg0NzUwfDI&ixlib=rb-4.1.0&q=80&w=1080 | uganda-family-safari
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-trekking-in-kibale.jpg | uganda-family-safari
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/04/game-drive-queen.jpg | uganda-family-safari
+2026-11-18 | https://images.unsplash.com/photo-1672172672923-6910a8c55539?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8QndpbmRpJTIwZm9yZXN0JTIwVWdhbmRhfGVufDB8MHx8fDE3OTQ5ODQ3NTJ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | uganda-family-safari
+2026-11-18 | https://images.unsplash.com/photo-1711198617874-e86cedbf3707?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8QndpbmRpJTIwZm9yZXN0JTIwVWdhbmRhfGVufDB8MHx8fDE3OTQ5ODQ3NTJ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | uganda-family-safari

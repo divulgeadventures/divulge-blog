@@ -153,3 +153,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-18 | Namibia NA-322 | Safari Themes | namibia motorbike tour | namibia-motorbike-tour
 2026-11-18 | Kenya KE-383 | Safari Themes | masai mara photography tour | masai-mara-photography-tour
 2026-11-18 | Rwanda RW-314 | Safari Themes | kibeho pilgrimage | kibeho-pilgrimage
+2026-11-18 | Uganda UG-320 | Safari Themes | uganda family safari | uganda-family-safari

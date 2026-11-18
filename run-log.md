@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-18 10:05 | New post 4
+- "A Uganda Family Safari for Several Households Works Best When the Ages Set the Plan" – https://divulgeadventures.com/uganda-family-safari/
+- Uganda, Safari Themes; group sprint row UG-320 (focus keyword refined to "uganda family safari", written for the organiser of a multi-family trip). Scheduled for 13:00 Nairobi time today.
+- Images: 3 from the owner's Media Library in the body (Queen Elizabeth wildlife, chimpanzee in Kibale, Queen Elizabeth game drive) and 2 from Unsplash in the body (tree-climbing lion in Ishasha, lodge on a hill in Bwindi); featured image from Unsplash (young mountain gorilla in Bwindi). No credits. Permit, park entry and child fees plus age limits from UWA's Jan 2027-June 2028 tariff PDF; yellow fever entry change from an October 2026 ATTA report of the Ministry of Internal Affairs statement. No package prices quoted.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: fitfortravel.nhs.uk Uganda malaria map (page had no risk details; updates paused).
+
 ## 2026-11-18 09:20 | New post 3
 - "How to Lead a Parish Group on a Kibeho Pilgrimage in Rwanda" – https://divulgeadventures.com/kibeho-pilgrimage/
 - Rwanda, Safari Themes; group sprint row RW-314 (focus keyword refined to "kibeho pilgrimage", written for parish and faith group leaders). Scheduled for 12:00 Nairobi time today.
@@ -794,23 +801,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 4 from the owner's Media Library (featured Botswana safari; Okavango, Moremi-Khwai and Kalahari Expedition in the body) and 2 from Unsplash (lion on green grass, Botswana; zebra drinking). 5 body images in total.
 - Skipped topics: none. Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md. Today's 3 new posts are complete.
 - Could not open: fitfortravel.nhs.uk Botswana page (permission request timed out; linked the Scottish NHS Fit for Travel page already used in earlier posts), 4x4afrika.com Nxai Pan guide (bot check page).
-
-## 2026-11-05 11:03 Trip Optimiser
-- Done: 11 Days 10 Nights Tanzania Safari and Zanzibar Beach Holiday (ID 9504, "11 day tanzania safari and zanzibar beach holiday", tanzania-9504-11-day-tanzania-safari-and-zanzibar-beach-holiday.json); 10-Day Tanzania Safari & Zanzibar Beach (ID 9527, "10 day tanzania safari and zanzibar beach", tanzania-9527-10-day-tanzania-safari-and-zanzibar-beach.json). Both read from the site-data copy (snapshot 2026-11-05 03:37 UTC); the live site was not opened. 9504 uses "From USD 3,908 per adult" (single price on the page); 9527 uses "From USD 6,130 per adult (USD 4,590 per child)". The two pages now link to each other as sister trips.
-- Photos: 9504 5 owner/Media Library + 1 Unsplash (Stone Town building, Alferio Njau); 9527 7 owner/Media Library + 0 new Unsplash (credit line names Humphrey M because the Media Library Zanzibar beach and sailing-boat photos are copies of his Unsplash photos). Dropped from 9504: guests_on_safari-24-1.jpg (people as the main subject; it was the featured image). No Unsplash photo of Lake Manyara had a description confirming the place, so none was used.
-- Owner to fix by hand (the importer cannot change these):
-  - 9504 Zanzibar stay conflicts: day 8 title "Stone Town Hote- Beach Hotel" and days 9-10 "Leisure at your Beach Hotel" (pool, beach, palm trees), but every Zanzibar night (days 7-10) says Golden Tulip Stone Town. Either name the beach hotel for days 8/9-10 or retitle those days. The new overview says Golden Tulip Stone Town for all 4 nights and that a beach hotel is confirmed in the quote.
-  - 9504 includes/excludes conflicts: Includes says "Accommodation in Arusha (BB) before and after the safari", but there is only one Arusha night (day 1, Mount Meru Hotel) and the trip ends in Zanzibar. Excludes says "International and Domestic flights", so the day 7 Arusha to Zanzibar flight is not included; please confirm (the sister trip 9527 includes it). Day 7 is titled "Ngorongoro Crater - Zanzibar" but has no crater game drive, only a 10:00 drive to Arusha Airport.
-  - 9504 itinerary typos: day 8 "Hote", day 10 "Accomodation", day 4 "Serengeti is the Name comes from Maasai Language" and "a lots and lots of bird life", day 6 "NgoroNgoro", day 3 "camp.Dinner" (missing space). Day 4 names "Tamba Tented Camp Serengeti", days 3 and 5 "Tamba Tented Camp"; use one name. Day 2 is a Tarangire day but the night is at Manyara Secret Lodge (fine if intended; worth saying it is near Lake Manyara).
-  - 9504 Highlights list repeats items ("Ngorongoro Conservation Area"/"Ngorongoro Crater", "Zanzibar Stone Town"/"Stone Town Tour", and the trip title twice) and lists the Great Wildebeest Migration in the overview without months; consider trimming.
-  - 9504 old featured image alt "Tanzania Safari and Zanzibar Beach Holiday" (just the trip title) on guests_on_safari-24-1.jpg and on zanzibar_island_boat.jpg in the Media Library; fixed in this file, but the Media Library titles still carry the trip name.
-  - 9527 wrong fact: day 3 calls Lake Manyara "the deepest lake in Africa". It is a shallow soda lake; Lake Tanganyika is Africa's deepest. Please delete that phrase.
-  - 9527 itinerary typos: day 1 title "SERVAL WILDLFE", day 2 "Dinner and Overnight and Manyara Secrete Lodge" (should be "at Manyara Secret Lodge"), "safari.You" (missing space), day 3 "After your delicious breakfast, and proceed", "Canoe Ride the deepest lake", day 8 "an experience ot the", day 1 "Afterwards" twice. Includes "Complementary" should be "Complimentary"; "1 Night Accommodation at Tarangire National Park" but the lodge is Manyara Secret Lodge; the Ngorongoro and Zanzibar includes lines are run together on one line.
-  - 9527 day 3 is titled "TARANGIRE NATIONAL PARK to MTO WA MBU" but day 2 already ended outside Tarangire; day 4 says "exit Lake Manyara National Park" although the night was at Kilimamoja Lodge (Karatu). Day 8 says "transfer to the airstrip" from Ngorongoro while the title says "to Arusha"; name the airstrip.
-  - 9527 title mismatch: the trip title is "10-Day Tanzania Safari & Zanzibar Beach" but the page heading says "...Zanzibar Beach Safari"; the old overview repeats "Magical Tanzania Wildebeest Migration" six times. Melia properties are upscale, and the title has no "Luxury", so no luxury-title issue.
-  - 9527 featured image mara-wildebeest-migration-1.jpg: the file name says "Mara" but the alt says "on a Tanzania safari". Please check whether it was taken in the Masai Mara (Kenya); it is kept in the gallery with alt text that names no country.
-  - Media Library (not this batch, spotted while searching): Gravy-Zebra.jpg has alt "Lake Manyara National Park", but Grevy's zebra does not live in Lake Manyara (northern Kenya only), and masai-mara-lions.jpg has alt "Tarangire National Park". Fix the alt text or the file names. Divulge-Adventures-Serval-Wildlife-scaled.jpeg was not used because it may show guests as the main subject.
-  - Prices: 9504 shows one price only (USD 3,908 per adult, no child price); 9527 shows USD 6,130 adult and USD 4,590 child. No slug typos in this batch.
-- Could not open: none.
-- Next: gorilla-trekking-safari-to-bwindi (row 33), gorilla-and-chimpanzee-trekking-safari (row 34).
-
