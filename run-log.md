@@ -4,6 +4,11 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-18 15:51 | Nothing to do
+- Today's 9 group sprint posts are all written and scheduled, so no new post this run.
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none
+
 ## 2026-11-18 14:54 | New post 9
 - "How to Plan a Women's Trip to Namibia, From Dune Sunrises to Desert Elephants" – https://divulgeadventures.com/womens-trip-to-namibia/
 - Namibia, Safari Themes; group sprint row NA-323 (focus keyword "womens trip to namibia" written with its apostrophe, "women's trip to namibia"; Tanzania has no group rows left, and Kenya, Rwanda and Uganda already had 2 posts today). Scheduled for 18:00 Nairobi time today. This completes today's 9 sprint posts.
@@ -783,11 +788,4 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
   - Prices: 8771 has a single price (USD 2,908) with no sale price, while 8696 shows a 16% sale; no conflicts with other trips found. Slugs have no typos.
 - Could not open: none.
 - Next: 7-days-primate-and-wildlife-safari (Uganda), 10-days-primate-and-wildlife-safari (Uganda).
-
-## 2026-11-07 06:55 | New post 1
-- "Rwanda Study Tours for Universities That Link Genocide History, Governance and Gorilla Science": https://divulgeadventures.com/rwanda-study-tour/
-- Rwanda (RW-306, the day's group post), Safari Themes. Scheduled for 7 Nov 10:00 Nairobi time. Focus keyword refined from "rwanda study tour for universities" to "rwanda study tour". Kigali Genocide Memorial hours, free entry, guided-group rates and the under-12 rule from kgm.rw; visa from the Rwanda High Commission (Singapore) page; gorilla permit US$1,500 / min age 15 from the RDB booking portal (all checked November 2026). Trip CTA to the Student & Study Tour Safaris page, orange CTA to the group inquiry form, trips linked: 6-day Rwanda holiday package and 4-day Akagera and Nyungwe.
-- Images: 3 from the owner's Media Library (Virunga volcano, Lake Kivu shore, Nyungwe road) and 3 from Unsplash (featured Kigali at sunset; Nyamirambo view of Kigali and Kigali's restored wetlands in the body). 5 body images, no photo credits. Added "nyamata" and "murambi" to spelling-allowlist.txt.
-- Skipped topics: none. Refresh still needed today (ultimate-namibia-safari-guide FIX FIRST row); left for a later run.
-- Could not open: none (no fixed hours or fees found for the Campaign Against Genocide Museum or the Ellen DeGeneres Campus, so none were given).
 
