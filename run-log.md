@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-18 12:25 | New post 6
+- "Kenya Birding Tours for Groups, Planned Around Scopes, Seats and the Migrant Months" – https://divulgeadventures.com/kenya-birding-tours-for-groups/
+- Kenya, Safari Themes; group sprint row KE-384 (focus keyword refined to "kenya birding tours", written for bird club organisers; differentiated from the /kenya-birding-safari/ site guide, which it links). Scheduled for 15:00 Nairobi time today.
+- Images: 4 from the owner's Media Library in the body (lilac-breasted roller, water birds over a Kenyan lake, African fish eagle, white-cheeked turaco) and 1 from Unsplash in the body (European roller in Tsavo West); featured image from Unsplash (violet-eared starling in the Masai Mara). No credits. Park fees from the KWS conservation fee schedule; migrant arrival timing from Kenya Birds Net records; group terms and route details from Divulge's own trip pages. No package prices quoted.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: BirdLife DataZone Kenya species page (figures did not load, so no exact species count is stated).
+
 ## 2026-11-18 10:54 | New post 5
 - "Is a Mokoro Trip in the Okavango Right for Your Club? How Canoes, Polers and Island Camps Work for a Group" – https://divulgeadventures.com/okavango-mokoro-trip-for-groups/
 - Botswana, Safari Themes; group sprint row BW-319 (focus keyword refined to "mokoro trip", written for club and society organisers; Tanzania has no group rows left). Scheduled for 14:00 Nairobi time today.
@@ -796,9 +803,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 4 from the owner's Media Library (featured Machame route; Machame, Kilimanjaro hike and Marangu route in the body) and 2 from Unsplash (Kilimanjaro glacier; Rongai route view to Mawenzi). 5 body images. No photo credits (owner's rule); removed the credit requirement from CONTENT_MAP.md.
 - Skipped topics: none. Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
 - Could not open: peakplanet.com 2026 fee page gave no figures (used another source); owner Media Library files could not be downloaded for a visual check (used title-based selection).
-
-## 2026-11-05 18:50 | Nothing to do
-- Today's 3 new posts already exist (Namugongo pilgrimage, first Kenya safari, Botswana in February). No post changes made.
-- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows are left as todo in REFRESH_QUEUE.md.
-- Could not open: none.
-

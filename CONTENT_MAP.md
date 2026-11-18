@@ -323,3 +323,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/kibeho-pilgrimage/ (kibeho pilgrimage)
 - https://divulgeadventures.com/uganda-family-safari/ (uganda family safari)
 - https://divulgeadventures.com/okavango-mokoro-trip-for-groups/ (mokoro trip)
+- https://divulgeadventures.com/kenya-birding-tours-for-groups/ (kenya birding tours)

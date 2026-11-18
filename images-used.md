@@ -832,3 +832,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/06/okavango-delta-1.jpg | okavango-mokoro-trip-for-groups
 2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/06/sunset-over-trees-and-water-in-the-okavango-delta-botswana.jpg | okavango-mokoro-trip-for-groups
 2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/06/hippos-wading-through-shallow-water-in-the-okavango-delta-botswana.jpg | okavango-mokoro-trip-for-groups
+2026-11-18 | https://images.unsplash.com/photo-1666794271555-35adf1877d06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8S2VueWElMjBiaXJkfGVufDB8MHx8fDE3OTQ5OTE4NTd8Mg&ixlib=rb-4.1.0&q=80&w=1080 | kenya-birding-tours-for-groups
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/lilac-breasted-roller-perched-on-a-branch-in-kenya.jpg | kenya-birding-tours-for-groups
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/flock-of-birds-flying-over-a-lake-in-kenya.jpg | kenya-birding-tours-for-groups
+2026-11-18 | https://images.unsplash.com/photo-1623654693452-cff27a3ec63b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8S2VueWElMjBiaXJkfGVufDB8MHx8fDE3OTQ5OTE4NTd8Mg&ixlib=rb-4.1.0&q=80&w=1080 | kenya-birding-tours-for-groups
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/african-fish-eagle-perched-on-a-dead-branch.jpg | kenya-birding-tours-for-groups
+2026-11-18 | https://divulgeadventures.com/wp-content/uploads/2026/10/white-cheeked-turaco-on-a-branch.jpg | kenya-birding-tours-for-groups
