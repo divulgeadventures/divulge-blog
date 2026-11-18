@@ -4,6 +4,11 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-18 17:50 | Nothing to do
+- Today's 9 group sprint posts are all written and scheduled, so no new post this run.
+- Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none
+
 ## 2026-11-18 16:50 | Nothing to do
 - Today's 9 group sprint posts are all written and scheduled, so no new post this run.
 - Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
@@ -770,10 +775,4 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 0 from the owner's Media Library (no Twin Rivers or Tigoni photos have been uploaded yet; Burudani/Nkasiri photos were not used because they show other venues) and 6 from Unsplash (featured tea bushes; body: misty tea hills, tea field with a hill, rope bridges between trees, archery targets, a parked quad bike). 5 body images, no photo credits, no people as the main subject. Owner: if you upload Twin Rivers photos, they can be swapped in. Added "tigoni", "paintball", "foosball", "tac" to spelling-allowlist.txt.
 - Skipped topics: none. Group post for today not yet written (left for a later run). Refresh still needed today (ultimate-namibia-safari-guide FIX FIRST row).
 - Could not open: en.wikipedia.org/wiki/Limuru (permission request timed out; no altitude figure given).
-
-## 2026-11-06 18:49 | Failed
-- Refresh of https://divulgeadventures.com/ultimate-namibia-safari-guide/ (FIX FIRST row, focus keyword "namibia safari guide") was NOT done: there is no copy of this post in posts/ or site-data/, and opening the live post needs a permission request that timed out, so per the task rules the refresh was stopped for the day. The row stays `todo` for the next eligible run.
-- To unblock it: allow divulgeadventures.com for WebFetch, or add the post's current text to the repo (e.g. research/ultimate-namibia-safari-guide.md).
-- The day's 3 new posts were already done; no post files changed. (This entry was pushed on 7 Nov at 08:58 because the run was held up overnight.)
-- Could not open: https://divulgeadventures.com/ultimate-namibia-safari-guide/ (permission request timed out).
 
