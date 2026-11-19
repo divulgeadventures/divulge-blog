@@ -1,5 +1,26 @@
 [
  {
+  "id": 13535,
+  "slug": "kenya-safari-for-seniors",
+  "url": "https://divulgeadventures.com/kenya-safari-for-seniors/",
+  "title": "Kenya Safari for Seniors: Shorter Drives, Two-Night Stops and a Group That Sets Its Own Pace",
+  "date": "2026-11-19"
+ },
+ {
+  "id": 13533,
+  "slug": "fish-river-canyon-hike-for-groups",
+  "url": "https://divulgeadventures.com/fish-river-canyon-hike-for-groups/",
+  "title": "Can Your Group Take On the Fish River Canyon Hike? Permits, Water and Fitness for Clubs",
+  "date": "2026-11-19"
+ },
+ {
+  "id": 13526,
+  "slug": "zanzibar-travel-guide",
+  "url": "https://divulgeadventures.com/zanzibar-travel-guide/",
+  "title": "Zanzibar Travel Guide: Beaches, Stone Town and Safari Combos",
+  "date": "2026-11-18"
+ },
+ {
   "id": 13513,
   "slug": "big-five-in-tanzania",
   "url": "https://divulgeadventures.com/big-five-in-tanzania/",
@@ -1281,13 +1302,6 @@
   "date": "2026-06-11"
  },
  {
-  "id": 9611,
-  "slug": "amboseli-national-park-2",
-  "url": "https://divulgeadventures.com/amboseli-national-park-2/",
-  "title": "Amboseli National Park",
-  "date": "2026-06-11"
- },
- {
   "id": 9606,
   "slug": "lake-nakuru-national-park",
   "url": "https://divulgeadventures.com/lake-nakuru-national-park/",
@@ -1324,16 +1338,9 @@
  },
  {
   "id": 9558,
-  "slug": "ngorongoro-national-park",
-  "url": "https://divulgeadventures.com/ngorongoro-national-park/",
-  "title": "Ngorongoro National Park",
-  "date": "2026-05-29"
- },
- {
-  "id": 9552,
-  "slug": "serengeti-national-park-2",
-  "url": "https://divulgeadventures.com/serengeti-national-park-2/",
-  "title": "Serengeti National Park",
+  "slug": "ngorongoro-crater",
+  "url": "https://divulgeadventures.com/ngorongoro-crater/",
+  "title": "Ngorongoro Crater: Complete Safari Guide to the Ngorongoro Conservation Area",
   "date": "2026-05-29"
  },
  {
@@ -1494,7 +1501,7 @@
   "id": 8241,
   "slug": "serengeti-national-park",
   "url": "https://divulgeadventures.com/serengeti-national-park/",
-  "title": "Serengeti National Park: Ultimate Guide to Africa’s Wilderness",
+  "title": "Serengeti National Park: The Complete Safari Guide",
   "date": "2026-02-19"
  },
  {
@@ -1515,7 +1522,7 @@
   "id": 7215,
   "slug": "amboseli-national-park",
   "url": "https://divulgeadventures.com/amboseli-national-park/",
-  "title": "Why Every Safari Should Include Amboseli National Park?",
+  "title": "Amboseli National Park: Elephants, Kilimanjaro Views and Safari Guide",
   "date": "2025-11-25"
  },
  {
