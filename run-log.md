@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-19 06:58 | New post 1
+- "Can Your Group Take On the Fish River Canyon Hike? Permits, Water and Fitness for Clubs" – https://divulgeadventures.com/fish-river-canyon-hike-for-groups/
+- Namibia, Safari Themes; group sprint row NA-324 (focus keyword refined to "fish river canyon hike", the phrase people search). Scheduled for 10:00 Nairobi time today.
+- Images: featured image from Unsplash; 5 body images (1 from the owner's Media Library: Fish River Canyon sunset; 4 from Unsplash, all described as the Fish River Canyon). No credits. Season and 2026 closures from NWR notices (checked November 2026); no permit fee or package prices quoted because no current official fee could be confirmed.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: NWR rack-rates PDF (redirected to the NWR homepage); the viatu.com Fish River guide (redirect, not followed).
+
 ## 2026-11-18 19:49 | Nothing to do
 - Today's 9 group sprint posts are all written and scheduled, so no new post this run.
 - Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
@@ -752,9 +759,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Prepared for the retry: 4 suitable owner Media Library photos (Deadvlei, Sandwich Harbour, Walvis Bay pink lake, Etosha), none used in the last 14 days.
 - Could not open: https://divulgeadventures.com/ultimate-namibia-safari-guide/ (permission request timed out).
 
-## 2026-11-10 14:55 | New post 3
-- "Gorilla Trekking vs Habituation: One Hour With a Settled Family or Four With a Wild One?": https://divulgeadventures.com/gorilla-trekking-vs-habituation/
-- Uganda (UG-030, BOOST comparison), Destination Tips; focus keyword refined to "gorilla trekking vs habituation". Scheduled for 10 Nov 18:00 Nairobi time.
-- Permits checked November 2026: trekking US$800 (US$600 in April, May and November); habituation US$1,500 until 31 Dec 2026, US$1,800 from 1 Jan 2027 (Capital Times, March 2026, and a Uganda news blog on the new tariff). One operator page still quotes US$1,000 for trekking, which conflicts with these, so it was not used. Habituation family names and daily permit totals differ between sources, so none are stated.
-- Images: 5 body images from the owner's Media Library (Bwindi silverback, gorilla eating leaves, baby gorilla, gorillas on vegetation, gorilla face close-up) + Unsplash featured image (mountain gorilla in Bwindi). No credits.
-- Today's 3 new posts are now done. The refresh is still needed today (first eligible row: ultimate-namibia-safari-guide, FIX FIRST); it is due on the 18:00+ run. Could not open: none (ugandawildlife.org has no searchable tariff page; linked its home page as before).

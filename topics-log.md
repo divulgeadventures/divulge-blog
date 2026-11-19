@@ -159,3 +159,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-18 | Rwanda RW-315 | Safari Themes | family gorilla trekking | rwanda-family-gorilla-trekking
 2026-11-18 | Uganda UG-321 | Safari Themes | rwenzori trek | rwenzori-group-trek
 2026-11-18 | Namibia NA-323 | Safari Themes | women's trip to namibia | womens-trip-to-namibia
+2026-11-19 | Namibia NA-324 | Safari Themes | fish river canyon hike | fish-river-canyon-hike-for-groups
