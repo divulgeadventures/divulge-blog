@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-19 08:15 | New post 2
+- "Kenya Safari for Seniors: Shorter Drives, Two-Night Stops and a Group That Sets Its Own Pace" – https://divulgeadventures.com/kenya-safari-for-seniors/
+- Kenya, Safari Themes; group sprint row KE-385 (focus keyword refined from "senior group safari kenya" to "kenya safari for seniors", the natural search phrase that matches the Tanzania, Botswana and Namibia seniors posts). Scheduled for 11:00 Nairobi time today.
+- Images: featured image from Unsplash; 5 body images (4 from the owner's Media Library: Amboseli elephants below Kilimanjaro, Mara–Amboseli fly-in safari, Amboseli flamingos, Mara leopard; 1 from Unsplash: hippos in Lake Naivasha). No credits. Park fees (KWS, Masai Mara), eTA rules, Airkenya 15 kg bag limit and NHS malaria advice checked November 2026; no package prices quoted.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: flysafarilink.com baggage page (bot-protection page); thekenyatimes.com Mara fees article (site error).
+
 ## 2026-11-19 06:58 | New post 1
 - "Can Your Group Take On the Fish River Canyon Hike? Permits, Water and Fitness for Clubs" – https://divulgeadventures.com/fish-river-canyon-hike-for-groups/
 - Namibia, Safari Themes; group sprint row NA-324 (focus keyword refined to "fish river canyon hike", the phrase people search). Scheduled for 10:00 Nairobi time today.
@@ -751,11 +758,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Fees checked November 2026: KWS student/child rates from the official KWS conservation fee schedule (Nairobi US$40, Hell's Gate US$25, Lake Nakuru US$45; students = 23 or under on an organised institutional trip); Masai Mara child US$50 (ages 9-17) and the school student-rate rules from a 2026 reserve fee summary. Budget ranges are labelled as estimates. Visitor health cover (US$44) mentioned only as announced, with readers told to check.
 - Images: 4 body images from the owner's Media Library (Nairobi NP scenery, Nairobi NP wildlife, Hell's Gate gorges, Lake Nakuru) + 1 Unsplash body image (Mara zebras) + Unsplash featured image (Lake Nakuru shores). No credits.
 - Today's refresh is still needed (ultimate-namibia-safari-guide, FIX FIRST); it is due on the 18:00+ run. Could not open: thekenyatimes.com Masai Mara fees article (site error).
-
-## 2026-11-10 18:52 | Failed (refresh not done)
-- Today's 3 new posts were already done, so this run was the daily refresh: the only eligible row left is ultimate-namibia-safari-guide (FIX FIRST, retarget to "namibia safari guide").
-- The live post could not be read: the WebFetch permission request for https://divulgeadventures.com/ultimate-namibia-safari-guide/ was not answered in time and was withdrawn. There is no JSON copy in posts/ and site-data/posts.json holds titles only, so per the task rules the refresh was stopped for today. The row stays `todo`; the next run that does a refresh will try again.
-- To unblock it: approve the divulgeadventures.com permission when asked, or add the post's current HTML to the repo (e.g. research/ultimate-namibia-safari-guide.html) so the run can read it without opening the site.
-- Prepared for the retry: 4 suitable owner Media Library photos (Deadvlei, Sandwich Harbour, Walvis Bay pink lake, Etosha), none used in the last 14 days.
-- Could not open: https://divulgeadventures.com/ultimate-namibia-safari-guide/ (permission request timed out).
-
