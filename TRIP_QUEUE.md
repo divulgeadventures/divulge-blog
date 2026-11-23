@@ -61,3 +61,6 @@ The first 10 Kenya rows are in the owner's priority order. Rwanda trips were opt
 | 52 | Namibia | 5-days-namibia-adventure | 9672 | done 2026-11-13 | 5 day sossusvlei and swakopmund tour | namibia-9672-5-day-sossusvlei-and-swakopmund-tour.json |
 | 53 | Namibia | 6-day-namibian-culture-and-scenery-tour | 9658 | done 2026-11-14 | 6 day damaraland and kaokoland culture tour | namibia-9658-6-day-damaraland-and-kaokoland-culture-tour.json |
 | 54 | Namibia | namibian-southern-skeleton-coast-tour | 9670 | done 2026-11-14 | 5 day southern skeleton coast tour | namibia-9670-5-day-southern-skeleton-coast-tour.json |
+| 55 | Rwanda | 1-day-gorilla-trekking-rwanda | 11535 | done 2026-11-23 | 1 day gorilla trekking rwanda | rwanda-11535-1-day-gorilla-trekking-rwanda.json |
+| 56 | Rwanda | nyungwe-and-lake-kivu-tour | 11543 | done 2026-11-23 | 3 day nyungwe and lake kivu tour | rwanda-11543-3-day-nyungwe-and-lake-kivu-tour.json |
+| 57 | Rwanda | akagera-day-trip-safari-from-kigali | 11529 | todo | | |

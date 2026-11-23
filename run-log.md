@@ -4,6 +4,18 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-23 16:06 Trip Optimiser
+- Queue extended at the owner's request: rows 55-57 added for the 3 Rwanda trips that had no optimised file (11535, 11543, 11529).
+- Done: 1 Day Gorilla Trekking Safari in Rwanda (11535, "1 day gorilla trekking rwanda", rwanda-11535-1-day-gorilla-trekking-rwanda.json), 3 Days Nyungwe Chimpanzee Trekking and Lake Kivu Adventure (11543, "3 day nyungwe and lake kivu tour", rwanda-11543-3-day-nyungwe-and-lake-kivu-tour.json)
+- Photos: 11535: 5 owner + 1 Unsplash; 11543: 7 owner + 0 Unsplash. No credits.
+- Owner to fix by hand (the importer cannot change these):
+  - 11535: current gallery alt text is wrong ("Mountain gorilla on a budget Rwanda safari", "Mountain gorilla on an 8 days Rwanda safari", "Virunga volcano near the Mount Bisoke hike"); the new gallery replaces these, but fix the Media Library alts too. Single price only (From $2,066, no regular price) – confirm it still covers the USD 1,500 permit.
+  - 11543: stray H4 "Here is how your 3-day Nyungwe and Lake Kivu tour unfolds." sits above the overview tabs (duplicate of the Day by Day intro). Day 3 ends with a fragment and no full stop ("Marking the end of your Nyungwe and Lake Kivu tour in Rwanda"). Lodges are given as alternatives on each day (Nyungwe Top View Hill Hotel | Gisakura Guest House; Cormoran Lodge | Rwiza Village), not conflicting. Single price only (From $1,520). Media Library typos: "Nyngwe" (11575), "colobus mokey" (11617), "colombus monkey" (11615); several Nyungwe photos have empty alt text (11576, 11579, 11580).
+  - Both pages and the site template: "Accomodation" typo in the Safari Info box.
+  - Slug mismatches found while checking coverage: 12547 is live at /trip/10-days-rwenzori-margherita-peak-climb/ but its file uses slug 10-days-rwenzori-mountains-climb-margherita-peak; 12529 is live at /trip/mount-kenya-north-face-climb-via-kamweti/ but its file uses 10-days-mt-kenya-north-face-climb-kamweti-route. Check which slug is meant and that no duplicate trip was created.
+- Could not open: none (worked from the 2026-11-23 11:31 site snapshot).
+- Next: 1 Day Akagera National Park Safari from Kigali (11529); then the queue is empty again.
+
 ## 2026-11-23 18:59 | New post 1
 - "Gorilla Trekking for Seniors Works in Rwanda When the Group Plans Around Its Slowest Walker" – https://divulgeadventures.com/gorilla-trekking-for-seniors-rwanda/
 - Rwanda, Safari Themes; group sprint row RW-316 (focus keyword refined to "gorilla trekking for seniors", the phrase people search). Scheduled for 20:00 Nairobi time today (this was the first run to write a post today; the 10:00-19:00 slots had passed).
