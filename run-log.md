@@ -4,6 +4,9 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-23 15:33 Trip Optimiser
+- Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
+
 ## 2026-11-19 08:33 Trip Optimiser
 - Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
 
