@@ -329,3 +329,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/womens-trip-to-namibia/ (women's trip to namibia)
 - https://divulgeadventures.com/fish-river-canyon-hike-for-groups/ (fish river canyon hike)
 - https://divulgeadventures.com/kenya-safari-for-seniors/ (kenya safari for seniors)
+- https://divulgeadventures.com/gorilla-trekking-for-seniors-rwanda/ (gorilla trekking for seniors)

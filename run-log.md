@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-23 18:59 | New post 1
+- "Gorilla Trekking for Seniors Works in Rwanda When the Group Plans Around Its Slowest Walker" – https://divulgeadventures.com/gorilla-trekking-for-seniors-rwanda/
+- Rwanda, Safari Themes; group sprint row RW-316 (focus keyword refined to "gorilla trekking for seniors", the phrase people search). Scheduled for 20:00 Nairobi time today (this was the first run to write a post today; the 10:00-19:00 slots had passed).
+- Images: featured image from Unsplash (mountain gorilla in Rwanda); 5 body images (3 from the owner's Media Library: gorilla on grass in Rwanda, giraffe in Akagera, leopard in Akagera; 2 from Unsplash: Virunga volcano in cloud, Lake Kivu island). No credits. Permit price, age limit and 30% low-season discount (RDB) checked November 2026; no package prices quoted; no porter fee stated because no current official figure was found.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: RDB mountain gorilla tracking page and NHS Fit for Travel Rwanda page (permission requests timed out); Lonely Planet Rwanda gorilla guide (no article text returned); New Times promotional-rates article (body missing).
+
 ## 2026-11-23 15:33 Trip Optimiser
 - Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
 
@@ -733,34 +740,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Facts checked November 2026: Serengeti US$82.60 high-season entry and ~US$70.80 concession, NCA US$70.80 and US$295 crater vehicle fee (recent fee summaries, readers told to confirm on TANAPA/NCAA), Coastal timetable (Arusha-Ndutu about 1 hour via Manyara), February weather. Costs are labelled estimates; Divulge price quoted only from the Tarangire-Ngorongoro-Serengeti trip page (from USD 6,180).
 - Images: 4 from the owner's Media Library (featured Serengeti photo, wildebeest herd, lion on rock, flamingos) + 2 Unsplash (wildebeest with calf, cheetah in Serengeti); 5 body images, no credits. Reviews line left out (validate.py rejects its bold text).
 - Could not open: travel-origin.africageographic.com Serengeti month guide (redirect, not followed). Refresh (Namibia safari guide, FIX FIRST) still due on the 18:00+ run.
-
-## 2026-11-11 11:20 | New post 2
-- "Planning an Okavango Delta Safari Around the Flood, the Camps and Your Budget": https://divulgeadventures.com/okavango-delta-safari/
-- Botswana (BW-004, core topic), Destination Tips. Scheduled for 11 Nov 14:00 Nairobi time.
-- Facts checked November 2026: Moremi entry P270 per non-resident adult per day and the postponed April 2026 fee rise (moremipark.com fee page, Gabz FM); UNESCO site facts; flood timing; Mack Air 20 kg soft-bag limit. Camp costs are labelled estimates; Divulge prices quoted only from the two Okavango trip pages ($715 and $3,600).
-- Images: 4 body images from the owner's Media Library + 1 Unsplash body image (kudu in Moremi) + Unsplash featured image (Okavango sunset). No credits. The Plan My Safari reviews line was left out because validate.py rejects its bold text and recent posts do not carry it.
-- Could not open: divulgeadventures.com image files via curl (proxy 403, used media.json titles instead). Refresh still due on the 18:00+ run.
-
-## 2026-11-11 05:37 Trip Optimiser
-- Done: 4 Days at Kidepo Valley National Park (8716, "4 day kidepo valley national park safari", uganda-8716-4-day-kidepo-valley-national-park-safari.json), 7-Day Botswana Safari – Chobe National Park, Khwai & Okavango Wildlife Experience (9843, "7 day chobe moremi and khwai safari", botswana-9843-7-day-chobe-moremi-and-khwai-safari.json)
-- Photos: Kidepo 1 owner + 4 Unsplash (no owner Kidepo photos in the Media Library; the old featured image was a Masai Mara photo and was dropped); Botswana 3 owner + 3 Unsplash. No credits anywhere.
-- Owner to fix by hand (the importer cannot change these):
-  - Kidepo (8716): slug says "3-days" but the title and itinerary are 4 days/3 nights; consider a 301 to a 4-day slug.
-  - Kidepo: conflicting lodges in the park: day 2 overnight "Adere Safari Lodge", day 3 overnight "Kidepo Savannah Lodge" with no move between lodges in the text. Pick one (or say "or similar").
-  - Kidepo: current featured image and gallery photo is 6000-x-4000divulge_adventures-147 with alt "divulge adventures Masai Mara Kenya Safari", a Kenya photo on a Uganda trip. Wrong alt/wrong place.
-  - Kidepo itinerary typos: "Karamajong" (highlights and includes; correct is Karamojong), "Adere Safari Lodge i n the late afternoon", "Divulge Adventure Safaris", missing spaces after full stops ("National Park.The drive", "en route.Lunch", "traditions.This"). The page overview mentions Kanangorok Hot Springs, a "Sudanese border" and arrival "by scenic flight", none of which are in the road itinerary.
-  - Kidepo: only one price ("From $1,789"), no regular/sale pair; no drive times given for the long Kampala-Kidepo days; excludes list has no tips or insurance line; includes lists "Company Mark up", which reads oddly to clients.
-  - Botswana (9843): title says "Khwai & Okavango" but days 3-4 are in Moremi Game Reserve (Mankwe Tented Retreat); title/keyword now say Chobe, Moremi and Khwai.
-  - Botswana typos: "Gateway to the Okavango Wildernes" (day 3 heading), "your Botswana's Safari stunning landscapes" (day 7), lowercase "botswana"/"khwai" in the overview, "Safari ecosystems"; Highlights list has "Chobe National Park" twice; includes list has a stray "* " prefix on every bullet and an empty last bullet; "[whatsapp_booking]" shortcode shows as raw text in the copy.
-  - Botswana: "luxury lodge stays" in the overview; only Mankwe is described as luxury, check the claim. Gallery photos have alt "Botswana safari" (now corrected in the import file). Only one price ("From $4,870").
-  - Related trip cards: "5 Day Boteti Tented Safari Logde" (title and slug 5-day-boteti-tented-safari-logde, queue row 46: "Logde" should be "Lodge"); "Okavanga Delta" typo in the 5 Days Into the Okavango Exploration excerpt.
-  - Older trip files still carry Unsplash photo credits in the overview (they would now fail validate_trip.py under the no-credits rule): kenya-2957, kenya-6804, kenya-6806, tanzania-6840, tanzania-9499, tanzania-9504, tanzania-9511, tanzania-9527, tanzania-9539. Re-import them without the credit line (or let a future run clean them).
-- Could not open: none (site copy from 2026-11-10 18:22 UTC used; divulgeadventures.com not opened).
-- Next: 3-day-okavango-delta-mokoro-tour (Botswana), 5-days-okavango-exploration (Botswana)
-
-## 2026-11-11 06:55 | New post 1
-- "A Kenya School Trip Can Teach Geology, Ecology and Conservation Within a Day of Nairobi": https://divulgeadventures.com/kenya-school-trip/
-- Kenya (KE-374, today's group post: school), Safari Themes; focus keyword refined to "kenya school trip". Scheduled for 11 Nov 10:00 Nairobi time.
-- Fees checked November 2026: KWS student/child rates from the official KWS conservation fee schedule (Nairobi US$40, Hell's Gate US$25, Lake Nakuru US$45; students = 23 or under on an organised institutional trip); Masai Mara child US$50 (ages 9-17) and the school student-rate rules from a 2026 reserve fee summary. Budget ranges are labelled as estimates. Visitor health cover (US$44) mentioned only as announced, with readers told to check.
-- Images: 4 body images from the owner's Media Library (Nairobi NP scenery, Nairobi NP wildlife, Hell's Gate gorges, Lake Nakuru) + 1 Unsplash body image (Mara zebras) + Unsplash featured image (Lake Nakuru shores). No credits.
-- Today's refresh is still needed (ultimate-namibia-safari-guide, FIX FIRST); it is due on the 18:00+ run. Could not open: thekenyatimes.com Masai Mara fees article (site error).

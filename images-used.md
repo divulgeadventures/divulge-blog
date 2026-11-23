@@ -867,3 +867,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-19 | https://images.unsplash.com/photo-1679559429194-7fcc01396023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8TGFrZSUyME5haXZhc2hhfGVufDB8MHx8fDE3OTUwNjM4OTF8Mg&ixlib=rb-4.1.0&q=80&w=1080 | kenya-safari-for-seniors
 2026-11-19 | https://divulgeadventures.com/wp-content/uploads/2026/10/flamingos-in-amboseli-national-park-kenya.jpg | kenya-safari-for-seniors
 2026-11-19 | https://divulgeadventures.com/wp-content/uploads/2026/10/leopard-sleeping-next-to-its-catch-on-a-tree-branch-in-the-masai-mara-scaled.jpg | kenya-safari-for-seniors
+2026-11-23 | https://images.unsplash.com/photo-1722291731448-3afe029611a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8bW91bnRhaW4lMjBnb3JpbGxhJTIwUndhbmRhfGVufDB8MHx8fDE3OTU0NDkzNjJ8Mg&ixlib=rb-4.1.0&q=80&w=1080 | gorilla-trekking-for-seniors-rwanda
+2026-11-23 | https://divulgeadventures.com/wp-content/uploads/2026/10/gorilla-trekking-in-rwanda.jpg | gorilla-trekking-for-seniors-rwanda
+2026-11-23 | https://images.unsplash.com/photo-1756245994917-7fef9d2df7a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8Vm9sY2Fub2VzJTIwTmF0aW9uYWwlMjBQYXJrJTIwUndhbmRhfGVufDB8MHx8fDE3OTU0NDkzNzB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | gorilla-trekking-for-seniors-rwanda
+2026-11-23 | https://divulgeadventures.com/wp-content/uploads/2026/10/giraffe-on-the-plains-of-akagera-national-park-rwanda.jpg | gorilla-trekking-for-seniors-rwanda
+2026-11-23 | https://images.unsplash.com/photo-1514548383638-cef9251a73ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8TGFrZSUyMEtpdnV8ZW58MHwwfHx8MTc5NTQ0OTM2Mnwy&ixlib=rb-4.1.0&q=80&w=1080 | gorilla-trekking-for-seniors-rwanda
+2026-11-23 | https://divulgeadventures.com/wp-content/uploads/2026/10/Leopard-at-Akagera-National-Park.jpg | gorilla-trekking-for-seniors-rwanda
