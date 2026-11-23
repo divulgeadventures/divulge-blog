@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-23 19:55 | New post 2
+- "How to Organise a Group Safari in East Africa, From the First Headcount to the Final Payment" – https://divulgeadventures.com/how-to-organise-a-group-safari/
+- Kenya (organiser guide covering all six countries), Safari Planning Tips; group sprint row KE-387 (focus keyword refined to "organise a group safari" so it reads naturally). Scheduled for 21:00 Nairobi time today (the 11:00 slot had passed; 21:00 keeps it an hour after today's post 1).
+- Images: 6 from the owner's Media Library (featured: wildebeest herds on a Kenya safari; body: Masai Mara wildlife, Mara wildebeest, Ol Pejeta, northern Kenya game drive, safari vehicle beside a light aircraft), 0 from Unsplash. No credits. Group policies (7th place free per 6 paying, split payments, different flights, 30-40% deposit, balance 2-4 weeks before) taken from the trip pages in site-data; Mara fees, Kenya eTA timing and Rwanda permit price as checked November 2026. No package prices quoted.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: none (WebFetch was not available this run, so no pages were opened; figures came from searches and posts checked this month).
+
 ## 2026-11-23 16:06 Trip Optimiser
 - Queue extended at the owner's request: rows 55-57 added for the 3 Rwanda trips that had no optimised file (11535, 11543, 11529).
 - Done: 1 Day Gorilla Trekking Safari in Rwanda (11535, "1 day gorilla trekking rwanda", rwanda-11535-1-day-gorilla-trekking-rwanda.json), 3 Days Nyungwe Chimpanzee Trekking and Lake Kivu Adventure (11543, "3 day nyungwe and lake kivu tour", rwanda-11543-3-day-nyungwe-and-lake-kivu-tour.json)
@@ -738,17 +745,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Added "12. Twin Rivers Resort — Tigoni" to https://divulgeadventures.com/best-team-building-venues-near-nairobi/ with a link to the Twin Rivers guide; title now "12 Best Team Building Venues Near Nairobi for Corporate Groups". Everything else in the post is unchanged (URL, SEO title, focus keyword and FAQs kept).
 - Kilimanjaro trip files re-pushed so the new trip names import (needs the latest Trip Optimiser snippet).
 
-## 2026-11-11 18:01 | Refresh
-- "Planning Namibia From Scratch? A Namibia Safari Guide to Regions, Seasons and Costs": https://divulgeadventures.com/ultimate-namibia-safari-guide/ (refreshed in place, FIX FIRST row; existing featured image kept)
-- Namibia, Destination Tips. Retargeted from "namibia safari" to "namibia safari guide"; links the Namibia destination page in the first paragraph ("Namibia safari packages") and in the Trip CTA, plus 11 Namibia posts and 3 Namibia trips. Removed the bare nwr.com.na link and the old Google review line. The old post was read from the live page (WebFetch worked) before the new site-data/post-content copy arrived.
-- Facts checked November 2026: N$280 park fee for international adults at Etosha/Namib-Naukluft from 1 April 2026 (namibian.org, matches recent posts), N$1,600 visa on arrival (Namibia embassy fact sheet), malaria zones (NHS Fit for Travel), driving distances (published Namibia distance chart). Costs labelled as estimates; no Divulge prices quoted.
-- Images: 5 from the owner's Media Library + 1 Unsplash (giraffe in Damaraland); 6 body images, no credits.
-- All broken-link fixes are done; the daily refresh is now paused.
-- Could not open: tourismupdate.com park-fee article (page loaded without the article text); nwrnamibia.com fee page still shows the old N$150 rate, so not used.
-
-## 2026-11-11 14:54 | New post 3
-- "Serengeti in February: Peak Calving, Green Plains and the Bases Worth Booking Early": https://divulgeadventures.com/serengeti-in-february/
-- Tanzania (TZ-048, seasonal February row), Great Migration & River Crossing. Scheduled for 11 Nov 18:00 Nairobi time.
-- Facts checked November 2026: Serengeti US$82.60 high-season entry and ~US$70.80 concession, NCA US$70.80 and US$295 crater vehicle fee (recent fee summaries, readers told to confirm on TANAPA/NCAA), Coastal timetable (Arusha-Ndutu about 1 hour via Manyara), February weather. Costs are labelled estimates; Divulge price quoted only from the Tarangire-Ngorongoro-Serengeti trip page (from USD 6,180).
-- Images: 4 from the owner's Media Library (featured Serengeti photo, wildebeest herd, lion on rock, flamingos) + 2 Unsplash (wildebeest with calf, cheetah in Serengeti); 5 body images, no credits. Reviews line left out (validate.py rejects its bold text).
-- Could not open: travel-origin.africageographic.com Serengeti month guide (redirect, not followed). Refresh (Namibia safari guide, FIX FIRST) still due on the 18:00+ run.

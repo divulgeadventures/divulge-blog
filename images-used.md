@@ -873,3 +873,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-23 | https://divulgeadventures.com/wp-content/uploads/2026/10/giraffe-on-the-plains-of-akagera-national-park-rwanda.jpg | gorilla-trekking-for-seniors-rwanda
 2026-11-23 | https://images.unsplash.com/photo-1514548383638-cef9251a73ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8TGFrZSUyMEtpdnV8ZW58MHwwfHx8MTc5NTQ0OTM2Mnwy&ixlib=rb-4.1.0&q=80&w=1080 | gorilla-trekking-for-seniors-rwanda
 2026-11-23 | https://divulgeadventures.com/wp-content/uploads/2026/10/Leopard-at-Akagera-National-Park.jpg | gorilla-trekking-for-seniors-rwanda
+2026-11-23 | https://divulgeadventures.com/wp-content/uploads/2025/12/6-day-amboseli-and-masai-mara-safari-wildebeest-migration-herds-in-kenya.jpg | how-to-organise-a-group-safari
+2026-11-23 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge-adventures.jpg | how-to-organise-a-group-safari
+2026-11-23 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-66.jpg | how-to-organise-a-group-safari
+2026-11-23 | https://divulgeadventures.com/wp-content/uploads/2025/11/Divulge-Adventures-Olpejeta-Conservancy.jpeg | how-to-organise-a-group-safari
+2026-11-23 | https://divulgeadventures.com/wp-content/uploads/2025/12/4527-x-2741divulge_adventures_1-2-scaled.jpg | how-to-organise-a-group-safari
+2026-11-23 | https://divulgeadventures.com/wp-content/uploads/2026/10/divulge-adventures-safari-jeep-beside-light-aircraft-fly-in-safari-scaled.jpg | how-to-organise-a-group-safari
