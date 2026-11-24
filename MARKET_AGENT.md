@@ -14,9 +14,11 @@ Divulge Adventures content only: never mention any other business.
 - Take the first row with status `todo` in markets/queue-<GROUP>.md.
 - If it overlaps a published post (same search intent) or a REFRESH_QUEUE.md row, set its status to
   `skip (overlaps /<slug>/)` and take the next row. Follow the row's "Differentiate from" note.
-- If no `todo` row is left: write no post; add 6 new rows to the queue (same columns, next numbers,
-  evidence from your competitor check and Search Console baselines in your brief), do the report
-  (step 6), commit and stop.
+- Keep the queue topped up: if 3 or fewer `todo` rows are left (before taking today's), first add
+  6 new rows (same columns, next numbers), then write today's post as normal. New rows come from
+  your competitor checks and Monday reports: gaps where competitors rank and we have no page,
+  "People also ask" questions from your market, and seasonal topics 2-3 months ahead. Put the
+  strongest first and never add a keyword an existing post already targets.
 
 ## 3. Competitor check (max 6 WebSearch/WebFetch calls; max 3 on non-Monday runs)
 - Search the row's keyword (and 2-3 related ones) as a traveller from your markets would.
