@@ -896,3 +896,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-24 | https://images.unsplash.com/photo-1531208853003-c1ec1b8a81d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8T2thdmFuZ28lMjBkZWx0YXxlbnwwfDB8fHwxNzk1NDk5NzMwfDI&ixlib=rb-4.1.0&q=80&w=1080 | womens-safari-botswana
 2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/06/Boteti.avif | womens-safari-botswana
 2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/06/baobab-tree-silhouetted-at-sunset-in-botswana.jpg | womens-safari-botswana
+2026-11-24 | https://images.unsplash.com/photo-1633374064789-1f5d7e2164e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8TmFtaWJpYSUyMGJpcmR8ZW58MHwwfHx8MTc5NTUwMzE4NHwy&ixlib=rb-4.1.0&q=80&w=1080 | namibia-birding-for-groups
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/01/Namibia-safari-walvis-bay-flamingos.jpg | namibia-birding-for-groups
+2026-11-24 | https://images.unsplash.com/photo-1597645945216-9c98d3b2b993?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8TmFtaWJpYSUyMGJpcmR8ZW58MHwwfHx8MTc5NTUwMzE4NHwy&ixlib=rb-4.1.0&q=80&w=1080 | namibia-birding-for-groups
+2026-11-24 | https://images.unsplash.com/photo-1571315420218-588dfa941411?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8U3BpdHprb3BwZXxlbnwwfDB8fHwxNzk1NTAzMTg1fDI&ixlib=rb-4.1.0&q=80&w=1080 | namibia-birding-for-groups
+2026-11-24 | https://images.unsplash.com/photo-1565204128981-a088e01eb231?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OXx8TmFtaWJpYSUyMGJpcmR8ZW58MHwwfHx8MTc5NTUwMzE4NHwy&ixlib=rb-4.1.0&q=80&w=1080 | namibia-birding-for-groups
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/11/namibia-in-february.jpg | namibia-birding-for-groups

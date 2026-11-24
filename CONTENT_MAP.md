@@ -334,3 +334,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/uganda-photography-tour/ (uganda photography tour)
 - https://divulgeadventures.com/group-safari-cost-per-person/ (group safari cost)
 - https://divulgeadventures.com/womens-safari-botswana/ (women's safari in botswana)
+- https://divulgeadventures.com/namibia-birding-for-groups/ (namibia birding)

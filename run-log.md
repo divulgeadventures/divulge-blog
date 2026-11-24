@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-24 10:05 | New post 4
+- "How to Run a Namibia Birding Trip for Your Club, From Walvis Bay's Flamingos to Etosha's Raptors" – https://divulgeadventures.com/namibia-birding-for-groups/
+- Namibia (NA-325, group sprint), Safari Themes; focus keyword refined to "namibia birding"; scheduled for 13:00 Nairobi time.
+- Images: 5 in the body (2 from the owner's Media Library, 3 from Unsplash) plus an Unsplash featured image; no credits. The Walvis Bay flamingo owner photo was last used 16 Nov (under 14 days) because no other owner bird photo of Namibia exists.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). 5 group rows remain (Kenya 2, Uganda, Rwanda, Botswana).
+- Could not open: BirdLife DataZone factsheets for Namibia, Walvis Bay, Sandwich Harbour, Etosha and Hobatere (pages load without data); tourismupdate.com park-fee article (no article text); travelnewsnamibia.com Zambezi birding article (redirects to another site).
+
 ## 2026-11-24 09:20 | New post 3
 - "A Women's Safari in Botswana, Planned Around Small Camps, Quiet Water and Good Company" – https://divulgeadventures.com/womens-safari-botswana/
 - Botswana, Safari Themes; group sprint row BW-320 (focus keyword refined to "women's safari in botswana"). Scheduled for 12:00 Nairobi time today.
@@ -742,11 +749,4 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Facts checked November 2026: Kigali Genocide Memorial (free entry, under-12s not admitted, guided group tours US$200-500 with 15% student discount; kgm.rw), Akagera fees (adult rates from 13, US$100/150/200, boat trips; African Parks price list), Nyungwe 2025-2026 prices (canopy walk US$40, chimps US$150), Rwanda visa (free for AU/Commonwealth/Francophonie, US$50 others; migration.gov.rw), Dian Fossey Fund campus hours and US$20 suggested donation, gorilla permit US$1,500 and 15+ age rule. Golden monkey age (12) and fee (US$100) are from secondary sources and flagged "confirm when booking". Per-student costs are labelled estimates.
 - Images: 5 from the owner's Media Library (featured Lake Kivu island + Akagera landscape, Akagera hippo, golden monkey, Nyungwe forest) + 1 Unsplash (Kigali, Nyamirambo). 5 body images, no credits. Refresh still paused.
 - Could not open: none
-
-## 2026-11-12 11:05 | New post 2
-- "An East Africa DMC Turns Your Client's Safari Brief Into a Trip That Runs Smoothly on the Ground": https://divulgeadventures.com/east-africa-dmc/
-- Owner idea (today's one owner idea during the sprint), written for travel agents and tour operators; added to the bank as KE-391, Safari Planning Tips. Scheduled for 12 Nov 12:00 Nairobi time (11:00 slot had passed by commit time). Main link /group-safaris/safari-dmc/ in the second paragraph and Trip CTA, /group-safaris/ once, /b2b-agent-rates/, orange button "Become a Partner Agent" to the group inquiry form, trips: 12 Days Magical Kenya & Tanzania Safari and 9 Days Gorilla and Chimpanzee Trekking Safari.
-- Facts checked November 2026: Uganda Wildlife Authority tariff Jan 2027-Jun 2028 (gorilla permit US$800, habituation US$1,800, permits only via licensed tour operators; note it keeps US$800, despite some 2026 reports of US$1,000); TRA licence guidance (annual licence, verify with TRA). No licences, memberships, net rates or commission levels claimed. Visa/permit figures carried from earlier verified posts with their check dates.
-- Images: 6 from the owner's Media Library (featured Mara migration + 5 body: safari fleet, vehicle by aircraft, Rwanda gorilla, Mara game drive, Amboseli elephants), 0 Unsplash. No credits. Added dmc, dmcs, commissionable, inbox to spelling-allowlist.txt. Refresh still paused.
-- Could not open: https://divulgeadventures.com/group-safaris/safari-dmc/ (permission request timed out; site copy has no page text, so the post describes the service only in general terms); UWA purchase-guidelines PDF (not linked from the page text)
 
