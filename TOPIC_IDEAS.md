@@ -20,6 +20,7 @@ Add one idea per line as `- [ ] your idea`. The daily task writes the oldest unc
 - [x] How safari net rates and commission work for travel agents (keyword "safari net rates for travel agents"): explain net vs commissionable, deposits, park fees and seasonality in general terms only, with no real rates. AGENT POST, same linking rules. — written 2026-11-15: https://divulgeadventures.com/safari-net-rates-for-travel-agents/
 - [x] Booking gorilla permits for clients in Uganda and Rwanda: a guide for tour operators (keyword "gorilla permits for tour operators"). AGENT POST, same linking rules; link the Rwanda gorilla permit post. — written 2026-11-16: https://divulgeadventures.com/gorilla-permits-for-tour-operators/
 - [x] Incentive travel and MICE in Kenya and Rwanda: what a local DMC handles (keyword "kenya incentive travel dmc"). AGENT POST, same linking rules; also link /group-safaris/corporate-incentive-safaris/. — written 2026-11-17: https://divulgeadventures.com/kenya-incentive-travel-dmc/
+- [ ] Ngare Ndare Forest guide (canopy walkway, blue pools, waterfalls, entry fees from the official source, how to combine with Ol Pejeta or Mount Kenya; keyword "ngare ndare forest"). Link the Laikipia walking safari and Mount Kenya trips.
 - [ ] Kenya vs Tanzania safari (which to choose: wildlife, cost, crowds, migration timing; honest comparison)
 - [ ] Uganda gorilla permit cost (UWA price, how to book, habituation vs trekking permit)
 - [ ] Botswana safari cost (budget tiers, fly-in costs, Okavango vs Chobe price)
