@@ -1,5 +1,17 @@
 [
  {
+  "id": 13725,
+  "slug": "responsible-travel",
+  "url": "https://divulgeadventures.com/responsible-travel/",
+  "title": "Responsible Travel"
+ },
+ {
+  "id": 13724,
+  "slug": "reviews",
+  "url": "https://divulgeadventures.com/reviews/",
+  "title": "Divulge Adventures Reviews"
+ },
+ {
   "id": 12693,
   "slug": "safari-dmc",
   "url": "https://divulgeadventures.com/group-safaris/safari-dmc/",
@@ -124,12 +136,6 @@
   "slug": "saved-safari-wishlist",
   "url": "https://divulgeadventures.com/saved-safari-wishlist/",
   "title": "Wishlist"
- },
- {
-  "id": 2961,
-  "slug": "all-safari-departure-dates",
-  "url": "https://divulgeadventures.com/all-safari-departure-dates/",
-  "title": "All Departure Dates"
  },
  {
   "id": 2872,

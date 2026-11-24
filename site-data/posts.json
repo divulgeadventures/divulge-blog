@@ -1,5 +1,54 @@
 [
  {
+  "id": 13577,
+  "slug": "womens-trip-to-uganda",
+  "url": "https://divulgeadventures.com/womens-trip-to-uganda/",
+  "title": "Is a Women’s Trip to Uganda Right for Your Group? Gorillas, Craft Villages and Slow Days on Lake Bunyonyi",
+  "date": "2026-11-24"
+ },
+ {
+  "id": 13574,
+  "slug": "group-safari-payments",
+  "url": "https://divulgeadventures.com/group-safari-payments/",
+  "title": "Group Safari Payments, Rooming Lists and Free Places, Sorted Before Anyone Flies",
+  "date": "2026-11-24"
+ },
+ {
+  "id": 13565,
+  "slug": "gorilla-permits-for-groups-rwanda",
+  "url": "https://divulgeadventures.com/gorilla-permits-for-groups-rwanda/",
+  "title": "Gorilla Permits for Groups in Rwanda Come in Blocks of Eight, and That Shapes the Whole Trip",
+  "date": "2026-11-24"
+ },
+ {
+  "id": 13555,
+  "slug": "namibia-birding-for-groups",
+  "url": "https://divulgeadventures.com/namibia-birding-for-groups/",
+  "title": "How to Run a Namibia Birding Trip for Your Club, From Walvis Bay’s Flamingos to Etosha’s Raptors",
+  "date": "2026-11-24"
+ },
+ {
+  "id": 13551,
+  "slug": "womens-safari-botswana",
+  "url": "https://divulgeadventures.com/womens-safari-botswana/",
+  "title": "A Women’s Safari in Botswana, Planned Around Small Camps, Quiet Water and Good Company",
+  "date": "2026-11-24"
+ },
+ {
+  "id": 13547,
+  "slug": "group-safari-cost-per-person",
+  "url": "https://divulgeadventures.com/group-safari-cost-per-person/",
+  "title": "Group Safari Cost, Worked Out Per Person for Groups of 2, 4, 6 and 12",
+  "date": "2026-11-24"
+ },
+ {
+  "id": 13546,
+  "slug": "uganda-photography-tour",
+  "url": "https://divulgeadventures.com/uganda-photography-tour/",
+  "title": "Planning a Uganda Photography Tour for Your Camera Club? Start With the Gorilla Permits",
+  "date": "2026-11-24"
+ },
+ {
   "id": 13544,
   "slug": "how-to-organise-a-group-safari",
   "url": "https://divulgeadventures.com/how-to-organise-a-group-safari/",
@@ -1065,8 +1114,8 @@
  },
  {
   "id": 11160,
-  "slug": "divulgeadventures-com-kakamega-forest",
-  "url": "https://divulgeadventures.com/divulgeadventures-com-kakamega-forest/",
+  "slug": "kakamega-forest",
+  "url": "https://divulgeadventures.com/kakamega-forest/",
   "title": "Kakamega Forest: A Practical Guide to Kenya’s Last Rainforest",
   "date": "2026-09-30"
  },
@@ -1088,7 +1137,7 @@
   "id": 11082,
   "slug": "best-national-parks-to-visit-in-uganda",
   "url": "https://divulgeadventures.com/best-national-parks-to-visit-in-uganda/",
-  "title": "BEST NATIONAL PARKS IN UGANDA.",
+  "title": "Best National Parks in Uganda",
   "date": "2026-09-14"
  },
  {
@@ -1121,8 +1170,8 @@
  },
  {
   "id": 11059,
-  "slug": "best-national-parks-in-tanzania-divulge",
-  "url": "https://divulgeadventures.com/best-national-parks-in-tanzania-divulge/",
+  "slug": "best-national-parks-in-tanzania",
+  "url": "https://divulgeadventures.com/best-national-parks-in-tanzania/",
   "title": "The Best National Parks in Tanzania: A Complete 2026 Safari Guide",
   "date": "2026-09-11"
  },
@@ -1156,8 +1205,8 @@
  },
  {
   "id": 10258,
-  "slug": "nairobi-national-park-kenyas",
-  "url": "https://divulgeadventures.com/nairobi-national-park-kenyas/",
+  "slug": "nairobi-national-park",
+  "url": "https://divulgeadventures.com/nairobi-national-park/",
   "title": "Nairobi National Park: Kenya’s Wild Safari Experience Hidden Within a Modern City",
   "date": "2026-07-03"
  },
@@ -1414,13 +1463,6 @@
   "date": "2026-05-13"
  },
  {
-  "id": 9118,
-  "slug": "hot-air-balloon-safari",
-  "url": "https://divulgeadventures.com/hot-air-balloon-safari/",
-  "title": "Hot Air Balloon Safari",
-  "date": "2026-05-13"
- },
- {
   "id": 9108,
   "slug": "maasai-culture-village-visits-and-traditions",
   "url": "https://divulgeadventures.com/maasai-culture-village-visits-and-traditions/",
@@ -1459,7 +1501,7 @@
   "id": 8912,
   "slug": "masai-mara-safari-cost",
   "url": "https://divulgeadventures.com/masai-mara-safari-cost/",
-  "title": "Masai Mara Safari Cost",
+  "title": "Masai Mara Safari Cost, Line by Line From Gate Fees to Fly-In Camps",
   "date": "2026-05-12"
  },
  {
@@ -1477,25 +1519,11 @@
   "date": "2026-05-12"
  },
  {
-  "id": 8800,
-  "slug": "lake-nakuru-national-park-attractions",
-  "url": "https://divulgeadventures.com/lake-nakuru-national-park-attractions/",
-  "title": "Lake Nakuru National Park Attractions",
-  "date": "2026-05-08"
- },
- {
   "id": 8796,
   "slug": "tsavo-east-national-park-attractions",
   "url": "https://divulgeadventures.com/tsavo-east-national-park-attractions/",
   "title": "Tsavo East National Park Attractions",
   "date": "2026-05-08"
- },
- {
-  "id": 8494,
-  "slug": "8-best-of-amboseli-national-park-attractions",
-  "url": "https://divulgeadventures.com/8-best-of-amboseli-national-park-attractions/",
-  "title": "8 Best of Amboseli National Park Attractions",
-  "date": "2026-04-09"
  },
  {
   "id": 8290,
@@ -1510,13 +1538,6 @@
   "url": "https://divulgeadventures.com/serengeti-national-park/",
   "title": "Serengeti National Park: The Complete Safari Guide",
   "date": "2026-02-19"
- },
- {
-  "id": 8095,
-  "slug": "samburu-game-reserve-kenya",
-  "url": "https://divulgeadventures.com/samburu-game-reserve-kenya/",
-  "title": "Samburu Game Reserve: Discover Kenya’s Magical North",
-  "date": "2026-01-29"
  },
  {
   "id": 7487,
