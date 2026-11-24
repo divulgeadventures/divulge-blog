@@ -24,3 +24,12 @@
 - `faq` is printed as FAQPage schema on the post by the sync snippet.
 - Refresh an existing post: add `"update_slug": "<existing-slug>"` and set `slug` to the same value. URL, date and author stay; title, content, excerpt, category, tags, Rank Math fields, FAQ and (optionally) featured image are replaced. WordPress keeps the old version under Revisions.
 - Filenames: new posts `posts/YYYY-MM-DD-<slot 1-3>-<slug>.json`; refreshes `posts/refresh-YYYY-MM-DD-<slug>.json` (refresh files must not start with the date, so they never count as one of the day's 3 posts).
+
+
+## Quality fields (required from 25 Nov 2026, checked by quality_gates.py)
+- `"review"`: the critic pass from REVIEW.md, e.g. `{"score": 9, "vs_top3": "...", "fixes": "..."}`.
+  A new post scoring below 8 must use `"status": "draft"`.
+- `"field_notes_used"`: optional list of FIELD_NOTES.md notes used, e.g. `["2026-12-02 Mara crossings"]`.
+  Required only when the post has no owner photo.
+- Market agent posts are saved as `posts/market-YYYY-MM-DD-<slug>.json` so they never clash with the
+  daily task's numbered files (any .json in posts/ is imported).

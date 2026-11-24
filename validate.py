@@ -10,6 +10,7 @@ import sys
 from html.parser import HTMLParser
 
 import quality_checks
+import quality_gates
 
 CATEGORIES = {
     "Destination Tips", "Safari Themes", "Great Migration & River Crossing",
@@ -359,6 +360,8 @@ def check(path):
         errs.append("mentions another business")
     # Spelling, title promises and keyword stuffing (see quality_checks.py)
     errs += quality_checks.run(p, path, ps, html)
+    # Overlap, official sources, local detail and critic review (see quality_gates.py)
+    errs += quality_gates.run(p, path, html)
     return errs
 
 
