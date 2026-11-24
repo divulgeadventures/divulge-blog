@@ -1,5 +1,12 @@
 # Divulge Diaries Blog Post Template (Divulge Adventures)
 
+> **QUALITY GATES (owner rule, 24 Nov 2026, applies to every new post and refresh):** before committing,
+> do the critic pass in REVIEW.md and add the "review" block; a new post scoring below 8 is saved with
+> "status": "draft". Link at least 2 different official/authoritative sources, at least 1 Divulge trip
+> page, and use an owner photo or a note from FIELD_NOTES.md ("field_notes_used"). validate.py
+> (quality_gates.py) enforces all of this plus an overlap check against existing posts.
+
+
 Divulge Adventures Ltd is a Nairobi-based safari tour agency running tailor-made safaris in Kenya, Tanzania, Uganda, Rwanda, Namibia and Botswana, plus mountain climbs (Kilimanjaro, Mount Kenya), short excursions from Nairobi and corporate team building. Readers are mostly international travellers (UK, US, Europe, Asia) planning a first or repeat safari, plus Nairobi residents and companies for day trips and team building. The goal of every post: rank on Google and be quoted by AI answer engines, then turn readers into WhatsApp or proposal-form enquiries.
 
 ## SEO FIELDS (go into the JSON fields, never into the body)

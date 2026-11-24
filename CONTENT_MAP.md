@@ -1,5 +1,12 @@
 # Divulge Diaries Content Map
 
+> **QUALITY GATES (owner rule, 24 Nov 2026, applies to every new post and refresh):** before committing,
+> do the critic pass in REVIEW.md and add the "review" block; a new post scoring below 8 is saved with
+> "status": "draft". Link at least 2 different official/authoritative sources, at least 1 Divulge trip
+> page, and use an owner photo or a note from FIELD_NOTES.md ("field_notes_used"). validate.py
+> (quality_gates.py) enforces all of this plus an overlap check against existing posts.
+
+
 Every new post fills a gap below. Never write a topic that duplicates or competes with an existing post (list at the bottom) or a money page.
 
 ## Site data copy (read this instead of opening divulgeadventures.com)
