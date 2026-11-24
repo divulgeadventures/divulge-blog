@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-24 12:05 | New post 6
+- "Group Safari Payments, Rooming Lists and Free Places, Sorted Before Anyone Flies" – https://divulgeadventures.com/group-safari-payments/
+- Kenya (KE-389, group sprint; organiser guide for all six countries), Safari Planning Tips; focus keyword refined from "group safari rooming and payments" to "group safari payments"; scheduled for 15:00 Nairobi time. Kenya picked as it has the most group rows left (Tanzania has none).
+- Images: 5 in the body (4 from the owner's Media Library: Mara/Amboseli fly-in, Masai Mara safari, Samburu/Mara fly-in, Ol Pejeta/Samburu; 1 from Unsplash: safari vehicle by a river) plus an Unsplash featured image (two safari vehicles on a dirt road); no credits.
+- Payment, free-place and arrival rules taken from the group trip pages in site-data (deposit 30-40%, balance 2-4 weeks, 7th place free per 6 paying); eTA facts from etakenya.go.ke FAQs. Skipped topics: none. Refresh paused. 3 group rows remain (Kenya KE-390, Uganda UG-323, Botswana BW-321).
+- Could not open: divulgeadventures.com/terms-and-conditions/ and /group-safaris/organise-a-group-safari/ (permission request timed out); gov.uk Kenya entry requirements (permission request timed out).
+
 ## 2026-11-24 11:20 | New post 5
 - "Gorilla Permits for Groups in Rwanda Come in Blocks of Eight, and That Shapes the Whole Trip" – https://divulgeadventures.com/gorilla-permits-for-groups-rwanda/
 - Rwanda (RW-317, group sprint), Safari Planning Tips; focus keyword refined from "booking gorilla permits for a large group" to "gorilla permits for groups"; scheduled for 14:00 Nairobi time.
@@ -742,11 +749,4 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
   - Prices: 9771 (8 days, all meals and drinks) is From $3,600, the same as 9769 (5 days). Please confirm it is not copied. 9844 is $4,774. Both pages show one price only (no regular/sale pair), and the "/ person" on the related-trip cards differs from "/ Adult" on the trip pages.
 - Could not open: none (site copy from 2026-11-12 10:29 UTC was fresh, so the live site was not opened)
 - Next: 7-days-kalahari-expeditions, 5-day-boteti-tented-safari-logde (slug typo "logde")
-
-## 2026-11-12 12:58 | New post 4
-- "Serengeti Field Trip for University Groups: Research Sites, Permits and Camp Logistics": https://divulgeadventures.com/serengeti-field-trip/
-- Tanzania (TZ-324, group sprint row), Safari Themes. Focus keyword refined from "serengeti university field trip" to "serengeti field trip" (the shorter phrase people search; the post still targets university groups and is differentiated from the Tanzania school trip post). Scheduled for 12 Nov 13:00 Nairobi time. Main link /group-safaris/student-study-tour-safaris/ (intro and Trip CTA), /group-safaris/ and /group-safaris/organise-a-group-safari/ once each, orange button to the group inquiry form, trips: 6 Days 5 Nights Northern Tanzania Safari and 8 Day Midrange Tanzania Safari.
-- Facts checked November 2026: Serengeti Wildlife Research Centre at Seronera (TAWIRI page: 327 km from Arusha, about 1 hour by air, labs, library, museum, herbarium, talks for visitors), COSTECH research permits (apply 3 months ahead, US$50 + US$300; US$120 residence permit per the Tanzania High Commission page; TAWIRI clearance for wildlife research). Park fees carried from recent verified posts (checked Nov 2026); per-student daily costs labelled estimates.
-- Images: 5 from the owner's Media Library (featured Mara River crossing + Serengeti elephants, marabou and vulture, northern Tanzania scenery, wildebeest crossing) + 1 Unsplash (lion cub on a Serengeti kopje). 5 body images, no credits. Refresh still paused.
-- Could not open: none
 

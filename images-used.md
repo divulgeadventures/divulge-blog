@@ -907,3 +907,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/10/virunga-volcano-peak-in-cloud-above-grassland-on-the-rwanda-uganda-and-congo-bor.jpg | gorilla-permits-for-groups-rwanda
 2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/10/Akagera-Day-Trip-in-Rwanda.jpeg | gorilla-permits-for-groups-rwanda
 2026-11-24 | https://images.unsplash.com/photo-1514548383638-cef9251a73ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8TGFrZSUyMEtpdnV8ZW58MHwwfHx8MTc5NTUwNjY5Mnwy&ixlib=rb-4.1.0&q=80&w=1080 | gorilla-permits-for-groups-rwanda
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/10/masai-mara-and-amboseli-fly-in-safari-5.jpg | group-safari-payments
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge_adventures_safari-169-scaled.jpg | group-safari-payments
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/10/1-samburu-and-masai-mara-fly-in-safari.jpg | group-safari-payments
+2026-11-24 | https://images.unsplash.com/photo-1792824413401-d2921f9c2bc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8c2FmYXJpJTIwamVlcCUyMHNhdmFubmElMjBLZW55YXxlbnwwfDB8fHwxNzk1NTEwNTQxfDI&ixlib=rb-4.1.0&q=80&w=1080 | group-safari-payments
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2025/12/4527-x-2741divulge_adventures_1-49-scaled.jpg | group-safari-payments
+2026-11-24 | https://images.unsplash.com/photo-1792824418533-593a04879d06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8c2FmYXJpJTIwamVlcCUyMHNhdmFubmElMjBLZW55YXxlbnwwfDB8fHwxNzk1NTEwNTQxfDI&ixlib=rb-4.1.0&q=80&w=1080 | group-safari-payments

@@ -336,3 +336,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/womens-safari-botswana/ (women's safari in botswana)
 - https://divulgeadventures.com/namibia-birding-for-groups/ (namibia birding)
 - https://divulgeadventures.com/gorilla-permits-for-groups-rwanda/ (gorilla permits for groups)
+- https://divulgeadventures.com/group-safari-payments/ (group safari payments)
