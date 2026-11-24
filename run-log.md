@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-24 11:20 | New post 5
+- "Gorilla Permits for Groups in Rwanda Come in Blocks of Eight, and That Shapes the Whole Trip" – https://divulgeadventures.com/gorilla-permits-for-groups-rwanda/
+- Rwanda (RW-317, group sprint), Safari Planning Tips; focus keyword refined from "booking gorilla permits for a large group" to "gorilla permits for groups"; scheduled for 14:00 Nairobi time.
+- Images: 4 in the body (2 from the owner's Media Library: Virunga volcano peak, Akagera day trip; 2 from Unsplash: Volcanoes NP gorilla, Lake Kivu) plus an Unsplash featured image; no credits. The two gorilla Unsplash photos were last used 18 Nov (no unused Rwanda gorilla photo was available).
+- Facts from visitrwanda.com and the RDB booking portal (permit US$1,500, 8 per family, 12 families, 30% Nov-May discount, 40-99% advance deposit, 20% rescheduling fee) and KT Press (Jan 2026 promotional rates). Skipped topics: none. Refresh paused. 4 group rows remain (Kenya 2, Uganda, Botswana).
+- Could not open: newtimes.co.rw promotional-rates article (only the header loaded).
+
 ## 2026-11-24 10:05 | New post 4
 - "How to Run a Namibia Birding Trip for Your Club, From Walvis Bay's Flamingos to Etosha's Raptors" – https://divulgeadventures.com/namibia-birding-for-groups/
 - Namibia (NA-325, group sprint), Safari Themes; focus keyword refined to "namibia birding"; scheduled for 13:00 Nairobi time.
@@ -741,12 +748,5 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Tanzania (TZ-324, group sprint row), Safari Themes. Focus keyword refined from "serengeti university field trip" to "serengeti field trip" (the shorter phrase people search; the post still targets university groups and is differentiated from the Tanzania school trip post). Scheduled for 12 Nov 13:00 Nairobi time. Main link /group-safaris/student-study-tour-safaris/ (intro and Trip CTA), /group-safaris/ and /group-safaris/organise-a-group-safari/ once each, orange button to the group inquiry form, trips: 6 Days 5 Nights Northern Tanzania Safari and 8 Day Midrange Tanzania Safari.
 - Facts checked November 2026: Serengeti Wildlife Research Centre at Seronera (TAWIRI page: 327 km from Arusha, about 1 hour by air, labs, library, museum, herbarium, talks for visitors), COSTECH research permits (apply 3 months ahead, US$50 + US$300; US$120 residence permit per the Tanzania High Commission page; TAWIRI clearance for wildlife research). Park fees carried from recent verified posts (checked Nov 2026); per-student daily costs labelled estimates.
 - Images: 5 from the owner's Media Library (featured Mara River crossing + Serengeti elephants, marabou and vulture, northern Tanzania scenery, wildebeest crossing) + 1 Unsplash (lion cub on a Serengeti kopje). 5 body images, no credits. Refresh still paused.
-- Could not open: none
-
-## 2026-11-12 11:58 | New post 3
-- "How to Run a Rwanda School Trip When Most of Your Pupils Are Too Young for Gorillas": https://divulgeadventures.com/rwanda-school-trip/
-- Rwanda (RW-307, group sprint row), Safari Themes. Scheduled for 12 Nov 12:00 Nairobi time (the post 3 slot; post 2 also sits at 12:00 because its 11:00 slot had passed). Main link /group-safaris/student-study-tour-safaris/ (intro and Trip CTA), /group-safaris/ and /group-safaris/organise-a-group-safari/ once each, orange button to the group inquiry form, trips: 6 Days Rwanda Wildlife, Culture and Lake Kivu Holiday and the Akagera day trip. Differentiated from the university study tour post by focusing on school age rules.
-- Facts checked November 2026: Kigali Genocide Memorial (free entry, under-12s not admitted, guided group tours US$200-500 with 15% student discount; kgm.rw), Akagera fees (adult rates from 13, US$100/150/200, boat trips; African Parks price list), Nyungwe 2025-2026 prices (canopy walk US$40, chimps US$150), Rwanda visa (free for AU/Commonwealth/Francophonie, US$50 others; migration.gov.rw), Dian Fossey Fund campus hours and US$20 suggested donation, gorilla permit US$1,500 and 15+ age rule. Golden monkey age (12) and fee (US$100) are from secondary sources and flagged "confirm when booking". Per-student costs are labelled estimates.
-- Images: 5 from the owner's Media Library (featured Lake Kivu island + Akagera landscape, Akagera hippo, golden monkey, Nyungwe forest) + 1 Unsplash (Kigali, Nyamirambo). 5 body images, no credits. Refresh still paused.
 - Could not open: none
 
