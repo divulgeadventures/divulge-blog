@@ -879,3 +879,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-23 | https://divulgeadventures.com/wp-content/uploads/2025/11/Divulge-Adventures-Olpejeta-Conservancy.jpeg | how-to-organise-a-group-safari
 2026-11-23 | https://divulgeadventures.com/wp-content/uploads/2025/12/4527-x-2741divulge_adventures_1-2-scaled.jpg | how-to-organise-a-group-safari
 2026-11-23 | https://divulgeadventures.com/wp-content/uploads/2026/10/divulge-adventures-safari-jeep-beside-light-aircraft-fly-in-safari-scaled.jpg | how-to-organise-a-group-safari
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/05/mountain-gorilla-eating-leaves-in-bwindi-impenetrable-forest-uganda.jpg | uganda-photography-tour
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/05/close-up-of-a-mountain-gorilla-face-in-bwindi-impenetrable-forest.jpg | uganda-photography-tour
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/05/chimpanzee-holding-a-branch-in-the-forest-of-kibale-national-park-uganda.jpg | uganda-photography-tour
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/05/rainbow-over-murchison-falls-on-the-nile-in-uganda.jpg | uganda-photography-tour
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/10/shoebill-with-its-huge-bill-against-green-foliage.jpg | uganda-photography-tour
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/04/young-nile-crocodile-on-a-mound-in-the-kazinga-channel.jpg | uganda-photography-tour

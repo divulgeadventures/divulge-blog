@@ -163,3 +163,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-19 | Kenya KE-385 | Safari Themes | kenya safari for seniors | kenya-safari-for-seniors
 2026-11-23 | Rwanda RW-316 | Safari Themes | gorilla trekking for seniors | gorilla-trekking-for-seniors-rwanda
 2026-11-23 | Kenya KE-387 | Safari Planning Tips | organise a group safari | how-to-organise-a-group-safari
+2026-11-24 | Uganda UG-322 | Safari Themes | uganda photography tour | uganda-photography-tour

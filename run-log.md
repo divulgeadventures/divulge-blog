@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-24 07:59 | New post 1
+- "Planning a Uganda Photography Tour for Your Camera Club? Start With the Gorilla Permits" – https://divulgeadventures.com/uganda-photography-tour/
+- Uganda, Safari Themes; group sprint row UG-322 (focus keyword refined to "uganda photography tour", the phrase people search). Scheduled for 10:00 Nairobi time today.
+- Images: 6 from the owner's Media Library (featured: mountain gorilla eating leaves in Bwindi; body: gorilla face in Bwindi, chimpanzee in Kibale, rainbow over Murchison Falls, shoebill, Nile crocodile in the Kazinga Channel), 0 from Unsplash. No credits. Gorilla permit US$800 stated (checked November 2026); the Kibale chimp permit price is not stated because sources disagree (US$250 vs US$300 under the new UWA tariff) and the UWA rates page could not be opened. No package prices quoted.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: https://ugandawildlife.org/uwa-rates/ (permission request timed out).
+
 ## 2026-11-23 19:55 | New post 2
 - "How to Organise a Group Safari in East Africa, From the First Headcount to the Final Payment" – https://divulgeadventures.com/how-to-organise-a-group-safari/
 - Kenya (organiser guide covering all six countries), Safari Planning Tips; group sprint row KE-387 (focus keyword refined to "organise a group safari" so it reads naturally). Scheduled for 21:00 Nairobi time today (the 11:00 slot had passed; 21:00 keeps it an hour after today's post 1).
@@ -740,8 +747,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Today's work is complete: 3 new posts (Kenya school trip, Okavango Delta safari, Serengeti in February) and the Namibia safari guide refresh are all done.
 - Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows left as todo in REFRESH_QUEUE.md.
 - Could not open: none
-
-## 2026-11-11 18:20 | Manual edit (owner request)
-- Added "12. Twin Rivers Resort — Tigoni" to https://divulgeadventures.com/best-team-building-venues-near-nairobi/ with a link to the Twin Rivers guide; title now "12 Best Team Building Venues Near Nairobi for Corporate Groups". Everything else in the post is unchanged (URL, SEO title, focus keyword and FAQs kept).
-- Kilimanjaro trip files re-pushed so the new trip names import (needs the latest Trip Optimiser snippet).
-
