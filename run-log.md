@@ -4,6 +4,10 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-24 18:48 | Nothing to do
+- Today's work is complete: 7 new posts already dated 2026-11-24 (target 3) and the daily refresh is done (masai-mara-safari-cost). No post changes this run.
+- Could not open: none
+
 ## 2026-11-24 15:33 Trip Optimiser
 - Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
 
@@ -725,18 +729,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 2 from the owner's Media Library (body), 4 from Unsplash (3 body, 1 featured). Park fee N$280 per international adult per day stated (checked November 2026); Deadvlei shuttle price not stated (only a 2022 source found).
 - Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Today's 9 sprint posts are complete.
 - Could not open: none (owner Media Library images could not be downloaded for a visual check, so alt text follows their titles).
-
-## 2026-11-12 17:00 | New post 8
-- "How to Plan an Okavango Field Course for University Conservation Students" https://divulgeadventures.com/okavango-field-course/
-- Botswana, Safari Themes (group sprint row BW-311; focus keyword refined to "okavango field course"). Scheduled for 18:00 Nairobi time today (17:00 slot had passed).
-- Images: 3 from the owner's Media Library (body), 2 from Unsplash (1 body, 1 featured). No per-day Moremi fee stated: sources disagree (P270 on an unofficial fee site vs P380 in government news), so the post cites the official P380-to-P500 proposal on hold and tells readers to confirm.
-- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-- Could not open: gov.uk Botswana entry requirements and UNESCO Okavango page (permission requests timed out); tourismupdate.com levy article (no article text).
-
-## 2026-11-12 15:58 | New post 7
-- "Leading a University Study Tour in Kenya? Build It Around Field Stations, Not Game Drives" https://divulgeadventures.com/university-study-tour-kenya/
-- Kenya, Safari Themes (group sprint row KE-375; focus keyword refined to "university study tour in kenya"). Scheduled for 16:00 Nairobi time today.
-- Images: 5 from the owner's Media Library (all in the body), 1 from Unsplash (featured). NACOSTI licence fee not stated (new schedule from 1 Oct 2026 only confirmed in press, readers told to check the portal).
-- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-- Could not open: nation.africa article on NACOSTI fees (blocked to automated fetch).
-
