@@ -2,7 +2,7 @@
 
 One older post is rewritten in place each day (same URL and publish date) and brought fully up to TEMPLATE.md. Work top to bottom: take the first row whose status is `todo`.
 
-> **REFRESHES LIMITED (owner decision, 13 October 2026, to save usage):** only rows whose notes start with "FIX FIRST", "LINK FIX" or "TEXT FIX" are refreshed, in the order listed. Skip every other `todo` row (leave it as `todo` for later). When no FIX FIRST / LINK FIX / TEXT FIX row is left as `todo`, the daily refresh is PAUSED: there is no refresh to do until the owner turns it back on.
+> **DAILY REFRESH ON (owner decision, 24 Nov 2026):** refresh ONE post per day: take the first `todo` row from the top of this file (Part 0 first, then the parts below, in order). Skip rows whose status starts with `skip`.
 
 Columns: slug Reading the current post for any refresh: use site-data/post-content/<slug>.json (full HTML saved twice a day by the snapshot job for every todo row) instead of opening divulgeadventures.com.
 
@@ -29,7 +29,7 @@ These posts already rank on Google (Rank Math Analytics, 8 October 2026). Keep e
 | masai-mara-safari-cost | masai mara safari cost | Safari Planning Tips | Ranks 30-40 for "masai mara cost", "masai mara prices" and "masai mara price": use those exact phrasings in headings and the FAQ (e.g. an H2 "Masai Mara Safari Prices Per Person"). Mara-specific costs (fees, camps by tier, road vs fly-in). Differentiate from /kenya-safari-cost/ (whole-country) and link it. | todo |
 | best-attractions-in-uganda | attractions in uganda | Destination Tips | Ranks 23-27 for "attractions in uganda" and "uganda attractions" and climbing: use both phrasings. Non-park attractions too (Jinja/Source of the Nile, Lake Bunyonyi, Kampala, Sipi Falls). Link the Uganda parks post. | todo |
 | masai-mara-sustainable-tourism | eco lodge masai mara | Accommodation Guide | Ranks 15 for "eco lodge masai mara": use that phrase. No year in title. | todo |
-| hot-air-balloon-safari | hot air balloon safari | Safari Themes | Ranks 29 for "safari hot air balloon": keep this post GENERAL (balloon safaris across East Africa: Masai Mara, Serengeti, and others, what is included, cost ranges, how to choose) and link the Mara-specific balloon post. Use the phrase "safari hot air balloon" too. | todo |
+| hot-air-balloon-safari | hot air balloon safari | Safari Themes | skip (merged into /masai-mara-balloon-safari/ 24 Nov 2026) |
 | masai-mara-balloon-safari | masai mara hot air balloon safari | Safari Themes | LINK FIX: two bare URLs written in sentences (governorsballoonsafari.com, maasaimara.com) and a broken word "aasai" next to the second; replace with proper links and fix the text. Mara balloon only: launch sites, times, what's included, cost range (verify). Differentiate from the general /hot-air-balloon-safari/ post and link it. | done 2026-10-14 |
 | kenya-safari-by-train | madaraka express safari | Safari Themes | LINK FIX: three bare URLs written in sentences (savetheelephants.org, kws.go.ke, metickets.krc.co.ke); replace with proper links with descriptive anchor text. SGR to Tsavo: stations, classes, booking (verify on official site). | done 2026-10-15 |
 | night-game-drives-in-kenya | night game drives in kenya | Safari Themes | LINK FIX: two bare URLs written in sentences (kws.go.ke, an Ol Pejeta tariff PDF); replace with proper links with descriptive anchor text. Where allowed (conservancies, specific parks), what you see. | done 2026-10-16 |
@@ -57,21 +57,21 @@ The owner has decided to keep these ten posts unchanged. Do NOT refresh, redirec
 | serengeti-migration-ultimate-guide | serengeti migration | Great Migration & River Crossing | Tanzania side only: calving in Ndutu, Grumeti, northern Serengeti/Kogatende. Link the pillar and /serengeti-national-park/. | todo |
 | what-to-pack-for-tanzania-safari-checklist | what to pack for tanzania safari | Safari Planning Tips | Tanzania specifics (Ngorongoro cold mornings, Kilimanjaro add-on, Zanzibar). Differentiate from the Kenya packing list and link it. | todo |
 | best-time-of-year-to-visit-tanzania-safari | best time to visit tanzania | Destination Tips | Month-by-month table by park (Serengeti, Ngorongoro, Tarangire, southern parks, Zanzibar). | todo |
-| best-national-parks-in-tanzania-divulge | best national parks in tanzania | Destination Tips | Comparison table (park, best for, best months, how to reach). Link each park post. | todo |
+| best-national-parks-in-tanzania | best national parks in tanzania | Destination Tips | Comparison table (park, best for, best months, how to reach). Link each park post. | todo |
 | best-national-parks-to-visit-in-uganda | best national parks in uganda | Destination Tips | Was filed under Safari Themes: move to Destination Tips. Title is all caps: fix. Parks only; differentiate from /best-attractions-in-uganda/. | todo |
 | masai-mara-national-reserve-experience | masai mara reserve vs conservancy | Destination Tips | Comparison table (crowds, night drives, walking, off-road, cost). Link each conservancy post. | todo |
 | tanzania-safari-guide | tanzania safari on a budget | Safari Planning Tips | Budget tactics (camping, shoulder season, group joining, shorter circuits); verified fees. | todo |
 | divulge-adventures-the-big-five-guide | big five animals | Safari Themes | Where to see each of the Big Five in Kenya, Tanzania, Uganda, Rwanda, Botswana, Namibia (table). | todo |
-| nairobi-national-park-kenyas | nairobi national park | Destination Tips | Half-day and full-day options, gates, fees, combining with the Sheldrick and Giraffe Centre. | todo |
+| nairobi-national-park | nairobi national park | Destination Tips | Half-day and full-day options, gates, fees, combining with the Sheldrick and Giraffe Centre. | todo |
 | zanzibar-beach-holidays-extension | zanzibar beach holiday after safari | Destination Tips | How to add Zanzibar (flights from Arusha/Serengeti, nights, beaches by area). | todo |
 
 ## Part 3: park, conservancy and theme posts
 
 | slug | focus keyword | category | notes | status |
 |---|---|---|---|---|
-| 8-best-of-amboseli-national-park-attractions | things to do in amboseli | Destination Tips | Differentiate: activities list (Observation Hill, swamps, Maasai visit, photography spots). Link /amboseli-national-park/. | todo |
+| 8-best-of-amboseli-national-park-attractions | things to do in amboseli | Destination Tips | skip (merged into /amboseli-national-park/ 24 Nov 2026) |
 | lake-nakuru-national-park | lake nakuru national park | Destination Tips | Full park guide. Differentiate from the two other Lake Nakuru posts. | todo |
-| lake-nakuru-national-park-attractions | things to do in lake nakuru | Destination Tips | Activities list (Baboon Cliff, Makalia Falls, rhino sanctuary). Link the park guide. | todo |
+| lake-nakuru-national-park-attractions | things to do in lake nakuru | Destination Tips | skip (merged into /lake-nakuru-national-park/ 24 Nov 2026) |
 | tsavo-west-national-park | tsavo west national park | Destination Tips | Full guide (Mzima Springs, Shetani lava, rhino sanctuary, SGR access). | todo |
 | tsavo-east-national-park-attractions | tsavo east national park | Destination Tips | Full guide incl. attractions (Lugard Falls, Aruba Dam, Yatta Plateau). | todo |
 | ngorongoro-national-park | ngorongoro crater safari | Destination Tips | Crater guide (descent rules and time limits, fees, where to stay on the rim). Differentiate from the photography post. | todo |
