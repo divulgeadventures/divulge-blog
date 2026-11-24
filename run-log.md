@@ -4,6 +4,9 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-24 13:33 Trip Optimiser
+- Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
+
 ## 2026-11-24 12:59 | New post 7
 - "Is a Women's Trip to Uganda Right for Your Group? Gorillas, Craft Villages and Slow Days on Lake Bunyonyi" – https://divulgeadventures.com/womens-trip-to-uganda/
 - Uganda (UG-323, group sprint), Safari Themes; focus keyword refined from "womens group trip uganda" to "women's trip to uganda"; scheduled for 16:00 Nairobi time. Uganda chosen as Tanzania has no group rows and Kenya already has 2 posts today.
