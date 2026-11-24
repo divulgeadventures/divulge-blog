@@ -4,6 +4,9 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-24 15:33 Trip Optimiser
+- Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
+
 ## 2026-11-24 14:55 | Refresh
 - "Masai Mara Safari Cost, Line by Line From Gate Fees to Fly-In Camps" – https://divulgeadventures.com/masai-mara-safari-cost/ (rewritten in place; SEO title "Masai Mara Safari Cost: Prices by Budget and Season").
 - Kenya, Safari Planning Tips; focus keyword "masai mara safari cost", with "Masai Mara Safari Prices Per Person", "Masai Mara cost" and "Masai Mara prices/price" in headings and FAQ as the queue note asked; links /kenya-safari-cost/ and keeps the post Mara-specific. Today's 3 new posts were already done, so this run did the daily refresh.
