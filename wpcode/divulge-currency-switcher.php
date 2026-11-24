@@ -1,6 +1,6 @@
 /**
  * Divulge – currency switcher
- * Adds a currency dropdown (USD, EUR, GBP) to the left of the green top bar,
+ * Adds a currency dropdown (USD, EUR, GBP, INR, CAD, AUD) to the left of the green top bar,
  * next to the language selector, and converts every USD price on the page.
  * Rates come from a free exchange-rate feed and refresh daily in each visitor's browser;
  * the visitor's choice is remembered. Bookings and quotes are unchanged (USD).
@@ -27,10 +27,13 @@ add_action( 'wp_footer', function () {
 		var CUR = {
 			USD: { sym: '$',  name: 'US Dollar' },
 			EUR: { sym: '€',  name: 'Euro' },
-			GBP: { sym: '£',  name: 'British Pound' }
+			GBP: { sym: '£',  name: 'British Pound' },
+			INR: { sym: '₹',  name: 'Indian Rupee' },
+			CAD: { sym: 'C$', name: 'Canadian Dollar' },
+			AUD: { sym: 'A$', name: 'Australian Dollar' }
 		};
 		// Fallback rates (per 1 USD), used only if the live feed is unreachable.
-		var RATES = { USD: 1, EUR: 0.92, GBP: 0.78 };
+		var RATES = { USD: 1, EUR: 0.92, GBP: 0.78, INR: 84, CAD: 1.38, AUD: 1.52 };
 		var KEY = 'dvg_currency', RKEY = 'dvg_rates';
 		function store(k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) { return null; } }
 
@@ -89,7 +92,7 @@ add_action( 'wp_footer', function () {
 		function loadRates(done) {
 			var cached = null;
 			try { cached = JSON.parse(store(RKEY) || 'null'); } catch (e) {}
-			if (cached && cached.t > Date.now() - 12 * 3600 * 1000) { RATES = cached.r; return done(); }
+			if (cached && cached.t > Date.now() - 12 * 3600 * 1000 && cached.r && Object.keys(CUR).every(function (k) { return cached.r[k]; })) { RATES = cached.r; return done(); }
 			fetch('https://open.er-api.com/v6/latest/USD').then(function (r) { return r.json(); }).then(function (j) {
 				if (j && j.rates) {
 					Object.keys(CUR).forEach(function (k) { if (j.rates[k]) RATES[k] = j.rates[k]; });

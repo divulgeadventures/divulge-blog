@@ -669,6 +669,18 @@ add_action( 'wp_head', function () {
 			$trip['itinerary'] = array( '@type' => 'ItemList', 'numberOfItems' => count( $days ), 'itemListElement' => $days );
 		}
 	}
+	// Price (owner request 24 Nov 2026): lowest "From" price per adult, in USD. No review stars on trips.
+	$price = get_post_meta( $id, '_s_price', true );
+	if ( is_numeric( $price ) && (float) $price > 0 ) {
+		$trip['offers'] = array(
+			'@type'         => 'Offer',
+			'price'         => (string) round( (float) $price ),
+			'priceCurrency' => 'USD',
+			'url'           => $url,
+			'availability'  => 'https://schema.org/InStock',
+			'description'   => 'From price per adult',
+		);
+	}
 	$graph[] = $trip;
 
 	echo "\n<script type=\"application/ld+json\">" . wp_json_encode( array( '@context' => 'https://schema.org', '@graph' => $graph ), JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE ) . "</script>\n";
