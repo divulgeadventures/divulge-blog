@@ -919,3 +919,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-24 | https://images.unsplash.com/photo-1696963608883-a7bf6eb66ff4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Nnx8VWdhbmRhJTIwaGlsbHN8ZW58MHwwfHx8MTc5NTUxNDE4NXwy&ixlib=rb-4.1.0&q=80&w=1080 | womens-trip-to-uganda
 2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/05/chimpanzee-resting-in-a-tree-in-kibale-national-park-uganda.jpg | womens-trip-to-uganda
 2026-11-24 | https://images.unsplash.com/photo-1696963609168-5c3d93857ea4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8VWdhbmRhJTIwaGlsbHN8ZW58MHwwfHx8MTc5NTUxNDE4NXwy&ixlib=rb-4.1.0&q=80&w=1080 | womens-trip-to-uganda
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2025/11/Divulge-Adventures-Masai-Mara-Safari-14-scaled.jpg | masai-mara-safari-cost
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2025/11/6000-x-4000divulge_adventures-12-scaled.jpg | masai-mara-safari-cost
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/05/masai-mara-accommodations-angama-mara-premium-lodge-3-1-scaled.jpg | masai-mara-safari-cost
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-36.jpg | masai-mara-safari-cost
+2026-11-24 | https://images.unsplash.com/photo-1676317399913-1a3e7dca7263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8aG90JTIwYWlyJTIwYmFsbG9vbiUyME1hc2FpJTIwTWFyYXxlbnwwfDB8fHwxNzk1NTIxMDc1fDI&ixlib=rb-4.1.0&q=80&w=1080 | masai-mara-safari-cost

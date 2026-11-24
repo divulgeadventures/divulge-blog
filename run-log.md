@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-24 14:55 | Refresh
+- "Masai Mara Safari Cost, Line by Line From Gate Fees to Fly-In Camps" – https://divulgeadventures.com/masai-mara-safari-cost/ (rewritten in place; SEO title "Masai Mara Safari Cost: Prices by Budget and Season").
+- Kenya, Safari Planning Tips; focus keyword "masai mara safari cost", with "Masai Mara Safari Prices Per Person", "Masai Mara cost" and "Masai Mara prices/price" in headings and FAQ as the queue note asked; links /kenya-safari-cost/ and keeps the post Mara-specific. Today's 3 new posts were already done, so this run did the daily refresh.
+- Removed the "2026" headings, unverified figures (conservancy fee ranges, vehicle day rates, tipping by role) and the old masaimara.com link. Fees checked November 2026: reserve US$100/200 adult by season, US$50 child 9-17, 12-hour ticket (Mara Triangle official page); Angama Mara rates from its own site; package price only from the 4 day Naivasha/Nakuru/Mara trip page (from US$1,627).
+- Images: 5 in the body (4 from the owner's Media Library, 1 from Unsplash: elephants with balloons, Masai Mara); no credits; featured image kept.
+- Could not open: none (maratriangle.org fee amounts are shown as images, so the figures were cross-checked on angama.com and masaimara.travel).
+
 ## 2026-11-24 13:33 Trip Optimiser
 - Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
 
@@ -729,18 +736,4 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 5 from the owner's Media Library (all in the body), 1 from Unsplash (featured). NACOSTI licence fee not stated (new schedule from 1 Oct 2026 only confirmed in press, readers told to check the portal).
 - Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
 - Could not open: nation.africa article on NACOSTI fees (blocked to automated fetch).
-
-## 2026-11-12 14:55 | New post 6
-- "A Botswana Photography Safari Gives Your Camera Club Space, Water and Light Few Places Can Match" https://divulgeadventures.com/botswana-photography-safari-groups/
-- Botswana, Safari Themes (group sprint row BW-310; focus keyword refined to "botswana photography safari"). Scheduled for 15:00 Nairobi time today.
-- Images: 5 from the owner's Media Library (all in the body), 1 from Unsplash (featured). Park fee note: the proposed rise from P380 to P500 was postponed; no per-day fee stated.
-- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-- Could not open: tourismupdate.com articles on Botswana park fees and the tourism levy (page loaded without article text).
-
-## 2026-11-12 13:57 | New post 5
-- "Is Group Gorilla Trekking in Uganda Possible When Your Party Is Bigger Than Eight?" https://divulgeadventures.com/group-gorilla-trekking-uganda/
-- Uganda, Safari Planning Tips (group sprint row UG-313; focus keyword refined to "group gorilla trekking"). Scheduled for 14:00 Nairobi time today.
-- Images: 5 from the owner's Media Library (featured + 4 in the body), 0 from Unsplash. Permit figures checked against the UWA tariff for January 2027 to June 2028.
-- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-- Could not open: none.
 

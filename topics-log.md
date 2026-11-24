@@ -170,3 +170,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-24 | Rwanda RW-317 | Safari Planning Tips | gorilla permits for groups | gorilla-permits-for-groups-rwanda
 2026-11-24 | Kenya KE-389 | Safari Planning Tips | group safari payments | group-safari-payments
 2026-11-24 | Uganda UG-323 | Safari Themes | women's trip to uganda | womens-trip-to-uganda
+2026-11-24 | REFRESH | Safari Planning Tips | masai mara safari cost | masai-mara-safari-cost
