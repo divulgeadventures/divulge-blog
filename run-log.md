@@ -4,6 +4,17 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-24 08:34 Trip Optimiser
+- Done: 1 Day Akagera National Park Safari from Kigali (11529, "1 day akagera safari from kigali", rwanda-11529-1-day-akagera-safari-from-kigali.json). Only 1 `todo` row was left, so this run did one trip; the queue is now finished.
+- Photos: 11529: 6 owner + 0 Unsplash (the page's existing gallery plus the lion photo 11571). No credits. Media Library photos could not be downloaded for a visual check (proxy 403), so alt text follows the file names and titles; please confirm 11566, 11567, 11568 and 11570 do not have a person as the main subject.
+- Owner to fix by hand (the importer cannot change these):
+  - 11529: wrong alt text in the Media Library: 11568 (featured image) and 11570 say "Akagera and Nyungwe safari", but this is a one-day Akagera trip with no Nyungwe. Empty alt on 11567 and 11571; 11569 alt is the raw file name "Leopard-at-Akagera-National-Park". File/title capitalisation: "Akagera Day Trip from kigali" (11567).
+  - 11529: itinerary has no typos; no lodges (day trip, "Accommodation: None"). Price From $425 / $310 (27% off) is consistent. Not a "Luxury" title. Slug is correct.
+  - Site template: "Accomodation" typo in the Safari Info box (still present).
+  - site-data still holds an old copy at site-data/trips/2-days-akagera-safari-boat-cruise.txt although 11536 now lives at /trip/2-days-akagera-safari/; check that the old URL redirects.
+- Could not open: none (worked from the 2026-11-23 22:28 site snapshot).
+- Next: none, the trip queue is finished.
+
 ## 2026-11-24 07:58 | New post 2
 - "Group Safari Cost, Worked Out Per Person for Groups of 2, 4, 6 and 12" – https://divulgeadventures.com/group-safari-cost-per-person/
 - Kenya (organiser guide covering all six countries), Safari Planning Tips; group sprint row KE-388 (focus keyword refined to "group safari cost" so it reads naturally; "per person" kept in the titles). Scheduled for 11:00 Nairobi time today.
