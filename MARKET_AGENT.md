@@ -1,4 +1,4 @@
-# Market agent procedure (used by the 5 weekly market agents)
+# Market agent procedure (used by the 5 market agents, each runs DAILY from 25 Nov 2026)
 
 Each agent's prompt gives its MARKET BRIEF (markets, currency, baseline, local angles) and its
 GROUP id (us-canada, uk-ie-au-nz, dach-nl-be, fr-it-es or asia-gulf). Everything else is here.
@@ -18,7 +18,7 @@ Divulge Adventures content only: never mention any other business.
   evidence from your competitor check and Search Console baselines in your brief), do the report
   (step 6), commit and stop.
 
-## 3. Competitor check (max 6 WebSearch/WebFetch calls)
+## 3. Competitor check (max 6 WebSearch/WebFetch calls; max 3 on non-Monday runs)
 - Search the row's keyword (and 2-3 related ones) as a traveller from your markets would.
 - Note who holds the top 5 and what they offer that we lack (local-currency prices, flights,
   reviews, depth, FAQs). Never name or link competitors in the post.
@@ -45,8 +45,9 @@ Divulge Adventures content only: never mention any other business.
 ## 5. Critic pass, save and validate
 - Do the critic pass in REVIEW.md and add the "review" block. Score 8+ = "status": "publish";
   below 8 after one round of fixes = "status": "draft" (say why in the run log).
-- Save as posts/market-YYYY-MM-DD-<slug>.json (today's Nairobi date), "publish_at" tomorrow
-  08:00 +03:00. Run python3 validate.py on it until PASS (it enforces overlap, sources, local
+- Save as posts/market-YYYY-MM-DD-<slug>.json (today's Nairobi date), "publish_at" today at the
+  next full hour after this run (Nairobi time, +03:00); if another post in posts/ already uses that
+  hour today, take the next free hour. Run python3 validate.py on it until PASS (it enforces overlap, sources, local
   detail and review).
 - Update: the queue row (`done YYYY-MM-DD https://divulgeadventures.com/<slug>/` or `draft ...`),
   CONTENT_MAP.md ("Published by the daily task" list), topics-log.md
@@ -54,7 +55,8 @@ Divulge Adventures content only: never mention any other business.
   if the keyword matches a row (mark it done).
 
 ## 6. Action report
-Add a dated entry at the top of markets/<GROUP>.md (create it with a one-line intro if missing;
+Full report on MONDAYS only (on other days skip the competitor summary and just add one line at the
+top of markets/<GROUP>.md: "YYYY-MM-DD: <post URL> (<keyword>), score N"). Monday report: add a dated entry at the top of markets/<GROUP>.md (create it with a one-line intro if missing;
 keep the latest 12 entries): who ranks top 5 for the keywords checked and what they do better; our
 gaps for these markets; 3-5 concrete to-dos for the owner (site changes, listings, reviews,
 backlinks, partners, translations); the next queue row.
