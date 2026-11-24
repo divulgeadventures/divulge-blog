@@ -1,0 +1,85 @@
+[
+ {
+  "key": "new-walking-mara-4d",
+  "title": "4 Day Masai Mara Conservancy Walking Safari",
+  "slug": "4-day-masai-mara-conservancy-walking-safari",
+  "focus_keyword": "Masai Mara walking safari",
+  "rank_math_title": "Masai Mara Walking Safari: 4 Days in a Private Conservancy",
+  "rank_math_desc": "Masai Mara walking safari for 4 days: fly to Mara Naboisho Conservancy for guided bush walks with Maasai guides, game drives and night drives.",
+  "post_content": "<p>Walking is not allowed inside the Masai Mara National Reserve, but it is in the private conservancies around it.</p>",
+  "overview": "<p>Walking is not allowed inside the Masai Mara National Reserve, but it is in the private conservancies around it. This Masai Mara walking safari flies you to Mara Naboisho Conservancy, where guests are limited and Maasai landowners lease their land for wildlife. You head out on foot with Maasai guides to read tracks, see plains game and birds up close and learn how the community lives with wildlife, then add game drives, off-road sightings and night drives that the reserve does not allow. It suits travellers who want a quieter, more personal Mara.</p><p>Price: from USD 2,070 per adult sharing (low season estimate). Contact us for your exact dates.</p>",
+  "highlights": [
+   "Guided bush walks with Maasai guides",
+   "Night drives and off-road sightings in the conservancy",
+   "Low visitor numbers in Mara Naboisho",
+   "Conservancy fees go directly to Maasai landowners"
+  ],
+  "faq": [
+   {
+    "q": "How much does this Masai Mara walking safari cost?",
+    "a": "It starts from USD 2,070 per adult sharing, based on low-season rates. We confirm the price for your dates when you enquire."
+   },
+   {
+    "q": "Can we walk in the Masai Mara reserve?",
+    "a": "No. Walking is only allowed in the private conservancies next to the reserve, such as Mara Naboisho, which is why this trip is based there."
+   },
+   {
+    "q": "Can we see the migration from the conservancy?",
+    "a": "Yes. From July to October the herds often move through the conservancies, and day trips into the reserve can be arranged."
+   }
+  ],
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/Mara-Naboisho-Conservancy.2.jpg",
+   "alt": "Mara-Naboisho-Conservancy"
+  },
+  "status": "publish",
+  "force_slug": false,
+  "duration": 4,
+  "itinerary": [
+   {
+    "label": "Day 1",
+    "title": "Fly to the Masai Mara",
+    "content": "<p>Morning flight from Wilson Airport to the Mara and transfer to camp in Mara Naboisho Conservancy. Afternoon game drive. Dinner and overnight at Basecamp Eagle View.</p>"
+   },
+   {
+    "label": "Day 2",
+    "title": "Walking safari",
+    "content": "<p>Morning bush walk with Maasai guides, learning to read tracks and signs. Afternoon game drive and an evening night drive. Dinner and overnight at Basecamp Eagle View.</p>"
+   },
+   {
+    "label": "Day 3",
+    "title": "Mara Naboisho Conservancy",
+    "content": "<p>Full day of walks and game drives, with an optional visit to a Maasai community. Dinner and overnight at Basecamp Eagle View.</p>"
+   },
+   {
+    "label": "Day 4",
+    "title": "Fly to Nairobi",
+    "content": "<p>Short morning walk, then transfer to the airstrip for the flight back to Nairobi.</p>"
+   }
+  ],
+  "includes": [
+   "Return flights Nairobi to the Masai Mara",
+   "Three nights full board at Basecamp Eagle View",
+   "Guided walks, game drives and night drives in the conservancy",
+   "Conservancy fees",
+   "Airstrip transfers"
+  ],
+  "excludes": [
+   "International flights, visa and travel insurance",
+   "Tips for guides and camp staff",
+   "Drinks unless stated, laundry and personal expenses",
+   "Optional activities not listed in the itinerary",
+   "Hot air balloon flight"
+  ],
+  "terms": {
+   "activities": [
+    "bush-safaris-wildlife-tours",
+    "flight-packages-fly-in-safaris"
+   ],
+   "destination": [
+    "Kenya"
+   ],
+   "trip_types": []
+  }
+ }
+]

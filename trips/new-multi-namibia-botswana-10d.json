@@ -1,0 +1,117 @@
+[
+ {
+  "key": "new-multi-namibia-botswana-10d",
+  "title": "10 Day Namibia and Botswana Safari: Etosha, Okavango River and Chobe",
+  "slug": "10-day-namibia-botswana-safari",
+  "focus_keyword": "Namibia and Botswana safari",
+  "rank_math_title": "Namibia and Botswana Safari: 10 Days, Etosha to Chobe",
+  "rank_math_desc": "Namibia and Botswana safari for 10 days: Etosha game drives, the Okavango River and Zambezi region, then three nights on the Chobe River.",
+  "post_content": "<p>This Namibia and Botswana safari follows the classic overland route from Etosha to Chobe.</p>",
+  "overview": "<p>This Namibia and Botswana safari follows the classic overland route from Etosha to Chobe. Start with two nights of game drives around the waterholes of Etosha National Park, then head east along the Okavango River through the green Zambezi region, with boat trips and game drives in Mahango and Bwabwata. Cross into Botswana for three nights on the Chobe River in Kasane, among some of Africa's biggest elephant herds. It suits travellers who want two countries and very different landscapes in one trip, and Victoria Falls is only an hour from the finish.</p><p>Price: from USD 3,030 per adult sharing (low season estimate). Contact us for your exact dates.</p>",
+  "highlights": [
+   "Two nights in Etosha National Park",
+   "Okavango River boat trips and Mahango game drives",
+   "Zambezi region rivers and wetlands",
+   "Three nights on the Chobe River in Botswana"
+  ],
+  "faq": [
+   {
+    "q": "How much does this Namibia and Botswana safari cost?",
+    "a": "It starts from USD 3,030 per adult sharing, based on low-season rates. Prices rise from July to October; we confirm the price for your dates when you enquire."
+   },
+   {
+    "q": "Is it a lot of driving?",
+    "a": "Some days have five to six hours on the road, broken by game viewing and stops. The route avoids backtracking from Windhoek to Kasane."
+   },
+   {
+    "q": "Can we add Victoria Falls or the Okavango Delta?",
+    "a": "Yes. Victoria Falls is an hour from Kasane, and a fly-in Delta camp can be added from Kasane or Maun."
+   }
+  ],
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/zebras-on-a-gravel-road-in-etosha-national-park-namibia.jpg",
+   "alt": "Zebras on a gravel road in Etosha National Park, Namibia"
+  },
+  "status": "publish",
+  "force_slug": false,
+  "duration": 10,
+  "itinerary": [
+   {
+    "label": "Day 1",
+    "title": "Windhoek to Etosha",
+    "content": "<p>Collection in Windhoek and drive north to the eastern side of Etosha. Dinner and overnight at Mokuti Etosha Lodge.</p>"
+   },
+   {
+    "label": "Day 2",
+    "title": "Etosha National Park",
+    "content": "<p>Full day of game drives between Etosha's waterholes for elephants, lions, rhinos and plains game. Dinner and overnight at Mokuti Etosha Lodge.</p>"
+   },
+   {
+    "label": "Day 3",
+    "title": "Etosha to the Okavango River",
+    "content": "<p>Drive to Rundu on the Okavango River. Sunset on the river. Dinner and overnight at Hakusembe River Lodge.</p>"
+   },
+   {
+    "label": "Day 4",
+    "title": "To Divundu and Mahango",
+    "content": "<p>Drive east along the river to Divundu. Afternoon game drive in the Mahango core area of Bwabwata National Park. Dinner and overnight at Mahangu Safari Lodge.</p>"
+   },
+   {
+    "label": "Day 5",
+    "title": "Okavango River",
+    "content": "<p>Morning boat trip for birds, hippos and crocodiles, with a visit to Popa Falls. Dinner and overnight at Mahangu Safari Lodge.</p>"
+   },
+   {
+    "label": "Day 6",
+    "title": "Zambezi region",
+    "content": "<p>Drive into the Zambezi region to the Kwando River. Afternoon boat trip. Dinner and overnight at Namushasha River Lodge.</p>"
+   },
+   {
+    "label": "Day 7",
+    "title": "Into Botswana",
+    "content": "<p>Cross at Ngoma into Botswana, with game viewing through Chobe National Park to Kasane. Dinner and overnight at Chobe Safari Lodge.</p>"
+   },
+   {
+    "label": "Day 8",
+    "title": "Chobe National Park",
+    "content": "<p>Morning game drive and afternoon boat safari on the Chobe River. Dinner and overnight at Chobe Safari Lodge.</p>"
+   },
+   {
+    "label": "Day 9",
+    "title": "Chobe National Park",
+    "content": "<p>Another day of game drives and boat trips. Dinner and overnight at Chobe Safari Lodge.</p>"
+   },
+   {
+    "label": "Day 10",
+    "title": "Departure",
+    "content": "<p>Transfer to Kasane airport, or continue to Victoria Falls.</p>"
+   }
+  ],
+  "includes": [
+   "Private 4x4 safari vehicle with English-speaking guide (days 1 to 7)",
+   "Accommodation and meals as listed",
+   "Shared game drives and boat safaris at Chobe Safari Lodge",
+   "Park entry fees in Etosha (N$280 per adult per day from April 2026), Bwabwata and Chobe",
+   "Border and cross-border vehicle fees"
+  ],
+  "excludes": [
+   "International flights, visa and travel insurance",
+   "Tips for guides and camp staff",
+   "Drinks unless stated, laundry and personal expenses",
+   "Optional activities not listed in the itinerary",
+   "Flights to Windhoek and from Kasane"
+  ],
+  "terms": {
+   "activities": [
+    "bush-safaris-wildlife-tours"
+   ],
+   "destination": [
+    "Namibia",
+    "Botswana"
+   ],
+   "trip_types": [
+    "multi-country-safaris"
+   ]
+  }
+ }
+]

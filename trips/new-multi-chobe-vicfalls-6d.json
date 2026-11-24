@@ -1,0 +1,98 @@
+[
+ {
+  "key": "new-multi-chobe-vicfalls-6d",
+  "title": "6 Day Victoria Falls and Chobe Safari",
+  "slug": "6-day-victoria-falls-and-chobe-safari",
+  "focus_keyword": "Victoria Falls and Chobe safari",
+  "rank_math_title": "Victoria Falls and Chobe Safari: 6 Days, Falls and Elephants",
+  "rank_math_desc": "Victoria Falls and Chobe safari for 6 days: a guided tour of the falls and a Zambezi sunset cruise, then three nights on the Chobe River in Botswana.",
+  "post_content": "<p>This Victoria Falls and Chobe safari pairs one of the world's great waterfalls with one of Africa's best elephant parks, just over an hour apart.</p>",
+  "overview": "<p>This Victoria Falls and Chobe safari pairs one of the world's great waterfalls with one of Africa's best elephant parks, just over an hour apart. Spend two nights in Victoria Falls town in Zimbabwe with a guided walk through the rainforest along the falls and a sunset cruise on the Zambezi River. Then cross into Botswana for three nights at Chobe Safari Lodge in Kasane, with game drives and boat safaris on the Chobe River among huge elephant herds, buffaloes, hippos and crocodiles. It suits first-time visitors to southern Africa and works well after a safari in East Africa.</p><p>Price: from USD 1,600 per adult sharing (low season estimate). Contact us for your exact dates.</p>",
+  "highlights": [
+   "Guided tour of Victoria Falls from the Zimbabwe side",
+   "Sunset cruise on the Zambezi River",
+   "Three nights on the Chobe River with game drives and boat safaris",
+   "Some of Africa's largest elephant herds"
+  ],
+  "faq": [
+   {
+    "q": "How much does this Victoria Falls and Chobe safari cost?",
+    "a": "It starts from USD 1,600 per adult sharing, based on low-season rates. Prices rise from July to October; we confirm the price for your dates when you enquire."
+   },
+   {
+    "q": "When are Victoria Falls at their best?",
+    "a": "February to May has the most water and the biggest spray; September to December has less water but clearer views and the best Chobe game viewing."
+   },
+   {
+    "q": "Can we fly in from Nairobi?",
+    "a": "Yes. There are direct flights from Nairobi to Victoria Falls, so this trip combines well with a Kenya safari."
+   }
+  ],
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/victoria-falls-at-sunrise-zimbabwe.jpg",
+   "alt": "Victoria Falls at sunrise seen from the Zimbabwe side"
+  },
+  "status": "publish",
+  "force_slug": false,
+  "duration": 6,
+  "itinerary": [
+   {
+    "label": "Day 1",
+    "title": "Arrival at Victoria Falls",
+    "content": "<p>Meet at Victoria Falls airport and transfer to your hotel. Afternoon at leisure. Overnight at Ilala Lodge.</p>"
+   },
+   {
+    "label": "Day 2",
+    "title": "Victoria Falls",
+    "content": "<p>Guided walk through the rainforest along the falls, then a sunset cruise on the Zambezi River. Overnight at Ilala Lodge.</p>"
+   },
+   {
+    "label": "Day 3",
+    "title": "To Chobe, Botswana",
+    "content": "<p>Transfer to Kasane via the Kazungula border. Afternoon boat safari on the Chobe River. Dinner and overnight at Chobe Safari Lodge.</p>"
+   },
+   {
+    "label": "Day 4",
+    "title": "Chobe National Park",
+    "content": "<p>Morning game drive along the Chobe riverfront and afternoon boat safari. Dinner and overnight at Chobe Safari Lodge.</p>"
+   },
+   {
+    "label": "Day 5",
+    "title": "Chobe National Park",
+    "content": "<p>Another day of game drives and boat trips, timed for the best light. Dinner and overnight at Chobe Safari Lodge.</p>"
+   },
+   {
+    "label": "Day 6",
+    "title": "Departure",
+    "content": "<p>Transfer to Kasane airport, or back to Victoria Falls airport for your flight.</p>"
+   }
+  ],
+  "includes": [
+   "Two nights bed and breakfast at Ilala Lodge, Victoria Falls",
+   "Three nights full board at Chobe Safari Lodge with shared game drives and boat safaris",
+   "Guided tour of Victoria Falls with rainforest entry (USD 58)",
+   "Zambezi sunset cruise",
+   "Chobe National Park fees",
+   "Road transfers between Victoria Falls and Kasane"
+  ],
+  "excludes": [
+   "International flights, visa and travel insurance",
+   "Tips for guides and camp staff",
+   "Drinks unless stated, laundry and personal expenses",
+   "Optional activities not listed in the itinerary",
+   "Flights to Victoria Falls and from Kasane",
+   "Zimbabwe and Botswana visas or entry fees where they apply"
+  ],
+  "terms": {
+   "activities": [
+    "bush-safaris-wildlife-tours"
+   ],
+   "destination": [
+    "Botswana"
+   ],
+   "trip_types": [
+    "multi-country-safaris"
+   ]
+  }
+ }
+]

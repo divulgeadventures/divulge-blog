@@ -1,0 +1,89 @@
+[
+ {
+  "key": "new-coast-lamu-5d",
+  "title": "5 Day Lamu Island Escape: Old Town, Shela Beach and Dhow Sailing",
+  "slug": "5-day-lamu-island-holiday",
+  "focus_keyword": "Lamu Island holiday",
+  "rank_math_title": "Lamu Island Holiday: 5 Days of Old Town, Beach and Dhows",
+  "rank_math_desc": "Lamu Island holiday for 5 days: fly from Nairobi, walk the UNESCO-listed Old Town, relax on Shela Beach and sail by dhow to Manda Island.",
+  "post_content": "<p>This Lamu Island holiday takes you to the most atmospheric corner of the Kenya coast.</p>",
+  "overview": "<p>This Lamu Island holiday takes you to the most atmospheric corner of the Kenya coast. Lamu Old Town is a UNESCO World Heritage Site and the oldest living Swahili town in East Africa, with narrow lanes, carved wooden doors and donkeys instead of cars. You fly from Nairobi to Manda airstrip, stay four nights in a traditional Swahili house in Lamu or Shela village, take a guided walk through the Old Town, sail at sunset on a dhow and visit the Takwa Ruins on Manda Island. It suits couples and travellers who want culture and quiet beaches after a safari.</p><p>Price: from USD 1,040 per adult sharing (low season estimate). Contact us for your exact dates.</p>",
+  "highlights": [
+   "Guided walk through UNESCO-listed Lamu Old Town",
+   "Sunset dhow sail and a trip to Manda Island and the Takwa Ruins",
+   "Long, empty Shela Beach",
+   "Short flights from Nairobi, easy to add after a safari"
+  ],
+  "faq": [
+   {
+    "q": "How much does this Lamu Island holiday cost?",
+    "a": "It starts from USD 1,040 per adult sharing, based on low-season rates. Boutique and luxury houses in Shela cost more; we confirm options and prices when you enquire."
+   },
+   {
+    "q": "Is Lamu safe to visit?",
+    "a": "Lamu Old Town and Shela are calm and welcoming. Check your government's travel advice before booking; we fly you in and out to avoid the mainland road."
+   },
+   {
+    "q": "What should we wear in Lamu?",
+    "a": "Lamu is a conservative Muslim town, so cover shoulders and knees in town. Swimwear is fine on the beach."
+   }
+  ],
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/traditional-dhow-sailing-off-lamu-island-kenya.jpg",
+   "alt": "Traditional dhow sailing off Lamu Island, Kenya"
+  },
+  "status": "publish",
+  "force_slug": false,
+  "duration": 5,
+  "itinerary": [
+   {
+    "label": "Day 1",
+    "title": "Fly to Lamu",
+    "content": "<p>Flight from Nairobi to Manda airstrip and a short boat transfer to Lamu. Evening at leisure on the waterfront. Overnight in Lamu Old Town or Shela.</p>"
+   },
+   {
+    "label": "Day 2",
+    "title": "Lamu Old Town",
+    "content": "<p>Guided walk through the Old Town: the Lamu Fort, the Lamu Museum, the donkey sanctuary and the lanes of carved Swahili houses. Overnight in Lamu or Shela.</p>"
+   },
+   {
+    "label": "Day 3",
+    "title": "Dhow sail and Manda Island",
+    "content": "<p>Morning by dhow to Manda Island to see the Takwa Ruins, with a seafood lunch. Sail back at sunset. Overnight in Lamu or Shela.</p>"
+   },
+   {
+    "label": "Day 4",
+    "title": "Shela Beach",
+    "content": "<p>Free day on the dunes and sand of Shela Beach, or optional snorkelling, fishing or a visit to Pate Island. Overnight in Lamu or Shela.</p>"
+   },
+   {
+    "label": "Day 5",
+    "title": "Fly to Nairobi",
+    "content": "<p>Boat to Manda airstrip for the flight to Nairobi.</p>"
+   }
+  ],
+  "includes": [
+   "Return flights Nairobi to Manda (Lamu)",
+   "Boat transfers between Manda airstrip and Lamu",
+   "Four nights bed and breakfast in a Swahili-style guesthouse or hotel",
+   "Guided Old Town walk and dhow trip to Manda Island"
+  ],
+  "excludes": [
+   "International flights, visa and travel insurance",
+   "Tips for guides and camp staff",
+   "Drinks unless stated, laundry and personal expenses",
+   "Optional activities not listed in the itinerary",
+   "Lunches and dinners except the dhow trip lunch"
+  ],
+  "terms": {
+   "activities": [
+    "bush-beach-safaris",
+    "flight-packages-fly-in-safaris"
+   ],
+   "destination": [
+    "Kenya"
+   ],
+   "trip_types": []
+  }
+ }
+]
