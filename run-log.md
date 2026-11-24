@@ -4,7 +4,7 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
-## 2026-11-24 13:25 | New post 7
+## 2026-11-24 12:59 | New post 7
 - "Is a Women's Trip to Uganda Right for Your Group? Gorillas, Craft Villages and Slow Days on Lake Bunyonyi" – https://divulgeadventures.com/womens-trip-to-uganda/
 - Uganda (UG-323, group sprint), Safari Themes; focus keyword refined from "womens group trip uganda" to "women's trip to uganda"; scheduled for 16:00 Nairobi time. Uganda chosen as Tanzania has no group rows and Kenya already has 2 posts today.
 - Images: 5 in the body (2 from the owner's Media Library: Bwindi silverback, Kibale chimpanzee; 3 from Unsplash: lake and trees, forest road, green hillside) plus an Unsplash featured image (green mountain road); no credits. The Kibale chimpanzee photo was last used 13 Nov (no unused Uganda chimp photo outside 14 days).
