@@ -4,7 +4,7 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
-## 2026-11-24 07:59 | New post 1
+## 2026-11-24 06:59 | New post 1
 - "Planning a Uganda Photography Tour for Your Camera Club? Start With the Gorilla Permits" – https://divulgeadventures.com/uganda-photography-tour/
 - Uganda, Safari Themes; group sprint row UG-322 (focus keyword refined to "uganda photography tour", the phrase people search). Scheduled for 10:00 Nairobi time today.
 - Images: 6 from the owner's Media Library (featured: mountain gorilla eating leaves in Bwindi; body: gorilla face in Bwindi, chimpanzee in Kibale, rainbow over Murchison Falls, shoebill, Nile crocodile in the Kazinga Channel), 0 from Unsplash. No credits. Gorilla permit US$800 stated (checked November 2026); the Kibale chimp permit price is not stated because sources disagree (US$250 vs US$300 under the new UWA tariff) and the UWA rates page could not be opened. No package prices quoted.
