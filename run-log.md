@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-24 07:58 | New post 2
+- "Group Safari Cost, Worked Out Per Person for Groups of 2, 4, 6 and 12" – https://divulgeadventures.com/group-safari-cost-per-person/
+- Kenya (organiser guide covering all six countries), Safari Planning Tips; group sprint row KE-388 (focus keyword refined to "group safari cost" so it reads naturally; "per person" kept in the titles). Scheduled for 11:00 Nairobi time today.
+- Images: 2 from the owner's Media Library (Masai Mara and Amboseli fly-in safari photos), 3 from Unsplash (featured: safari vehicles in Tsavo East; body: lion beside a safari vehicle, elephants at sunset). No credits. Cost examples are labelled estimates built from park fees (Mara, Amboseli, Tanzania, gorilla permits, Botswana, Namibia, checked Oct/Nov 2026) and typical vehicle and lodge bands; group policies from the trip pages. No package prices quoted.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: https://thekenyatimes.com/lifestyle/travel-tourism/masai-mara-entrance-fees-and-park-charges-2026-updated-for-tourists/ (site error); Media Library photos could not be downloaded for a visual check (proxy 403), so their alt text follows the Media Library titles.
+
 ## 2026-11-24 06:59 | New post 1
 - "Planning a Uganda Photography Tour for Your Camera Club? Start With the Gorilla Permits" – https://divulgeadventures.com/uganda-photography-tour/
 - Uganda, Safari Themes; group sprint row UG-322 (focus keyword refined to "uganda photography tour", the phrase people search). Scheduled for 10:00 Nairobi time today.
@@ -741,9 +748,4 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Namibia (NA-314, today's group post), Safari Planning Tips. Scheduled for 12 Nov 10:00 Nairobi time. Main link /group-safaris/organise-a-group-safari/ (first paragraph and Trip CTA), /group-safaris/ once, orange button to the group inquiry form, trips: 5 Days Namibia Adventure and 6-Day Namibian Culture and Scenery Tour.
 - Facts checked November 2026: N$280 park fee per international adult per day at Etosha/Namib-Naukluft from 1 April 2026 (namibian.org); licence/IDP, left-hand driving and seat-belt rules (Namibian embassy driving page); visa on arrival rules (Namibian embassy notice; it shows both N$1,600 and N$1,200, so the post gives N$1,600 as per recent notices and tells readers to confirm); speed limits; distances from a published Namibia distance chart. No vehicle-hire or lodge prices invented: the cost section lists what drives each cost.
 - Images: 3 from the owner's Media Library (Deadvlei, Etosha, Walvis Bay pink lake) + 3 Unsplash body images (4x4 off-road, southern Namibia road, north-west Namibia road) + Unsplash featured image (Namibia desert road). 6 body images, no credits. Refresh still paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-- Could not open: none
-
-## 2026-11-11 18:50 | Nothing to do
-- Today's work is complete: 3 new posts (Kenya school trip, Okavango Delta safari, Serengeti in February) and the Namibia safari guide refresh are all done.
-- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows left as todo in REFRESH_QUEUE.md.
 - Could not open: none

@@ -885,3 +885,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/05/rainbow-over-murchison-falls-on-the-nile-in-uganda.jpg | uganda-photography-tour
 2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/10/shoebill-with-its-huge-bill-against-green-foliage.jpg | uganda-photography-tour
 2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/04/young-nile-crocodile-on-a-mound-in-the-kazinga-channel.jpg | uganda-photography-tour
+2026-11-24 | https://images.unsplash.com/photo-1658926342182-512ff6dcc08e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8OHx8c2FmYXJpJTIwdmVoaWNsZXMlMjBLZW55YXxlbnwwfDB8fHwxNzk1NDk1ODQ3fDI&ixlib=rb-4.1.0&q=80&w=1080 | group-safari-cost-per-person
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/10/masai-mara-and-amboseli-fly-in-safari-3.jpg | group-safari-cost-per-person
+2026-11-24 | https://images.unsplash.com/photo-1709402606682-400133d92ab2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8c2FmYXJpJTIwdmVoaWNsZXMlMjBLZW55YXxlbnwwfDB8fHwxNzk1NDk1ODQ3fDI&ixlib=rb-4.1.0&q=80&w=1080 | group-safari-cost-per-person
+2026-11-24 | https://images.unsplash.com/photo-1564760055775-d63b17a55c44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8QW1ib3NlbGklMjBlbGVwaGFudHN8ZW58MHwwfHx8MTc5NTQ5NTg0OHwy&ixlib=rb-4.1.0&q=80&w=1080 | group-safari-cost-per-person
+2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/10/masai-mara-and-amboseli-fly-in-safari-4.jpg | group-safari-cost-per-person
