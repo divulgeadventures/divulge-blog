@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-24 09:20 | New post 3
+- "A Women's Safari in Botswana, Planned Around Small Camps, Quiet Water and Good Company" – https://divulgeadventures.com/womens-safari-botswana/
+- Botswana, Safari Themes; group sprint row BW-320 (focus keyword refined to "women's safari in botswana"). Scheduled for 12:00 Nairobi time today.
+- Images: 2 from the owner's Media Library (Boteti Tented Safari Lodge, baobab at sunset), 4 from Unsplash (featured: elephants drinking in Chobe; body: hippos in the Okavango, Chobe River sunset, aerial Okavango River). No credits. Park fee stated as P380 with the proposed P500 rise reported on hold (Botswana Daily News, checked Nov 2026); camp costs are labelled estimates; the only package price is the 7 day Moremi, Khwai and Savuti trip page price.
+- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
+- Could not open: https://www.gov.uk/foreign-travel-advice/botswana and https://fitfortravel.nhs.uk/destinations/africa/botswana (permission not granted); https://www.tourismupdate.com/article/botswana-increases-park-and-licence-fees (article text did not load).
+
 ## 2026-11-24 08:34 Trip Optimiser
 - Done: 1 Day Akagera National Park Safari from Kigali (11529, "1 day akagera safari from kigali", rwanda-11529-1-day-akagera-safari-from-kigali.json). Only 1 `todo` row was left, so this run did one trip; the queue is now finished.
 - Photos: 11529: 6 owner + 0 Unsplash (the page's existing gallery plus the lion photo 11571). No credits. Media Library photos could not be downloaded for a visual check (proxy 403), so alt text follows the file names and titles; please confirm 11566, 11567, 11568 and 11570 do not have a person as the main subject.
@@ -743,20 +750,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Images: 6 from the owner's Media Library (featured Mara migration + 5 body: safari fleet, vehicle by aircraft, Rwanda gorilla, Mara game drive, Amboseli elephants), 0 Unsplash. No credits. Added dmc, dmcs, commissionable, inbox to spelling-allowlist.txt. Refresh still paused.
 - Could not open: https://divulgeadventures.com/group-safaris/safari-dmc/ (permission request timed out; site copy has no page text, so the post describes the service only in general terms); UWA purchase-guidelines PDF (not linked from the page text)
 
-## 2026-11-12 08:36 Trip Optimiser
-- Done: 3-Day Okavango Delta Mokoro Tour (9793, "3 day okavango delta mokoro safari", botswana-9793-3-day-okavango-delta-mokoro-safari.json), 5 Days Into the Okavango Exploration (9769, "5 day okavango moremi and khwai safari", botswana-9769-5-day-okavango-moremi-and-khwai-safari.json)
-- Photos: 9793 = 2 owner + 3 Unsplash; 9769 = 4 owner + 2 Unsplash. No credits anywhere (no-credits rule was already in TRIP_GUIDE.md and validate_trip.py; nothing to remove).
-- Owner to fix by hand (the importer cannot change these):
-  - 3-Day Okavango Delta Mokoro Tour: the second "Cost Includes" heading should be "Cost Excludes"; "Meals" is listed as included but "Some meals" is also listed as excluded (pick one); "Roundtrip airport transfer" is included but the itinerary only has a Maun pick-up/drop-off; "Park fees" and "(For non-residents)" / "All activities" and "(Unless labeled as optional)" are split into separate bullets; "Island Walking Safaris:" has a stray colon; Day 1 typo "Delta ecosystemtracks" (missing dash/space); no best months on the page; price shows only "From $715" (no regular/sale pair) - please confirm; featured image alt "Okavango Exploration" is wrong for this trip (fixed in the file).
-  - 5 Days Into the Okavango Exploration: "Okavanga" twice in the overview (should be Okavango) and " .This" spacing; Day 1 "Your will be met" (You will be met); Day 2 "meandaring" (meandering) and the day is titled "Okavango Exploration" but describes Moremi; Day 4 "porcupinies" (porcupines) and "spring hares" (springhares); Day 5 "Maun,marking" missing space; highlight "Kwai concession." should be "Khwai Concession"; includes list "Charter flights within Botswana" but every day is by road from Maun - remove or explain; "Luxury tented accommodation" is included but no camp or lodge is named anywhere (mobile camp set up by a back-up team), so "luxury" cannot be checked; price "From $3,600" is identical to the 7 Days Kalahari Expeditions and 8 Days Moremi and Northern Exploration cards ($3,600 each) - looks like a placeholder, please confirm; trip title "5 Days Into the Okavango Exploration" reads awkwardly.
-  - Media Library: file names "Moremi-and-Nothern-Exploration.jpg" / "-1.jpg" have the typo "Nothern"; items 9778, 9792 and 9776 have empty or generic alt text ("Okavango Exploration").
-  - Slug typo spotted for a later row: 5-day-boteti-tented-safari-logde ("logde" = lodge), title "5 Day Boteti Tented Safari Logde" too.
-- Could not open: none (site copy from 2026-11-11 18:13 used; no live pages opened)
-- Next: 7-day-moremi-khwai-and-savuti, 8-days-moremi-and-northern-exploration
-
-## 2026-11-12 06:56 | New post 1
-- "Driving Namibia as a Group? How a Self Drive Convoy Keeps Everyone Together": https://divulgeadventures.com/namibia-self-drive-convoy/
-- Namibia (NA-314, today's group post), Safari Planning Tips. Scheduled for 12 Nov 10:00 Nairobi time. Main link /group-safaris/organise-a-group-safari/ (first paragraph and Trip CTA), /group-safaris/ once, orange button to the group inquiry form, trips: 5 Days Namibia Adventure and 6-Day Namibian Culture and Scenery Tour.
-- Facts checked November 2026: N$280 park fee per international adult per day at Etosha/Namib-Naukluft from 1 April 2026 (namibian.org); licence/IDP, left-hand driving and seat-belt rules (Namibian embassy driving page); visa on arrival rules (Namibian embassy notice; it shows both N$1,600 and N$1,200, so the post gives N$1,600 as per recent notices and tells readers to confirm); speed limits; distances from a published Namibia distance chart. No vehicle-hire or lodge prices invented: the cost section lists what drives each cost.
-- Images: 3 from the owner's Media Library (Deadvlei, Etosha, Walvis Bay pink lake) + 3 Unsplash body images (4x4 off-road, southern Namibia road, north-west Namibia road) + Unsplash featured image (Namibia desert road). 6 body images, no credits. Refresh still paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-- Could not open: none

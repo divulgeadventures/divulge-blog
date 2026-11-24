@@ -165,3 +165,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-23 | Kenya KE-387 | Safari Planning Tips | organise a group safari | how-to-organise-a-group-safari
 2026-11-24 | Uganda UG-322 | Safari Themes | uganda photography tour | uganda-photography-tour
 2026-11-24 | Kenya KE-388 | Safari Planning Tips | group safari cost | group-safari-cost-per-person
+2026-11-24 | Botswana BW-320 | Safari Themes | women's safari in botswana | womens-safari-botswana
