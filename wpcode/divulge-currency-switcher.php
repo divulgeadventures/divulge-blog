@@ -1,6 +1,6 @@
 /**
  * Divulge – currency switcher
- * Adds a currency dropdown (USD, EUR, GBP, INR, CAD, AUD) to the left of the green top bar,
+ * Adds a currency dropdown (USD, EUR, GBP) to the left of the green top bar,
  * next to the language selector, and converts every USD price on the page.
  * Rates come from a free exchange-rate feed and refresh daily in each visitor's browser;
  * the visitor's choice is remembered. Bookings and quotes are unchanged (USD).
@@ -27,13 +27,10 @@ add_action( 'wp_footer', function () {
 		var CUR = {
 			USD: { sym: '$',  name: 'US Dollar' },
 			EUR: { sym: '€',  name: 'Euro' },
-			GBP: { sym: '£',  name: 'British Pound' },
-			INR: { sym: '₹',  name: 'Indian Rupee' },
-			CAD: { sym: 'C$', name: 'Canadian Dollar' },
-			AUD: { sym: 'A$', name: 'Australian Dollar' }
+			GBP: { sym: '£',  name: 'British Pound' }
 		};
 		// Fallback rates (per 1 USD), used only if the live feed is unreachable.
-		var RATES = { USD: 1, EUR: 0.92, GBP: 0.78, INR: 84, CAD: 1.38, AUD: 1.52 };
+		var RATES = { USD: 1, EUR: 0.92, GBP: 0.78 };
 		var KEY = 'dvg_currency', RKEY = 'dvg_rates';
 		function store(k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) { return null; } }
 
