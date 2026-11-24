@@ -1,0 +1,116 @@
+[
+ {
+  "key": "new-multi-ke-tz-10d",
+  "title": "10 Day Kenya and Tanzania Safari: Masai Mara, Serengeti and Ngorongoro",
+  "slug": "10-day-kenya-tanzania-safari-masai-mara-serengeti",
+  "focus_keyword": "Kenya and Tanzania safari",
+  "rank_math_title": "Kenya and Tanzania Safari: 10 Days, Mara and Serengeti",
+  "rank_math_desc": "Kenya and Tanzania safari for 10 days: the Masai Mara, the Serengeti, Ngorongoro Crater and Tarangire in one overland trip with Sopa lodges.",
+  "post_content": "<p>This Kenya and Tanzania safari covers both halves of the great Mara-Serengeti ecosystem in one trip.</p>",
+  "overview": "<p>This Kenya and Tanzania safari covers both halves of the great Mara-Serengeti ecosystem in one trip. Spend three nights in the Masai Mara, cross into Tanzania for three nights in the Serengeti, then explore Ngorongoro Crater and Tarangire before ending in Arusha. You stay in the reliable Sopa lodges throughout and travel in a private 4x4 with a driver guide in each country. It suits first-time visitors who want the best of East Africa in ten days.</p><p>Price: from USD 4,030 per adult sharing (low season estimate). Contact us for your exact dates.</p>",
+  "highlights": [
+   "Three nights in the Masai Mara",
+   "Three nights in the Serengeti",
+   "Ngorongoro Crater game drive",
+   "Tarangire National Park and its elephant herds"
+  ],
+  "faq": [
+   {
+    "q": "How much does this Kenya and Tanzania safari cost?",
+    "a": "It starts from USD 4,030 per adult sharing, based on low-season rates. Prices rise from July to October; we confirm the price for your dates when you enquire."
+   },
+   {
+    "q": "Do we need two visas?",
+    "a": "Yes: a Kenya eTA and a Tanzania visa, both applied for online before travel."
+   },
+   {
+    "q": "How long is the border crossing day?",
+    "a": "The drive from the Mara to the Serengeti via Isebania takes most of the day, including border formalities."
+   }
+  ],
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/tanzania-safari-for-seniors.jpg",
+   "alt": "Tanzania safari for seniors – sunset over a lone tree in the Serengeti"
+  },
+  "status": "publish",
+  "force_slug": false,
+  "duration": 10,
+  "itinerary": [
+   {
+    "label": "Day 1",
+    "title": "Nairobi to the Masai Mara",
+    "content": "<p>Drive from Nairobi via the Great Rift Valley to the Masai Mara. Afternoon game drive. Dinner and overnight at Mara Sopa Lodge.</p>"
+   },
+   {
+    "label": "Day 2",
+    "title": "Masai Mara",
+    "content": "<p>Full day of game drives. Dinner and overnight at Mara Sopa Lodge.</p>"
+   },
+   {
+    "label": "Day 3",
+    "title": "Masai Mara",
+    "content": "<p>Morning and afternoon game drives; optional Maasai village visit. Dinner and overnight at Mara Sopa Lodge.</p>"
+   },
+   {
+    "label": "Day 4",
+    "title": "Masai Mara to the Serengeti",
+    "content": "<p>Drive to the Isebania border, meet your Tanzanian guide and continue into the Serengeti. Dinner and overnight at Serengeti Sopa Lodge.</p>"
+   },
+   {
+    "label": "Day 5",
+    "title": "Serengeti National Park",
+    "content": "<p>Full day of game drives in the central Serengeti. Dinner and overnight at Serengeti Sopa Lodge.</p>"
+   },
+   {
+    "label": "Day 6",
+    "title": "Serengeti National Park",
+    "content": "<p>Another full day following the herds and predators. Dinner and overnight at Serengeti Sopa Lodge.</p>"
+   },
+   {
+    "label": "Day 7",
+    "title": "Serengeti to Ngorongoro",
+    "content": "<p>Morning game drive, then drive to the crater rim. Dinner and overnight at Ngorongoro Sopa Lodge.</p>"
+   },
+   {
+    "label": "Day 8",
+    "title": "Ngorongoro Crater",
+    "content": "<p>Descend into the crater for a game drive among rhinos, lions and flamingos. Dinner and overnight at Ngorongoro Sopa Lodge.</p>"
+   },
+   {
+    "label": "Day 9",
+    "title": "Ngorongoro to Tarangire",
+    "content": "<p>Drive to Tarangire National Park for an afternoon game drive. Dinner and overnight at Tarangire Sopa Lodge.</p>"
+   },
+   {
+    "label": "Day 10",
+    "title": "Tarangire to Arusha",
+    "content": "<p>Morning game drive, then drive to Arusha or Kilimanjaro airport.</p>"
+   }
+  ],
+  "includes": [
+   "Private 4x4 safari vehicles with pop-up roof and English-speaking driver guides in Kenya and Tanzania",
+   "Accommodation on full board at Sopa lodges",
+   "Park entry and Ngorongoro crater fees",
+   "Drinking water in the vehicles"
+  ],
+  "excludes": [
+   "International flights, visa and travel insurance",
+   "Tips for guides and camp staff",
+   "Drinks unless stated, laundry and personal expenses",
+   "Optional activities not listed in the itinerary",
+   "Kenya eTA and Tanzania visa"
+  ],
+  "terms": {
+   "activities": [
+    "bush-safaris-wildlife-tours"
+   ],
+   "destination": [
+    "Kenya",
+    "Tanzania"
+   ],
+   "trip_types": [
+    "multi-country-safaris"
+   ]
+  }
+ }
+]

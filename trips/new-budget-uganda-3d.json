@@ -1,0 +1,79 @@
+[
+ {
+  "key": "new-budget-uganda-3d",
+  "title": "3 Day Budget Uganda Safari: Murchison Falls",
+  "slug": "3-day-budget-uganda-safari-murchison-falls",
+  "focus_keyword": "budget Uganda safari",
+  "rank_math_title": "Budget Uganda Safari: 3 Days in Murchison Falls",
+  "rank_math_desc": "Budget Uganda safari for 3 days: rhino tracking at Ziwa on the way, game drives in Murchison Falls National Park, a Nile boat trip and the top of the falls.",
+  "post_content": "<p>This budget Uganda safari shows you Murchison Falls National Park, Uganda's largest park, in three days from Kampala.</p>",
+  "overview": "<p>This budget Uganda safari shows you Murchison Falls National Park, Uganda's largest park, in three days from Kampala. Stop to track white rhinos on foot at Ziwa Rhino Sanctuary on the way, then enjoy a game drive on the northern savannah, a boat trip up the Nile to the foot of the falls, and a walk to the top of Murchison Falls where the river forces its way through a narrow gorge. You stay at the simple Red Chilli Rest Camp inside the park.</p><p>Price: from USD 570 per adult sharing (low season estimate). Contact us for your exact dates.</p>",
+  "highlights": [
+   "Rhino tracking on foot at Ziwa Rhino Sanctuary",
+   "Game drive for giraffes, elephants and lions",
+   "Boat trip on the Nile to the foot of Murchison Falls",
+   "Hike to the top of the falls"
+  ],
+  "faq": [
+   {
+    "q": "How much does this budget Uganda safari cost?",
+    "a": "It starts from USD 570 per adult with a shared vehicle, based on low-season rates. We confirm the price for your dates when you enquire."
+   },
+   {
+    "q": "Can we add chimpanzee tracking?",
+    "a": "Yes. Budongo Forest, on the way to Murchison, offers chimpanzee tracking for an extra fee."
+   },
+   {
+    "q": "When is the best time for Murchison Falls?",
+    "a": "December to February and June to September are the driest months for game drives."
+   }
+  ],
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/05/rainbow-over-murchison-falls-on-the-nile-in-uganda.jpg",
+   "alt": "Rainbow over Murchison Falls on the Nile in Uganda"
+  },
+  "status": "publish",
+  "force_slug": false,
+  "duration": 3,
+  "itinerary": [
+   {
+    "label": "Day 1",
+    "title": "Kampala to Murchison Falls",
+    "content": "<p>Morning drive north with a stop at Ziwa Rhino Sanctuary to track white rhinos on foot. Continue to Murchison Falls National Park. Dinner and overnight at Red Chilli Rest Camp.</p>"
+   },
+   {
+    "label": "Day 2",
+    "title": "Game drive and Nile boat trip",
+    "content": "<p>Early crossing of the Nile for a game drive on the northern bank, then an afternoon boat trip to the foot of the falls. Dinner and overnight at Red Chilli Rest Camp.</p>"
+   },
+   {
+    "label": "Day 3",
+    "title": "Top of the falls and return to Kampala",
+    "content": "<p>Visit the top of Murchison Falls, then drive back to Kampala in the afternoon.</p>"
+   }
+  ],
+  "includes": [
+   "Shared safari vehicle with English-speaking driver guide",
+   "Accommodation and meals at Red Chilli Rest Camp",
+   "Park entry fees, Nile boat trip and Ziwa rhino tracking",
+   "Drinking water in the vehicle"
+  ],
+  "excludes": [
+   "International flights, visa and travel insurance",
+   "Tips for guides and camp staff",
+   "Drinks unless stated, laundry and personal expenses",
+   "Optional activities not listed in the itinerary"
+  ],
+  "terms": {
+   "activities": [
+    "bush-safaris-wildlife-tours"
+   ],
+   "destination": [
+    "Uganda"
+   ],
+   "trip_types": [
+    "budget-safaris"
+   ]
+  }
+ }
+]

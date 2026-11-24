@@ -1,0 +1,96 @@
+[
+ {
+  "key": "new-honeymoon-botswana-6d",
+  "title": "6 Day Botswana Honeymoon Safari: Okavango Delta and Chobe",
+  "slug": "6-day-botswana-honeymoon-safari",
+  "focus_keyword": "Botswana honeymoon safari",
+  "rank_math_title": "Botswana Honeymoon Safari: 6 Days, Okavango and Chobe",
+  "rank_math_desc": "Botswana honeymoon safari for 6 days: three nights at Pom Pom Camp in the Okavango Delta and two nights at Chobe Chilwero, linked by light aircraft.",
+  "post_content": "<p>This Botswana honeymoon safari keeps the group small and the scenery wild.</p>",
+  "overview": "<p>This Botswana honeymoon safari keeps the group small and the scenery wild. Fly from Maun to Pom Pom Camp in a private concession of the Okavango Delta for three nights of game drives, mokoro trips and bush dinners, then fly to Kasane for two nights at Chobe Chilwero above the Chobe River, famous for its elephant herds. It suits couples who want a quiet, exclusive Delta experience, and it combines easily with Victoria Falls.</p><p>Price: from USD 4,030 per adult sharing (low season estimate). Contact us for your exact dates.</p>",
+  "highlights": [
+   "Three nights in a private Okavango Delta concession at Pom Pom Camp",
+   "Mokoro trips and game drives",
+   "Two nights at Chobe Chilwero above the Chobe River",
+   "Light aircraft flights between camps"
+  ],
+  "faq": [
+   {
+    "q": "How much does this Botswana honeymoon safari cost?",
+    "a": "It starts from USD 4,030 per adult sharing, based on low-season camp rates. Prices rise from July to October; we confirm the price for your dates when you enquire."
+   },
+   {
+    "q": "Can we add Victoria Falls?",
+    "a": "Yes. Victoria Falls is about an hour by road from Kasane and makes a good two-night extension."
+   },
+   {
+    "q": "What is a mokoro?",
+    "a": "A traditional dugout canoe, now usually made of fibreglass, poled through the shallow Delta channels by a local guide."
+   }
+  ],
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/06/herd-of-elephants-walking-across-open-ground-in-chobe-national-park-botswana.jpg",
+   "alt": "7 day botswana celebration safari: herd of elephants in Chobe National Park"
+  },
+  "status": "publish",
+  "force_slug": false,
+  "duration": 6,
+  "itinerary": [
+   {
+    "label": "Day 1",
+    "title": "Maun to the Okavango Delta",
+    "content": "<p>Fly by light aircraft from Maun to Pom Pom Camp. Afternoon activity. Dinner and overnight at Pom Pom Camp.</p>"
+   },
+   {
+    "label": "Day 2",
+    "title": "Okavango Delta",
+    "content": "<p>Morning and afternoon game drives or mokoro trips, depending on water levels. Dinner and overnight at Pom Pom Camp.</p>"
+   },
+   {
+    "label": "Day 3",
+    "title": "Okavango Delta",
+    "content": "<p>A full day exploring the concession by vehicle, boat or on foot. Dinner and overnight at Pom Pom Camp.</p>"
+   },
+   {
+    "label": "Day 4",
+    "title": "Fly to Chobe",
+    "content": "<p>Fly to Kasane and transfer to the lodge. Sunset cruise on the Chobe River. Dinner and overnight at Chobe Chilwero.</p>"
+   },
+   {
+    "label": "Day 5",
+    "title": "Chobe National Park",
+    "content": "<p>Morning game drive and afternoon boat safari. Dinner and overnight at Chobe Chilwero.</p>"
+   },
+   {
+    "label": "Day 6",
+    "title": "Departure",
+    "content": "<p>Transfer to Kasane airport or continue by road to Victoria Falls.</p>"
+   }
+  ],
+  "includes": [
+   "Light aircraft flights Maun to Pom Pom and Pom Pom to Kasane",
+   "Accommodation, meals and local drinks at the camps",
+   "Shared activities run by the camps",
+   "Park and concession fees",
+   "Transfers in Kasane"
+  ],
+  "excludes": [
+   "International flights, visa and travel insurance",
+   "Tips for guides and camp staff",
+   "Drinks unless stated, laundry and personal expenses",
+   "Optional activities not listed in the itinerary",
+   "Flights to Maun and from Kasane"
+  ],
+  "terms": {
+   "activities": [
+    "flight-packages-fly-in-safaris"
+   ],
+   "destination": [
+    "Botswana"
+   ],
+   "trip_types": [
+    "honeymoon-safaris"
+   ]
+  }
+ }
+]

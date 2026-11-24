@@ -1,0 +1,107 @@
+[
+ {
+  "key": "new-luxury-uganda-8d",
+  "title": "8 Day Luxury Uganda Gorilla and Chimpanzee Safari",
+  "slug": "8-day-luxury-uganda-gorilla-chimpanzee-safari",
+  "focus_keyword": "luxury Uganda gorilla safari",
+  "rank_math_title": "Luxury Uganda Gorilla Safari: 8 Days, Chimps and Lodges",
+  "rank_math_desc": "Luxury Uganda gorilla safari for 8 days: chimps in Kibale, Queen Elizabeth by boat and gorillas in Bwindi, with top lodges and a flight back to Entebbe.",
+  "post_content": "<p>This luxury Uganda gorilla safari combines the country's three great primate and wildlife experiences with some of its finest lodges.</p>",
+  "overview": "<p>This luxury Uganda gorilla safari combines the country's three great primate and wildlife experiences with some of its finest lodges. You track chimpanzees in Kibale Forest from Kyaninga Lodge, cruise the Kazinga Channel and explore Queen Elizabeth National Park from Kyambura Gorge Lodge, then trek to see mountain gorillas in Bwindi Impenetrable Forest from Bwindi Lodge. A scheduled flight from Kihihi takes you back to Entebbe, saving a long final drive. It suits couples and small groups who want Uganda's primates in comfort, with a private 4x4 and an experienced driver guide throughout.</p><p>Price: from USD 5,400 per adult sharing (low season estimate). Contact us for your exact dates.</p>",
+  "highlights": [
+   "Gorilla trekking permit in Bwindi Impenetrable Forest included",
+   "Chimpanzee tracking in Kibale Forest",
+   "Kazinga Channel boat cruise in Queen Elizabeth National Park",
+   "Two nights each at Kyaninga Lodge, Kyambura Gorge Lodge and Bwindi Lodge"
+  ],
+  "faq": [
+   {
+    "q": "How much does this luxury Uganda gorilla safari cost?",
+    "a": "It starts from USD 5,400 per adult sharing, based on low-season lodge rates. Prices rise in the July to October and December peak months; we confirm the exact price when you enquire."
+   },
+   {
+    "q": "How fit do I need to be for gorilla trekking?",
+    "a": "Treks last from one to several hours on steep, muddy forest trails. A reasonable level of fitness helps, and porters can be hired at the park to carry your bag and help on the slopes."
+   },
+   {
+    "q": "When is the best time for this safari?",
+    "a": "June to September and December to February are the driest months and the easiest for trekking, but gorillas can be seen all year."
+   }
+  ],
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/gorilla-trekking-vs-habituation.jpg",
+   "alt": "Gorilla trekking vs habituation – endangered mountain gorilla lying in Bwindi Impenetrable Forest, Uganda"
+  },
+  "status": "publish",
+  "force_slug": false,
+  "duration": 8,
+  "itinerary": [
+   {
+    "label": "Day 1",
+    "title": "Arrival in Entebbe",
+    "content": "<p>Meet and greet at Entebbe International Airport and transfer to the Lake Victoria Serena Golf Resort and Spa on the lake shore. Dinner and overnight.</p>"
+   },
+   {
+    "label": "Day 2",
+    "title": "Entebbe to Kibale Forest",
+    "content": "<p>Drive west through farmland and tea country to Fort Portal and the crater lakes. Afternoon at leisure above the crater at Kyaninga Lodge. Dinner and overnight at Kyaninga Lodge.</p>"
+   },
+   {
+    "label": "Day 3",
+    "title": "Chimpanzee tracking in Kibale",
+    "content": "<p>Early start for chimpanzee tracking in Kibale National Park with Uganda Wildlife Authority rangers. Afternoon optional walk in the Bigodi Wetland Sanctuary for birds and monkeys. Dinner and overnight at Kyaninga Lodge.</p>"
+   },
+   {
+    "label": "Day 4",
+    "title": "Kibale to Queen Elizabeth National Park",
+    "content": "<p>Drive south to Queen Elizabeth National Park with a game drive on the way. Afternoon at the lodge overlooking the Kyambura Gorge. Dinner and overnight at Kyambura Gorge Lodge.</p>"
+   },
+   {
+    "label": "Day 5",
+    "title": "Kazinga Channel and game drives",
+    "content": "<p>Morning game drive on the Kasenyi plains for lions, elephants and Uganda kob. Afternoon boat cruise on the Kazinga Channel among hippos, buffaloes and waterbirds. Dinner and overnight at Kyambura Gorge Lodge.</p>"
+   },
+   {
+    "label": "Day 6",
+    "title": "Queen Elizabeth to Bwindi",
+    "content": "<p>Drive through the Ishasha sector, known for its tree-climbing lions, to Bwindi Impenetrable Forest. Dinner and overnight at Bwindi Lodge.</p>"
+   },
+   {
+    "label": "Day 7",
+    "title": "Gorilla trekking in Bwindi",
+    "content": "<p>After briefing at the park office, trek into the forest with rangers to spend one hour with a habituated mountain gorilla family. Return to the lodge to relax. Dinner and overnight at Bwindi Lodge.</p>"
+   },
+   {
+    "label": "Day 8",
+    "title": "Fly back to Entebbe",
+    "content": "<p>Transfer to Kihihi airstrip for the scheduled flight to Entebbe, connecting with your international flight home.</p>"
+   }
+  ],
+  "includes": [
+   "Private 4x4 Land Cruiser with pop-up roof and English-speaking driver guide",
+   "Accommodation and meals as listed (luxury lodges, full board on safari)",
+   "One gorilla trekking permit per person (Bwindi)",
+   "One chimpanzee tracking permit per person (Kibale)",
+   "Park entry fees and Kazinga Channel boat cruise",
+   "Scheduled flight Kihihi to Entebbe",
+   "Drinking water in the vehicle"
+  ],
+  "excludes": [
+   "International flights, visa and travel insurance",
+   "Tips for guides and camp staff",
+   "Drinks unless stated, laundry and personal expenses",
+   "Optional activities not listed in the itinerary"
+  ],
+  "terms": {
+   "activities": [
+    "gorilla-trekking-safaris-tours"
+   ],
+   "destination": [
+    "Uganda"
+   ],
+   "trip_types": [
+    "luxury-safaris"
+   ]
+  }
+ }
+]

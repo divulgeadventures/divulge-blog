@@ -1,0 +1,101 @@
+[
+ {
+  "key": "new-luxury-botswana-7d",
+  "title": "7 Day Luxury Botswana Fly-In Safari: Okavango, Moremi and Chobe",
+  "slug": "7-day-luxury-botswana-fly-in-safari",
+  "focus_keyword": "luxury Botswana safari",
+  "rank_math_title": "Luxury Botswana Safari: 7-Day Okavango and Chobe Fly-In",
+  "rank_math_desc": "Luxury Botswana safari for 7 days by light aircraft: Okavango Delta, Moremi Game Reserve and Chobe, with two nights at each camp.",
+  "post_content": "<p>This luxury Botswana safari flies you between three of the country's best wildlife areas, so you spend your time on game drives and mokoro trips rather than on the road.</p>",
+  "overview": "<p>This luxury Botswana safari flies you between three of the country's best wildlife areas, so you spend your time on game drives and mokoro trips rather than on the road. Glide through the channels of the Okavango Delta from Camp Okavango, explore the islands and lagoons of Moremi Game Reserve from Camp Moremi, and finish on the Chobe River among some of Africa's largest elephant herds at Chobe Game Lodge. Light aircraft transfers link the camps. It suits couples and small groups who want the Delta in comfort.</p><p>Price: from USD 5,510 per adult sharing (low season estimate). Contact us for your exact dates.</p>",
+  "highlights": [
+   "Light aircraft flights between camps over the Okavango Delta",
+   "Mokoro trips through the Delta channels",
+   "Game drives in Moremi Game Reserve",
+   "Boat safari on the Chobe River among elephant herds"
+  ],
+  "faq": [
+   {
+    "q": "How much does this luxury Botswana safari cost?",
+    "a": "It starts from USD 5,510 per adult sharing, based on low-season camp rates. Botswana camps raise prices sharply from July to October; we confirm the price for your dates when you enquire."
+   },
+   {
+    "q": "Is there a luggage limit on the flights?",
+    "a": "Yes. Light aircraft allow about 20 kg per person in soft bags, including camera equipment."
+   },
+   {
+    "q": "When is the best time for the Okavango Delta?",
+    "a": "June to October, when the flood waters are high and wildlife gathers around permanent water."
+   }
+  ],
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/okavango-mokoro-trip-for-groups.jpg",
+   "alt": "Mokoro trip for groups in the Okavango – a yellow water lily flower on still water"
+  },
+  "status": "publish",
+  "force_slug": false,
+  "duration": 7,
+  "itinerary": [
+   {
+    "label": "Day 1",
+    "title": "Maun to the Okavango Delta",
+    "content": "<p>Meet at Maun airport and fly by light aircraft into the Delta. Afternoon mokoro excursion. Dinner and overnight at Camp Okavango.</p>"
+   },
+   {
+    "label": "Day 2",
+    "title": "Okavango Delta",
+    "content": "<p>Guided walk on an island and boat or mokoro trips through the channels for birds, hippos and antelope. Dinner and overnight at Camp Okavango.</p>"
+   },
+   {
+    "label": "Day 3",
+    "title": "Fly to Moremi Game Reserve",
+    "content": "<p>Light aircraft flight to Moremi and afternoon game drive. Dinner and overnight at Camp Moremi.</p>"
+   },
+   {
+    "label": "Day 4",
+    "title": "Moremi Game Reserve",
+    "content": "<p>Morning and afternoon game drives through woodland and floodplains, known for wild dogs, lions and leopards. Dinner and overnight at Camp Moremi.</p>"
+   },
+   {
+    "label": "Day 5",
+    "title": "Fly to Chobe",
+    "content": "<p>Fly to Kasane and transfer to the lodge on the Chobe River. Sunset boat cruise. Dinner and overnight at Chobe Game Lodge.</p>"
+   },
+   {
+    "label": "Day 6",
+    "title": "Chobe National Park",
+    "content": "<p>Morning game drive along the Chobe riverfront and afternoon boat safari among elephants, buffaloes and hippos. Dinner and overnight at Chobe Game Lodge.</p>"
+   },
+   {
+    "label": "Day 7",
+    "title": "Departure from Kasane",
+    "content": "<p>Transfer to Kasane airport for your onward flight, or continue to Victoria Falls.</p>"
+   }
+  ],
+  "includes": [
+   "Light aircraft flights Maun to Delta, Delta to Moremi and Moremi to Kasane",
+   "Accommodation, all meals and local drinks at the camps",
+   "Shared game drives, mokoro trips, guided walks and boat safaris run by the camps",
+   "Park and conservation fees",
+   "Airport transfers in Kasane"
+  ],
+  "excludes": [
+   "International flights, visa and travel insurance",
+   "Tips for guides and camp staff",
+   "Drinks unless stated, laundry and personal expenses",
+   "Optional activities not listed in the itinerary",
+   "Flights to Maun and from Kasane"
+  ],
+  "terms": {
+   "activities": [
+    "flight-packages-fly-in-safaris"
+   ],
+   "destination": [
+    "Botswana"
+   ],
+   "trip_types": [
+    "luxury-safaris"
+   ]
+  }
+ }
+]

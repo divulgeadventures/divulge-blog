@@ -1,0 +1,95 @@
+[
+ {
+  "key": "new-honeymoon-uganda-6d",
+  "title": "6 Day Uganda Honeymoon Safari: Lake Mburo, Lake Bunyonyi and Bwindi Gorillas",
+  "slug": "6-day-uganda-honeymoon-safari",
+  "focus_keyword": "Uganda honeymoon safari",
+  "rank_math_title": "Uganda Honeymoon Safari: 6 Days, Lakes and Gorillas",
+  "rank_math_desc": "Uganda honeymoon safari for 6 days: zebras at Lake Mburo, two quiet nights on Lake Bunyonyi and a gorilla trek in Bwindi, with a flight back to Entebbe.",
+  "post_content": "<p>This Uganda honeymoon safari mixes gentle game viewing, island-dotted lake scenery and the thrill of meeting mountain gorillas together.</p>",
+  "overview": "<p>This Uganda honeymoon safari mixes gentle game viewing, island-dotted lake scenery and the thrill of meeting mountain gorillas together. Start at Mihingo Lodge in Lake Mburo National Park, spend two unhurried nights at Birdnest at Bunyonyi Resort on Lake Bunyonyi, then trek for gorillas from Buhoma Lodge in Bwindi Impenetrable Forest. A flight from Kihihi takes you back to Entebbe. It suits couples who want a romantic, less-travelled honeymoon with a real adventure at its heart.</p><p>Price: from USD 3,630 per adult sharing (low season estimate). Contact us for your exact dates.</p>",
+  "highlights": [
+   "Gorilla trekking permit in Bwindi included",
+   "Two relaxed nights on Lake Bunyonyi",
+   "Zebras and impalas in Lake Mburo National Park",
+   "Flight from Kihihi back to Entebbe"
+  ],
+  "faq": [
+   {
+    "q": "How much does this Uganda honeymoon safari cost?",
+    "a": "It starts from USD 3,630 per adult sharing, including the gorilla permit, based on low-season rates. We confirm the price for your dates when you enquire."
+   },
+   {
+    "q": "Is gorilla trekking safe for couples?",
+    "a": "Yes. Treks are led by armed Uganda Wildlife Authority rangers and trackers, and groups are limited to eight visitors per gorilla family."
+   },
+   {
+    "q": "When is the best time to go?",
+    "a": "June to September and December to February are drier and easier for trekking."
+   }
+  ],
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/uganda-family-safari.jpg",
+   "alt": "Uganda family safari – a young mountain gorilla lying on its back in Bwindi Impenetrable Forest"
+  },
+  "status": "publish",
+  "force_slug": false,
+  "duration": 6,
+  "itinerary": [
+   {
+    "label": "Day 1",
+    "title": "Entebbe to Lake Mburo",
+    "content": "<p>Pick-up in Entebbe and drive west, crossing the equator, to Lake Mburo National Park. Evening game drive. Dinner and overnight at Mihingo Lodge.</p>"
+   },
+   {
+    "label": "Day 2",
+    "title": "Lake Mburo to Lake Bunyonyi",
+    "content": "<p>Morning boat trip or walk, then drive to the terraced hills of Kigezi and Lake Bunyonyi. Dinner and overnight at Birdnest at Bunyonyi Resort.</p>"
+   },
+   {
+    "label": "Day 3",
+    "title": "Lake Bunyonyi",
+    "content": "<p>Free day for a canoe trip between the islands, swimming or simply relaxing. Dinner and overnight at Birdnest at Bunyonyi Resort.</p>"
+   },
+   {
+    "label": "Day 4",
+    "title": "Lake Bunyonyi to Bwindi",
+    "content": "<p>Drive to the Buhoma sector of Bwindi Impenetrable Forest. Afternoon community walk. Dinner and overnight at Buhoma Lodge.</p>"
+   },
+   {
+    "label": "Day 5",
+    "title": "Gorilla trekking",
+    "content": "<p>Trek with rangers to spend one hour with a habituated mountain gorilla family. Dinner and overnight at Buhoma Lodge.</p>"
+   },
+   {
+    "label": "Day 6",
+    "title": "Fly to Entebbe",
+    "content": "<p>Transfer to Kihihi airstrip for the scheduled flight back to Entebbe.</p>"
+   }
+  ],
+  "includes": [
+   "Private 4x4 vehicle with English-speaking driver guide",
+   "Accommodation and meals as listed",
+   "One gorilla trekking permit per person",
+   "Park entry fees",
+   "Scheduled flight Kihihi to Entebbe"
+  ],
+  "excludes": [
+   "International flights, visa and travel insurance",
+   "Tips for guides and camp staff",
+   "Drinks unless stated, laundry and personal expenses",
+   "Optional activities not listed in the itinerary"
+  ],
+  "terms": {
+   "activities": [
+    "gorilla-trekking-safaris-tours"
+   ],
+   "destination": [
+    "Uganda"
+   ],
+   "trip_types": [
+    "honeymoon-safaris"
+   ]
+  }
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "key": "new-honeymoon-kenya-7d",
+  "title": "7 Day Kenya Honeymoon Safari: Masai Mara and Diani Beach",
+  "slug": "7-day-kenya-honeymoon-safari-masai-mara-diani",
+  "focus_keyword": "Kenya honeymoon safari",
+  "rank_math_title": "Kenya Honeymoon Safari: 7 Days, Masai Mara and Diani Beach",
+  "rank_math_desc": "Kenya honeymoon safari for 7 days: fly to the Masai Mara for three nights of game drives, then fly to Diani Beach for three nights by the Indian Ocean.",
+  "post_content": "<p>This Kenya honeymoon safari pairs three nights in the Masai Mara with three nights on Diani Beach, linked by short flights so you spend no time on long road transfers.</p>",
+  "overview": "<p>This Kenya honeymoon safari pairs three nights in the Masai Mara with three nights on Diani Beach, linked by short flights so you spend no time on long road transfers. In the Mara you stay at Ashnil Mara Camp on the banks of the Mara River, with game drives for the Big Five and the chance of a sunrise hot air balloon flight. Then fly to the south coast for white sand, warm water and quiet days at The Sands at Nomad. It suits couples who want both safari and beach in one week.</p><p>Price: from USD 2,850 per adult sharing (low season estimate). Contact us for your exact dates.</p>",
+  "highlights": [
+   "Three nights in the Masai Mara at Ashnil Mara Camp",
+   "Flights instead of long drives",
+   "Three nights on Diani Beach at The Sands at Nomad",
+   "Optional hot air balloon flight over the Mara"
+  ],
+  "faq": [
+   {
+    "q": "How much does this Kenya honeymoon safari cost?",
+    "a": "It starts from USD 2,850 per adult sharing, based on low-season rates. Prices are higher from July to October and over Christmas; we confirm the price for your dates when you enquire."
+   },
+   {
+    "q": "Can we add special honeymoon touches?",
+    "a": "Yes. Let us know it is your honeymoon and we will ask the camp and hotel about room upgrades, private dinners and celebration extras."
+   },
+   {
+    "q": "When is the best time for a Kenya honeymoon safari?",
+    "a": "July to October for the migration, or January to March for dry weather and calm seas on the coast."
+   }
+  ],
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-honeymoon-safari.jpg",
+   "alt": "Kenya honeymoon safari – acacia tree silhouetted at sunset in the Masai Mara"
+  },
+  "status": "publish",
+  "force_slug": false,
+  "duration": 7,
+  "itinerary": [
+   {
+    "label": "Day 1",
+    "title": "Fly to the Masai Mara",
+    "content": "<p>Transfer to Wilson Airport for the morning flight to the Masai Mara. Afternoon game drive. Dinner and overnight at Ashnil Mara Camp.</p>"
+   },
+   {
+    "label": "Day 2",
+    "title": "Masai Mara",
+    "content": "<p>Full day of game drives across the plains for lions, elephants, cheetahs and, from July to October, the wildebeest migration. Dinner and overnight at Ashnil Mara Camp.</p>"
+   },
+   {
+    "label": "Day 3",
+    "title": "Masai Mara",
+    "content": "<p>Optional sunrise hot air balloon flight with champagne breakfast, then an afternoon game drive. Dinner and overnight at Ashnil Mara Camp.</p>"
+   },
+   {
+    "label": "Day 4",
+    "title": "Fly to Diani Beach",
+    "content": "<p>Morning flight back to Nairobi and connecting flight to Ukunda for Diani Beach. Dinner and overnight at The Sands at Nomad.</p>"
+   },
+   {
+    "label": "Day 5",
+    "title": "Diani Beach",
+    "content": "<p>Free day for the beach, snorkelling or a dhow trip. Dinner and overnight at The Sands at Nomad.</p>"
+   },
+   {
+    "label": "Day 6",
+    "title": "Diani Beach",
+    "content": "<p>Free day to relax; optional visit to Wasini Island and Kisite Marine Park. Dinner and overnight at The Sands at Nomad.</p>"
+   },
+   {
+    "label": "Day 7",
+    "title": "Fly home",
+    "content": "<p>Transfer to Ukunda airstrip for your flight to Nairobi and onward connection.</p>"
+   }
+  ],
+  "includes": [
+   "Flights Nairobi to Masai Mara, Masai Mara to Nairobi, Nairobi to Ukunda and Ukunda to Nairobi",
+   "Three nights full board at Ashnil Mara Camp with shared game drives",
+   "Three nights at The Sands at Nomad on half board",
+   "Masai Mara reserve fees",
+   "Airport and airstrip transfers"
+  ],
+  "excludes": [
+   "International flights, visa and travel insurance",
+   "Tips for guides and camp staff",
+   "Drinks unless stated, laundry and personal expenses",
+   "Optional activities not listed in the itinerary",
+   "Hot air balloon flight"
+  ],
+  "terms": {
+   "activities": [
+    "bush-beach-safaris",
+    "flight-packages-fly-in-safaris"
+   ],
+   "destination": [
+    "Kenya"
+   ],
+   "trip_types": [
+    "honeymoon-safaris"
+   ]
+  }
+ }
+]

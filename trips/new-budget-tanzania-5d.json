@@ -1,0 +1,90 @@
+[
+ {
+  "key": "new-budget-tanzania-5d",
+  "title": "5 Day Budget Tanzania Camping Safari: Tarangire, Serengeti and Ngorongoro",
+  "slug": "5-day-budget-tanzania-camping-safari",
+  "focus_keyword": "budget Tanzania safari",
+  "rank_math_title": "Budget Tanzania Safari: 5-Day Serengeti Camping Trip",
+  "rank_math_desc": "Budget Tanzania safari for 5 days: camping in Tarangire, two nights in the Serengeti and a game drive in Ngorongoro Crater, from Arusha.",
+  "post_content": "<p>This budget Tanzania safari is a classic camping trip through the northern circuit.</p>",
+  "overview": "<p>This budget Tanzania safari is a classic camping trip through the northern circuit. From Arusha you visit Tarangire's elephant herds, camp two nights in the heart of the Serengeti at Seronera public campsite, and spend a morning on the floor of Ngorongoro Crater before camping on the crater rim. A cook travels with you and prepares all meals. It suits travellers who want the Serengeti and the crater for less and are happy with simple tents.</p><p>Price: from USD 1,280 per adult sharing (low season estimate). Contact us for your exact dates.</p>",
+  "highlights": [
+   "Two nights camping in the central Serengeti",
+   "Ngorongoro Crater game drive",
+   "Tarangire National Park and its elephant herds",
+   "Camping crew and cook with all meals"
+  ],
+  "faq": [
+   {
+    "q": "How much does this budget Tanzania safari cost?",
+    "a": "It starts from USD 1,280 per adult with a shared vehicle, based on current park and camping fees. We confirm the price for your dates when you enquire."
+   },
+   {
+    "q": "What are the campsites like?",
+    "a": "Public campsites have shared toilets and showers; we provide dome tents, mattresses and a cook who prepares all meals."
+   },
+   {
+    "q": "Is camping in the Serengeti safe?",
+    "a": "Yes. Campsites are used by many safari groups every night, and guides advise on staying safe around wildlife."
+   }
+  ],
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/serengeti-photography-tour.jpg",
+   "alt": "Serengeti photography tour – a sunset over the tree line in Serengeti National Park, Tanzania"
+  },
+  "status": "publish",
+  "force_slug": false,
+  "duration": 5,
+  "itinerary": [
+   {
+    "label": "Day 1",
+    "title": "Arusha to Tarangire",
+    "content": "<p>Morning pick-up in Arusha and drive to Tarangire National Park for a game drive among baobabs and elephants. Dinner and overnight at Twiga Campsite in Mto wa Mbu.</p>"
+   },
+   {
+    "label": "Day 2",
+    "title": "To the Serengeti",
+    "content": "<p>Drive over the Ngorongoro highlands into the Serengeti with a game drive on the way to Seronera. Dinner and overnight at Seronera public campsite.</p>"
+   },
+   {
+    "label": "Day 3",
+    "title": "Serengeti National Park",
+    "content": "<p>Full day of game drives in the central Serengeti, known for lions, leopards and cheetahs. Dinner and overnight at Seronera public campsite.</p>"
+   },
+   {
+    "label": "Day 4",
+    "title": "Serengeti to Ngorongoro",
+    "content": "<p>Morning game drive, then drive to the Ngorongoro Crater rim. Dinner and overnight at Simba Campsite.</p>"
+   },
+   {
+    "label": "Day 5",
+    "title": "Ngorongoro Crater to Arusha",
+    "content": "<p>Descend into the crater for a morning game drive, then drive back to Arusha in the afternoon.</p>"
+   }
+  ],
+  "includes": [
+   "Shared 4x4 safari vehicle with pop-up roof and English-speaking driver guide",
+   "Camping equipment (tents, mattresses), cook and all meals",
+   "Park entry, camping and crater fees",
+   "Drinking water during game drives"
+  ],
+  "excludes": [
+   "International flights, visa and travel insurance",
+   "Tips for guides and camp staff",
+   "Drinks unless stated, laundry and personal expenses",
+   "Optional activities not listed in the itinerary",
+   "Sleeping bag (available to hire)"
+  ],
+  "terms": {
+   "activities": [
+    "bush-safaris-wildlife-tours"
+   ],
+   "destination": [
+    "Tanzania"
+   ],
+   "trip_types": [
+    "budget-safaris"
+   ]
+  }
+ }
+]

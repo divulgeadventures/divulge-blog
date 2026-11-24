@@ -1,0 +1,85 @@
+[
+ {
+  "key": "new-budget-kenya-4d",
+  "title": "4 Day Budget Kenya Safari: Masai Mara and Lake Nakuru",
+  "slug": "4-day-budget-kenya-safari-masai-mara-lake-nakuru",
+  "focus_keyword": "budget Kenya safari",
+  "rank_math_title": "Budget Kenya Safari: 4 Days, Masai Mara and Lake Nakuru",
+  "rank_math_desc": "Budget Kenya safari for 4 days: two nights near the Masai Mara, a night by Lake Naivasha and a game drive in Lake Nakuru National Park.",
+  "post_content": "<p>This budget Kenya safari covers the Masai Mara and Lake Nakuru in four days without cutting the wildlife.</p>",
+  "overview": "<p>This budget Kenya safari covers the Masai Mara and Lake Nakuru in four days without cutting the wildlife. You stay in simple, comfortable tented camps: Enchoro Wildlife Camp near the Mara's Talek gate and Punda Milia Camp at Lake Naivasha. Game drives run in a 4x4 safari vehicle with a pop-up roof, shared with other travellers to keep the cost down. It suits backpackers, students and first-time visitors who want the Mara on a smaller budget.</p><p>Price: from USD 880 per adult sharing (low season estimate). Contact us for your exact dates.</p>",
+  "highlights": [
+   "Two nights near the Masai Mara with full-day game drives",
+   "Game drive in Lake Nakuru National Park for rhinos and flamingos",
+   "Simple tented camps instead of costly lodges",
+   "Shared 4x4 safari vehicle with pop-up roof"
+  ],
+  "faq": [
+   {
+    "q": "How much does this budget Kenya safari cost?",
+    "a": "It starts from USD 880 per adult, based on low-season rates with a shared vehicle. A private vehicle costs more; ask us for a quote."
+   },
+   {
+    "q": "Is a budget safari still good for wildlife?",
+    "a": "Yes. You visit the same parks and do the same game drives as on dearer trips; the savings come from simpler camps and sharing the vehicle."
+   },
+   {
+    "q": "When is the best time to go?",
+    "a": "July to October for the migration in the Mara, or January to March for dry weather and lower prices."
+   }
+  ],
+  "featured_image": {
+   "url": "https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-safari-for-seniors.jpg",
+   "alt": "Kenya safari for seniors – a safari vehicle parked beside a tree for breakfast in the Masai Mara"
+  },
+  "status": "publish",
+  "force_slug": false,
+  "duration": 4,
+  "itinerary": [
+   {
+    "label": "Day 1",
+    "title": "Nairobi to the Masai Mara",
+    "content": "<p>Morning pick-up in Nairobi and drive via the Great Rift Valley viewpoint to the Masai Mara. Afternoon game drive. Dinner and overnight at Enchoro Wildlife Camp.</p>"
+   },
+   {
+    "label": "Day 2",
+    "title": "Masai Mara",
+    "content": "<p>Full day of game drives with a picnic lunch, looking for lions, elephants, cheetahs and big herds. Dinner and overnight at Enchoro Wildlife Camp.</p>"
+   },
+   {
+    "label": "Day 3",
+    "title": "Masai Mara to Lake Naivasha",
+    "content": "<p>Morning game drive, then drive to Lake Naivasha. Optional boat ride. Dinner and overnight at Punda Milia Camp.</p>"
+   },
+   {
+    "label": "Day 4",
+    "title": "Lake Nakuru to Nairobi",
+    "content": "<p>Game drive in Lake Nakuru National Park for rhinos, buffaloes and birds, then drive back to Nairobi in the afternoon.</p>"
+   }
+  ],
+  "includes": [
+   "Shared 4x4 safari vehicle with pop-up roof and English-speaking driver guide",
+   "Accommodation in tented camps on full board",
+   "Masai Mara and Lake Nakuru park fees",
+   "Drinking water during game drives"
+  ],
+  "excludes": [
+   "International flights, visa and travel insurance",
+   "Tips for guides and camp staff",
+   "Drinks unless stated, laundry and personal expenses",
+   "Optional activities not listed in the itinerary",
+   "Boat ride on Lake Naivasha"
+  ],
+  "terms": {
+   "activities": [
+    "bush-safaris-wildlife-tours"
+   ],
+   "destination": [
+    "Kenya"
+   ],
+   "trip_types": [
+    "budget-safaris"
+   ]
+  }
+ }
+]
