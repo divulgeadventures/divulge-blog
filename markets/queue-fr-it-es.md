@@ -8,7 +8,7 @@ Will be re-ranked with Semrush volumes in early Dec 2026.
 
 | # | Focus keyword | Type | Evidence / why | Differentiate from | Status |
 |---|---|---|---|---|---|
-| 1 | kenya safari from spain | From-country guide | GSC: Spain 117 impr at pos 8.8 (page 1) | /kenya-eta/: Madrid/Barcelona routes, EUR, Spanish travel advice | todo |
+| 1 | kenya safari from spain | From-country guide | GSC: Spain 117 impr at pos 8.8 (page 1) | /kenya-eta/: Madrid/Barcelona routes, EUR, Spanish travel advice | done 2026-11-25 https://divulgeadventures.com/kenya-safari-from-spain/ |
 | 2 | safari and watamu beach | Combo itinerary | Watamu/Malindi popular with Italians | /diani-beach/: Watamu/Malindi focus with a Tsavo or Mara safari | todo |
 | 3 | kenya safari from italy | From-country guide | GSC: Italy 138 impr, pos 16.9 | Spain guide: Rome/Milan routes, Italian beach links | todo |
 | 4 | kenya safari from france | From-country guide | GSC: France 131 impr, pos 13.8 | Spain guide: Paris routes, French travel advice | todo |

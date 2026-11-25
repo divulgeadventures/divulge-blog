@@ -4,8 +4,15 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-25 13:40 | Market agent fr-it-es
+- Post: "Flying to Nairobi From Madrid or Barcelona? How Spanish Travellers Plan a Kenya Safari" https://divulgeadventures.com/kenya-safari-from-spain/
+- Status: publish, scheduled 2026-11-25 14:00 +03:00; review score 9 (queue row 1; no TOPIC_BANK match)
+- Images: 5 owner photos (featured + 4 in body), 0 Unsplash; no field notes available. Review line under orange CTA removed (validate.py bold-in-paragraph).
+- Facts: Spanish Foreign Ministry Kenya page (vigente 25 Nov 2026, updated 14 Oct 2026: zones, North Rift curfew counties incl. Laikipia/Samburu, eTA, insurance since 5 Oct 2026, Ebola notice), KLM/Ethiopian/Etihad Spain fare pages, NHS Fit for Travel. eTA US$30, insurance ~US$44 and ECB rate 1.0963 (24 Nov) reused from today's dach-nl-be run.
+- Could not open: etakenya.go.ke/faqs and ECB rate page (fetch permission timeout); Kenya Airways Madrid page served Bristol content, so no KQ Madrid claim made.
 ## 2026-11-25 13:33 Trip Optimiser
 - Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
+
 
 ## 2026-11-25 12:48 | New post 2
 - "Serengeti Sopa Lodge Is Now Serengeti Explorer, and the Hilltop View Is Still the Point" – https://divulgeadventures.com/serengeti-sopa-lodge/

@@ -951,3 +951,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-25 | https://images.unsplash.com/photo-1777872721419-f738c532df1f | serengeti-sopa-lodge
 2026-11-25 | https://images.unsplash.com/photo-1757205345419-1598fc345d9d | serengeti-sopa-lodge
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/10/wildebeest-and-zebras-grazing-on-the-serengeti-plains.jpg | serengeti-sopa-lodge
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/02/6000-x-4000divulge_adventures-147-scaled.jpg | kenya-safari-from-spain
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/12/5057-x-3023divulge_adventures-scaled.jpg | kenya-safari-from-spain
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/05/Nashulai-Masai-Conservancy.jpg | kenya-safari-from-spain
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/01/tsavo-west-national-park-kenya.jpg | kenya-safari-from-spain
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-yoga-retreat.jpg | kenya-safari-from-spain
