@@ -349,3 +349,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/ngare-ndare-forest/ (ngare ndare forest)
 - https://divulgeadventures.com/kenya-safari-holidays/ (kenya safari holidays)
 - https://divulgeadventures.com/kenya-safari-from-germany/ (kenya safari from germany)
+- https://divulgeadventures.com/serengeti-sopa-lodge/ (serengeti sopa lodge)

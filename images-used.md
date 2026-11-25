@@ -945,3 +945,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/11/masai-mara-balloon-safari.jpg | kenya-safari-from-germany
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/11/lake-bogoria-geysers-flamingos-rift-valley.jpg | kenya-safari-from-germany
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-safari-for-seniors.jpg | kenya-safari-from-germany
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/10/wildebeest-herd-heading-across-the-serengeti-during-the-migration.jpg | serengeti-sopa-lodge
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/05/elephant-family-on-green-grass-in-serengeti-national-park.jpg | serengeti-sopa-lodge
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/10/serengeti-vs-ngorongoro.jpg | serengeti-sopa-lodge
+2026-11-25 | https://images.unsplash.com/photo-1777872721419-f738c532df1f | serengeti-sopa-lodge
+2026-11-25 | https://images.unsplash.com/photo-1757205345419-1598fc345d9d | serengeti-sopa-lodge
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/10/wildebeest-and-zebras-grazing-on-the-serengeti-plains.jpg | serengeti-sopa-lodge

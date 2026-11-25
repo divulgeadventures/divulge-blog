@@ -175,3 +175,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-25 | Kenya KE-395 | Destination Tips | ngare ndare forest | ngare-ndare-forest
 2026-11-25 | MARKET uk-ie-au-nz | Safari Planning Tips | kenya safari holidays | kenya-safari-holidays
 2026-11-25 | MARKET dach-nl-be | Safari Planning Tips | kenya safari from germany | kenya-safari-from-germany
+2026-11-25 | Tanzania TZ-136 | Accommodation Guide | serengeti sopa lodge | serengeti-sopa-lodge

@@ -4,6 +4,14 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-25 12:48 | New post 2
+- "Serengeti Sopa Lodge Is Now Serengeti Explorer, and the Hilltop View Is Still the Point" – https://divulgeadventures.com/serengeti-sopa-lodge/
+- Tanzania (owner idea from TOPIC_IDEAS.md, matched to existing bank row TZ-136), Accommodation Guide; status publish, review score 8; scheduled for 13:00 Nairobi time. Took the Serengeti Sopa idea ahead of the older Ashnil and Mara Sopa ideas because Kenya already has a daily post and three market posts today; no Tanzania group row exists.
+- Key finding: Serengeti Sopa Lodge was demolished, rebuilt and reopened in January 2025 as Serengeti Explorer by Elewana (Sopa's Aug 2026 newsletter, Minor Hotels release); Ngorongoro Sopa is also rebranded (no confirmed reopening date found). OWNER ACTION: trips 10-day-kenya-tanzania-safari-masai-mara-serengeti and kenya-and-tanzania-birding-safari still list "Serengeti Sopa Lodge" and "Ngorongoro Sopa Lodge"; the Ngorongoro Sopa owner idea / TZ-129 should be rethought.
+- Images: 5 in the body (3 owner photos, 2 Unsplash: pool with acacias, lion cub on a Serengeti kopje) plus an owner featured image; no credits. No field notes available. Removed the TripAdvisor/SafariBookings review line under the orange CTA because validate.py flags its bold text as bold-in-paragraph.
+- Fees from TANAPA (conservation and concession, incl. VAT) and NCAA transit, checked November 2026; TANAPA's newest online tariff PDF is 2023/24, so readers are told to confirm. Launch rack rates (March 2025) quoted and dated.
+- Could not open: sopalodges.com Serengeti category page (served the Samburu Sopa page instead).
+
 ## 2026-11-25 11:35 | Market agent dach-nl-be
 - Post: "A Practical Guide to Planning a Kenya Safari From Germany" https://divulgeadventures.com/kenya-safari-from-germany/
 - Status: publish, scheduled 2026-11-25 12:00 +03:00; review score 9 (queue row 1; TOPIC_BANK KE-177 marked done)
@@ -715,22 +723,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
   - Old credits (repeat from 12 Nov): 9 older trip files still carry "Some gallery photos by ..." lines with Unsplash profile links (kenya-2957, kenya-6804, kenya-6806, tanzania-6840, 9499, 9504, 9511, 9527, 9539). Not in this run's queue; say if you want them stripped.
 - Could not open: none (site copy from 2026-11-12 18:45 UTC was fresh, so the live site was not opened)
 - Next: namib-desert-and-sossusvlei-experience (#49), 4-day-namibian-desert-dash-tour (#50)
-
-## 2026-11-13 07:48 | New post 2
-- "A Kigali Conference Leaves Room for Gorillas if You Plan the Extension Early": https://divulgeadventures.com/kigali-conference-gorilla-trekking/
-- Rwanda, Team Building (group row RW-308; focus keyword shortened to "kigali conference"). Scheduled for 13 Nov 11:00 Nairobi time.
-- Images: 3 from the owner's Media Library (featured + 2 in the body) and 3 from Unsplash in the body (5 body images in total).
-- Not stated: RDB's "conference discount" for gorilla permits, because its terms could not be checked (the post tells organisers to ask about it).
-- Could not open: visitrwandabookings.rdb.rw conference discount page (permission request timed out).
-
-## 2026-11-13 06:55 | New post 1
-- "Which Kenya Safari DMC Can You Trust With Your Clients? A Vetting Checklist for Tour Operators": https://divulgeadventures.com/kenya-safari-dmc/
-- Kenya, Safari Planning Tips (owner idea "kenya safari dmc", AGENT POST; added to the bank as KE-392). Scheduled for 13 Nov 10:00 Nairobi time.
-- Images: 5 from the owner's Media Library (featured + 4 in the body), 0 from Unsplash.
-- Please check: yesterday's post https://divulgeadventures.com/east-africa-dmc/ contains two broken links written as "{U}/trip/12-days-magical-kenya-tanzania-safari/" and "{U}/kenya-and-tanzania-safari/" (an unfilled placeholder). Fix them by hand in WordPress (replace {U} with https://divulgeadventures.com).
-- Could not open: dawan.africa article on open-sided cruisers (page not found); kenyalaw.org tourist service vehicle regulations (page came back empty).
-
-## 2026-11-12 19:50 | Nothing to do
-- Today's work is complete: all 9 sprint posts for 12 Nov are already written and scheduled.
-- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows left as todo in REFRESH_QUEUE.md.
-- Could not open: none
