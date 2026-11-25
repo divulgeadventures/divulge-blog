@@ -4,6 +4,9 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-25 13:33 Trip Optimiser
+- Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
+
 ## 2026-11-25 12:48 | New post 2
 - "Serengeti Sopa Lodge Is Now Serengeti Explorer, and the Hilltop View Is Still the Point" – https://divulgeadventures.com/serengeti-sopa-lodge/
 - Tanzania (owner idea from TOPIC_IDEAS.md, matched to existing bank row TZ-136), Accommodation Guide; status publish, review score 8; scheduled for 13:00 Nairobi time. Took the Serengeti Sopa idea ahead of the older Ashnil and Mara Sopa ideas because Kenya already has a daily post and three market posts today; no Tanzania group row exists.
