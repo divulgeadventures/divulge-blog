@@ -940,3 +940,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge_adventures_safari-31-4-scaled.jpg | kenya-safari-holidays
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/01/Tsavo-West-National-Park-Shetani-Lava-Flow.jpg | kenya-safari-holidays
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/11/wooden-boat-on-the-beach-at-malindi-kenya-coast.jpg | kenya-safari-holidays
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/11/safari-net-rates-for-travel-agents.jpg | kenya-safari-from-germany
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/11/iten-running-camp.jpg | kenya-safari-from-germany
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/11/masai-mara-balloon-safari.jpg | kenya-safari-from-germany
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/11/lake-bogoria-geysers-flamingos-rift-valley.jpg | kenya-safari-from-germany
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-safari-for-seniors.jpg | kenya-safari-from-germany

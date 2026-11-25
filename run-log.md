@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-25 11:35 | Market agent dach-nl-be
+- Post: "A Practical Guide to Planning a Kenya Safari From Germany" https://divulgeadventures.com/kenya-safari-from-germany/
+- Status: publish, scheduled 2026-11-25 12:00 +03:00; review score 9 (queue row 1; TOPIC_BANK KE-177 marked done)
+- Images: 5 owner photos (featured + 4 in body), 0 Unsplash; no field notes available
+- Facts: Auswärtiges Amt Kenya page (Stand 25.11.2026: Teilreisewarnung, eTA window, Kenyan health insurance), etakenya.go.ke (US$30), NHS Fit for Travel, ECB rate 1 EUR = US$1.0963 (24 Nov 2026), LH FRA-NBO nonstop and Discover FRA-MBA from schedule sites. Ebola notice on the AA page left out (not fully verified).
+- Could not open: discover-airlines.com route page and flightsfrom.com FRA-NBO (site errors); MUC-NBO / AMS-NBO schedules (fetch permission timeout), so no Munich or Amsterdam nonstop claims were made.
+
 ## 2026-11-25 09:50 | Market agent uk-ie-au-nz
 - "Booking a Kenya Safari Holiday From Britain? Pick the Length First, Then the School Holiday" – https://divulgeadventures.com/kenya-safari-holidays/
 - Queue row 1 (kenya safari holidays), Safari Planning Tips; status publish, review score 8; scheduled for 11:00 Nairobi time.

@@ -8,7 +8,7 @@ Will be re-ranked with Semrush volumes in early Dec 2026.
 
 | # | Focus keyword | Type | Evidence / why | Differentiate from | Status |
 |---|---|---|---|---|---|
-| 1 | kenya safari from germany | From-country guide | GSC: Germany 241 impr at pos 10.9 (near page 1); Bing: kenia safari 716 | /kenya-eta/: Frankfurt/Munich routes, EUR budgets, German travel advice | todo |
+| 1 | kenya safari from germany | From-country guide | GSC: Germany 241 impr at pos 10.9 (near page 1); Bing: kenia safari 716 | /kenya-eta/: Frankfurt/Munich routes, EUR budgets, German travel advice | done 2026-11-25 https://divulgeadventures.com/kenya-safari-from-germany/ |
 | 2 | kenya safari from netherlands | From-country guide | GSC: NL 477 impr, pos 18.6 | Germany guide: KLM Amsterdam route, EUR, Dutch travel advice | todo |
 | 3 | kenya and tanzania safari combination | Combo itinerary | Europeans favour multi-country | /kenya-and-tanzania-safari/: European holiday lengths and routing | todo |
 | 4 | private safari kenya prices in euros | Cost guide (EUR) | Cost intent; EUR | /kenya-safari-cost/: EUR figures, private vs small group | todo |
