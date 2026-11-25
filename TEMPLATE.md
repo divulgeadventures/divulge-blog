@@ -72,6 +72,9 @@ Image alt text:
 - Paragraphs under 120 words, ideally 2-4 sentences.
 - No bold inside paragraphs. Bold labels in lists and boxes are fine.
 - At least 4 images inside the body (the featured image does not count), spread across different sections, no image used twice in a post. The first has the keyword in its alt text; the others describe what they show.
+- Focus keyword must appear word-for-word in: the SEO title (ideally first), the slug, the meta description, the first paragraph, at least one H2 and the first body image alt. Pick a keyword the post genuinely uses; never a phrase that only fits the title.
+- SEO title should also carry a positive or power word (best, complete, essential, easy, proven, ultimate) where it reads naturally.
+- Self-check before saving: Rank Math target is 90+. Most common misses on this site: fewer than 4 body images, keyword missing from an H2 or image alt, keyword density under 1%.
 - Every word earns its place: reach length through useful coverage (comparisons, month-by-month detail, costs broken down, follow-up questions), never padding.
 
 
