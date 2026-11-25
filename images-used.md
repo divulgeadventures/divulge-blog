@@ -929,3 +929,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-safari-in-january.jpg | kenya-safari-cost-from-usa
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-incentive-travel-dmc.jpg | kenya-safari-cost-from-usa
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/11/lake-nakuru-safari-guide.jpg | kenya-safari-cost-from-usa
+2026-11-25 | https://images.unsplash.com/photo-1671984453587-0c3ac46780ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8d2F0ZXJmYWxsJTIwdHVycXVvaXNlJTIwcG9vbCUyMEtlbnlhfGVufDB8MHx8fDE3OTU1ODYxODB8Mg&ixlib=rb-4.1.0&q=80&w=1080 | ngare-ndare-forest
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/11/beisa-oryx-at-lewa-conservancy-with-mount-kenya-in-the-background.jpg | ngare-ndare-forest
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/11/mount-kenya-rising-beyond-open-plains-near-lamuria.jpg | ngare-ndare-forest
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/11/snow-capped-peaks-of-mount-kenya-seen-from-a-distance.jpg | ngare-ndare-forest
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/11/6000-x-4000divulge_adventures-64-scaled.jpg | ngare-ndare-forest
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/11/mount-kenya-seen-from-the-mweiga-to-naro-moru-road.jpg | ngare-ndare-forest

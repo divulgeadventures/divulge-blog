@@ -172,3 +172,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-24 | Uganda UG-323 | Safari Themes | women's trip to uganda | womens-trip-to-uganda
 2026-11-24 | REFRESH | Safari Planning Tips | masai mara safari cost | masai-mara-safari-cost
 2026-11-25 | MARKET us-canada | Safari Planning Tips | kenya safari cost from usa | kenya-safari-cost-from-usa
+2026-11-25 | Kenya KE-395 | Destination Tips | ngare ndare forest | ngare-ndare-forest

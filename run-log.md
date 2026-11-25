@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-25 08:48 | New post 1
+- "Ngare Ndare Forest: Canopy Walk, Blue Pools and the Elephant Corridor to Lewa" – https://divulgeadventures.com/ngare-ndare-forest/
+- Kenya (owner idea from TOPIC_IDEAS.md, added as KE-395), Destination Tips; status publish, review score 8; scheduled for 10:00 Nairobi time. The cycle gave Rwanda, which has no group rows, so the oldest owner idea came next; no group row was used (Kenya KE-390 and Botswana BW-321 remain).
+- Images: 5 in the body (4 from the owner's Media Library: Lewa oryx with Mount Kenya, Mount Kenya near Lamuria, Mount Kenya peaks, Ol Pejeta; 1 from Unsplash: forest stream) plus an owner featured image (Mount Kenya from the Mweiga road); no credits. The Lewa oryx photo was last used 13 Nov (no other Lewa owner photo exists). No field notes available.
+- Facts from ngarendare.org (directions, booking hours, rules, seasons) and UNESCO decision 37 COM 8B.9 and its 2013 press release (World Heritage extension, 9.8 km elephant corridor). No fee figures stated: the trust's site publishes none and press/blog figures conflict, so the post explains how fees work and tells readers to confirm.
+- Could not open: whc.unesco.org/en/list/800 (permission request timed out). Added ngare, ndare, podo to spelling-allowlist.txt.
+
 ## 2026-11-25 08:33 Trip Optimiser
 - Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
 
@@ -713,29 +720,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Today's work is complete: all 9 sprint posts for 12 Nov are already written and scheduled.
 - Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows left as todo in REFRESH_QUEUE.md.
 - Could not open: none
-
-## 2026-11-12 18:50 | Nothing to do
-- Today's work is complete: all 9 sprint posts for 12 Nov are already written and scheduled.
-- Refresh paused: no FIX FIRST / LINK FIX / TEXT FIX rows left as todo in REFRESH_QUEUE.md.
-- Could not open: none
-
-## 2026-11-12 18:36 Trip Optimiser
-- Done: 7 Days Kalahari Expeditions (9772, "7 day central kalahari and nxai pan safari", botswana-9772-7-day-central-kalahari-and-nxai-pan-safari.json), 5 Day Boteti Tented Safari Logde (9846, "5 day boteti and okavango delta safari", botswana-9846-5-day-boteti-and-okavango-delta-safari.json)
-- Photos: 9772 = 1 owner + 5 Unsplash; 9846 = 6 owner + 0 Unsplash. No credits anywhere (no-credits rule is already in TRIP_GUIDE.md and validate_trip.py, and the model file has none; nothing to remove).
-- Owner to fix by hand (the importer cannot change these):
-  - 9772 itinerary: Day 02 ("Explore Nxai Pan National Park") and Day 03 ("Explore Baines Baobabs") have word-for-word the same text, so Nxai Pan itself has no description. Day 04 heading "Nxai National Park" (missing "Pan"). Day 05 heading "Makgadikgadi to Central Kalahari Game Reserv" (typo, and the guest is already in the CKGR from Day 4). Excludes "Travel insururance". Highlights "Kalahari Expedition" and "Maun" are not highlights.
-  - 9772 conflicting facts: Includes says "Luxury Tented Accommodation", but the overview and days describe campsites and "camping beneath star-filled skies". No campsite or lodge is named for any night, so the file says "campsites" and "confirmed in your quote".
-  - 9772 wrong photo: the gallery photo SouthAfrica_NorthWest_TswaluTheMotse_WildlifeMeerkat4.jpg (ID 9788, alt "Kalahari Expeditions") is named after Tswalu in South Africa, not Botswana, and looks like a lodge press photo. I dropped it from the gallery. wgf_9235.jpg (ID 6190) is kept as the featured image, but its subject is unknown from the name; please check it shows the Kalahari.
-  - 9846 typos: title and slug "Logde" (slug 5-day-boteti-tented-safari-logde; the featured photo alt "Boteti Tented Safari Logde" is fixed by this file). Day 01 "Begining", "Your will be met", "you will leave for ranger at Maun Airport" (garbled). Day 04 heading "Okavanga Delta". Missing full stop after "dinner under the stars" (Day 02). Includes and Excludes bullets start with a stray "* ".
-  - 9846 conflicting facts: the overview places the lodge "near Makgadikgadi Pans National Park", but Day 01 says it is a 20-minute ride from Maun Airport. Day 04 says "a flight in a helicopter" and then "a scenic trip in a tiny aircraft". Includes lists "Domestic scheduled flights" and "sunset boat cruises", which no day mentions, and "safari lodges and tented camps" although all 4 nights are at one lodge. Highlights list "Okavango Delta" and "Moremi Game Reserve" as day trips only. The file says the flight and transfers are "confirmed in your quote".
-  - Prices: 9772 (7 days camping) is From $3,600, the same as 9769 (5 days) and 9771 (8 days); three Botswana trips at exactly $3,600 looks copied, please confirm. 9846 is $2,163. Both pages show one price only (no regular/sale pair), and related-trip cards say "/ person" while trip pages say "/ Adult".
-  - Old credits: 9 older trip files still carry a "Some gallery photos by ..." line with Unsplash profile links (kenya-2957, kenya-6804, kenya-6806, tanzania-6840, 9499, 9504, 9511, 9527, 9539), which breaks the 6 Nov no-credits rule. They were not in this run's queue; say if you want them stripped and re-pushed.
-- Could not open: none (site copy from 2026-11-12 10:29 UTC was fresh, so the live site was not opened)
-- Next: 7-day-classic-etosha-national-park, 5-day-sossusvlei-and-etosha-tour
-
-## 2026-11-12 17:56 | New post 9
-- "Namibia Photography Tour for Clubs: Deadvlei at Dawn, Etosha Waterholes and Gold-Tier Night Skies" https://divulgeadventures.com/namibia-photography-tour/
-- Namibia, Safari Themes (group sprint row NA-315; focus keyword refined to "namibia photography tour"). Scheduled for 18:00 Nairobi time today. Kenya skipped as it already had 2 posts today; Namibia had the most group rows left after Kenya.
-- Images: 2 from the owner's Media Library (body), 4 from Unsplash (3 body, 1 featured). Park fee N$280 per international adult per day stated (checked November 2026); Deadvlei shuttle price not stated (only a 2022 source found).
-- Skipped topics: none. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left). Today's 9 sprint posts are complete.
-- Could not open: none (owner Media Library images could not be downloaded for a visual check, so alt text follows their titles).

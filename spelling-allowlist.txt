@@ -115,3 +115,6 @@ kilembe
 spurfowl
 korhaan
 secretarybird
+ngare
+ndare
+podo
