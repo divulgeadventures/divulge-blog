@@ -94,14 +94,13 @@
   ],
   "terms": {
    "activities": [
-    "gorilla-trekking-safaris-tours"
+    "gorilla-trekking-safaris-tours",
+    "luxury-safaris"
    ],
    "destination": [
     "Uganda"
    ],
-   "trip_types": [
-    "luxury-safaris"
-   ]
+   "trip_types": []
   }
  }
 ]

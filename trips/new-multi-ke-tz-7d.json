@@ -87,15 +87,14 @@
   ],
   "terms": {
    "activities": [
-    "bush-safaris-wildlife-tours"
+    "bush-safaris-wildlife-tours",
+    "multi-country-safaris"
    ],
    "destination": [
     "Kenya",
     "Tanzania"
    ],
-   "trip_types": [
-    "multi-country-safaris"
-   ]
+   "trip_types": []
   }
  }
 ]

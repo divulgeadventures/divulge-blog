@@ -87,14 +87,13 @@
   ],
   "terms": {
    "activities": [
-    "bush-safaris-wildlife-tours"
+    "bush-safaris-wildlife-tours",
+    "honeymoon-safaris"
    ],
    "destination": [
     "Namibia"
    ],
-   "trip_types": [
-    "honeymoon-safaris"
-   ]
+   "trip_types": []
   }
  }
 ]

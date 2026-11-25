@@ -89,14 +89,13 @@
   "terms": {
    "activities": [
     "bush-beach-safaris",
-    "flight-packages-fly-in-safaris"
+    "flight-packages-fly-in-safaris",
+    "honeymoon-safaris"
    ],
    "destination": [
     "Kenya"
    ],
-   "trip_types": [
-    "honeymoon-safaris"
-   ]
+   "trip_types": []
   }
  }
 ]

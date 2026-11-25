@@ -88,15 +88,14 @@
   ],
   "terms": {
    "activities": [
-    "gorilla-trekking-safaris-tours"
+    "gorilla-trekking-safaris-tours",
+    "multi-country-safaris"
    ],
    "destination": [
     "Uganda",
     "Rwanda"
    ],
-   "trip_types": [
-    "multi-country-safaris"
-   ]
+   "trip_types": []
   }
  }
 ]

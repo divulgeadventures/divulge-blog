@@ -76,14 +76,13 @@
   ],
   "terms": {
    "activities": [
-    "gorilla-trekking-safaris-tours"
+    "gorilla-trekking-safaris-tours",
+    "honeymoon-safaris"
    ],
    "destination": [
     "Rwanda"
    ],
-   "trip_types": [
-    "honeymoon-safaris"
-   ]
+   "trip_types": []
   }
  }
 ]

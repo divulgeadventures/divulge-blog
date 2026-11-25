@@ -83,14 +83,13 @@
   ],
   "terms": {
    "activities": [
-    "flight-packages-fly-in-safaris"
+    "flight-packages-fly-in-safaris",
+    "honeymoon-safaris"
    ],
    "destination": [
     "Botswana"
    ],
-   "trip_types": [
-    "honeymoon-safaris"
-   ]
+   "trip_types": []
   }
  }
 ]

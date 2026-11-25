@@ -82,14 +82,13 @@
   ],
   "terms": {
    "activities": [
-    "gorilla-trekking-safaris-tours"
+    "gorilla-trekking-safaris-tours",
+    "honeymoon-safaris"
    ],
    "destination": [
     "Uganda"
    ],
-   "trip_types": [
-    "honeymoon-safaris"
-   ]
+   "trip_types": []
   }
  }
 ]

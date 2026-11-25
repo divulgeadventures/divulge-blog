@@ -88,14 +88,13 @@
   ],
   "terms": {
    "activities": [
-    "flight-packages-fly-in-safaris"
+    "flight-packages-fly-in-safaris",
+    "luxury-safaris"
    ],
    "destination": [
     "Botswana"
    ],
-   "trip_types": [
-    "luxury-safaris"
-   ]
+   "trip_types": []
   }
  }
 ]
