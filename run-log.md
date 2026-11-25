@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-25 07:50 | Market agent us-canada
+- Post: "How to Budget a Kenya Safari From the USA, From Your Flight to the Last Tip" https://divulgeadventures.com/kenya-safari-cost-from-usa/
+- Status: publish, scheduled 2026-11-25 08:00 +03:00; review score 9
+- Images: 5 owner photos (featured + 4 in body), 0 Unsplash; no field notes available
+- Airfare figures are 12-month NY-Kenya averages from fare-tracker data (not linked: booking sites are banned links)
+- Could not open: CDC Kenya traveler page (fetch permission timed out), so no CDC vaccine claims were made
+
 ## 2026-11-24 18:48 | Nothing to do
 - Today's work is complete: 7 new posts already dated 2026-11-24 (target 3) and the daily refresh is done (masai-mara-safari-cost). No post changes this run.
 - Could not open: none

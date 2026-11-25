@@ -924,3 +924,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2026/05/masai-mara-accommodations-angama-mara-premium-lodge-3-1-scaled.jpg | masai-mara-safari-cost
 2026-11-24 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-36.jpg | masai-mara-safari-cost
 2026-11-24 | https://images.unsplash.com/photo-1676317399913-1a3e7dca7263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8aG90JTIwYWlyJTIwYmFsbG9vbiUyME1hc2FpJTIwTWFyYXxlbnwwfDB8fHwxNzk1NTIxMDc1fDI&ixlib=rb-4.1.0&q=80&w=1080 | masai-mara-safari-cost
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/02/Mara-Wildebeest-Migration.jpg | kenya-safari-cost-from-usa
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-03-at-19.29.18.jpeg | kenya-safari-cost-from-usa
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/10/kenya-safari-in-january.jpg | kenya-safari-cost-from-usa
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-incentive-travel-dmc.jpg | kenya-safari-cost-from-usa
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/11/lake-nakuru-safari-guide.jpg | kenya-safari-cost-from-usa

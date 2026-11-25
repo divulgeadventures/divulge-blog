@@ -8,7 +8,7 @@ Will be re-ranked with Semrush volumes in early Dec 2026.
 
 | # | Focus keyword | Type | Evidence / why | Differentiate from | Status |
 |---|---|---|---|---|---|
-| 1 | kenya safari cost from usa | Cost guide (USD) | GSC: US 5,958 impr at pos 30; cost = top buying intent | /kenya-safari-cost/ (generic): add US flights, USD totals, what Americans pay for | todo |
+| 1 | kenya safari cost from usa | Cost guide (USD) | GSC: US 5,958 impr at pos 30; cost = top buying intent | /kenya-safari-cost/ (generic): add US flights, USD totals, what Americans pay for | | done 2026-11-25 https://divulgeadventures.com/kenya-safari-cost-from-usa/ |
 | 2 | kenya safari from usa | From-country guide | Bing: kenya safari US 327 impr | /kenya-eta/: cover flights, routing, jet lag, trip length for US vacation days | todo |
 | 3 | kenya safari packages from usa | Packages comparison | Money keyword; links trip pages | /kenya-safari-cost/: compare 5/7/10-day Divulge itineraries for US travellers | todo |
 | 4 | kenya and tanzania safari 10 days | Itinerary | High-intent combo search | /kenya-and-tanzania-safari/: a specific 10-day day-by-day plan | todo |
