@@ -935,3 +935,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/11/snow-capped-peaks-of-mount-kenya-seen-from-a-distance.jpg | ngare-ndare-forest
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/11/6000-x-4000divulge_adventures-64-scaled.jpg | ngare-ndare-forest
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/11/mount-kenya-seen-from-the-mweiga-to-naro-moru-road.jpg | ngare-ndare-forest
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-17.jpg | kenya-safari-holidays
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/07/1736492159336_IK-5392.jpg | kenya-safari-holidays
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge_adventures_safari-31-4-scaled.jpg | kenya-safari-holidays
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/01/Tsavo-West-National-Park-Shetani-Lava-Flow.jpg | kenya-safari-holidays
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/11/wooden-boat-on-the-beach-at-malindi-kenya-coast.jpg | kenya-safari-holidays

@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-25 09:50 | Market agent uk-ie-au-nz
+- "Booking a Kenya Safari Holiday From Britain? Pick the Length First, Then the School Holiday" – https://divulgeadventures.com/kenya-safari-holidays/
+- Queue row 1 (kenya safari holidays), Safari Planning Tips; status publish, review score 8; scheduled for 11:00 Nairobi time.
+- Images: 4 in the body plus featured, all owner photos from the Media Library; no Unsplash, no credits. No field notes available.
+- Facts: FCDO Kenya advice and entry requirements (eTA, passport, new Kenyan Government travel health insurance from Oct 2026), etakenya.go.ke FAQs (US$30), NHS Fit for Travel / TravelHealthPro, Heathrow-Nairobi nonstops (BA, Kenya Airways, ~9h). Prices kept in USD: no verifiable current GBP rate could be found, so no sterling conversions.
+- Could not open: etakenya.go.ke/en (permission timeout), x-rates.com and exchangerates.org.uk (no current rate shown).
+
 ## 2026-11-25 08:48 | New post 1
 - "Ngare Ndare Forest: Canopy Walk, Blue Pools and the Elephant Corridor to Lewa" – https://divulgeadventures.com/ngare-ndare-forest/
 - Kenya (owner idea from TOPIC_IDEAS.md, added as KE-395), Destination Tips; status publish, review score 8; scheduled for 10:00 Nairobi time. The cycle gave Rwanda, which has no group rows, so the oldest owner idea came next; no group row was used (Kenya KE-390 and Botswana BW-321 remain).
