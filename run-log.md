@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-25 18:54 | Refresh
+- Refreshed "Which Attractions in Uganda Deserve Your Time? A Region-by-Region Pick From Bwindi to Kidepo" https://divulgeadventures.com/best-attractions-in-uganda/ (Uganda, Destination Tips, focus keyword "attractions in uganda"). Review score 8. URL and featured image unchanged.
+- Rewritten by region with a 10-attraction table, a 7/10/14-day route table, Jinja, Sipi, Ziwa, Bunyonyi and Kampala as non-park attractions, and links to the Uganda parks post and 5 Uganda trips. Removed the old Tsavo (Kenya) photo, the self-linking table of contents and the unverified claims.
+- Facts checked Nov 2026: gorilla permit USD 800 (UWA; all sources agree), visa USD 50 (immigration.go.ug), East Africa Tourist Visa USD 100 (gov.uk), yellow fever certificate no longer mandatory for entry (Uganda Immigration notice, 2 Oct 2026). The UWA 2024-26 tariff has expired and no official 2026-28 tariff could be found online; operator sites disagree on new chimp and habituation prices, so the post gives the old figures with a dated note and tells readers to confirm. Owner: please share the new UWA tariff if you have it.
+- Images: 6 from the owner's Media Library, 0 Unsplash (Unsplash results for Bunyonyi and Jinja did not name the place). No field notes available.
+- Could not open: none (ugandawildlife.org has no 2026-28 tariff PDF linked in the sources found).
+
 ## 2026-11-25 18:33 Trip Optimiser
 - Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
 
@@ -701,45 +708,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 - Verified: Masai Mara reserve non-resident fee US$100/day Jan-Jun, US$200/day Jul-Dec (checked Nov 2026); conservancy fees ~US$100-120 pp/night.
 - Skipped topics: none. Could not open: none.
 
-## 2026-11-13 12:20 | New post 6
-- "Stargazing in Namibia Works Best Around the New Moon, So Plan Your Astronomy Club's Trip From There": https://divulgeadventures.com/stargazing-in-namibia/
-- Namibia, Safari Themes (group row NA-316; focus keyword refined from "namibia stargazing tour" to "stargazing in namibia"). Scheduled for 13 Nov 15:00 Nairobi time.
-- Images: 1 from the owner's Media Library (in the body) and 5 from Unsplash (featured Deadvlei at night + 4 in the body; 5 body images in total). No credits. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-- Facts from namibrand.org (Gold tier Dark Sky Reserve, May 2012), the H.E.S.S. site page (about 100 km SW of Windhoek, 1,800 m) and the IAS Hakos observatory page (1,852 m). Only Wolwedans (NamibRand) and Hakos Astrofarm are named; no lodge rates or park fees stated. Added "gamsberg" to spelling-allowlist.txt.
-- Could not open: travelnam.com Tivoli Southern Sky Guest Farm article (permission request timed out), so Tivoli is not mentioned
-
-## 2026-11-13 11:25 | New post 5
-- "Is a Botswana Family Safari Right for Your Children? Ages, Areas and Camps Explained": https://divulgeadventures.com/botswana-family-safari/
-- Botswana, Safari Themes (group row BW-312). Scheduled for 13 Nov 14:00 Nairobi time.
-- Images: 4 from the owner's Media Library (featured + 3 in the body) and 2 from Unsplash in the body (5 body images in total). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-- Park fee stated as P380 per non-resident adult per day with the proposed rise to P500 noted (Botswana Daily News); no lodge rates or child park fees stated because none could be confirmed on official sources. Only Camp Kalahari is named (checked on its official site). Added "hoasi" (Zu/'hoasi) to spelling-allowlist.txt.
-- Could not open: none
-
-## 2026-11-13 10:15 | New post 4
-- "A Teacher's Guide to a Uganda Educational Tour: Equator, Nile, Chimpanzees and Safety": https://divulgeadventures.com/uganda-educational-tour/
-- Uganda, Safari Themes (group row UG-314). Scheduled for 13 Nov 13:00 Nairobi time.
-- Images: 5 from the owner's Media Library (featured + 4 in the body) and 1 from Unsplash in the body (5 body images in total). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-- Fees taken from the UWA tariff PDF on ugandawildlife.org (titled July 2024-June 2026 but uploaded October 2026); the post tells readers to confirm. UWA's reported low-season permit discounts were left out because no official page confirmed them. Yellow fever: Uganda no longer requires a certificate for entry (ATTA report of the Ministry of Internal Affairs statement, October 2026).
-- Could not open: chimpanzeetrust.org (Ngamba Island page; permission request timed out); theeastafrican.co.ke yellow fever article (site error)
-
-## 2026-11-13 09:20 | New post 3
-- "Planning a Tanzania Incentive Trip? Build the Reward Around Three Serengeti Nights": https://divulgeadventures.com/tanzania-incentive-trip/
-- Tanzania, Team Building (group row TZ-325; focus keyword shortened to "tanzania incentive trip"). Scheduled for 13 Nov 12:00 Nairobi time.
-- Images: 2 from the owner's Media Library (featured + 1 Zanzibar beach in the body) and 3 from Unsplash in the body (4 body images in total). Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left).
-- New fact used: Tanzania's mandatory government inbound travel insurance (US$44 per adult, from 1 Oct 2026), from an ATTA update; the post tells readers to confirm it.
-- Could not open: immigration.go.tz visa tips page (loads only with JavaScript, so no visa fee is stated)
-
-## 2026-11-13 05:35 Trip Optimiser
-- Done: 7- Day Classic Etosha National Park (9703, "7 day etosha national park safari", namibia-9703-7-day-etosha-national-park-safari.json), 5- Day Sossusvlei and Etosha Tour (9704, "5 day sossusvlei and etosha tour", namibia-9704-5-day-sossusvlei-and-etosha-tour.json)
-- Photos: 9703 = 2 owner + 3 Unsplash (all three described by their photographers as Etosha); 9704 = 4 owner + 2 Unsplash (Namib dunes). No credits anywhere; TRIP_GUIDE.md, validate_trip.py and the model file already follow the no-credits rule, so nothing needed removing.
-- Owner to fix by hand (the importer cannot change these):
-  - Both titles have a stray space: "7- Day" and "5- Day" (should be "7-Day" / "5-Day"). Slugs are fine.
-  - 9703 typos: overview "its mainly for animal lovers" (it's), Day 01 "Your guide will pick up by a representative from Divulge Adventures" (garbled; e.g. "You will be picked up by your Divulge Adventures guide"), Excludes heading "Cost Exclues", Day 05 "in form of lunch packs", Day 07 "past a couple of cities" (unclear). Trip highlights "Etosha National Park" and "Scenic Farewell Drive" are not real highlights.
-  - 9703 missing facts: no camp or lodge is named for any of the 6 nights (overview says "All three camps"); the file says camps are confirmed in the quote. Includes lists "Breakfast" only, for a 7-day trip deep inside a park; please confirm whether dinners are included. Day 07 says Windhoek accommodation is "as per your choice": say whether that night is included. Day 05 is headed "Eastern Etosha" but describes "the less visited northern part". No best season is given on the page, so the file gives general dry-season advice.
-  - 9704 typos: overview "This a 5 day", "these 2 places in Namibian"; Day 01 "Yourwill be met by our represantative ... will take your through"; Day 02 "they are good chances", "mainly dependent artificial waterholes"; Day 03 and Day 05 switch to "make our way"/"see us"; Day 04 stray full stop on its own line; Day 05 "This a white clay pans", "believed to have been dead 800 years ago" (garbled), "It is about kilometer long and 30 (100ft) meters deep" (garbled). Includes/Excludes heading "IncludesExcludes".
-  - 9704 wrong facts in highlights: "Sossusvlei and Etosha region, home to some of the world's highest red sand dunes" (Etosha has no dunes) and "Climb the iconic Big Daddy Dune" (the itinerary only has Dune 45 and Elim Dune). No highlight mentions Etosha wildlife or AfriCat. No lodges named for any night.
-  - 9704 wrong photo alt: featured image WhatsApp-Image-2025-11-03-at-20.07.59.jpeg (ID 6394) has alt "Magical Namibia African Safari" (another trip's name) and is also the featured image of 9712 and the 4 Days Magical Namibia trip; this file moves Deadvlei to featured and gives 6394 a neutral alt. Please check what 6394 actually shows and fix its Media Library alt. Owner photo 4312-x-3324divulge_adventures-scaled.jpg (ID 6191, alt "namibia adventure") subject is unknown from its name; please check it. Etosha-national-park.webp (ID 9708) alt "Etosha national park-namibia safari tips" reads like a blog alt; fix in the Media Library.
-  - Prices: both pages show one price only (no regular/sale pair). 9703 (7 days) is $3,850 and 9704 (5 days) is $3,500, so two extra Etosha days add only $350; 9703 is also exactly the same as the 6-Day Namibian Culture and Scenery Tour ($3,850). Please confirm. Related-trip cards say "/ person" while trip pages say "/ Adult".
-  - Old credits (repeat from 12 Nov): 9 older trip files still carry "Some gallery photos by ..." lines with Unsplash profile links (kenya-2957, kenya-6804, kenya-6806, tanzania-6840, 9499, 9504, 9511, 9527, 9539). Not in this run's queue; say if you want them stripped.
-- Could not open: none (site copy from 2026-11-12 18:45 UTC was fresh, so the live site was not opened)
-- Next: namib-desert-and-sossusvlei-experience (#49), 4-day-namibian-desert-dash-tour (#50)

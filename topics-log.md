@@ -178,3 +178,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-25 | Tanzania TZ-136 | Accommodation Guide | serengeti sopa lodge | serengeti-sopa-lodge
 2026-11-25 | MARKET fr-it-es | Safari Planning Tips | kenya safari from spain | kenya-safari-from-spain
 2026-11-25 | MARKET asia-gulf | Safari Planning Tips | kenya tour package from india | kenya-tour-package-from-india
+2026-11-25 | REFRESH | Destination Tips | attractions in uganda | best-attractions-in-uganda

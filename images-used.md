@@ -962,3 +962,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/10/male-lion-walking-across-the-plains-of-the-masai-mara.jpg | kenya-tour-package-from-india
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-340-scaled.jpg | kenya-tour-package-from-india
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge_adventures_safari-407-scaled.jpg | kenya-tour-package-from-india
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/05/mountain-gorillas-on-green-vegetation-in-bwindi-impenetrable-forest-uganda.jpg | best-attractions-in-uganda
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/04/Queen-Elizabeth-National-Park-640x450-1.jpg | best-attractions-in-uganda
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/10/chimpanzee-in-the-dense-forest-of-kibale.jpg | best-attractions-in-uganda
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/05/waters-of-the-nile-at-murchison-falls-in-northern-uganda.jpg | best-attractions-in-uganda
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/05/4-day-kidepo-valley-national-park-safari-savannah-landscape-in-kidepo-valley-nat.jpg | best-attractions-in-uganda
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/05/grey-crowned-cranes-700x450-1.jpg | best-attractions-in-uganda
