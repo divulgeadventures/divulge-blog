@@ -1,5 +1,53 @@
 [
  {
+  "id": 13799,
+  "slug": "botswana-national-parks",
+  "url": "https://divulgeadventures.com/botswana-national-parks/",
+  "title": "Botswana National Parks: A Guide to the Best Parks and Reserves"
+ },
+ {
+  "id": 13798,
+  "slug": "namibia-national-parks",
+  "url": "https://divulgeadventures.com/namibia-national-parks/",
+  "title": "Namibia National Parks: A Guide to the Best Parks and Reserves"
+ },
+ {
+  "id": 13797,
+  "slug": "rwanda-national-parks",
+  "url": "https://divulgeadventures.com/rwanda-national-parks/",
+  "title": "Rwanda National Parks: A Guide to the Best Parks and Reserves"
+ },
+ {
+  "id": 13796,
+  "slug": "uganda-national-parks",
+  "url": "https://divulgeadventures.com/uganda-national-parks/",
+  "title": "Uganda National Parks: A Guide to the Best Parks and Reserves"
+ },
+ {
+  "id": 13795,
+  "slug": "tanzania-national-parks",
+  "url": "https://divulgeadventures.com/tanzania-national-parks/",
+  "title": "Tanzania National Parks: A Guide to the Best Parks and Reserves"
+ },
+ {
+  "id": 13787,
+  "slug": "african-safari-cost",
+  "url": "https://divulgeadventures.com/african-safari-cost/",
+  "title": "How Much Does an African Safari Cost? Prices by Country"
+ },
+ {
+  "id": 13786,
+  "slug": "when-to-go-on-safari",
+  "url": "https://divulgeadventures.com/when-to-go-on-safari/",
+  "title": "When to Go on Safari: Best Time by Country and Month"
+ },
+ {
+  "id": 13784,
+  "slug": "how-to-book-a-safari",
+  "url": "https://divulgeadventures.com/how-to-book-a-safari/",
+  "title": "How to Book a Safari: Deposits, Payments and Cancellations"
+ },
+ {
   "id": 13725,
   "slug": "responsible-travel",
   "url": "https://divulgeadventures.com/responsible-travel/",
@@ -7,8 +55,8 @@
  },
  {
   "id": 13724,
-  "slug": "reviews",
-  "url": "https://divulgeadventures.com/reviews/",
+  "slug": "divulge-adventures-reviews",
+  "url": "https://divulgeadventures.com/divulge-adventures-reviews/",
   "title": "Divulge Adventures Reviews"
  },
  {
@@ -70,6 +118,12 @@
   "slug": "safari-proposal-request",
   "url": "https://divulgeadventures.com/safari-proposal-request/",
   "title": "Safari Proposal Request"
+ },
+ {
+  "id": 9985,
+  "slug": "kenya-national-parks",
+  "url": "https://divulgeadventures.com/kenya-national-parks/",
+  "title": "Kenya National Parks: A Guide to the Best Parks and Reserves"
  },
  {
   "id": 8352,
