@@ -8,7 +8,7 @@ Will be re-ranked with Semrush volumes in early Dec 2026.
 
 | # | Focus keyword | Type | Evidence / why | Differentiate from | Status |
 |---|---|---|---|---|---|
-| 1 | kenya tour package from india | Packages (INR) | GSC: India 499 impr at pos 11.5 (near page 1); Kenya's fastest-growing market | /kenya-safari-cost/: INR budgets, Mumbai/Delhi flights, Indian traveller needs | todo |
+| 1 | kenya tour package from india | Packages (INR) | GSC: India 499 impr at pos 11.5 (near page 1); Kenya's fastest-growing market | /kenya-safari-cost/: INR budgets, Mumbai/Delhi flights, Indian traveller needs | done 2026-11-25 https://divulgeadventures.com/kenya-tour-package-from-india/ |
 | 2 | masai mara package from mumbai | Packages | Bing: kenya safari India 57 | India package post: Mara-only short trips from Mumbai | todo |
 | 3 | vegetarian food on kenya safari | Practical | Indian travellers ask this first | None: veg/Jain options at lodges, how to arrange | todo |
 | 4 | great migration tour from india | Migration | India's peak travel coincides with migration (Jul-Oct) | /great-migration-month-by-month/: plan from India, Diwali timing | todo |

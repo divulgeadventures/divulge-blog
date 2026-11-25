@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-25 15:50 | Market agent asia-gulf
+- Post: "Kenya Tour Package From India, Costed in Rupees From the Mumbai Flight to the Masai Mara" https://divulgeadventures.com/kenya-tour-package-from-india/
+- Status: publish, scheduled 2026-11-25 16:00 +03:00; review score 9 (queue row 1; TOPIC_BANK KE-178 marked done)
+- Images: 6 owner photos (featured + 5 in body), 0 Unsplash; no field notes available.
+- Facts: India MoHFW yellow fever page and High Commission of India Nairobi (updated 19 Nov 2026): certificate required from Kenya, 10-day rule, up to 6 days quarantine; Mumbai-Nairobi nonstop on IndiGo, Kenya Airways, Air India (~6.5 h); INR at Bank of England spot 92.915 (23 Nov 2026). Delhi nonstop not confirmed, so no claim made.
+- Could not open: directflights.com BOM-NBO; FBIL rate page (JS only); Kenya Airways Delhi page showed no fares. Competitor top results are Indian package-listing sites with fixed INR prices.
+
 ## 2026-11-25 13:40 | Market agent fr-it-es
 - Post: "Flying to Nairobi From Madrid or Barcelona? How Spanish Travellers Plan a Kenya Safari" https://divulgeadventures.com/kenya-safari-from-spain/
 - Status: publish, scheduled 2026-11-25 14:00 +03:00; review score 9 (queue row 1; no TOPIC_BANK match)

@@ -956,3 +956,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/05/Nashulai-Masai-Conservancy.jpg | kenya-safari-from-spain
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/01/tsavo-west-national-park-kenya.jpg | kenya-safari-from-spain
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-yoga-retreat.jpg | kenya-safari-from-spain
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/11/5501-x-3667divulge_adventures-scaled.jpg | kenya-tour-package-from-india
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/12/Divulge-Adventures-Copy2-116-scaled.jpg | kenya-tour-package-from-india
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/12/IMG_7362-scaled.jpg | kenya-tour-package-from-india
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/10/male-lion-walking-across-the-plains-of-the-masai-mara.jpg | kenya-tour-package-from-india
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-340-scaled.jpg | kenya-tour-package-from-india
+2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge_adventures_safari-407-scaled.jpg | kenya-tour-package-from-india
