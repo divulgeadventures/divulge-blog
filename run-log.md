@@ -4,6 +4,9 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-26 05:33 Trip Optimiser
+- Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
+
 ## 2026-11-26 07:50 | Market agent us-canada
 - "Planning a Kenya Safari From the USA Around the Long Flight and Your Vacation Days" https://divulgeadventures.com/kenya-safari-from-usa/ (focus keyword "kenya safari from usa", Safari Planning Tips). Status publish, scheduled 2026-11-26 08:00 +03:00. Review score 9.
 - Angle kept apart from /kenya-safari-cost-from-usa/: routing and hubs, arrival and Wilson 15 kg limit, jet lag, PTO-to-itinerary table (6-day road, 6-day fly-in, 9-day fly-in, Nairobi NP layover), State Dept health-form rule for Uganda/Rwanda/Tanzania add-ons. Facts checked Nov 2026: State Dept Level 2 (28 Jul 2026), eTA from US$30 (etakenya.go.ke), Kenya Airways only US nonstop (JFK).
