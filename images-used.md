@@ -990,3 +990,10 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/11/guided-walking-safari-at-sunrise-in-kenya.jpg | kenya-safari-from-the-netherlands
 2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_8_days_safari_edited-21-scaled.jpg | kenya-safari-from-the-netherlands
 2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/10/elephant-herd-walking-in-front-of-kilimanjaro.jpg | kenya-safari-from-the-netherlands
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/11/uganda-volunteer-trip.jpg | queen-elizabeth-vs-murchison-falls
+2026-11-26 | https://images.unsplash.com/photo-1660983844640-5dd5b4bd7a59 | queen-elizabeth-vs-murchison-falls
+2026-11-26 | https://images.unsplash.com/photo-1667630722519-d7aeb967ba4f | queen-elizabeth-vs-murchison-falls
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/04/lion-in-queen-elizabeth-national-park.jpg | queen-elizabeth-vs-murchison-falls
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/04/hippo-swimming-in-the-kazinga-channel-queen-elizabeth-national-park.jpg | queen-elizabeth-vs-murchison-falls
+2026-11-26 | https://images.unsplash.com/photo-1749453501718-a600b9d78e04 | queen-elizabeth-vs-murchison-falls
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/04/game-drive-queen.jpg | queen-elizabeth-vs-murchison-falls

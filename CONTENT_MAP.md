@@ -356,3 +356,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/ashnil-mara-camp/ (ashnil mara camp)
 - https://divulgeadventures.com/masai-mara-safari-packages/ (masai mara safari packages)
 - https://divulgeadventures.com/kenya-safari-from-the-netherlands/ (kenya safari from the netherlands)
+- https://divulgeadventures.com/queen-elizabeth-vs-murchison-falls/ (queen elizabeth vs murchison falls)

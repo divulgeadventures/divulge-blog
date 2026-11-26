@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-26 12:48 | New post 2
+- "Queen Elizabeth vs Murchison Falls, or Both? How to Choose Your Uganda Savannah Park" – https://divulgeadventures.com/queen-elizabeth-vs-murchison-falls/
+- Uganda (cycle step 2), bank row UG-031 (BOOST comparison), Destination Tips; status publish, review score 8; scheduled for 14:00 Nairobi time. The next owner idea (Mara Sopa Lodge) was left for another day because post 1 was already Kenya.
+- Facts from UWA's own park pages and tariff PDFs (checked Nov 2026): entry US$45 Murchison / US$40 QENP, launch US$30 each; from Jan 2027 Kyambura chimps rise US$100 to 240 and lion tracking US$200 to 500. OWNER NOTE: UWA's 2024-26 tariff is dated to June 2026 but is still the one on its site until the Jan 2027 revision.
+- Images: featured + 3 body from the owner's Media Library, 3 body from Unsplash (Murchison giraffes, lion cub, Uganda kob); no credits. No field notes available. Keyword density is at the validator's minimum (0.91%).
+- Could not open: none (WebFetch only via helper agent; UWA pages and PDFs loaded).
+
 ## 2026-11-26 11:45 | Market agent dach-nl-be
 - A Kenya Safari From the Netherlands Begins With Two Nonstop Flights a Day From Schiphol: https://divulgeadventures.com/kenya-safari-from-the-netherlands/ (queue row 2; focus keyword refined to "kenya safari from the netherlands")
 - Status publish, scheduled 2026-11-26 12:00 Nairobi; review score 9
@@ -693,48 +700,3 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
   - 5 Days Namibia Adventure (9672): no accommodation named for the Day 3 night in Swakopmund; Day 2 does not name the lodge (only "return to the lodge"); "Ghaub" Pass should be "Gaub" Pass; includes say "Activities listed in BOLD" but nothing is bold, and "Meals: As indicated in tour description" but no meals are indicated; excludes say "Pre applications not required for Danish citizens" (looks copied from a supplier's itinerary); typos "Divulge adventures", "Namibia adventure majestic wildlife", "Namibia adventure diverse beauty", "the towns culture", Day 5 sentence missing a full stop; no best months and no Safari Info box (arrival/departure, accommodation class, meals); no sale price, unlike the 4-day trip.
 - Could not open: none (worked from the 13 Nov 10:08 UTC site copy)
 - Next: 6- Day Namibian Culture and Scenery Tour (6-day-namibian-culture-and-scenery-tour), Namibian Southern Skeleton Coast Tour (namibian-southern-skeleton-coast-tour)
-
-## 2026-11-13 16:59 | Nothing to do
-- Today's work is complete: all 9 group sprint posts for 13 Nov are written and scheduled. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left as todo).
-- Could not open: none
-
-## 2026-11-13 15:52 | Nothing to do
-- Today's work is complete: all 9 group sprint posts for 13 Nov are written and scheduled. Refresh paused (no FIX FIRST / LINK FIX / TEXT FIX rows left as todo).
-- Could not open: none
-
-## 2026-11-13 14:54 | New post 9
-- **Taking the Whole Clan? How a Tanzania Family Safari Works With Zanzibar at the End** — https://divulgeadventures.com/tanzania-family-safari/
-- Tanzania, Safari Themes; group sprint row TZ-326 (focus keyword refined from "tanzania family group safari" to "tanzania family safari"). Scheduled to publish 18:00. That completes today's 9 sprint posts.
-- Images: 2 from the owner's Media Library (impala, Zanzibar sailing boat), 4 from Unsplash (featured Tarangire elephants plus 3 body images). No credits.
-- Not stated: a child rate for Tanzania's new inbound travel insurance (the mainland insurer has not published one; post gives only US$44 per visitor), exact Arusha–Zanzibar flight time and balloon minimum ages (no reliable source).
-- Could not open: https://www.flightsfrom.com/ARK-ZNZ (site error); fitfortravel.nhs.uk Tanzania malaria map (page has no content, updates paused; used CDC instead); thecitizen.co.tz insurance article (body did not load).
-
-## 2026-11-13 13:58 | New post 8
-- **How to Book an Exclusive Use Safari Camp in Botswana for Your Whole Group** — https://divulgeadventures.com/exclusive-use-safari-camp-botswana/
-- Botswana, Safari Planning Tips; group sprint row BW-313 (focus keyword refined to "exclusive use safari"). Scheduled to publish 17:00.
-- Images: 5 from the owner's Media Library (all body), 1 from Unsplash (featured: lantern on a dry Botswana lakebed). No credits.
-- Not stated: Botswana park fees (a Feb 2026 government proposal exists but the final figures could not be confirmed), so the post tells readers to confirm current fees.
-- Could not open: https://www.botswanatourism.co.bw/ (permission request timed out; linked the Okavango Delta page found via search instead), tourismupdate.com fee article (no article text).
-
-## 2026-11-13 10:35 Trip Optimiser
-- Done: 3-Day Namib Desert and Sossusvlei Experience (9712, "3 day sossusvlei tour from windhoek", namibia-9712-3-day-sossusvlei-tour-from-windhoek.json), 4- Day Namibian Desert Dash Tour (9655, "4 day sossusvlei and swakopmund tour", namibia-9655-4-day-sossusvlei-and-swakopmund-tour.json)
-- Photos: 9712 = 2 owner + 3 Unsplash (Deadvlei and Namib Sand Sea, described as such by their photographers); 9655 = 5 owner + 1 Unsplash (Cape fur seal at Cape Cross). No credits anywhere; TRIP_GUIDE.md, validate_trip.py and the model file already follow the no-credits rule, so nothing needed removing.
-- Owner to fix by hand (the importer cannot change these):
-  - 9712 typos: Day 01 "Depart from Windhoek" (capital D mid-sentence), "ready to begi your", "Divulge adventures" (lower-case a); Day 02 "You will begin yur day with an early start you safari will start from you being taken by your repreentative" (garbled; e.g. "You start early, when your guide drives you into..."); overview "Experience the timeless beauty of Namib desert and Sossusvlei experience" (repeats "experience"); hero heading shows the title in lower case ("namib desert and sossusvlei experience"); Excludes heading "CostExcludes".
-  - 9712 wrong facts in highlights: "Tropic of Capricorn" and "Sesriem Canyon" are not in the itinerary (Day 02 only has Sossusvlei, Deadvlei and Dune 45 or Big Daddy). Add them to Day 02 or remove them. Slug has no duration ("namib-desert-and-sossusvlei-experience"); leave it unless you want a 301 redirect.
-  - 9655 title has a stray space: "4- Day" (should be "4-Day"). The overview mostly describes the Desert Dash mountain bike race, which confuses readers; the new overview makes it clear this is a sightseeing tour.
-  - 9655 typos: Day 01 "Sossusvlei.You" (no space); Day 02 "covering and area of 50 000 km2", "Brown Hyeana" (Hyena), "Flamingoes", "dead 800 years ago" (garbled), "It is about kilometer long and 30 (100ft) meters deep" (garbled; "about 1 km long and 30 m (100 ft) deep"), "you will make our way" (mixes you/we); Day 03 "Dry bone, without a trace of moisture and as dry as a weathered bone!" (fragment), "helps in serving food on the table" (unclear).
-  - 9655 facts to check: Day 04 is "Swakopmund to Windhoek via Cape Cross", but Cape Cross is north of Swakopmund, the opposite direction from Windhoek; please make it a separate morning detour or drop it. "This is the largest seal colony in the world" is overstated (Cape Cross is one of the largest Cape fur seal colonies). "Namib Naukluft Park is the third largest National Park in Africa" is unverified. No lodge is named for any of the 3 nights (1 Sossusvlei area, 2 Swakopmund); the file says accommodation is confirmed in the quote.
-  - Wrong photo alt: 9655 featured image namibia-safari.jpg (ID 7334) has alt "namibian Desert Dash Tours" (lower-case trip name, not a subject) and its subject can't be told from its name; please check it and fix its Media Library alt. Sandwich-Habour-Tours.jpg (ID 7866) and Walvis-Bay-Pink-lake.jpg (ID 7864) have alt "Magical Namibia Safari" (another trip's name); the file gives them subject alts. The file name "Sandwich-Habour" is misspelt (Harbour). WhatsApp-Image-2025-11-03-at-20.07.59.jpeg (ID 6394) is still unchecked (repeat from 13 Nov 05:35).
-  - Prices: both pages show one price only (no regular/sale pair). 9712 is $1,800 for 3 days and 9655 is $4,500 for 4 days, which is more than the 5-Day Sossusvlei and Etosha Tour ($3,500) and the 7-Day Classic Etosha ($3,850). Please confirm $4,500 is right.
-  - Old credits (repeat): 9 older trip files still carry "Some gallery photos by ..." lines with Unsplash profile links (kenya-2957, kenya-6804, kenya-6806, tanzania-6840, 9499, 9504, 9511, 9527, 9539). Say if you want them stripped.
-- Could not open: none (site copy from 2026-11-13 10:08 UTC was fresh, so the live site was not opened)
-- Next: 4-days-magical-namibia-safari (#51), 5-days-namibia-adventure (#52)
-
-## 2026-11-13 16:00 | New post 7
-- **A Masai Mara Incentive Trip That Rewards Your Top Team** — https://divulgeadventures.com/masai-mara-incentive-trip/
-- Kenya (Masai Mara), Team Building; group sprint row KE-376 (masai mara incentive trip). Scheduled to publish 16:00.
-- Images: 5 from the owner's Media Library (featured + 4 body, all Masai Mara), 0 from Unsplash.
-- Verified: Masai Mara reserve non-resident fee US$100/day Jan-Jun, US$200/day Jul-Dec (checked Nov 2026); conservancy fees ~US$100-120 pp/night.
-- Skipped topics: none. Could not open: none.
-
