@@ -979,3 +979,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-26 | https://images.unsplash.com/photo-1676317399913-1a3e7dca7263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8aG90JTIwYWlyJTIwYmFsbG9vbiUyME1hc2FpJTIwTWFyYXxlbnwwfDB8fHwxNzk1NjcyMzA0fDI&ixlib=rb-4.1.0&q=80&w=1080 | ashnil-mara-camp
 2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/10/crocodiles-on-the-riverbank-as-wildebeest-cross-behind-them.jpg | ashnil-mara-camp
 2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/01/mara-wildebeest-migration-2.jpg | ashnil-mara-camp
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/01/mara-wildebeest-migration-1.jpg | masai-mara-safari-packages
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-32-scaled.jpg | masai-mara-safari-packages
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge-adventures-58.jpg | masai-mara-safari-packages
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2025/11/4527-x-2741divulge_adventures_1-5-scaled.jpg | masai-mara-safari-packages
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-birding-tours-for-groups.jpg | masai-mara-safari-packages

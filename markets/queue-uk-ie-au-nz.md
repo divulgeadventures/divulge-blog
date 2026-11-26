@@ -9,7 +9,7 @@ Will be re-ranked with Semrush volumes in early Dec 2026.
 | # | Focus keyword | Type | Evidence / why | Differentiate from | Status |
 |---|---|---|---|---|---|
 | 1 | kenya safari holidays | Holiday guide (GBP) | Bing: 'safari holidays' 944 impr almost all UK; GSC UK pos 34.6 | /kenya-safari-cost/: UK wording, GBP prices, holiday lengths | done 2026-11-25 https://divulgeadventures.com/kenya-safari-holidays/ |
-| 2 | masai mara safari packages | Packages | Bing: masai mara 8K; masai mara national reserve 18.2K | /masai-mara-safari-cost/: package types and inclusions from the UK | todo |
+| 2 | masai mara safari packages | Packages | Bing: masai mara 8K; masai mara national reserve 18.2K | /masai-mara-safari-cost/: package types and inclusions from the UK | done 2026-11-26 https://divulgeadventures.com/masai-mara-safari-packages/ |
 | 3 | kenya safari from uk | From-country guide | Bing: kenya safari UK 476 impr (more than US) | /kenya-eta/: London flights, FCDO advice, GBP budgets | todo |
 | 4 | kenya beach and safari holiday | Combo itinerary | UK favourite format | /diani-beach/: a full safari + Diani/Watamu plan from the UK | todo |
 | 5 | kenya safari cost in pounds | Cost guide | Cost intent | /kenya-safari-cost/ (USD): GBP figures and what UK holidaymakers pay for | todo |

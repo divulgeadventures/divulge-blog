@@ -4,6 +4,12 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-26 09:55 | Market agent uk-ie-au-nz
+- "Which Masai Mara Safari Package Fits Your Holiday? Road, Fly-in and Conservancy Trips Compared" – https://divulgeadventures.com/masai-mara-safari-packages/
+- Queue row 2 (masai mara safari packages), Safari Planning Tips; status publish, review score 8; scheduled for 11:00 Nairobi time. GBP figures converted at £1 = US$1.31 (indicative rate, 25 Nov 2026). Reserve fees reused from the 24 Nov refresh (checked November 2026).
+- Images: 4 in the body plus featured, all owner Media Library photos; no Unsplash, no credits. No field notes available. No credit rules found in validate.py or the docs and no credits in existing market-*.json posts, so nothing to strip.
+- Could not open: maratriangle.org/conservation-fees-1 (permission not granted in time).
+
 ## 2026-11-26 08:48 | New post 1
 - "Ashnil Mara Camp Review, From the Riverside Tents to the Crossing Season" – https://divulgeadventures.com/ashnil-mara-camp/
 - Kenya (oldest owner idea in TOPIC_IDEAS.md, matched to bank row KE-168), Accommodation Guide; status publish, review score 8; scheduled for 10:00 Nairobi time. The cycle gave Tanzania, which has no group rows, so the owner idea came next.
