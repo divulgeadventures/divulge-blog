@@ -182,3 +182,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-26 | MARKET us-canada | Safari Planning Tips | kenya safari from usa | kenya-safari-from-usa
 2026-11-26 | Kenya KE-168 | Accommodation Guide | ashnil mara camp | ashnil-mara-camp
 2026-11-26 | MARKET uk-ie-au-nz | Safari Planning Tips | masai mara safari packages | masai-mara-safari-packages
+2026-11-26 | MARKET dach-nl-be | Safari Planning Tips | kenya safari from the netherlands | kenya-safari-from-the-netherlands

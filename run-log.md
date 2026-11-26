@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-26 11:45 | Market agent dach-nl-be
+- A Kenya Safari From the Netherlands Begins With Two Nonstop Flights a Day From Schiphol: https://divulgeadventures.com/kenya-safari-from-the-netherlands/ (queue row 2; focus keyword refined to "kenya safari from the netherlands")
+- Status publish, scheduled 2026-11-26 12:00 Nairobi; review score 9
+- Images: 6 owner photos (featured + 5 body), 0 Unsplash; no photo credits anywhere. Credit check: no posts/market-*.json file and none of MARKET_AGENT.md, TEMPLATE.md, CONTENT_MAP.md, POST_FORMAT.md or validate.py adds or requires a credit, so nothing to strip
+- Verified: KLM + Kenya Airways AMS-NBO nonstops (~14/week, 8 h 25), KLM fares from €729, Dutch travel advice (20 Oct 2026, valid 25 Nov), Dutch school holidays 2026-27, eTA + Kenyan insurance from 5 Oct 2026
+- Could not open: flightsfrom.com (client error)
+
 ## 2026-11-26 09:55 | Market agent uk-ie-au-nz
 - "Which Masai Mara Safari Package Fits Your Holiday? Road, Fly-in and Conservancy Trips Compared" – https://divulgeadventures.com/masai-mara-safari-packages/
 - Queue row 2 (masai mara safari packages), Safari Planning Tips; status publish, review score 8; scheduled for 11:00 Nairobi time. GBP figures converted at £1 = US$1.31 (indicative rate, 25 Nov 2026). Reserve fees reused from the 24 Nov refresh (checked November 2026).

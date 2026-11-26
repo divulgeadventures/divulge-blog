@@ -984,3 +984,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2025/11/divulge-adventures-58.jpg | masai-mara-safari-packages
 2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2025/11/4527-x-2741divulge_adventures_1-5-scaled.jpg | masai-mara-safari-packages
 2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/11/kenya-birding-tours-for-groups.jpg | masai-mara-safari-packages
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/05/Mara-Naboisho-Conservancy.jpg | kenya-safari-from-the-netherlands
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/05/Mara-Naboisho-Conservancy.2.jpg | kenya-safari-from-the-netherlands
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/10/reticulated-giraffe-in-the-shade-of-an-acacia-tree-in-northern-kenya.jpg | kenya-safari-from-the-netherlands
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/11/guided-walking-safari-at-sunrise-in-kenya.jpg | kenya-safari-from-the-netherlands
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_8_days_safari_edited-21-scaled.jpg | kenya-safari-from-the-netherlands
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/10/elephant-herd-walking-in-front-of-kilimanjaro.jpg | kenya-safari-from-the-netherlands
