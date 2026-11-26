@@ -180,3 +180,4 @@ Format: YYYY-MM-DD | <destination> <bank id> (or cluster N before the bank) | ca
 2026-11-25 | MARKET asia-gulf | Safari Planning Tips | kenya tour package from india | kenya-tour-package-from-india
 2026-11-25 | REFRESH | Destination Tips | attractions in uganda | best-attractions-in-uganda
 2026-11-26 | MARKET us-canada | Safari Planning Tips | kenya safari from usa | kenya-safari-from-usa
+2026-11-26 | Kenya KE-168 | Accommodation Guide | ashnil mara camp | ashnil-mara-camp

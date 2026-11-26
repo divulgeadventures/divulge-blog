@@ -973,3 +973,9 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/10/young-giraffe-in-a-misty-clearing-at-sunrise-in-samburu.jpg | kenya-safari-from-usa
 2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/08/gamedrive_nairobi_national_park-scaled.jpg | kenya-safari-from-usa
 2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2025/11/IMG_5895-scaled.jpg | kenya-safari-from-usa
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2025/12/divulge_adventures_safari-12.jpg | ashnil-mara-camp
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/10/herd-of-wildebeest-walking-across-a-river.jpg | ashnil-mara-camp
+2026-11-26 | https://images.unsplash.com/photo-1712642421888-b3de5073231f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8aGlwcG9zJTIwcml2ZXIlMjBNYXNhaSUyME1hcmF8ZW58MHwwfHx8MTc5NTY3MjMwM3wy&ixlib=rb-4.1.0&q=80&w=1080 | ashnil-mara-camp
+2026-11-26 | https://images.unsplash.com/photo-1676317399913-1a3e7dca7263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8aG90JTIwYWlyJTIwYmFsbG9vbiUyME1hc2FpJTIwTWFyYXxlbnwwfDB8fHwxNzk1NjcyMzA0fDI&ixlib=rb-4.1.0&q=80&w=1080 | ashnil-mara-camp
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/10/crocodiles-on-the-riverbank-as-wildebeest-cross-behind-them.jpg | ashnil-mara-camp
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/01/mara-wildebeest-migration-2.jpg | ashnil-mara-camp
