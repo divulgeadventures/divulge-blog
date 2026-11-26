@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-26 08:48 | New post 1
+- "Ashnil Mara Camp Review, From the Riverside Tents to the Crossing Season" – https://divulgeadventures.com/ashnil-mara-camp/
+- Kenya (oldest owner idea in TOPIC_IDEAS.md, matched to bank row KE-168), Accommodation Guide; status publish, review score 8; scheduled for 10:00 Nairobi time. The cycle gave Tanzania, which has no group rows, so the owner idea came next.
+- Camp details only from the camp's official website (30 deluxe tents on the Mara River inside the reserve, all-inclusive meals and drinks, Keekorok/Ol Kiombo transfers, open all year). No room rates or fee figures stated: the camp publishes none, and reserve fees link to our entrance fee post. OWNER CHECK: the 4-day-masai-mara-flight-safari trip page says the camp is "on the Talek River"; the camp's own site says the Mara River.
+- Images: 5 in the body (3 from the owner's Media Library, 2 from Unsplash: hippo, Mara elephants with balloons) plus an owner featured image; no credits. No field notes available. Commit made with the repo's configured email (a privacy filter blocked setting the address in the command).
+- Could not open: ashnilhotels.com/mara_camp/ (old URL, client error); divulgeadventures.com image files via curl (photo titles used instead).
+
 ## 2026-11-26 08:33 Trip Optimiser
 - Trip queue finished (no `todo` rows left in TRIP_QUEUE.md; nothing else done this run).
 
