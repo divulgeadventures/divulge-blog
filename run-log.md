@@ -4,6 +4,13 @@ Every run of the Divulge daily blog task adds a short entry at the TOP of this l
 
 ---
 
+## 2026-11-26 07:50 | Market agent us-canada
+- "Planning a Kenya Safari From the USA Around the Long Flight and Your Vacation Days" https://divulgeadventures.com/kenya-safari-from-usa/ (focus keyword "kenya safari from usa", Safari Planning Tips). Status publish, scheduled 2026-11-26 08:00 +03:00. Review score 9.
+- Angle kept apart from /kenya-safari-cost-from-usa/: routing and hubs, arrival and Wilson 15 kg limit, jet lag, PTO-to-itinerary table (6-day road, 6-day fly-in, 9-day fly-in, Nairobi NP layover), State Dept health-form rule for Uganda/Rwanda/Tanzania add-ons. Facts checked Nov 2026: State Dept Level 2 (28 Jul 2026), eTA from US$30 (etakenya.go.ke), Kenya Airways only US nonstop (JFK).
+- Images: 5 owner photos (featured + 4 body), 0 Unsplash, no photo credits. No field notes available.
+- No photo-credit requirement found in MARKET_AGENT.md, TEMPLATE.md, CONTENT_MAP.md, POST_FORMAT.md or validate.py; no credit captions in any posts/market-*.json, so nothing to strip.
+- Could not open: cdc.gov Kenya destination and jet-lag pages (fetch permission not granted); flightsfrom.com JFK-NBO.
+
 ## 2026-11-25 18:54 | Refresh
 - Refreshed "Which Attractions in Uganda Deserve Your Time? A Region-by-Region Pick From Bwindi to Kidepo" https://divulgeadventures.com/best-attractions-in-uganda/ (Uganda, Destination Tips, focus keyword "attractions in uganda"). Review score 8. URL and featured image unchanged.
 - Rewritten by region with a 10-attraction table, a 7/10/14-day route table, Jinja, Sipi, Ziwa, Bunyonyi and Kampala as non-park attractions, and links to the Uganda parks post and 5 Uganda trips. Removed the old Tsavo (Kenya) photo, the self-linking table of contents and the unverified claims.

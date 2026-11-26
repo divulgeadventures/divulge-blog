@@ -968,3 +968,8 @@ Format: YYYY-MM-DD | image URL | slug
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/05/waters-of-the-nile-at-murchison-falls-in-northern-uganda.jpg | best-attractions-in-uganda
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/05/4-day-kidepo-valley-national-park-safari-savannah-landscape-in-kidepo-valley-nat.jpg | best-attractions-in-uganda
 2026-11-25 | https://divulgeadventures.com/wp-content/uploads/2026/05/grey-crowned-cranes-700x450-1.jpg | best-attractions-in-uganda
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/10/elephants-grazing-below-mount-kilimanjaro-in-amboseli.jpg | kenya-safari-from-usa
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2025/11/4527-x-2741divulge_adventures_1-19-scaled.jpg | kenya-safari-from-usa
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/10/young-giraffe-in-a-misty-clearing-at-sunrise-in-samburu.jpg | kenya-safari-from-usa
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2026/08/gamedrive_nairobi_national_park-scaled.jpg | kenya-safari-from-usa
+2026-11-26 | https://divulgeadventures.com/wp-content/uploads/2025/11/IMG_5895-scaled.jpg | kenya-safari-from-usa

@@ -352,3 +352,4 @@ The original 8 clusters were moved into TOPIC_BANK.csv on 2026-10-08 (their unwr
 - https://divulgeadventures.com/serengeti-sopa-lodge/ (serengeti sopa lodge)
 - https://divulgeadventures.com/kenya-safari-from-spain/ (kenya safari from spain)
 - https://divulgeadventures.com/kenya-tour-package-from-india/ (kenya tour package from india)
+- https://divulgeadventures.com/kenya-safari-from-usa/ (kenya safari from usa)
